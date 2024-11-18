@@ -51,8 +51,9 @@ const config = {
           type: 'docSidebar',
           sidebarId: 'mainSidebar',
           position: 'left',
-          label: 'Home',
+          label: 'Get Started',
         },
+        {to: 'about', label: 'About', position: 'left'},
       ],
     },
     footer: {
