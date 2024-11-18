@@ -26,8 +26,8 @@ export default function Home(): JSX.Element {
 
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Kig.Wiki`}
+      description="Bobblehead wiki">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
