@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "extends": [
+    "plugin:mdx/recommended"
+  ],
+  "settings": {
+    "mdx/code-blocks": true,
+    "mdx/remark-plugins": []
+  },
+  "rules": {
+    "react/jsx-no-undef": "off"
+  }
+} 

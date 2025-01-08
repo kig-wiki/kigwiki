@@ -64,7 +64,7 @@ const config = {
           items: [
             {
               label: 'Get Started',
-              to: '/docs/get-started',
+              to: '/docs/what-is-kigurumi',
             },
           ],
         },
