@@ -1,6 +1,8 @@
+import { ReactNode } from 'react';
+
 export interface FAQ {
   question: string;
-  answer: string;
+  answer: ReactNode;
 }
 
 export interface FAQStructuredDataProps {
