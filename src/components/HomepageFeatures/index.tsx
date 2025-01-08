@@ -9,7 +9,10 @@ type FeatureItem = {
   link: string;
 };
 
-const FeatureList: FeatureItem[] = [
+const FeatureList: FeatureItem[] = [];
+
+/* Keeping this commented out for future reference:
+const originalFeatureList: FeatureItem[] = [
   {
     title: 'Imagine a wiki page link here',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
@@ -18,7 +21,7 @@ const FeatureList: FeatureItem[] = [
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed aliquam erat, in semper neque. Vestibulum suscipit tempus rhoncus. Aliquam in eleifend neque, viverra maximus nunc.
       </>
     ),
-    link: '/docs/get-started',
+    link: '/docs/what-is-kigurumi',
   },
   {
     title: 'Something else about getting started',
@@ -28,7 +31,7 @@ const FeatureList: FeatureItem[] = [
         Proin ut sem venenatis, vestibulum lacus nec, euismod libero. Pellentesque id ex eget libero facilisis malesuada.
       </>
     ),
-    link: '/docs/get-started',
+    link: '/docs/what-is-kigurumi',
   },
   {
     title: 'What about a third topic to showcase?',
@@ -38,9 +41,10 @@ const FeatureList: FeatureItem[] = [
         Duis rutrum fringilla ante. Vestibulum consectetur faucibus vestibulum.
       </>
     ),
-    link: '/docs/get-started',
+    link: '/docs/what-is-kigurumi',
   },
 ];
+*/
 
 function Feature({title, Svg, description, link}: FeatureItem) {
   return (

@@ -1,9 +1,9 @@
 ---
 id: introduction-faq
 title: Frequently Asked Questions
-slug: /introduction/faq
+slug: ../faq
 tags:
-  - introduction
+  - introduction faq
 ---
 
 import FAQStructuredData from '@site/src/theme/MDXComponents/FAQStructuredData';
@@ -46,5 +46,4 @@ answer: "Animegao is an old translation artifact dating back to early web transl
 
 #### Additional Resources
 
-- [Getting Started Guide](/docs/get-started)
-- [What is Kigurumi?](/docs/introduction/what-is-kigurumi)
+- [What is Kigurumi?](/docs/what-is-kigurumi)
