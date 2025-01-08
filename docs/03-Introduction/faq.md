@@ -44,7 +44,7 @@ answer: "Animegao is an old translation artifact dating back to early web transl
 
 <FAQStructuredData faqs={faqs} />
 
-## Additional Resources
+#### Additional Resources
 
 - [Getting Started Guide](/docs/get-started)
 - [What is Kigurumi?](/docs/introduction/what-is-kigurumi)

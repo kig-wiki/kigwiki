@@ -1,10 +1,9 @@
 ---
 id: buying-used-overview
-title: Overview
-slug: /buying-used/overview
+title: Buying Second Hand
+slug: ../buying-second-hand
 tags:
-  - used
-sidebar_position: 1
+  - buying
 ---
 
 A used kigurumi mask can be one of the most accessible ways to owning your own kig mask. Sometimes a kig just doesnt wear one of their masks so often, dont have the connection to a particular character anymore, or are just looking to clear space for future masks. These can present a rather quick and affordable way to get your hands on a kigurumi mask if things look right.
