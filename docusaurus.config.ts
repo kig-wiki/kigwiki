@@ -3,7 +3,7 @@ const { themes: prismThemes } = require('prism-react-renderer');
 const config = {
   title: 'kig.wiki',
   tagline: 'Very WIP, please wait warmly',
-  favicon: 'img/favicon.ico',
+  favicon: 'icons/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://kig.wiki',
@@ -45,12 +45,12 @@ const config = {
     },
 
     // Replace with your project's social card
-    image: 'img/kigwiki.png',
+    image: 'icons/kigwiki.png',
     navbar: {
       title: 'Kigwiki',
       logo: {
         alt: 'Kigwiki Logo',
-        src: 'img/kigwiki.png',
+        src: 'icons/kigwiki.png',
       },
       items: [
         {
@@ -105,7 +105,7 @@ const config = {
         attributes: {
           rel: 'apple-touch-icon',
           sizes: '180x180',
-          href: '/img/apple-touch-icon.png',
+          href: '/icons/apple-touch-icon.png',
         },
       },
       {
@@ -114,7 +114,7 @@ const config = {
           rel: 'icon',
           type: 'image/png',
           sizes: '32x32',
-          href: '/img/favicon-32x32.png',
+          href: '/icons/favicon-32x32.png',
         },
       },
       {
@@ -123,7 +123,7 @@ const config = {
           rel: 'icon',
           type: 'image/png',
           sizes: '16x16',
-          href: '/img/favicon-16x16.png',
+          href: '/icons/favicon-16x16.png',
         },
       },
       {
@@ -137,7 +137,7 @@ const config = {
         tagName: 'link',
         attributes: {
           rel: 'mask-icon',
-          href: '/img/safari-pinned-tab.svg',
+          href: '/icons/safari-pinned-tab.svg',
           color: '#5bbad5',
         },
       },
