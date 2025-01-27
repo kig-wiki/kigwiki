@@ -1,0 +1,33 @@
+{
+  "root": true,
+  "extends": [
+    "plugin:mdx/recommended",
+    "plugin:markdown/recommended"
+  ],
+  "plugins": [
+    "markdown",
+    "mdx"
+  ],
+  "settings": {
+    "mdx/code-blocks": true,
+    "mdx/remark-plugins": [],
+    "markdown": {
+      "emphasis": true,
+      "strong": true
+    }
+  },
+  "rules": {
+    "react/jsx-no-undef": "off",
+    "markdown/emphasis-style": "consistent",
+    "markdown/header-style": ["error", "atx"],
+    "markdown/link-title-style": ["error", "quoted"],
+    "markdown/no-duplicate-header": ["error", { "allowDifferentNesting": true }],
+    "mdx/no-unused-expressions": "off"
+  },
+  "overrides": [
+    {
+      "files": ["**/*.md", "**/*.mdx"],
+      "parser": "eslint-plugin-markdownlint/parser"
+    }
+  ]
+} 

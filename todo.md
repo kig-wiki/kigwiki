@@ -1,0 +1,78 @@
+# Topics that would be good to explore:
+
+Please make certain any information you contribute you have the rights to, ie, dont copy paste other's info, dont steal images/guides, etc etc. If you arent sure, ask.
+
+- What is kigu, setting grounded expectations
+  - what is kigu
+    - kigu is not a fetish thing, however
+  - realistic expectations
+    - no, you probably will not spend several days in kig
+- Makers and examples of their works
+  - Costs and timelines involved
+  - Unique details pertaining to or available from various makers
+  - Mask type (full lock, 3/4, 1/2, etc)
+  - Sizing options
+    - Mask sizing theory
+  - Visibility
+  - Spectrum of resulting masks from makers
+  - Any styles a maker is particularly known for (ie Sigma)
+  - resin printed vs FRP
+    - what this actually means for a new kigu
+  - Mask Venting if any
+  - Faceplates if any
+  - Eye options
+- A general guide of how one might commission a mask
+  - Expression theory
+- Hadatai makers and their options
+  - Sizing explanations
+    - Common areas of things being incorrect or troublesome
+  - Latex
+    - Latex repair
+    - Latex does/donts
+- Body padding
+  - Foam vs Silicone vs Latex Inflatable vs...  
+  - Padding theory of what, where and why
+  - Padding theory for women (also info those who find themselves not quite binary or identify otherwise)
+  - DIY
+- Mask padding and fitting theory
+- Handler primer
+- Kigurumi Etiquite 
+  - KIG IS NOT CONSENT, ASK
+  - What *not* to do if you meet a kig you dont know at a con or other event
+- Washing hadatai
+- Washing latex
+- Wig care
+  - Wig preventative maintinance
+  - Wig washing
+  - Detangling
+- Mask repair
+- Cosplay outfit guides or external resources
+  - Common pitfalls with cheap cosplay 
+- Taobao
+- Clarification page regarding the possibly culturally insensitive and misinterpretation stemmed amalgamation of a term, animegao
+- Finding friends to kig with or around
+  - Just because someone shares a hobby, does not mean you two have to be friends. Dont extend yourself
+    - Possible red flags
+  - Many if not most kigs are neurodivergent
+- Traveling with your kig
+  - Flying with your kig and major DONTs
+- Ideas for explaining your anime bobblehead hobby to others
+- DIY mask info
+  - Mask repair
+    - fixing paint chips/scratches
+    - Replacing eyes 
+  - wigs
+  - painting
+  - eyes in general
+  - printing yourself vs paying for printing 
+  - open source resources
+    - any details users would like to contribute
+  - Refurbishment ideas
+- Buying used
+  - Big questions to ask
+  - Red flags
+- Locks
+- Posing ideas and tips
+  - Things to absolutely avoid
+- Camera angles, framing, general photography theory
+  - lighting theory 

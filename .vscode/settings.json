@@ -1,0 +1,33 @@
+{
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "markdown",
+    "mdx"
+  ],
+  "javascript.validate.enable": true,
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrap": "on",
+    "editor.rulers": [100],
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.suggestOnTriggerCharacters": false
+  },
+  "[mdx]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrap": "on",
+    "editor.rulers": [100]
+  },
+  "files.associations": {
+    "*.md": "markdown",
+    "*.mdx": "mdx"
+  },
+  "markdown.validate.enabled": true,
+  "markdown.updateLinksOnFileMove.enabled": "prompt",
+  "markdown.preview.breaks": true,
+  "markdown.extension.toc.updateOnSave": true
+} 

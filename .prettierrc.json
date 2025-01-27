@@ -1,0 +1,23 @@
+{
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 100,
+  "trailingComma": "es5",
+  "bracketSameLine": false,
+  "proseWrap": "always",
+  "endOfLine": "lf",
+  "overrides": [
+    {
+      "files": ["*.md", "*.mdx"],
+      "options": {
+        "printWidth": 100,
+        "proseWrap": "preserve",
+        "parser": "mdx",
+        "embeddedLanguageFormatting": "auto",
+        "singleQuote": false,
+        "bracketSpacing": false
+      }
+    }
+  ]
+} 
