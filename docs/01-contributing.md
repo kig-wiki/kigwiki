@@ -33,7 +33,7 @@ Since we're primarily dealing with Markdown files, the GitHub web interface is p
 ### Document Structure
 
 - All documentation pages go in the `docs/` directory
-- Images should be placed in `public/img/`
+- Images should be placed in `static/img/`
 - To reference images in your markdown:
 
   ```markdown

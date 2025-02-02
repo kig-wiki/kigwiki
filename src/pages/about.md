@@ -42,7 +42,7 @@ Kig.Wiki was created to address the challenges of outdated resources, incomplete
 Join us in building this resource! Kig.Wiki thrives on contributions from its community. Whether you want to write guides, share insights or add images, your input makes a difference.
 
 - **Markdown Content:** Add or edit articles in the `docs/` folder.
-- **Images:** Upload visuals to the `public/img/` directory.
+- **Images:** Upload visuals to the `static/img/` directory.
 - [Read the full contributing guide](https://kig.wiki/docs/contributing).
 
 ## Technical Overview
