@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [];
 const originalFeatureList: FeatureItem[] = [
   {
     title: 'Imagine a wiki page link here',
-    Svg: require('@site/static/icons/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed aliquam erat, in semper neque. Vestibulum suscipit tempus rhoncus. Aliquam in eleifend neque, viverra maximus nunc.
@@ -25,7 +25,7 @@ const originalFeatureList: FeatureItem[] = [
   },
   {
     title: 'Something else about getting started',
-    Svg: require('@site/static/icons/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         Proin ut sem venenatis, vestibulum lacus nec, euismod libero. Pellentesque id ex eget libero facilisis malesuada.
@@ -35,7 +35,7 @@ const originalFeatureList: FeatureItem[] = [
   },
   {
     title: 'What about a third topic to showcase?',
-    Svg: require('@site/static/icons/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Duis rutrum fringilla ante. Vestibulum consectetur faucibus vestibulum.

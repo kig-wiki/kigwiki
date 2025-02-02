@@ -1,0 +1,16 @@
+version: '3.8'
+# Builds the site
+services:
+  web:
+    container_name: kigwiki-site
+    build: .
+    ports:
+      - "3100:3000"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=production
+    command: npm run build
+    stdin_open: false # for interactive shell
+    tty: false # for interactive shell 
