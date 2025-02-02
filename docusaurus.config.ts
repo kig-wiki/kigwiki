@@ -193,11 +193,6 @@ const config = {
             href: '/icons/kigwiki.png',
           },
           {
-            tagName: 'link',
-            rel: 'manifest',
-            href: '/manifest.json',
-          },
-          {
             tagName: 'meta',
             name: 'theme-color',
             content: '#5b4a91',
