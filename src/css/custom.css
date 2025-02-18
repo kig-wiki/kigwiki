@@ -28,3 +28,22 @@
   --ifm-color-primary-lightest: #d8c5fc; /* Lightest shade */
   --docusaurus-highlighted-code-line-bg: rgba(162, 135, 223, 0.3); /* Soft purple highlight for dark mode */
 }
+
+/* Info box styles */
+.info-box-container {
+  float: right;
+  margin: 0 0 1em 1em;
+  max-width: 200px;
+}
+
+.info-box-image {
+  display: block;
+  width: 50%;
+  margin: 0 auto; /* This centers the image */
+}
+
+.info-box-caption {
+  font-size: 0.9em;
+  text-align: center;
+  margin-top: 0.5em;
+}

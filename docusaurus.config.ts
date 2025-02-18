@@ -1,4 +1,5 @@
 const { themes: prismThemes } = require('prism-react-renderer');
+import remarkSocialEmbeds from './src/plugins/remark-social-embeds';
 
 const config = {
   title: 'kig.wiki',
@@ -28,6 +29,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/kig-wiki/kigwiki/blob/master/',
+          remarkPlugins: [remarkSocialEmbeds],
         },
         blog: false,
         theme: {
@@ -168,6 +170,33 @@ const config = {
         },
       },
     ],
+    structuredData: {
+      excludedRoutes: ['/tags/**'],
+      verbose: false,
+      organization: {
+        sameAs: [
+          'https://github.com/kig-wiki/kigwiki',
+        ],
+        logo: {
+          '@type': 'ImageObject',
+          inLanguage: 'en-US',
+          '@id': 'https://kig.wiki/#logo',
+          url: 'https://kig.wiki/icons/kigwiki.png',
+          contentUrl: 'https://kig.wiki/icons/kigwiki.png',
+          width: 512,
+          height: 512,
+        },
+      },
+      website: {
+        inLanguage: 'en-US',
+      },
+      webpage: {
+        inLanguage: 'en-US',
+        datePublished: '2024-01-01',
+      },
+      breadcrumbLabelMap: {
+      }
+    },
   },
 
   plugins: [
@@ -200,6 +229,7 @@ const config = {
         ],
       },
     ],
+    '@kamen-kigu/docusaurus-plugin-structured-data',
   ],
 };
 
