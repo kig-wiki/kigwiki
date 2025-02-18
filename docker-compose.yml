@@ -1,4 +1,3 @@
-version: '3.8'
 # DO NOT ACTUALLY USE THIS FOR PRODUCTIONS
 services:
   web:
