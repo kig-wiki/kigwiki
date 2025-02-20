@@ -77,7 +77,6 @@ const config = {
     },
 
     // various images and navbar config
-    image: 'icons/kigwiki.png',
     navbar: {
       title: 'Kigwiki',
       logo: {
