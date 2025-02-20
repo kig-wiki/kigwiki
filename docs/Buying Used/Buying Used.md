@@ -1,7 +1,7 @@
 ---
 id: buying-used-overview
 title: Buying Second Hand
-slug: ../buying-second-hand
+slug: /buying-second-hand
 tags:
   - buying
 ---

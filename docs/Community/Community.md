@@ -2,8 +2,6 @@
 id: community-overview
 title: Kigurumi Communities
 slug: /community/community-overview
-tags:
-  - community
 ---
 
 This section is currently under development. If you have ideas for content, please reach out to us

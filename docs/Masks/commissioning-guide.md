@@ -1,8 +1,13 @@
 ---
-id: mask-makers-commissioning-guide
+id: mask-commissioning-guide
 title: Commissioning Guide
-slug: /mask-makers/commissioning-guide
+slug: /masks/commissioning-guide
 tags:
-  - mask makers
-sidebar_position: 3
+  - mask
+sidebar_position: 5
 ---
+:::note
+
+This section is under heavy development.
+
+:::

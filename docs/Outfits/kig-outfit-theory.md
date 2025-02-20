@@ -6,3 +6,8 @@ tags:
   - outfits
 sidebar_position: 4
 ---
+:::note
+
+This section is under heavy development.
+
+:::

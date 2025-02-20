@@ -6,3 +6,8 @@ tags:
   - photography
 sidebar_position: 3
 ---
+:::note
+
+This section is under development. 
+
+  :::

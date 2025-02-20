@@ -1,8 +1,19 @@
 ---
-id: mask-makers-costs-and-timelines
+id: mask-costs-and-timelines
 title: Costs And Timelines
-slug: /mask-makers/costs-and-timelines
+slug: /masks/costs-and-timelines
 tags:
-  - mask makers
-sidebar_position: 4
+  - mask
+sidebar_position: 2
 ---
+:::note
+
+This section is under heavy development.
+
+:::
+
+# Kigurumi Mask Costs and Timelines
+
+TLDR: Many masks are made to order, and as such can take a while to make. Some months, many have backlogs, patience is a virtue.  Masks also arent cheap, expect to pay several hundred dollars for a good quality custom mask.
+
+

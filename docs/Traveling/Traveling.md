@@ -2,8 +2,6 @@
 id: traveling-with-kig-overview
 title: Traveling With Kig
 slug: /traveling-with-kig
-tags:
-  - traveling
 ---
 
 Most kigs find some sort of padded box for transporting their kigurumi masks, or smaller bags like a motorcycle helmet bag for shorter trips. This area will be expanded to include various methods.
