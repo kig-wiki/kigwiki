@@ -39,7 +39,7 @@ const config = {
           // https://docusaurus.io/docs/sidebar if we ever need to customize the sidebar.
           sidebarPath: require.resolve('./sidebars.js'),
           // our repo url for edit links
-          editUrl: 'https://github.com/kig-wiki/kigwiki/blob/master/',
+          editUrl: 'https://github.com/kig-wiki/kigwiki/blob/main/',
           // Kig.wiki social media embeds
           remarkPlugins: [remarkSocialEmbeds],
           // Using / as the base path for the docs not /docs/

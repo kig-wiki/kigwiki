@@ -33,7 +33,6 @@ Tldr: Write markdown files in (docs/), add images to (static/img/), they will ap
   - [See content ideas todo](todo.md)
 - new logo that isnt awful
 - better tutorials
-- rename 'master' branch, any good ideas? handler branch??
 
 # Technial tldr:
 
@@ -41,7 +40,7 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 Docusaurus is MIT licensed, as is any applicable content of the Kig.wiki site. Fork it or do as you please, like Kigurumi is for everyone so is this github's content.
 
-The Master branch of this repo is used in CI to build upon PR and auto update the website itself. What you see here should be what the website is actively displaying.
+The Main branch of this repo is used in CI to build upon PR and auto update the website itself. What you see here should be what the website is actively displaying.
 
 # Isnt this called Animegao?
 
