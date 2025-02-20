@@ -10,4 +10,8 @@ sidebar_position: 4
 
 This section is under heavy development.
 
+To add:
+
+- Kig visibility for those who arent used to it
+- the basic questions random people ask
 :::
