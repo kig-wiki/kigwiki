@@ -47,3 +47,52 @@
   text-align: center;
   margin-top: 0.5em;
 }
+
+/* gull easter egg */
+@keyframes confetti {
+  0% {
+    transform: translate(0, 0) rotate(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(var(--tx), 200px) rotate(var(--r));
+    opacity: 0;
+  }
+}
+
+.gull-wrap {
+  position: relative;
+  display: inline-block;
+}
+
+/* Make the gull initially invisible and let it appear slowly. */
+.gull-wrap img {
+  width: 60px;
+  height: auto;
+  opacity: 0; /* Start invisible */
+  transition: opacity 3s;
+}
+
+/* When hovered long enough, gull appears and slightly scales up. */
+.gull-wrap:hover img {
+  opacity: 1; /* Gradually reveal the gull */
+  transform: scale(1.3);
+}
+
+/* Spark confetti further, with a bright display-p3 color. */
+.gull-wrap:hover::before,
+.gull-wrap:hover::after {
+  position: absolute;
+}
+
+.gull-wrap:hover::before {
+  --n: 1;
+  top: 0;
+  left: 50%;
+}
+
+.gull-wrap:hover::after {
+  --n: -1;
+  top: 0;
+  right: 50%;
+}

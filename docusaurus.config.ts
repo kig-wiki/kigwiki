@@ -1,24 +1,33 @@
 const { themes: prismThemes } = require('prism-react-renderer');
-import remarkSocialEmbeds from './src/plugins/remark-social-embeds';
+const remarkSocialEmbeds = require('./src/plugins/remark-social-embeds').default;
+
+// Add type for sitemap params
+interface SitemapParams {
+  defaultCreateSitemapItems: (params: any) => Promise<Array<{url: string}>>;
+  [key: string]: any;
+}
 
 const config = {
-  title: 'kig.wiki',
+  title: 'Kig.wiki',
   tagline: 'Very WIP, please wait warmly',
   favicon: 'icons/favicon.ico',
 
-  // Set the production url of your site here
+
   url: 'https://kig.wiki',
-  // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
+  // Regular hosting or Cloudflare pages just leave baseurl alone and empty'
   baseUrl: '',
+  
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'kig-wiki', // username for deployed site and repo.
+  // We aren't using GitHub pages, and don't technically need these.
+  organizationName: 'kig-wiki', 
   projectName: 'kigwiki',
   deploymentBranch: 'gh-pages',
-  trailingSlash: false,
 
+  // This we do need for sane cannonical paths 
+  trailingSlash: true,
+  // Quality of life, perhaps worth setting stricter
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
@@ -27,24 +36,32 @@ const config = {
       'classic',
       {
         docs: {
+          // https://docusaurus.io/docs/sidebar if we ever need to customize the sidebar.
           sidebarPath: require.resolve('./sidebars.js'),
+          // our repo url for edit links
           editUrl: 'https://github.com/kig-wiki/kigwiki/blob/master/',
+          // Kig.wiki social media embeds
           remarkPlugins: [remarkSocialEmbeds],
+          // Using / as the base path for the docs not /docs/
+          routeBasePath: '/',
         },
+        // We don't have a blog
         blog: false,
+        // Custom css for the docs
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        // Sitemap config self explanatory  
         sitemap: {
           lastmod: 'date',
           changefreq: 'weekly',
           priority: 0.5,
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
-          createSitemapItems: async (params) => {
+          createSitemapItems: async (params: SitemapParams) => {
             const {defaultCreateSitemapItems, ...rest} = params;
             const items = await defaultCreateSitemapItems(rest);
-            return items.filter((item) => !item.url.includes('/page/'));
+            return items.filter((item: {url: string}) => !item.url.includes('/page/'));
           },
         },
       },
@@ -55,10 +72,11 @@ const config = {
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
+      // We don't want to respect the system color scheme. Users can still choose just we default to dark.
       respectPrefersColorScheme: false,
     },
 
-    // Replace with your project's social card
+    // various images and navbar config
     image: 'icons/kigwiki.png',
     navbar: {
       title: 'Kigwiki',
@@ -66,15 +84,6 @@ const config = {
         alt: 'Kigwiki Logo',
         src: 'icons/kigwiki.png',
       },
-      items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'mainSidebar',
-          position: 'left',
-          label: 'Get Started',
-        },
-        {to: 'about', label: 'About', position: 'left'},
-      ],
     },
     footer: {
       style: 'dark',
@@ -83,26 +92,38 @@ const config = {
           title: 'Docs',
           items: [
             {
+              label: 'Home',
+              to: '/',
+            },
+            {
               label: 'Get Started',
-              to: '/docs/what-is-kigurumi',
+              to: '/what-is-kigurumi',
             },
           ],
         },
         {
-          title: 'Other Links',
+          title: 'Want to Contribute?',
           items: [
             {
-              label: 'Github',
+              label: 'Our Github',
               href: 'https://github.com/kig-wiki/kigwiki',
             },
           ],
         },
         {
-          title: 'More',
           items: [
             {
-              label: 'Animegao Specific Resources',
-              href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+              html: `
+              <div class="gull-wrap" aria-label="Gull">
+                <img
+                  src="/img/gull.webp"
+                  alt="Gull staring back at you"
+                  width="320"
+                  height="153"
+                  loading="lazy"
+                />
+              </div>
+            `,
             },
           ],
         },
@@ -229,8 +250,15 @@ const config = {
         ],
       },
     ],
-    '@kamen-kigu/docusaurus-plugin-structured-data',
+    [
+      require.resolve('./src/plugins/docusaurus-plugin-structured-data'),
+      {
+        // Plugin options if needed
+      }
+    ],
   ],
+
+
 };
 
 module.exports = config;
