@@ -5,6 +5,7 @@ slug: /masks/faceplates
 tags:
   - mask
 sidebar_position: 6
+description: Kig.Wiki Faceplates Page - Kigurumi Faceplates
 ---
 :::note
 

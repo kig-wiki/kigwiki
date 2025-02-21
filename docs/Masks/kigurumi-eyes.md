@@ -5,6 +5,7 @@ slug: /masks/kigurumi-eyes
 tags:
   - mask
 sidebar_position: 5
+description: Kig.Wiki Kigurumi Eyes Page - Kigurumi Eyes
 ---
 :::note
 

@@ -5,6 +5,7 @@ slug: /performance/posing-tips
 tags:
   - performance
 sidebar_position: 1
+description: Kig.Wiki Posing Tips Page - Kigurumi Posing Tips
 ---
 import SocialEmbed from '@site/src/components/SocialEmbed';
 

@@ -5,6 +5,7 @@ slug: /hadatai/
 tags:
   - hadatai
 sidebar_position: 4
+description: Hadatai (ハダタイ) is a type of zentai-like bodysuit worn by kigs. To learn more about hadatai, read our guide.
 ---
 
 # Hadatai

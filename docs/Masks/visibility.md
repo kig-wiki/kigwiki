@@ -5,6 +5,7 @@ slug: /masks/visibility
 tags:
   - mask
 sidebar_position: 3
+description: Kigurumi Mask Visibility Primer - What to expect from your mask
 ---
 :::note
 

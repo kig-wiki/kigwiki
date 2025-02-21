@@ -5,6 +5,7 @@ slug: /masks/mask-types
 tags:
   - mask
 sidebar_position: 3
+description: Types of Kigurumi Masks - Kig.Wiki Guide
 ---
 :::note
 

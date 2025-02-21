@@ -7,6 +7,7 @@ tags:
   - mask
   - hair
 sidebar_position: 9
+description: Kig.Wiki DIY Mask Wigs Page - Kigurumi Mask Wigs
 ---
 :::note
 

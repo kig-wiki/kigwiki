@@ -4,6 +4,7 @@ title: Frequently Asked Questions
 slug: /faq
 tags:
   - introduction
+description: Kig.Wiki FAQ Page - Frequently Asked Kigurumi Questions
 ---
 
 import FAQStructuredData from '@site/src/theme/MDXComponents/FAQStructuredData';

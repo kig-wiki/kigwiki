@@ -4,6 +4,7 @@ title: Photography
 slug: /photography/photography-overview
 tags:
   - photography
+description: Kig.Wiki Photography Overview Page - Kigurumi Photography Overview
 ---
 
 Pre-ramble that inspired the section:

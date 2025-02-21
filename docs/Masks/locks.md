@@ -5,6 +5,7 @@ slug: /masks/locks
 tags:
   - mask
 sidebar_position: 7
+description: Locking Kigurumi Masks - Kig.Wiki Guide
 ---
 :::note
 

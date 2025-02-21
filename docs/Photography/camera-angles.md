@@ -5,6 +5,7 @@ slug: /photography/camera-angles
 tags:
   - photography
 sidebar_position: 3
+description: Kig.Wiki Camera Angles Page - Kigurumi Photography Camera Angles
 ---
 :::note
 

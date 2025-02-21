@@ -6,6 +6,7 @@ tags:
   - diy
   - mask
 sidebar_position: 4
+description: Kig.Wiki Open Source Resources Page - Open Source Resources for Kigurumi Masks
 ---
 :::note
 

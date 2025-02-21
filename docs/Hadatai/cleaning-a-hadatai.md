@@ -6,6 +6,7 @@ tags:
   - hadatai
   - repair
 sidebar_position: 2
+description: How to clean and maintain your Kigurumi Hadatai 
 ---
 
 # Cleaning a Hadatai

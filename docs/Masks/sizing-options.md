@@ -5,6 +5,7 @@ slug: /masks/sizing-options
 tags:
   - mask
 sidebar_position: 4
+description: Kigurumi Mask Sizing and Options Guide
 ---
 
 :::note

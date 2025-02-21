@@ -5,6 +5,7 @@ slug: /outfits/kig-outfit-theory
 tags:
   - outfits
 sidebar_position: 4
+description: Kig Outfit Theory Primer - Kigurumi Outfit Theory
 ---
 :::note
 

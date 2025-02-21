@@ -6,6 +6,7 @@ tags:
   - diy
   - mask
 sidebar_position: 6
+description: Kig.Wiki DIY Mask Painting Page - Kigurumi Mask Painting
 ---
 :::note
 

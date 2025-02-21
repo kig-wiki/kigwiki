@@ -5,6 +5,7 @@ slug: /masks/mask-padding-and-fitting
 tags:
   - mask
 sidebar_position: 9
+description: Kigurumi Mask Fitting and Padding Guide
 ---
 :::note
 

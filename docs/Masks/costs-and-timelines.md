@@ -5,6 +5,7 @@ slug: /masks/costs-and-timelines
 tags:
   - mask
 sidebar_position: 2
+description: Kig.Wiki Costs and Timelines Page - Kigurumi Mask Costs and Timelines
 ---
 :::note
 

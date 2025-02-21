@@ -6,6 +6,7 @@ tags:
   - diy
   - mask
 sidebar_position: 3
+description: Kig.Wiki DIY Mask Eyes Page - Kigurumi Mask Eyes
 ---
 
 :::note

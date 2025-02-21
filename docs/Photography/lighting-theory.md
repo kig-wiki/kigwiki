@@ -5,6 +5,7 @@ slug: /photography/lighting-theory
 tags:
   - photography
 sidebar_position: 4
+description: Kig.Wiki Lighting Theory Page - Kigurumi Photography Lighting Theory
 ---
 
 :::note

@@ -5,6 +5,7 @@ slug: /performance/handler-primer
 tags:
   - performance
 sidebar_position: 4
+description: Kig.Wiki Handler Primer Page - Kigurumi Handler Primer
 ---
 :::note
 

@@ -5,6 +5,7 @@ slug: /shopping/taobao-guide
 tags:
   - buying
 sidebar_position: 1
+description: Kig.Wiki Taobao Guide Page - Taobao Guide
 ---
 
 :::note

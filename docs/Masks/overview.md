@@ -5,6 +5,7 @@ slug: /masks/overview
 tags:
   - mask
 sidebar_position: 1
+description: Kigurumi Masks Overview - Kig.Wiki Guide
 ---
 :::note
 

@@ -7,6 +7,7 @@ tags:
   - mask
   - repair
 sidebar_position: 8
+description: Kig.Wiki Kigurumi Mask Repair Page - Kigurumi Mask Repair
 ---
 :::note
 

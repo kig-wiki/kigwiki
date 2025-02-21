@@ -6,6 +6,7 @@ tags:
   - diy
   - mask
 sidebar_position: 7
+description: Kig.Wiki DIY Mask Printing Options Page - Kigurumi Mask Printing Options
 ---
 :::note
 

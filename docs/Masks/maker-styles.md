@@ -5,6 +5,7 @@ slug: /masks/maker-styles
 tags:
   - mask
 sidebar_position: 8
+description: Kigurumi Mask Maker Styles Guide
 ---
 :::note
 

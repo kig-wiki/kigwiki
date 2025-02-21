@@ -6,6 +6,7 @@ tags:
   - diy
   - mask
 sidebar_position: 1
+description: Kig.Wiki DIY Mask Overview Page - Kigurumi Mask DIY Overview
 ---
 :::note
 

@@ -5,6 +5,7 @@ slug: /hadatai/latex-info
 tags:
   - hadatai
 sidebar_position: 4
+description: Kig.Wiki Latex Info Page - Latex Info
 ---
 
 :::note

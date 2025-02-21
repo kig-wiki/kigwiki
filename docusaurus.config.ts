@@ -192,7 +192,7 @@ const config = {
     ],
     structuredData: {
       excludedRoutes: ['/tags/**'],
-      verbose: false,
+      verbose: true,
       organization: {
         sameAs: [
           'https://github.com/kig-wiki/kigwiki',
@@ -249,12 +249,7 @@ const config = {
         ],
       },
     ],
-    [
-      require.resolve('./src/plugins/docusaurus-plugin-structured-data'),
-      {
-        // Plugin options if needed
-      }
-    ],
+    require.resolve('./src/plugins/docusaurus-plugin-structured-data'),
   ],
 
 
