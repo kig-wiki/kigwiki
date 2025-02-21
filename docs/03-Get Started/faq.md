@@ -8,7 +8,6 @@ tags:
 
 import FAQStructuredData from '@site/src/theme/MDXComponents/FAQStructuredData';
 
-[comment]: <> (I am so sorry for the below not linting well. Have a better way to do this and still embed ld-json? Unironically please let me know.)
 
 export const faqs = [
   {
