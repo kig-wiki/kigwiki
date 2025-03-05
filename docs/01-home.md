@@ -13,7 +13,7 @@ Where to start? How about [What is Kigurumi?](/what-is-kigurumi/)
 
 :::note
 
-This wiki is currently under construction. Feedback is appreciated on our [github](https://github.com/kigwiki/kigwiki/issues).
+This wiki is currently under construction. Feedback is appreciated on our [github](https://github.com/kig-wiki/kigwiki/issues).
 Have information you'd like to add? Please [contribute](/contributing/), Kig.wiki is an open source resource!
 
 :::
