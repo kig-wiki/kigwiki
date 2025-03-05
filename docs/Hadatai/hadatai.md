@@ -32,7 +32,7 @@ Zentai additionally tend to use an orange-ish, warmer flesh-toned color, compare
 
 Do note that these are just examples, exact colors greatly vary between makers. The kig pink referenced is what [kig.land](https://help.kig.land/MAICRA) reports using in their hadatai. 
 What is consistent is the difficulty in finding a zentai that properly matches the typical kigurumi pinkish flesh tones.
-Know a zentai maker that does? Please let us know over on our [github](https://github.com/kigwiki/kigwiki/issues)
+Know a zentai maker that does? Please let us know over on our [github](https://github.com/kig-wiki/kigwiki/issues)
 
 
 While a hadatai is not strictly required, it is a common and recommended addition to kigurumi mask to have the full costumed experience. That said, do not buy one simply because someone told you to, do your own research and make a decision that is right for you. A bad zentai can be far worse than no zentai.
