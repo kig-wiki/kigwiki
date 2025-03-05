@@ -1,6 +1,6 @@
 ---
 id: diy-mask-overview
-title: Overview
+title: DIY Overview
 slug: /diy-mask/overview-diy
 tags:
   - diy
