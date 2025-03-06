@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Kigurumi Mask Wiki
+title: Kigurumi Wiki Homepage
 slug: /
 description: Kig.Wiki - The open Kigurumi Mask (着ぐるみ) resource - Learn all things Kigurumi.
 ---
