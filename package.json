@@ -5,7 +5,9 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build",
+    "build": "docusaurus build && npm run optimize-images",
+    "build:no-optimize": "docusaurus build",
+    "optimize-images": "node scripts/optimize-images.js",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -34,6 +36,7 @@
     "@docusaurus/types": "^3.7.0",
     "eslint-plugin-mdx": "^2.3.4",
     "prettier": "^2.8.8",
+    "sharp": "^0.33.0",
     "typescript": "~5.2.2"
   },
   "browserslist": {
@@ -49,6 +52,6 @@
     ]
   },
   "engines": {
-    "node": ">=18.0"
+    "node": ">=24.0"
   }
 }

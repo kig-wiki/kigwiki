@@ -1,9 +1,10 @@
 ---
 id: photography-overview
-title: Photography
+title: Kigurumi Photography
 slug: /photography/photography-overview
 tags:
   - photography
+sidebar_position: 1
 description: Kig.Wiki Photography Overview Page - Kigurumi Photography Overview
 ---
 

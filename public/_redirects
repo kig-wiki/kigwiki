@@ -1,0 +1,10 @@
+# Cloudflare Pages Redirects
+# Format: from_path to_path [status_code]
+
+# Redirect old hadatai page to new basics page
+/hadatai /hadatai/basics 301
+
+# Redirect hadatai/ (with trailing slash) to basics
+/hadatai/ /hadatai/basics 301
+
+# We should add more redirects here as needed

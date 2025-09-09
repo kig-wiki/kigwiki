@@ -8,8 +8,9 @@ services:
     volumes:
       - .:/app
       - /app/node_modules
+      - /app/.docusaurus
     environment:
       - NODE_ENV=development
     command: npm run start -- --host 0.0.0.0
     stdin_open: true # for interactive shell
-    tty: true # for interactive shell 
+    tty: true # for interactive shell

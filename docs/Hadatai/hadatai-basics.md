@@ -1,14 +1,14 @@
 ---
 id: hadatai-overview
-title: Hadatai
-slug: /hadatai/
+title: Hadatai Intro and Basics
+slug: /hadatai/basics
 tags:
   - hadatai
-sidebar_position: 4
+sidebar_position: 1
 description: Hadatai (ハダタイ) is a type of zentai-like bodysuit worn by kigs. To learn more about hadatai, read our guide.
 ---
 
-# Hadatai
+# Hadatai Intro and Basics
 
 ## Intro to Hadatai
 Hadatai (ハダタイ) is a type of zentai-like bodysuit worn by kigs. Its not a zentai, but a hadatai.
@@ -20,17 +20,23 @@ Compared to a zentai, hadatai tend to be:
 - Increased attention towards clean, smooth seams, particularly around the joints.
 - Typically but not always, better quality materials
 
-Zentai additionally tend to use an orange-ish, warmer flesh-toned color, compared to an example of a pink-ish, cooler flesh tone used by masks or hadatai:
+Zentai additionally tend to use a warmer, more beige flesh-toned color:
 
 <div
   style={{width: "50px", height: "50px", backgroundColor: "#C69653", display: "inline-block"}}
 ></div>
 
+Compared to the more pink-flesh standard kig masks and hadatai use:
+MWF hadatai for instance uses Pantone® 7513 U:
 <div
-  style={{width: "50px", height: "50px", backgroundColor: "#f3c4bf", display: "inline-block"}}
+  style={{width: "50px", height: "50px", backgroundColor: "lab(78.99% 15.06 8.60)", display: "inline-block"}}
+></div>
+For comparison [kig.land](https://help.kig.land/MAICRA) claims to use Pantone® 7514 U: 
+<div
+  style={{width: "50px", height: "50px", backgroundColor: "lab(73.18% 16.01 13.39)", display: "inline-block"}}
 ></div>
 
-Do note that these are just examples, exact colors greatly vary between makers. The kig pink referenced is what [kig.land](https://help.kig.land/MAICRA) reports using in their hadatai. 
+Do note that these are just examples, colors may vary between makers, production batches, and the viewed color depends on your monitor being correctly calibrated.
 What is consistent is the difficulty in finding a zentai that properly matches the typical kigurumi pinkish flesh tones.
 Know a zentai maker that does? Please let us know over on our [github](https://github.com/kigwiki/kigwiki/issues)
 

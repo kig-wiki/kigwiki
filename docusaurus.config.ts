@@ -8,8 +8,8 @@ interface SitemapParams {
 }
 
 const config = {
-  title: 'Kig.wiki',
-  tagline: 'Very WIP, please wait warmly',
+  title: 'Kig.wiki - The Open Kigurumi Mask Guide',
+  tagline: 'Your answer to all things Kigurumi',
   favicon: 'icons/favicon.ico',
 
 
