@@ -1,0 +1,19 @@
+{
+  "name": "Kaga Kigurumi",
+  "website": "https://kagakii.com/",
+  "status": "open",
+  "Region": "Hong Kong",
+  "socials": {
+    "facebook": "https://www.facebook.com/kagakii/",
+    "x": "https://x.com/kagakii/"
+  },
+  "priceTier": "$$$",
+  "currency": "USD",
+  "materialType": "full-cast (FRP)",
+  "size": "Average-large",
+  "englishOrdering": true,
+  "features": {
+        "Hard Hair": false
+  },
+  "notes": "Masks are half-type models with an option to either add a foam or FRP backside"
+} 

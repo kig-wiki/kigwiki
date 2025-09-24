@@ -1,0 +1,25 @@
+{
+  "name": "My Way Fetish",
+  "socials": {
+    "x": "",
+    "weibo": "",
+    "bluesky": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "Region": "Mainland China",
+  "currency": "CNY",
+  "priceExamples": [
+    {
+      "type": "Standard spandex hadatai",
+      "price": "415" ,
+      "link": "https://item.taobao.com/item.htm?id=26710864059"
+    },
+    {
+      "type": "Addons, nails, etc",
+      "price": "Varies",
+      "link": "https://item.taobao.com/item.htm?id=40898393301"
+    }
+  ],
+  "notes": "One of the more popular hadatai makers on Taobao. Requires using a Taobao agent if ordering from overseas"
+} 

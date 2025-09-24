@@ -1,0 +1,19 @@
+{
+  "name": "Shinkai Workshop",
+  "website": "https://x.com/ShinkaiWorkshop",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/ShinkaiWorkshop",
+    "weibo": "https://m.weibo.cn/u/3803492865"
+  },
+  "priceTier": "$",
+  "currency": "CNY",
+  "materialType": "3D print ",
+  "size": "Average-large",
+  "englishOrdering": true,
+  "features": {
+    "Hard Hair": false
+  },
+  "notes": "Commissions done outside Taobao have increased costs, only half-type masks as of 2024, full-lock options, additional fees for complex wig styling, somewhat flat-faced if not a character with voluminous hair."
+} 

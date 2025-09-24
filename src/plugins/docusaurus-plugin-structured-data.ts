@@ -35,30 +35,14 @@ interface DocusaurusConfig extends ThemeConfig {
   structuredData?: StructuredDataConfig;
 }
 
-interface PluginOptions {
-  [key: string]: unknown;
-}
-
-interface ContentItem {
-  permalink: string;
-  title?: string;
-  description?: string;
-  metadata?: {
-    title?: string;
-    description?: string;
-    permalink?: string;
-  };
-}
-
 interface LoadedContent {
-  routesPaths?: string[];
   baseUrl?: string;
   outDir?: string;
   [key: string]: unknown;
 }
 
 const structuredDataPlugin = (context: LoadContext): Plugin<LoadedContent | null> => {
-  const { siteConfig } = context;
+  const { siteConfig, siteDir } = context;
   const { themeConfig } = siteConfig;
   const config = themeConfig as DocusaurusConfig;
   const { structuredData } = config;
@@ -103,133 +87,6 @@ const structuredDataPlugin = (context: LoadContext): Plugin<LoadedContent | null
     ...(structuredData.website || {}),
   };
 
-  function getBreadcrumbLabel(token: string): string {
-    return breadcrumbLabelMap[token] || token;
-  }
-
-  function generateStructuredData(content: ContentItem) {
-    const routePath = content.permalink;
-    console.log('Generating structured data for:', { content, routePath });
-
-    if (!routePath) {
-      console.log('No routePath provided');
-      return null;
-    }
-
-    if (excludedRoutes.some((pattern) =>
-      new RegExp(pattern.replace('**', '.*')).test(routePath)
-    )) {
-      console.log(`route: ${routePath} is excluded`);
-      return null;
-    }
-
-    const webPageUrl = `${baseUrl}${routePath}`;
-
-    // Get title with fallbacks
-    let webPageTitle = orgName;
-    if (content.title) {
-      webPageTitle = content.title;
-    } else if (content.metadata?.title) {
-      webPageTitle = content.metadata.title;
-    }
-
-    // Get description with fallbacks
-    let webPageDescription = siteConfig.tagline;
-    if (content.description) {
-      webPageDescription = content.description;
-    } else if (content.metadata?.description) {
-      webPageDescription = content.metadata.description;
-    }
-
-    console.log('Page data:', { webPageTitle, webPageDescription, webPageUrl });
-
-    // Create WebPage data according to schema.org/WebPage
-    const webPageData = {
-      '@type': 'WebPage',
-      '@id': `${webPageUrl}#webpage`,
-      url: webPageUrl,
-      name: webPageTitle,
-      description: webPageDescription,
-      isPartOf: {
-        '@id': `${baseUrl}#website`,
-      },
-      inLanguage: webpageDefaults.inLanguage || 'en-US',
-      datePublished: webpageDefaults.datePublished || new Date().toISOString(),
-      dateModified: new Date().toISOString(),
-      breadcrumb: {
-        '@id': `${webPageUrl}#breadcrumb`,
-      },
-      publisher: {
-        '@id': `${baseUrl}/#organization`,
-      },
-      potentialAction: [
-        {
-          '@type': 'ReadAction',
-          target: [webPageUrl],
-        },
-      ],
-      ...webpageDefaults,
-    };
-
-    // Parse route path for breadcrumb
-    const routeParts = routePath.split('/').filter(Boolean);
-    console.log('Route parts:', routeParts);
-
-    // Build breadcrumb list according to schema.org/BreadcrumbList
-    const breadcrumbItems = [];
-    let currentPath = '';
-
-    // Always add home as first item
-    breadcrumbItems.push({
-      '@type': 'ListItem',
-      position: 1,
-      item: {
-        '@id': `${baseUrl}/#website`,
-        name: 'Home',
-      },
-    });
-
-    // Add intermediate paths
-    routeParts.forEach((part, index) => {
-      currentPath += `/${part}`;
-      const position = index + 2; // +2 because home is position 1
-      const name = getBreadcrumbLabel(part);
-
-      breadcrumbItems.push({
-        '@type': 'ListItem',
-        position: position,
-        item: {
-          '@id': `${baseUrl}${currentPath}`,
-          name: name,
-        },
-      });
-    });
-
-    // Add current page as last item if not already included
-    if (routeParts.length === 0 || webPageTitle !== getBreadcrumbLabel(routeParts[routeParts.length - 1])) {
-      breadcrumbItems.push({
-        '@type': 'ListItem',
-        position: breadcrumbItems.length + 1,
-        item: {
-          '@id': webPageUrl,
-          name: webPageTitle,
-        },
-      });
-    }
-
-    const breadcrumbData = {
-      '@type': 'BreadcrumbList',
-      '@id': `${webPageUrl}#breadcrumb`,
-      itemListElement: breadcrumbItems,
-    };
-
-    console.log('Generated breadcrumb data:', breadcrumbData);
-
-    return {
-      '@context': 'https://schema.org',
-      '@graph': [webPageData, breadcrumbData, webSiteData, orgData],
-    };
-  }
 
   return {
     name: 'docusaurus-plugin-structured-data',
@@ -265,6 +122,33 @@ const structuredDataPlugin = (context: LoadContext): Plugin<LoadedContent | null
     },
 
     injectHtmlTags({ content, routePath }: { content: any; routePath?: string }) {
+      // Check if we have valid page content or if this is just site initialization
+      const hasPageMetadata = content && (
+        content.metadata || 
+        content.permalink || 
+        content.title || 
+        (typeof content === 'object' && 'frontMatter' in content)
+      );
+
+      // If we don't have page metadata, this might be site initialization
+      // Return base structured data without page-specific information
+      if (!hasPageMetadata) {
+        return {
+          headTags: [
+            {
+              tagName: 'script',
+              attributes: {
+                type: 'application/ld+json',
+              },
+              innerHTML: JSON.stringify({
+                '@context': 'https://schema.org',
+                '@graph': [webSiteData, orgData],
+              }),
+            },
+          ],
+        };
+      }
+
       // Force a fallback for the home doc
       const docSlug = content?.metadata?.slug;
       const isHomeSlug =
@@ -291,12 +175,7 @@ const structuredDataPlugin = (context: LoadContext): Plugin<LoadedContent | null
             ? content.frontMatter.description
             : undefined),
         metadata: content?.metadata || content,
-      } as ContentItem;
-
-      console.log('Computed pageMetadata:', pageMetadata);
-
-      console.log('Content object structure:', JSON.stringify(content, null, 2));
-      console.log('Extracted page metadata:', pageMetadata);
+      };
 
       if (!pageMetadata.permalink) {
         console.log('No permalink found, using base data');
@@ -316,27 +195,68 @@ const structuredDataPlugin = (context: LoadContext): Plugin<LoadedContent | null
         };
       }
 
-      const structuredData = generateStructuredData(pageMetadata);
 
-      if (!structuredData) {
-        console.log('No structured data generated');
-        return {
-          headTags: [
-            {
-              tagName: 'script',
-              attributes: {
-                type: 'application/ld+json',
-              },
-              innerHTML: JSON.stringify({
-                '@context': 'https://schema.org',
-                '@graph': [webSiteData, orgData],
-              }),
+      // For other pages, return basic structured data with breadcrumbs
+      const webPageUrl = `${baseUrl}${pageMetadata.permalink}`;
+      const routeParts = pageMetadata.permalink.split('/').filter(Boolean);
+      
+      const breadcrumbItems = [
+        {
+          '@type': 'ListItem',
+          position: 1,
+          item: {
+            '@id': `${baseUrl}/#website`,
+            name: 'Home',
+          },
+        },
+      ];
+
+      // Add intermediate paths
+      let currentPath = '';
+      routeParts.forEach((part: string, index: number) => {
+        currentPath += `/${part}`;
+        const position = index + 2;
+        const name = part.charAt(0).toUpperCase() + part.slice(1);
+
+        breadcrumbItems.push({
+          '@type': 'ListItem',
+          position: position,
+          item: {
+            '@id': `${baseUrl}${currentPath}`,
+            name: name,
+          },
+        });
+      });
+
+      const basicStructuredData = {
+        '@context': 'https://schema.org',
+        '@graph': [
+          {
+            '@type': 'WebPage',
+            '@id': `${webPageUrl}#webpage`,
+            url: webPageUrl,
+            name: pageMetadata.title || orgName,
+            description: pageMetadata.description || siteConfig.tagline,
+            isPartOf: {
+              '@id': `${baseUrl}#website`,
             },
-          ],
-        };
-      }
+            inLanguage: 'en-US',
+            datePublished: '2024-01-01',
+            dateModified: new Date().toISOString(),
+            publisher: {
+              '@id': `${baseUrl}/#organization`,
+            },
+          },
+          {
+            '@type': 'BreadcrumbList',
+            '@id': `${webPageUrl}#breadcrumb`,
+            itemListElement: breadcrumbItems,
+          },
+          webSiteData,
+          orgData,
+        ],
+      };
 
-      console.log('Generated full structured data');
       return {
         headTags: [
           {
@@ -344,12 +264,13 @@ const structuredDataPlugin = (context: LoadContext): Plugin<LoadedContent | null
             attributes: {
               type: 'application/ld+json',
             },
-            innerHTML: JSON.stringify(structuredData),
+            innerHTML: JSON.stringify(basicStructuredData),
           },
         ],
       };
     },
+
   };
 };
 
-export default structuredDataPlugin; 
+export default structuredDataPlugin;

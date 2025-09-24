@@ -1,0 +1,19 @@
+{
+  "name": "KFY Aniplus",
+  "alias": "Sekiya",
+  "website": "https://x.com/KFY_Aniplus",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/KFY_Aniplus/",
+    "weibo": "https://m.weibo.cn/u/7588548448"
+  },
+  "priceTier": "$$",
+  "currency": "CNY",
+  "materialType": "3D print (ABS)",
+  "size": "Average-large",
+  "features": {
+    "Hard Hair": false
+  },
+  "notes": "Full-lock and integrated fan, poseable eyes are standard, Taobao store"
+} 

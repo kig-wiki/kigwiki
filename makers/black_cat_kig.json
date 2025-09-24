@@ -1,0 +1,20 @@
+{
+  "name": "Black Cat Kig",
+  "alias": "BCK",
+  "website": "https://blackcatkig.com/",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "instagram": "https://www.instagram.com/blackcat_kigurumi/",
+    "x": "https://x.com/BKC_BlacKCat"
+  },
+  "priceTier": "$",
+  "currency": "USD",
+  "materialType": "3D print",
+  "englishOrdering": true,
+  "size": "Average-large",
+  "features": {
+    "Hard Hair": false
+  },
+  "notes": "Full-lock options, magnetic wig attachment"
+} 

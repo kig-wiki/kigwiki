@@ -29,11 +29,35 @@
   --docusaurus-highlighted-code-line-bg: rgba(162, 135, 223, 0.3); /* Soft purple highlight for dark mode */
 }
 
+/* Override Docusaurus container width constraints globally */
+.container {
+  max-width: 100% !important;
+}
+
+/* Override at all breakpoints */
+@media (min-width: 1440px) {
+  .container {
+    max-width: 100% !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 100% !important;
+  }
+}
+
+@media (min-width: 996px) {
+  .container {
+    max-width: 100% !important;
+  }
+}
+
 /* Info box styles */
 .info-box-container {
   float: right;
   margin: 0 0 1em 1em;
-  max-width: 200px;
+  max-width: 600px;
 }
 
 .info-box-image {

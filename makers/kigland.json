@@ -1,0 +1,19 @@
+{
+  "name": "KigLand",
+  "alias": "Remi and XiamiKo",
+  "website": "https://kig.land/en",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/Remi_IO"
+  },
+  "englishOrdering": true,
+  "priceTier": "$",
+  "currency": "CNY",
+  "materialType": "3D print",
+  "size": "custom",
+  "features": {
+    "Hard Hair": false
+  },
+  "notes": "Uses AI. Budget maker, quality highly varies and is incredibly dependent on the references being good. Generics have been questionable quality.."
+}

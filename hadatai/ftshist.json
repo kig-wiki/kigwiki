@@ -1,0 +1,25 @@
+{
+  "name": "Ftshist",
+  "socials": {
+    "x": "",
+    "weibo": "",
+    "bluesky": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "Region": "Mainland China",
+  "currency": "CNY",
+  "priceExamples": [
+    {
+      "type": "Spandex zentai",
+      "price": "350",
+      "link": "https://item.taobao.com/item.htm?id=824376591615"
+    },
+    {
+      "type": "Nylon zentai",
+      "price": "330",
+      "link": "https://item.taobao.com/item.htm?id=816901651127"
+    }
+  ],
+  "notes": "Taobao, requires using a Taobao agent if ordering from overseas"
+} 

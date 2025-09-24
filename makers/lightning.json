@@ -1,0 +1,19 @@
+{
+  "name": "Lightning",
+  "alias": "Xiuji Kigurumi Workshop",
+  "website": "https://x.com/lightning520",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/lightning520"
+  },
+  "priceTier": "$$",
+  "currency": "CNY",
+  "materialType": "3D print",
+  "size": "Default is small but sizes are customizable",
+  "englishOrdering": true,
+  "features": {
+    "Hard Hair": true
+  },
+  "notes": "Full-lock default for all masks, additonal fees for complicated headwear and accessories, waits can trend longer than quoted. Increased prices if ordered via DMs instead of Taobao however English ordering is available."
+} 

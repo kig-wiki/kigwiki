@@ -1,0 +1,18 @@
+{
+  "name": "Natural Factory",
+  "website": "https://x.com/NaturalFactory2",
+  "status": "open",
+  "Region": "Japan",
+  "socials": {
+    "instagram": "https://www.instagram.com/naturalfactory72/",
+    "x": "https://x.com/NaturalFactory2"
+  },
+  "priceTier": "$$$$",
+  "currency": "JPY",
+  "materialType": "full-cast (FRP)",
+  "size": "Average",
+  "features": {
+    "Hard Hair": false
+  },
+  "notes": "Sells premades via Yahoo, requires proxy shipping"
+} 

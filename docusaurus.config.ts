@@ -1,5 +1,7 @@
 const { themes: prismThemes } = require('prism-react-renderer');
 const remarkSocialEmbeds = require('./src/plugins/remark-social-embeds').default;
+const fs = require('fs');
+const path = require('path');
 
 // Add type for sitemap params
 interface SitemapParams {
@@ -7,10 +9,18 @@ interface SitemapParams {
   [key: string]: any;
 }
 
+
+
 const config = {
   title: 'Kig.wiki - Kigurumi Wiki',
   tagline: 'Your answer to all things Kigurumi Masks, Hadatai, and more.',
   favicon: 'icons/favicon.ico',
+
+  // Docusaurus Faster - enables faster build infrastructure
+  future: {
+    experimental_faster: true,
+    v4: true,
+  },
 
 
   url: 'https://kig.wiki',
@@ -49,7 +59,10 @@ const config = {
         blog: false,
         // Custom css for the docs
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: [
+            require.resolve('./src/css/custom.css'),
+            require.resolve('./src/css/makers-cards.css'),
+          ],
         },
         // Sitemap config self explanatory  
         sitemap: {
@@ -69,6 +82,9 @@ const config = {
   ],
 
   themeConfig: {
+    // Google Discover optimization - enables large image previews in search results
+    metadata: [{ name: 'robots', content: 'max-image-preview:large' }],
+    
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
@@ -250,9 +266,181 @@ const config = {
       },
     ],
     require.resolve('./src/plugins/docusaurus-plugin-structured-data'),
+    [
+      require.resolve('./src/plugins/docusaurus-plugin-maker-data'),
+      {
+        verbose: true,
+      },
+    ],
+    pluginLlmsTxt,
   ],
 
 
 };
 
 module.exports = config;
+
+// LLMs.txt functionality. 
+// I know some may not like the sound of this, but if they're gonna scrape any/all sites we might as well just dump info in a way that least impacts hosting so they can bugger off.
+async function pluginLlmsTxt(context: any) {
+  return {
+    name: "llms-txt-plugin",
+    loadContent: async () => {
+      const { siteDir } = context;
+      const contentDir = path.join(siteDir, "docs");
+      const allMd: string[] = [];
+
+      // recursive function to get all md files
+      const getMdFiles = async (dir: string) => {
+        const entries = await fs.promises.readdir(dir, { withFileTypes: true });
+
+        for (const entry of entries) {
+          const fullPath = path.join(dir, entry.name);
+          if (entry.isDirectory()) {
+            await getMdFiles(fullPath);
+          } else if (entry.name.endsWith(".md")) {
+            const content = await fs.promises.readFile(fullPath, "utf8");
+            
+            // Check if this is a makers or hadatai page with React components
+            if (content.includes('import { makersData }') || content.includes('import { hadataiData }')) {
+              // Replace React component usage with actual data
+              let processedContent = content;
+              
+              // Handle makers data
+              if (content.includes('import { makersData }')) {
+                try {
+                  const makersDataPath = path.join(siteDir, 'src', 'data', 'makers-data.ts');
+                  const makersDataContent = await fs.promises.readFile(makersDataPath, 'utf8');
+                  
+                  // Extract the actual data array from the TypeScript file
+                  const makersDataMatch = makersDataContent.match(/export const makersData: Maker\[\] = (\[[\s\S]*?\]);/);
+                  if (makersDataMatch) {
+                    const makersData = JSON.parse(makersDataMatch[1]);
+                    
+                    // Create a markdown representation of the makers data
+                    const makersMarkdown = `# Kigurumi Mask Makers
+
+This directory contains information about various kigurumi mask makers, their pricing, and contact information.
+
+## Makers
+
+${makersData.map((maker: any) => `
+### ${maker.name}${maker.alias ? ` (${maker.alias})` : ''}
+
+- **Status**: ${maker.status}
+- **Region**: ${maker.region}
+- **Price Range**: ${maker.priceRange}
+- **Size**: ${maker.size}
+- **Material**: ${maker.materialType}
+- **Website**: ${maker.website}
+${maker.socials && Object.keys(maker.socials).length > 0 ? `- **Socials**: ${Object.entries(maker.socials).map(([platform, url]) => `${platform}: ${url}`).join(', ')}` : ''}
+${maker.features && Object.keys(maker.features).length > 0 ? `- **Features**: ${Object.entries(maker.features).map(([feature, enabled]) => `${feature}: ${enabled ? 'Yes' : 'No'}`).join(', ')}` : ''}
+${maker.notes ? `- **Notes**: ${maker.notes}` : ''}
+`).join('\n')}`;
+                    
+                    processedContent = processedContent.replace(
+                      /import.*makersData.*\n.*<MakerCards.*\/>/s,
+                      makersMarkdown
+                    );
+                  }
+                } catch (error) {
+                  console.warn('Could not process makers data:', error);
+                }
+              }
+              
+              // Handle hadatai data
+              if (content.includes('import { hadataiData }')) {
+                try {
+                  const hadataiDataPath = path.join(siteDir, 'src', 'data', 'hadatai-data.ts');
+                  const hadataiDataContent = await fs.promises.readFile(hadataiDataPath, 'utf8');
+                  
+                  // Extract the actual data array from the TypeScript file
+                  const hadataiDataMatch = hadataiDataContent.match(/export const hadataiData: Hadatai\[\] = (\[[\s\S]*?\]);/);
+                  if (hadataiDataMatch) {
+                    const hadataiData = JSON.parse(hadataiDataMatch[1]);
+                    
+                    // Create a markdown representation of the hadatai data
+                    const hadataiMarkdown = `# Hadatai Makers
+
+Hadatai (also known as zentai) are full-body suits that are often worn with kigurumi masks. This directory contains information about various hadatai makers, their pricing, and contact information.
+
+## Hadatai Makers
+
+${hadataiData.map((hadatai: any) => `
+### ${hadatai.name}
+
+- **Region**: ${hadatai.region}
+- **Currency**: ${hadatai.currency}
+${hadatai.socials && Object.keys(hadatai.socials).some(key => hadatai.socials[key]) ? `- **Socials**: ${Object.entries(hadatai.socials).filter(([_, url]) => url).map(([platform, url]) => `${platform}: ${url}`).join(', ')}` : ''}
+- **Price Examples**:
+${hadatai.priceExamples.map((example: any) => `  - ${example.type}: ${example.price}${example.link ? ` - [Link](${example.link})` : ''}`).join('\n')}
+${hadatai.notes ? `- **Notes**: ${hadatai.notes}` : ''}
+`).join('\n')}`;
+                    
+                    processedContent = processedContent.replace(
+                      /import.*hadataiData.*\n.*<HadataiCards.*\/>/s,
+                      hadataiMarkdown
+                    );
+                  }
+                } catch (error) {
+                  console.warn('Could not process hadatai data:', error);
+                }
+              }
+              
+              allMd.push(processedContent);
+            } else {
+              allMd.push(content);
+            }
+          }
+        }
+      };
+
+      await getMdFiles(contentDir);
+      return { allMd };
+    },
+    postBuild: async ({ content, routes, outDir }: { content: any; routes: any; outDir: string }) => {
+      const { allMd } = content as { allMd: string[] };
+
+      // Write concatenated MD content
+      const concatenatedPath = path.join(outDir, "llms-full.txt");
+      await fs.promises.writeFile(concatenatedPath, allMd.join("\n\n---\n\n"));
+
+      // we need to dig down several layers:
+      // find PluginRouteConfig marked by plugin.name === "docusaurus-plugin-content-docs"
+      const docsPluginRouteConfig = routes.filter(
+        (route: any) => route.plugin.name === "docusaurus-plugin-content-docs"
+      )[0];
+
+      // docsPluginRouteConfig has a routes property has a record with the path "/" that contains all docs routes.
+      const allDocsRouteConfig = docsPluginRouteConfig.routes?.filter(
+        (route: any) => route.path === "/"
+      )[0];
+
+      // A little type checking first
+      if (!allDocsRouteConfig?.props?.version) {
+        return;
+      }
+
+      // this route config has a `props` property that contains the current documentation.
+      const currentVersionDocsRoutes = (
+        allDocsRouteConfig.props.version as Record<string, unknown>
+      ).docs as Record<string, Record<string, unknown>>;
+
+      // for every single docs route we now parse a path (which is the key) and a title
+      const docsRecords = Object.entries(currentVersionDocsRoutes).map(([path, record]) => {
+        return `- [${record.title}](${path}): ${record.description}`;
+      });
+
+      // Build up llms.txt file
+      const llmsTxt = `# ${context.siteConfig.title}\n\n## Docs\n\n${docsRecords.join("\n")}`;
+
+      // Write llms.txt file
+      const llmsTxtPath = path.join(outDir, "llms.txt");
+      try {
+        fs.writeFileSync(llmsTxtPath, llmsTxt);
+      } catch (err) {
+        throw err;
+      }
+    },
+  };
+}

@@ -9,19 +9,21 @@ description: Kig.Wiki - The open Kigurumi Mask (着ぐるみ) resource - Learn a
 
 Welcome to **Kig.Wiki**, an open resource for Kigurumi Masks (着ぐるみ).
 
-Where to start? How about [What is Kigurumi?](/what-is-kigurumi/)
+New to Kig? We suggest you start with [Getting Started](./Start/get-started.md)
 
 :::note
 
 This wiki is currently under construction. Feedback is appreciated on our [github](https://github.com/kig-wiki/kigwiki/issues).
-Have information you'd like to add? Please [contribute](/contributing/), Kig.wiki is an open source resource!
+Have information you'd like to add? Please [contribute](./02-contributing.md), Kig.wiki is an open source resource!
 
 :::
 
-## Additional Sugested Pages
+## Maker References
 
-- [Hadatai](/hadatai/)
-- [FAQ](/faq/)
+Looking for mask makers or where to get a hadatai?
+
+- [Maker list](Buy/makers.md)
+- [Hadatai vendors](Buy/hadatai.md)
 
 ## About Kig.Wiki
 

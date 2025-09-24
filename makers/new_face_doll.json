@@ -1,0 +1,19 @@
+{
+  "name": "New Face Doll",
+  "alias": "NFD",
+  "website": "https://x.com/NewfacedolL",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/NewfacedolL",
+    "weibo": "https://m.weibo.cn/u/2895375180"
+  },
+  "approxStartingPrice": "3000",
+  "currency": "CNY",
+  "materialType": "3D print (resin front, PLA back)",
+  "size": "Average, custom",
+  "features": {
+    "Hard Hair": true
+  },
+  "notes": "Taobao store, not very active on western social media"
+} 

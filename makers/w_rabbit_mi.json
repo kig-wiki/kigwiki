@@ -1,0 +1,17 @@
+{
+  "name": "W Rabbit Mi",
+  "website": "https://x.com/WithRabbitMI",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/WithRabbitMI"
+  },
+  "priceTier": "$",
+  "currency": "CNY",
+  "materialType": "3D print",
+  "size": "Average",
+  "features": {
+    "Hard Hair": false
+  },
+  "notes": "Former KHS staff, masks models are ever changing, open mouths are breathable fabric"
+} 

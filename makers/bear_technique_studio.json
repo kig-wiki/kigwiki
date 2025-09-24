@@ -1,0 +1,18 @@
+{
+  "name": "Bear Technique Studio",
+  "website": "https://x.com/BearTechCenter",
+  "status": "closed",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/BearTechCenter",
+    "weibo": "https://m.weibo.cn/u/7788533155"
+  },
+  "priceTier": "$$",
+  "currency": "CNY",
+  "materialType": "3D print",
+  "size": "Average",
+  "features": {
+    "Hard Hair": false
+  },
+  "notes": "Taobao store, mesh vision, full-lock option for all models"
+} 

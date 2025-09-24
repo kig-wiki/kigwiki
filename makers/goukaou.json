@@ -1,0 +1,21 @@
+{
+  "name": "Goukaou",
+  "alias": "GKO",
+  "website": "https://www.gko-kig.com/",
+  "status": "open",
+  "Region": "Taiwan",
+  "socials": {
+    "facebook": "https://www.facebook.com/Goukaou-Kigurumi-Studio-240493056041670/",
+    "instagram": "https://www.instagram.com/goukaou/",
+    "x": "https://x.com/goukaou"
+  },
+  "priceTier": "$$$",
+  "currency": "USD",
+  "materialType": "full-cast (FRP)",
+  "size": "Small to Average",
+  "features": {
+    "Hard Hair": false
+  },
+  "englishOrdering": true,
+  "notes": "Default is half-shell with EVA foam backside. 3/4 and full-lock option for some models, additional fees for accessories"
+} 

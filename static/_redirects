@@ -2,9 +2,99 @@
 # Format: from_path to_path [status_code]
 
 # Redirect old hadatai page to new basics page
-/hadatai /hadatai/basics 301
+/hadatai /start/hadatai-basics 301
+/hadatai/ /start/hadatai-basics 301
 
-# Redirect hadatai/ (with trailing slash) to basics
-/hadatai/ /hadatai/basics 301
+# Redirect old FAQ to new reference section
+/faq /reference/faq 301
+/faq/ /reference/faq 301
 
-# We should add more redirects here as needed
+# Redirect old shopping/taobao-guide to new buy section
+/shopping/taobao-guide /buy/marketplaces/taobao-guide 301
+/shopping/taobao-guide/ /buy/marketplaces/taobao-guide 301
+
+# Redirect old buying-second-hand to new buy section
+/buying-second-hand /buy/used/used-overview 301
+/buying-second-hand/ /buy/used/used-overview 301
+
+# Redirect old what-is-kigurumi to new start section
+/what-is-kigurumi /start/what-is-kigurumi 301
+/what-is-kigurumi/ /start/what-is-kigurumi 301
+
+# Redirect old masks section to new buy section
+/masks/commissioning-guide /buy/commissioning 301
+/masks/commissioning-guide/ /buy/commissioning 301
+/masks/costs-and-timelines /buy/costs-timelines 301
+/masks/costs-and-timelines/ /buy/costs-timelines 301
+/masks/sizing-options /buy/sizing 301
+/masks/sizing-options/ /buy/sizing 301
+/masks/overview /start/mask-basics 301
+/masks/overview/ /start/mask-basics 301
+
+# Redirect old hadatai subpages to new sections
+/hadatai/basics /start/hadatai-basics 301
+/hadatai/basics/ /start/hadatai-basics 301
+/hadatai/cleaning-a-hadatai /care/cleaning-a-hadatai 301
+/hadatai/cleaning-a-hadatai/ /care/cleaning-a-hadatai 301
+/hadatai/padding-theory /start/padding-theory 301
+/hadatai/padding-theory/ /start/padding-theory 301
+
+# Redirect removed sections to home page
+/performance / 301
+/performance/ / 301
+/performance/handler-primer / 301
+/performance/handler-primer/ / 301
+/performance/posing-tips / 301
+/performance/posing-tips/ / 301
+
+/outfits / 301
+/outfits/ / 301
+/outfits/cosplay-outfits / 301
+/outfits/cosplay-outfits/ / 301
+/outfits/kig-outfit-theory / 301
+/outfits/kig-outfit-theory/ / 301
+
+/photography / 301
+/photography/ / 301
+/photography/camera-angles / 301
+/photography/camera-angles/ / 301
+/photography/lighting-theory / 301
+/photography/lighting-theory/ / 301
+/photography/photography-overview / 301
+/photography/photography-overview/ / 301
+
+# Redirect old mask subpages that don't have direct equivalents
+/masks/faceplates / 301
+/masks/faceplates/ / 301
+/masks/kigurumi-eyes / 301
+/masks/kigurumi-eyes/ / 301
+/masks/locks / 301
+/masks/locks/ / 301
+/masks/maker-styles /buy/makers 301
+/masks/maker-styles/ /buy/makers 301
+/masks/mask-padding-and-fitting /care/mask-padding 301
+/masks/mask-padding-and-fitting/ /care/mask-padding 301
+/masks/mask-types / 301
+/masks/mask-types/ / 301
+/masks/visibility / 301
+/masks/visibility/ / 301
+
+# Redirect old hadatai subpages that don't have direct equivalents
+/hadatai/latex-info / 301
+/hadatai/latex-info/ / 301
+
+# Redirect old diy-mask subpages that don't have direct equivalents
+/diy-mask/eyes / 301
+/diy-mask/eyes/ / 301
+/diy-mask/mask-repair / 301
+/diy-mask/mask-repair/ / 301
+/diy-mask/overview-diy /diy-mask/reality-of-diy 301
+/diy-mask/overview-diy/ /diy-mask/reality-of-diy 301
+/diy-mask/painting / 301
+/diy-mask/painting/ / 301
+/diy-mask/printing-options / 301
+/diy-mask/printing-options/ / 301
+/diy-mask/refurbishment-ideas / 301
+/diy-mask/refurbishment-ideas/ / 301
+/diy-mask/wigs / 301
+/diy-mask/wigs/ / 301

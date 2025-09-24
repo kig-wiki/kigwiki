@@ -8,6 +8,13 @@
 .docusaurus
 .cache-loader
 
+# Currency rates cache
+currency-rates.json
+
+# Generated maker data files (created by plugin)
+src/data/
+
+
 # Note: Optimized images replace originals in-place during build
 # No need to ignore since they maintain the same filenames
 

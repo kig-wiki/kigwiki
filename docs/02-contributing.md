@@ -11,6 +11,8 @@ A few things to note before contributing:
 
 tldr: Be nice, be respectful, be helpful. Don't try to upload content you don't have permission to share with us, or content that goes against GitHub's terms of service.
 
+On this wiki, we may use location labels for regional references, as importing and shipping options may differ especially for western buyers. These terms are used in a geographic sense only. 
+
 ## How to Contribute
 
 Contributing to this documentation is _fairly_ straightforward if you have a GitHub account! Here's how you can help:

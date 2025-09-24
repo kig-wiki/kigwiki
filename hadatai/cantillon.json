@@ -1,0 +1,40 @@
+{
+  "name": "Cantillon",
+  "socials": {
+    "x": "",
+    "weibo": "",
+    "bluesky": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "Region": "Mainland China",
+  "currency": "CNY",
+  "priceExamples": [
+    {
+      "type": "Standard spandex zentai",
+      "price": "200",
+      "link": "https://item.taobao.com/item.htm?id=530742243450"
+    },
+    {
+      "type": "Stretchy spandex zentai",
+      "price": "228",
+      "link": "https://item.taobao.com/item.htm?id=616922052042"
+    },
+    {
+      "type": "Sweat-wicking spandex zentai",
+      "price": "258",
+      "link": "https://item.taobao.com/item.htm?id=824778519300"
+    },
+    {
+      "type": "Thick spandex zentai (1.5mm)",
+      "price": "330",
+      "link": "https://item.taobao.com/item.htm?id=557889062688"
+    },
+    {
+      "type": "Various addons",
+      "price": "Varies",
+      "link": "https://item.taobao.com/item.htm?id=527988841267"
+    }
+  ],
+  "notes": "One of the more popular hadatai makers on Taobao. Requires using a Taobao agent if ordering from overseas"
+} 

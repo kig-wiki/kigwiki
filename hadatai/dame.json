@@ -1,0 +1,25 @@
+{
+  "name": "DAME",
+  "socials": {
+    "x": "",
+    "weibo": "",
+    "bluesky": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "Region": "UK",
+  "currency": "GBP",
+  "priceExamples": [
+    {
+      "type": "MWF spandex skinsuit",
+      "price": "150",
+      "link": "https://damekigurumi.com/Skinsuits/H001-Skinsuit"
+    },
+    {
+      "type": "Cantillon spandex skinsuit",
+      "price": "120",
+      "link": "https://damekigurumi.com/Skinsuits/H011-Skinsuit"
+    }
+  ],
+  "notes": "Reseller of MWF and Cantillon. Several times the cost, but they're English and have a website if thats your thing."
+} 

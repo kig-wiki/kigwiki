@@ -1,0 +1,19 @@
+{
+  "name": "BHY Renxing",
+  "alias": "formerly KHS",
+  "website": "https://x.com/BHYrenxing",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/BHYrenxing"
+  },
+  "priceTier": "$$$",
+  "currency": "CNY",
+  "materialType": "3D print",
+  "englishOrdering": true,
+  "size": "Average",
+  "features": {
+    "Hard Hair": true
+  },
+  "notes": "Full-lock options, open mouths are breathable fabric, additional fees for larger-sizes or accessories"
+} 
