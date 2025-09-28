@@ -5,7 +5,7 @@ slug: /care/mask-padding
 tags:
   - mask
   - care
-description: How to pad your Kigurumi Mask
+description: How to pad your Kigurumi Mask to best fit your head
 ---
 
 # Mask Padding

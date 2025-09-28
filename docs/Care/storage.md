@@ -6,7 +6,7 @@ tags:
   - mask
   - care
 sidebar_position: 4
-description: How to store your kigurumi mask
+description: How to store your kigurumi mask, kig mask storage guide
 ---
 
 # Kigurumi Storage Methods

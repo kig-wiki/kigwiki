@@ -5,7 +5,7 @@ slug: /buy/marketplaces/taobao-guide
 tags:
   - buying
   - secondhand
-description: Kig.Wiki Taobao Guide Page - Taobao Guide
+description: Kigurumi Taobao Guide, how to buy a kigurumi from Taobao
 ---
 
 :::note

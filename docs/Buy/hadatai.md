@@ -7,7 +7,7 @@ tags:
   - makers
   - hadatai
 sidebar_position: 2
-description: Hadatai Buying Guide
+description: Kigurumi Hadatai buying guide, where to buy kigurumi hadatai, hadatai vendors, and other details
 ---
 
 import HadataiCards from '@site/src/components/HadataiCards';

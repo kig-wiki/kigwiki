@@ -6,7 +6,7 @@ tags:
   - mask
   - care
 sidebar_position: 2
-description: How to clean and maintain your Kigurumi Mask 
+description: How to clean and maintain your Kigurumi Mask to keep it looking good as new
 ---
 
 # Cleaning Your Kigurumi Mask

@@ -6,7 +6,7 @@ tags:
   - introduction
   - resource
 sidebar_position: 10
-description: Kigurumi Troubleshooting
+description: Kigurumi Troubleshooting guide, common kigurumi issues and how to fix them
 ---
 
 # Kigurumi Troubleshooting and other common issues

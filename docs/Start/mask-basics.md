@@ -6,7 +6,7 @@ tags:
   - intro
   - mask
 sidebar_position: 3
-description: Kigurumi masks what are they like? What are kig masks like, and much more.
+description: Kigurumi masks what are they like? What are kig masks like, types of kigurumi masks, learn all things kig
 ---
 
 # Kigurumi Mask Intro and Basics

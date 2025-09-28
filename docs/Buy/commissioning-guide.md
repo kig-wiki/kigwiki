@@ -6,7 +6,7 @@ tags:
   - buying
   - mask
 sidebar_position: 5
-description: Kig.Wiki Commissioning Guide Page - Commissioning Kigurumi Masks
+description: Kig.Wiki Commissioning Guide Page - Learn to commission a kig mask
 ---
 :::note
 

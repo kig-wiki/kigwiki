@@ -2,7 +2,7 @@
 sidebar_position: 3
 title: Contributing
 slug: /contributing
-description: Kig.Wiki Contributing Guide - We'd love to have you contribute to Kig.Wiki
+description: Kig.Wiki Contributing Guide - How to contribute to Kig.Wiki
 ---
 
 ## Contributing Guidelines

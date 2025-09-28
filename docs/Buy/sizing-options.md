@@ -5,7 +5,7 @@ slug: /buy/sizing
 tags:
   - buying
 sidebar_position: 4
-description: Kigurumi Mask Sizing and Options Guide
+description: Kigurumi Mask Sizing and Options Guide, how to size a kigurumi mask
 ---
 
 :::note

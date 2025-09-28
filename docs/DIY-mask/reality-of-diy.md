@@ -6,7 +6,7 @@ tags:
   - diy
   - mask
 sidebar_position: 1
-description: Realities of DIY Kigurumi Masks
+description: DIY Kigurumi Mask Intro, what you should know before you consider doing a DIY kigurumi mask
 ---
 
 # Before you consider doing a DIY Kigurumi Mask

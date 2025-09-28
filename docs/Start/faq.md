@@ -5,7 +5,7 @@ slug: /reference/faq
 tags:
   - introduction
 sidebar_position: 9
-description: Kig.Wiki FAQ Page - Frequently Asked Kigurumi Questions
+description: Frequently Asked Kigurumi Questions, Kigurumi FAQ - All your kigurumi questions answered
 ---
 
 import FAQStructuredData from '@site/src/theme/MDXComponents/FAQStructuredData';

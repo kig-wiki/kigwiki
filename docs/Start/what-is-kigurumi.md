@@ -5,7 +5,7 @@ slug: /start/what-is-kigurumi
 tags:
   - introduction
 sidebar_position: 2
-description: Kigurumi is a cosplay genre that focuses around anime-styled masks. View our full primer on what kigurumi is and how to get started.
+description: What is Kigurumi? Kigurumi is a cosplay genre that focuses around anime-styled masks. Learn all about Kigurumi here.
 ---
 
 # What is Kigurumi?

@@ -6,7 +6,7 @@ tags:
   - introduction
   - resource
 sidebar_position: 7
-description: Glossary of Terms (kig, hadatai, faceplate, etc.)
+description: Glossary of Terms (kig, hadatai, animegao, kiger, and more) 
 ---
 
 # Glossary of Kigurumi Terms

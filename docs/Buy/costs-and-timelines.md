@@ -6,7 +6,7 @@ tags:
   - buying
   - mask
 sidebar_position: 4
-description: Kig.Wiki Costs and Timelines Page - Kigurumi Mask Costs and Timelines
+description: Kigurumi mask commissioning costs and timeline info primer 
 ---
 :::note
 

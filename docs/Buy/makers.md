@@ -7,7 +7,7 @@ tags:
   - makers
   - mask
 sidebar_position: 1
-description: Kigurumi Mask Maker Directory
+description: Kigurumi Mask Guide, where to buy kigurumi masks, kigurumi mask makers and kig sellers
 ---
 
 import MakersCards from '@site/src/components/MakersCards';

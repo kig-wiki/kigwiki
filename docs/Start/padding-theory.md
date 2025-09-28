@@ -5,7 +5,7 @@ slug: /start/padding-theory
 tags:
   - hadatai
 sidebar_position: 6
-description: Kigurumi Padding Theory Page - Kigurumi Padding Theory
+description: Kigurumi Padding Theory Page - Kigurumi Padding Theory. How to pad your kigurumi hadatai.
 ---
 
 :::note

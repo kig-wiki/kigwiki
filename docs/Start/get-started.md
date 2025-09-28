@@ -5,7 +5,7 @@ slug: /start/get-started-with-kigurumi
 tags:
   - introduction
 sidebar_position: 1
-description: How to get started into Kigurumi
+description: How to get started into Kigurumi, Kig guide intro - start here
 ---
 
 # Getting started with Kigurumi

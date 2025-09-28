@@ -2,7 +2,7 @@
 id: traveling-with-kig-overview
 title: Traveling With Kig
 slug: /traveling-with-kig
-description: Guide to Traveling With Kigurumi Masks
+description: Guide to Traveling With Kigurumi Masks, how to travel safely with your kig mask
 ---
 
 Most kigs find some sort of padded box for transporting their kigurumi masks, or smaller bags like a motorcycle helmet bag for shorter trips. This area will be expanded to include various methods.

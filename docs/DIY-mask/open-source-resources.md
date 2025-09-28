@@ -6,7 +6,7 @@ tags:
   - diy
   - mask
 sidebar_position: 4
-description: Open Source resources for DIY Kigurumi Masks
+description: Free kigurumi mask 3d models, open source resources for DIY Kigurumi Masks
 ---
 
 # Open Source Resources for Kigurumi Masks

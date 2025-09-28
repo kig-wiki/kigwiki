@@ -2,7 +2,7 @@
 id: community-overview
 title: Kigurumi Communities
 slug: /community/community-overview
-description: Kig.Wiki Community Overview Page - Kigurumi Communities
+description: Kigurumi Communities, kig discords, and other kigurumi community info
 ---
 
 :::info
