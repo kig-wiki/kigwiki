@@ -73,7 +73,7 @@ Use your browser's search function (Ctrl+F / Cmd+F) to quickly find specific kig
 ### **Kigurumi** (着ぐるみ)
 - **Definition**: A full body costume, in the context of this wiki, an anime styled one that includes a mask and a hadatai. Sometimes shortened to Kig.
 - **Context**: Usually refers to the kigurumi performer themselves rather than the costume alone.
-- **Related**: [What is Kigurumi](./what-is-kigurumi.md)
+- **Related**: [What is Kigurumi](/start/what-is-kigurumi.md)
 
  **Kigurumi Mask**
 - **Definition**: The titular mask of a kigurumi costume, the most involved component of kigurumi cosplay. 

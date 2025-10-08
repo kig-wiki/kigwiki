@@ -14,7 +14,7 @@ Unsure where to start? This page is an index of resources to help you get starte
 
 ## Kig 101
 
-- [What is Kigurumi?](./what-is-kigurumi.md)
+- [What is Kigurumi?](/start/what-is-kigurumi.md)
 - [FAQ](./faq.md)
 
 Looking to learn more about the different components of kigurumi:

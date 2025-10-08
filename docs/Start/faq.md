@@ -80,4 +80,4 @@ The anonymous nature of kigurumi does however allow for them to engage in creati
 
 #### Additional Resources
 
-- [What is Kigurumi?](./what-is-kigurumi.md)
+- [What is Kigurumi?](/start/what-is-kigurumi.md)
