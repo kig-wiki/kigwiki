@@ -27,10 +27,10 @@ tldr: inactivity and out of date info on various kigurumi resources, biases on m
 ## Content Contributors
 This repository contains only the content for Kig.wiki. To contribute content:
 
-- Write markdown files in (docs/)[docs/ ]
-- Add images to (static/img/)[static/img/] (they will appear at `/img` on the live site)
-- Add maker data in (makers/)[makers/] (JSON files)
-- Add hadatai data in (hadatai/)[hadatai/] (JSON files)
+- Write markdown files in [docs/](docs/)
+- Add images to [static/img/](static/img/) (they will appear at `/img` on the live site)
+- Add maker data in [makers/](makers/) (JSON files)
+- Add hadatai data in [hadatai/](hadatai/) (JSON files)
 
 [See contributing guidelines](https://kig.wiki/contributing/)
 
