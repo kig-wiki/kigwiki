@@ -9,6 +9,7 @@
   },
   "Region": "UK",
   "currency": "GBP",
+  "englishOrdering": true,
   "priceExamples": [
     {
       "type": "MWF spandex skinsuit",

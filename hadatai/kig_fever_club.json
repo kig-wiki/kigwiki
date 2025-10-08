@@ -9,6 +9,7 @@
   },
   "Region": "Mainland China",
   "currency": "USD",
+  "englishOrdering": true,
   "priceExamples": [
     {
       "type": "Whisper of Dream bodysuit zentai",

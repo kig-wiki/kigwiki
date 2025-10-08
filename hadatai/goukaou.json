@@ -9,6 +9,7 @@
   },
   "Region": "Taiwan",
   "currency": "TWD",
+  "englishOrdering": true,
   "priceExamples": [
     {
       "type": "Realistic print zentai",
