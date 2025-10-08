@@ -27,12 +27,12 @@ tldr: inactivity and out of date info on various kigurumi resources, biases on m
 ## Content Contributors
 This repository contains only the content for Kig.wiki. To contribute content:
 
-- Write markdown files in `docs/`
-- Add images to `static/img/` (they will appear at `/img` on the live site)
-- Add maker data in `makers/` (JSON files)
-- Add hadatai data in `hadatai/` (JSON files)
+- Write markdown files in (docs/)[docs/ ]
+- Add images to (static/img/)[static/img/] (they will appear at `/img` on the live site)
+- Add maker data in (makers/)[makers/] (JSON files)
+- Add hadatai data in (hadatai/)[hadatai/] (JSON files)
 
-[See contributing guidelines](https://kig.wiki/docs/contributing) or the same file [in this repo](docs/contributing.md)
+[See contributing guidelines](https://kig.wiki/contributing/)
 
 ## Technical Contributors
 For infrastructure changes (Docusaurus config, Docker, CI/CD, etc.), see the [kigwiki-docusaurus](https://github.com/kig-wiki/kigwiki-docusaurus) repository.
@@ -40,24 +40,12 @@ For infrastructure changes (Docusaurus config, Docker, CI/CD, etc.), see the [ki
 # Working list of things to be done:
 
 - [content to be added in markdown](docs/)
-  - [See content ideas todo](todo.md)
 - new logo that isnt awful
 - better tutorials
 
 # Technical tldr:
 
 This repository contains only the content for Kig.wiki. The technical infrastructure (Docusaurus configuration, Docker setup, CI/CD) is maintained in a separate repository: [kigwiki-docusaurus](https://github.com/kig-wiki/kigwiki-docusaurus).
-
-## Local Development
-To run the site locally:
-```bash
-# Make sure the submodule is initialized
-git submodule update --init --recursive
-
-# Run from the infrastructure directory
-cd kigwiki-docusaurus
-docker-compose up
-```
 
 ## Repository Structure
 - `docs/` - Markdown documentation files
