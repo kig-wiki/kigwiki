@@ -24,8 +24,18 @@ tldr: inactivity and out of date info on various kigurumi resources, biases on m
 
 # How to contribute
 
-Tldr: Write markdown files in (docs/), add images to (static/img/), they will appear in /img on the live site.
-[See contributing guidelines](https://kig.wiki/docs/contributing) or the same file [in this repo ](docs/contributing.md)
+## Content Contributors
+This repository contains only the content for Kig.wiki. To contribute content:
+
+- Write markdown files in `docs/`
+- Add images to `static/img/` (they will appear at `/img` on the live site)
+- Add maker data in `makers/` (JSON files)
+- Add hadatai data in `hadatai/` (JSON files)
+
+[See contributing guidelines](https://kig.wiki/docs/contributing) or the same file [in this repo](docs/contributing.md)
+
+## Technical Contributors
+For infrastructure changes (Docusaurus config, Docker, CI/CD, etc.), see the [kigwiki-docusaurus](https://github.com/kig-wiki/kigwiki-docusaurus) repository.
 
 # Working list of things to be done:
 
@@ -34,14 +44,26 @@ Tldr: Write markdown files in (docs/), add images to (static/img/), they will ap
 - new logo that isnt awful
 - better tutorials
 
-# Technial tldr:
+# Technical tldr:
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator. Please see their docs if you wish to fork this site for personal experimentation or any other reason.
+This repository contains only the content for Kig.wiki. The technical infrastructure (Docusaurus configuration, Docker setup, CI/CD) is maintained in a separate repository: [kigwiki-docusaurus](https://github.com/kig-wiki/kigwiki-docusaurus).
+
+## Local Development
+To run the site locally:
+```bash
+# Make sure the submodule is initialized
+git submodule update --init --recursive
+
+# Run from the infrastructure directory
+cd kigwiki-docusaurus
+docker-compose up
+```
+
+## Repository Structure
+- `docs/` - Markdown documentation files
+- `makers/` - JSON data for kigurumi mask makers
+- `hadatai/` - JSON data for hadatai (zentai) makers  
+- `static/` - Static assets (images, icons, etc.)
+- `kigwiki-docusaurus/` - Technical infrastructure (git submodule, most contributors need not worry about this)
 
 Docusaurus is MIT licensed, as is any applicable content of the Kig.wiki site. Fork it or do as you please, like Kigurumi is for everyone so is this github's content.
-
-The Main branch of this repo is used in CI to build upon PR and auto update the website itself. What you see here should be what the website is actively displaying.
-
-# Isnt this called Animegao?
-
-[As denoted on the Japanese Kigurumi wikipedia page](https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%9D%80%E3%81%90%E3%82%8B%E3%81%BF), the term originates from certain western demographics. While some western audiences may use the term, this resource does not wish to be a proponent of the misinterpretation stemmed amalgamation of a term, let it's usage be as antiquated and culturally incongruent as Japanimation. Usage of the term may be confusing to international audiences.

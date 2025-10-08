@@ -1,0 +1,3 @@
+[submodule "kigwiki-docusaurus"]
+	path = kigwiki-docusaurus
+	url = git@github.com:kig-wiki/kigwiki-docusaurus.git
