@@ -6,7 +6,7 @@ tags:
   - hadatai
   - repair
 sidebar_position: 2
-description: How to clean and maintain your Kigurumi Hadatai, hadatai care and cleaning guide
+description: How to clean and maintain your Kigurumi Hadatai, kig.wiki hadatai care and cleaning guide
 ---
 
 # Washing your Hadatai
@@ -17,6 +17,7 @@ A little bit of maintenance after wearing it goes a long way to keeping it looki
 
 ## Summary
 
+* Wash your hadatai sooner rather than later, the longer sweat and dirt sits the less likely it is to come out
 * Spot treat stains, particularly any marks around hands and feet
 * Handwash if you want to play it safe
 * If you need to use a washing machine:
@@ -25,6 +26,7 @@ A little bit of maintenance after wearing it goes a long way to keeping it looki
     * Put the hadatai in a mesh laundry bag
 * Do not put in a clothes dryer, let it air dry
 * Do not bleach or use fabric softener
+* Ideally avoid detergents with optical brighteners, Tide Hygenic Clean is a great option.
 
 ## Stain Removal
 
@@ -55,27 +57,32 @@ If you are using a stain remover you haven't tried before, like with regular clo
 
 Hadatai owing to being spandex are not as sensitive to detergents as other fabrics, but that doesn't mean you should throw it in with other clothes.
 
-Many kigs swear by Woolite, however this wiki seeks to dismasntle this suggestion focusing on science. Woolite is named so due to being a sufactant based detergent, that does not use enzymes to remove stains. As the name suggests, Woolite was made for wool, owing to it being a natural fiber and not a synthetic one enzymes can interact in potentially unwanted ways, hence an enzyme based detergent. Hadatai are not wool, they are entirely synthetic which can greatly benefit from an enzyme based detergent.
+Many kigs swear by Woolite, however this wiki seeks to dismasntle this suggestion focusing on science. Woolite is named so due to being a sufactant based detergent, that does not use enzymes to remove stains. As the name suggests, Woolite was made for wool, owing to it being a natural fiber and not a synthetic one enzymes can interact in potentially unwanted ways, hence an enzyme based detergent. Hadatai are not wool, they are entirely synthetic which can greatly benefit from an enzyme based detergent. 
 
- Based on tests by the ["Project Farm" youtube channel](https://www.youtube.com/watch?v=ToGAbvohDm4), Tide's liquid detergent was found to be one of the most effective detergents. [Consumer reports](https://www.consumerreports.org/appliances/laundry-detergents/best-and-worst-laundry-detergents-from-consumer-reports-tests-a9342715268/) and [The Wirecutter](https://www.nytimes.com/wirecutter/reviews/the-best-laundry-detergent/) also found similar results, with Persil being a strong performer as well. 
+Woolite does however avoid optical brighteners, which can cause shifts in color. The recommendations this wiki suggests similarly avoid optical brighteners.
+
+Based on tests by the ["Project Farm" youtube channel](https://www.youtube.com/watch?v=ToGAbvohDm4), Tide's formulas were found to be one of the most effective. [Consumer reports](https://www.consumerreports.org/appliances/laundry-detergents/best-and-worst-laundry-detergents-from-consumer-reports-tests-a9342715268/) and [The Wirecutter](https://www.nytimes.com/wirecutter/reviews/the-best-laundry-detergent/) also found similar results. 
+
+That in mind, Tide Hygenic Clean in both their regular and unscented formulas are both highly effective and avoid optical brighteners, something in most of Tide's offerings. The leading result of both Consumer Reports and The Wirecutter, Persil Detergent also contains optical brighteners, their Coldwater formula does avoid them however, be aware they have an "everyday clean cold water" formula that does contain optical brighteners. Complicated? Unfortunately. 
+ 
  
  As hadatai is covering a large area of your body, ultimately pick a modern liquid detergent that has a scent you are comfortable with.
 
 :::tip
 
-Borax can help your detergent work better to remove stains, especially if you have hard water in your area. A little goes a long way.
+Borax can help your detergent work better to remove stains without adding optical brighteners, especially if you have hard water in your area. A little goes a long way.
 
 :::
 
 <div className="info-box-container">
   <img 
-    src="/img/misc-recommendations/tide-oxi.png" 
+    src="/img/misc-recommendations/tide.png" 
     alt="Tide liquid detergent"
     className="info-box-image"
     loading="lazy"
   />
   <div className="info-box-caption">
-    Liquid, not the pods as those can sometimes have issue disolving
+    Liquid, not pods. Ideally the Hygenic Clean formula.
   </div>
 </div>
 
@@ -109,4 +116,4 @@ If you absolutely need to use a dryer, use the lowest heat setting possible to a
 
 ## Post Wash Care
 
-With use your hadatai may start to show signs of wear and tear, the most common being pilling around high friction areas such as hands and feet, or around the joints. Using a fabric depiller can help remove the pilling and prevent buildup, keeping your hands looking their best.
+With use your hadatai may start to show signs of wear and tear, the most common being pilling around high friction areas such as hands and feet, or around the joints. Using a fabric depiller can help remove the pilling and prevent buildup, keeping your hands looking their best. As always, **avoid velcro** at all costs.
