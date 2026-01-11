@@ -1,6 +1,6 @@
 ---
 id: mask-padding
-title: Mask Padding
+title: Kigurumi Mask Padding Guide (Fit & Comfort)
 slug: /care/mask-padding
 tags:
   - mask
@@ -8,7 +8,7 @@ tags:
 description: How to pad your Kigurumi Mask to best fit your head
 ---
 
-# Mask Padding
+# Kigurumi Mask Padding Guide 
 
 Padding is a common way to customize a mask to best fit your head. While makers will do a best effort attempt, you will often have to customize the padding to best fit your head.
 

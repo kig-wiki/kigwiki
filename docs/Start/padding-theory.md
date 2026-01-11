@@ -1,21 +1,14 @@
 ---
-id: hadatai-padding-theory
-title: Padding Theory
+id: hadati-padding-theory
+title: Kigurumi Mask Padding Guide (Fit & Comfort)
 slug: /start/padding-theory
 tags:
   - hadatai
 sidebar_position: 6
-description: Kigurumi Padding Theory Page - Kigurumi Padding Theory. How to pad your kigurumi hadatai.
+description: Concepts behind padding for kigurumi: shape, proportions, and fit. What padding changes and how to use it.
 ---
 
-:::note
-
-This section is under development.
-
-:::
-
-
-# Padding Theory
+# Kigurumi Padding Theory
 
 Anime style characters rarely have human proportions, this tends to be especially true for bishoujo characters. 
 

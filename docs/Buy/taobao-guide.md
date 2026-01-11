@@ -1,22 +1,14 @@
 ---
 id: shopping-taobao-guide
-title: Taobao Guide
+title: Kigurumi Taobao Guide for Buying Kigurumi Masks
 slug: /buy/marketplaces/taobao-guide
 tags:
   - buying
   - secondhand
-description: Kigurumi Taobao Guide, how to buy a kigurumi from Taobao
+description: How to buy kigurumi-related items through Taobao, including the typical workflow and issues buyers run into.
 ---
 
-:::note
-
-This section is under development. Future content plans to include:
-
-- A whole lot more about Taobao and the proxy ordering process
-
-  :::
-
-# Taobao Guide
+# Taobao Guide for Buying Kigurumi Masks and Hadatai
 
 Many makers of masks, hadatai, cosplay and outfits are located on Taobao, a Chinese ecommerce platform. Learning to buy off taobao may seem a bit daunting, but greatly expands the options you have while also being able to buy cheaper than through some reseller.
 
@@ -30,3 +22,11 @@ Some commonly used agents are:
 
 - [Superbuy](https://www.superbuy.com/)
 - [Sugargoo](https://sugargoo.com/)
+
+:::note
+
+This section is under development. Future content plans to include:
+
+- A whole lot more about Taobao and the proxy ordering process
+
+  :::

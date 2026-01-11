@@ -1,19 +1,19 @@
 ---
 id: buying-hadatai
-title: Buying Hadatai
+title: Hadatai Stores and Where to Buy a Hadatai
 slug: /buy/hadatai
 tags:
   - buying
   - makers
   - hadatai
 sidebar_position: 2
-description: Kigurumi Hadatai buying guide, where to buy kigurumi hadatai, hadatai vendors, and other details
+description: Where to buy hadatai: maker list, typical options, and what to look for when choosing sizing, fabric, and construction.
 ---
 
 import HadataiCards from '@site/src/components/HadataiCards';
 import { hadataiData } from '../../src/data/hadatai-data';
 
-# Hadatai Makers
+# Hadatai Makers (Where to Buy)
 
 Hadatai are full-body suits that are often worn with kigurumi masks to both cover the the body and hide any padding or shapewear being used. This directory contains information about various hadatai makers, their pricing, and contact information.
 

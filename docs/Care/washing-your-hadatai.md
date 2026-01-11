@@ -1,15 +1,15 @@
 ---
 id: cleaning-a-hadatai
-title: Washing your Hadatai
+title: How To Maintain and Wash a Hadatai
 slug: /care/cleaning-a-hadatai
 tags:
   - hadatai
   - repair
 sidebar_position: 2
-description: How to clean and maintain your Kigurumi Hadatai, kig.wiki hadatai care and cleaning guide
+description: How to wash and care for a hadatai, with handling tips to maintain fit, fabric condition, and longevity.
 ---
 
-# Washing your Hadatai
+# How to Wash a Hadatai
 
 Hadatai like any other garment can get dirty. Especially if you are wearing it out and about some areas like the hands can get quite discolored if you arent careful, although most stains are usually solveable. 
 

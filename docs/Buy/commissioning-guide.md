@@ -1,20 +1,15 @@
 ---
 id: mask-commissioning-guide
-title: Commissioning Guide
+title: Kigurumi Mask Commissioning Guide - How to Order a Kigurumi Mask
 slug: /buy/commissioning
 tags:
   - buying
   - mask
 sidebar_position: 5
-description: Kig.Wiki Commissioning Guide Page - Learn to commission a kig mask
+description: How kigurumi mask commissions work: what to ask makers, typical options, and how to reduce mistakes and misunderstandings.
 ---
-:::note
 
-This section is under heavy development.
-
-:::
-
-# Commissioning a Mask
+# Kigurumi Mask Commissioning Guide
 
 While each maker's process varies, typically you will need to provide the following:
 
@@ -38,6 +33,12 @@ Many makers have varying levels of head sizes they can accomidate, when comissio
 
 - Maker's pricing
 - Maker's timeline
+
+:::note
+
+This section is under heavy development.
+
+:::
 
 :::note
 

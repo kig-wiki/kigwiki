@@ -1,11 +1,11 @@
 ---
 id: introduction-faq
-title: Frequently Asked Questions
+title: Kigurumi FAQ: Masks, Hadatai, Buying & Care
 slug: /reference/faq
 tags:
   - introduction
 sidebar_position: 9
-description: Frequently Asked Kigurumi Questions, Kigurumi FAQ - All your kigurumi questions answered
+description: Answers to common kigurumi questions about masks, hadatai, buying, care, comfort, and basic expectations for newcomers.
 ---
 
 import FAQStructuredData from '@site/src/theme/MDXComponents/FAQStructuredData';
@@ -74,7 +74,7 @@ The anonymous nature of kigurumi does however allow for them to engage in creati
   }
 ];
 
-# Frequently Asked Questions
+# Kigurumi Mask FAQ
 
 <FAQStructuredData faqs={faqs} />
 

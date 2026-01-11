@@ -1,13 +1,15 @@
 ---
 id: buying-used-overview
-title: Buying used
+title: Buying Used Kigurumi Mask: Guide & Safety Tips
 slug: /buy/used/used-overview
 tags:
   - buying
   - secondhand
 sidebar_position: 1
-description: Used kig mask buying guide, where to buy used kigurumi mask and more
+description: Buying used kigurumi masks: where they’re listed, what to check before purchase, and common risks to avoid.
 ---
+
+# Buying Used Kigurumi Masks
 
 A used kigurumi mask can be one of the most accessible ways to owning your own kig mask. Sometimes a kig just doesnt wear one of their masks so often, dont have the connection to a particular character anymore, or are just looking to clear space for future masks. These can present a rather quick and affordable way to get your hands on a kigurumi mask if things look right.
 

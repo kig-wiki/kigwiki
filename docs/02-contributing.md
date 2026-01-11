@@ -1,11 +1,11 @@
 ---
 sidebar_position: 3
-title: Contributing
+title: Contributing Guide (How to Edit Kig.wiki)
 slug: /contributing
-description: Kig.Wiki Contributing Guide - How to contribute to Kig.Wiki
+description: How to contribute to Kig.wiki: editing workflow, expectations, and the basic process for improving pages and resources.
 ---
 
-## Contributing Guidelines
+# Contributing to Kig.wiki
 
 A few things to note before contributing:
 
@@ -80,7 +80,7 @@ If you're not familiar with Git or GitHub, don't worry! You can:
 
 While we can't guarantee all submissions will be published, we appreciate all contributions that align with our guidelines.
 
-Want your own staging site? Raise an issue and we can probably get you one!
+If you really need to contact for a change and cannot use Github, you can contact via email at change-request @ kig.wiki . 
 
 :::info
 You can make info type blocks and other quality of life bits, checkout the [Docusaurus documentation](https://docusaurus.io/docs/creating-pages).

@@ -1,14 +1,14 @@
 ---
 id: hadatai-overview
-title: Hadatai Intro and Basics
+title: Hadatai Basics: What is Hadatai, How to Wear, Hadatai vs Zentai
 slug: /start/hadatai-basics
 tags:
   - hadatai
 sidebar_position: 5
-description: Hadatai (ハダタイ) introduction, what is a hadatai, how to wear a hadatai. Hadatai vs Zentai
+description: What a Hadatai (ハダタイ) is, how it's worn, and how it differs from zentai, plus common terminology and pitfalls.
 ---
 
-# Hadatai Intro and Basics
+# Hadatai Basics
 
 ## Intro to Hadatai - Hadatai vs Zentai
 Hadatai (ハダタイ) is a type of zentai-like bodysuit worn by kigs. Its not a zentai, but a hadatai.

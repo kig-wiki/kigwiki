@@ -1,15 +1,15 @@
 ---
 id: reality-of-diy
-title: DIY Kigurumi Intro
+title: DIY Kigurumi Mask: What to Expect Before You Start
 slug: /diy-mask/reality-of-diy
 tags:
   - diy
   - mask
 sidebar_position: 1
-description: DIY Kigurumi Mask Intro, what you should know before you consider doing a DIY kigurumi mask
+description: What to know before attempting a DIY kigurumi mask: constraints, tradeoffs, and common surprises first-timers encounter.
 ---
 
-# Before you consider doing a DIY Kigurumi Mask
+# Before You Start a DIY Kigurumi Mask
 
 Often times on social media, the realities of making a DIY Kigurumi Mask are not fully portrayed, often only showing the highlights and the the tedius process. This page is meant to provide a more realistic view of the realities of making a DIY Kigurumi Mask.
 
