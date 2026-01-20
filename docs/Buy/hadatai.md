@@ -17,6 +17,7 @@ import { hadataiData } from '../../src/data/hadatai-data';
 
 Hadatai are full-body suits that are often worn with kigurumi masks to both cover the the body and hide any padding or shapewear being used. This directory contains information about various hadatai makers, their pricing, and contact information.
 
+If you are looking for general information on hadatai, check out our [Hadatai Basics](../Start/hadatai-basics.md) page.
 
 <HadataiCards data={hadataiData} />
 

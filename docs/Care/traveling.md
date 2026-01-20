@@ -36,3 +36,6 @@ Other considerations before flying should include:
 - **Packing**: Packing securely and protected is a given, but consider not to pack any objects that might increase the odds airport staff might want to open your luggage. Silicone padding or other oddly dense objects can raise a flag.
 - **Insurance**: Many airlines will not cover damage to your luggage or mask. Consider booking via a credit card that offers free travel insurance if you have one. Most still will not cover most of the mask's cost but may at least dampen the blow.
 
+#### Additional Resources
+
+- [Kigurumi Mask Storage](./mask-storage.md)

@@ -117,3 +117,7 @@ If you absolutely need to use a dryer, use the lowest heat setting possible to a
 ## Post Wash Care
 
 With use your hadatai may start to show signs of wear and tear, the most common being pilling around high friction areas such as hands and feet, or around the joints. Using a fabric depiller can help remove the pilling and prevent buildup, keeping your hands looking their best. As always, **avoid velcro** at all costs.
+
+#### Additional Resources
+
+- [Kigurumi Mask Care](./cleaning-mask.md)

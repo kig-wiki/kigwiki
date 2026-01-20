@@ -46,3 +46,7 @@ One of the best things you can do is study other people's masks, although finer 
 **Safety equipment is often overlooked**: 
 
 Safety equipment is also sadly often overlooked, do not skip on a resperator when sanding or painting, no kig mask is worth your health. There have been makers who have had major health issues due to not wearing a resperator. 
+
+#### Additional Resources
+
+- [Open-Source Resources for DIY Kigurumi Masks](./open-source-resources.md)

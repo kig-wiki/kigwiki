@@ -30,3 +30,9 @@ This section is under development. Future content plans to include:
 - A whole lot more about Taobao and the proxy ordering process
 
   :::
+
+
+#### Additional Resources
+
+- [Kigurumi Mask Maker List](./makers.md)
+- [Kigurumi Mask Commissioning Guide](./commissioning-guide.md)

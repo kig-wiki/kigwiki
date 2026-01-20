@@ -22,7 +22,7 @@ Have information you'd like to add? Please [contribute](./02-contributing.md), K
 
 Looking for mask makers or where to get a hadatai?
 
-- [Maker list](Buy/makers.md)
+- [Kigurumi Mask Maker list](Buy/makers.md)
 - [Hadatai vendors](Buy/hadatai.md)
 
 ## About Kig.Wiki

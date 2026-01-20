@@ -98,3 +98,7 @@
 /diy-mask/refurbishment-ideas/ / 301
 /diy-mask/wigs / 301
 /diy-mask/wigs/ / 301
+
+# Redirect old costs/timeline subpage to commissioning guide
+/buy/costs-timelines /buy/commissioning 301
+/buy/costs-timelines/ /buy/commissioning 301

@@ -1,6 +1,6 @@
 ---
 id: mask-maker-styles
-title: Kigurumi Mask Makers and Stores List
+title: Kigurumi Mask Makers and Stores List | Guide To Finding The Best Kigurumi Masks 2026
 slug: /buy/makers
 tags:
   - buying
@@ -15,9 +15,9 @@ import { makersData } from '../../src/data/makers-data';
 
 # Kigurumi Mask Makers & Sellers
 
-This directory contains information about various kigurumi mask makers, including their pricing, contact information, and features. Use the search and sort functionality to find makers that match your needs.
+This directory contains information about various kigurumi mask makers, including their pricing, contact information, and features. Use the search and sort functionality to find makers that match your needs. Check out our [Kigurumi Mask Commissioning Guide](./commissioning-guide.md) to learn more about how to commission a kigurumi mask, or [Kigurumi Basics](../Start/mask-basics.md) to learn more about kigurumi masks in general.
 
-This is not a comprehensive list of all mask makers, but a general list of some of the more popular ones that typically are a safer bet. This list is currently growing and not yet in it's final form. Please [contribute](../02-contributing.md) to the wiki if you feel a maker is missing or you have more information about a maker! Your help is greatly appreciated.
+This is not a comprehensive list of every mask maker, but a general list of some of the more popular ones who are a safer bet. This list is currently growing and not yet in it's final form. Please [contribute](../02-contributing.md) to the wiki if you feel a maker is missing or you have more information about a maker! Your help is greatly appreciated.
 
 <MakersCards data={makersData} />
 
