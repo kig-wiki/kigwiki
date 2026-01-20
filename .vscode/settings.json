@@ -27,7 +27,12 @@
     "*.mdx": "mdx"
   },
   "markdown.validate.enabled": true,
+  "markdown.validate.fileLinks.enabled": "warning",
+  "markdown.validate.ignoredLinks": [
+    "/img/**"
+  ],
   "markdown.updateLinksOnFileMove.enabled": "prompt",
   "markdown.preview.breaks": true,
-  "markdown.extension.toc.updateOnSave": true
+  "markdown.extension.toc.updateOnSave": true,
+  "markdown.validate.fileLinks.markdownFragmentLinks": "warning"
 } 
