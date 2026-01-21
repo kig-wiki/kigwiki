@@ -1,12 +1,13 @@
 ---
 id: troubleshooting
-title: Kigurumi Troubleshooting: Common Mask & Hadatai Issues
+title: "Kigurumi Troubleshooting: Common Mask & Hadatai Issues"
+sidebar_label: "Troubleshooting"
 slug: /resource/troubleshooting
 tags:
   - introduction
   - resource
 sidebar_position: 10
-description: Troubleshooting common kigurumi issues and practical fixes, including fit, comfort, cleaning, and handling problems.
+description: "Troubleshooting common kigurumi issues and practical fixes, including fit, comfort, cleaning, and handling problems. Learn how to troubleshoot common issues with your Kigurumi Mask and Hadatai."
 ---
 
 # Kigurumi Troubleshooting

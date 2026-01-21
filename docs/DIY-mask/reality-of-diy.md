@@ -1,12 +1,13 @@
 ---
 id: reality-of-diy
-title: DIY Kigurumi Mask: What to Expect Before You Start
+title: "DIY Kigurumi Mask: What to Expect Before You Start"
+sidebar_label: "DIY Cautionary Info"
 slug: /diy-mask/reality-of-diy
 tags:
   - diy
   - mask
 sidebar_position: 1
-description: What to know before attempting a DIY kigurumi mask: constraints, tradeoffs, and common surprises first-timers encounter.
+description: "What to know before attempting a DIY kigurumi mask: constraints, tradeoffs, and common surprises first-timers encounter."
 ---
 
 # Before You Start a DIY Kigurumi Mask

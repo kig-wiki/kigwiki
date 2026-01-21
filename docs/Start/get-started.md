@@ -1,11 +1,12 @@
 ---
 id: introduction-beginner-path
-title: Kigurumi Guide to Getting Started
+title: "Kigurumi Guide to Getting Started"
+sidebar_label: "Getting Started"
 slug: /start/get-started-with-kigurumi
 tags:
   - introduction
 sidebar_position: 1
-description: Start here: the basic components, common first steps, and what to know before buying a kigurumi mask or hadatai.
+description: "Start here: the basic components, common first steps, and what to know before buying a kigurumi mask or hadatai. Get started with Kigurumi."
 ---
 
 # Getting started with Kigurumi

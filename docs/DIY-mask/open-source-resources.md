@@ -1,12 +1,13 @@
 ---
 id: diy-mask-open-source-resources
-title: Open-Source DIY Kigurumi Mask Resources (3D Models)
+title: "Open-Source DIY Kigurumi Mask Resources (3D Models)"
+sidebar_label: "DIY Resources"
 slug: /diy-mask/open-source-resources
 tags:
   - diy
   - mask
 sidebar_position: 4
-description: Collection of open-source DIY kigurumi mask resources, including free 3D models and related materials.
+description: "Collection of open-source DIY kigurumi mask resources, including free 3D models and related materials."
 ---
 
 # Open-Source Resources for DIY Kigurumi Masks
@@ -22,3 +23,4 @@ There exist a few open source 3d models that can be used for DIY kigurumi masks,
 Please contribute to the wiki if you have an example of a 3d model you think is particularly well done.
 
 :::
+

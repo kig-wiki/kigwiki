@@ -1,12 +1,13 @@
 ---
 id: mask-storage
-title: How to Store a Kigurumi Mask
+title: "How to Store a Kigurumi Mask"
+sidebar_label: "Storaging Masks"
 slug: /care/kig-storage
 tags:
   - mask
   - care
 sidebar_position: 4
-description: Storage methods for kigurumi masks: ways to protect shape, finish, and components during short and long-term storage.
+description: "Storage methods for kigurumi masks: ways to protect shape, finish, and components during short and long-term storage."
 ---
 
 # Kigurumi Storage Methods

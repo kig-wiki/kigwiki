@@ -1,11 +1,12 @@
 ---
 id: mask-padding
-title: Kigurumi Mask Padding Guide (Fit & Comfort)
+title: "Kigurumi Mask Padding Guide (Fit & Comfort)"
+sidebar_label: "Padding Masks"
 slug: /care/mask-padding
 tags:
   - mask
   - care
-description: How to pad your Kigurumi Mask to best fit your head
+description: "How to pad your Kigurumi Mask to best fit your head"
 ---
 
 # Kigurumi Mask Padding Guide 
@@ -30,8 +31,7 @@ Some makers will use plain foam, consider using microfiber sponges with velcro s
 
 ## Examples
 
-:::note[Have an example? Please contribute!]
-
-Please contribute to the wiki if you have an example of a mask with padding you think is particularly well done.
+:::note
+Have an example you think is particularly well done? Please contribute!
 
 :::

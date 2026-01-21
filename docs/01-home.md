@@ -1,11 +1,12 @@
 ---
 sidebar_position: 1
-title: Kigurumi Mask Wiki
+title: "Kigurumi Mask Wiki"
+sidebar_label: "Home"
 slug: /
-description: Kigurumi Mask wiki: beginner basics, buying guidance, care, troubleshooting, and community resources.
+description: "Kigurumi Mask wiki: beginner basics, buying guidance, care, troubleshooting, and community resources."
 ---
 
-# Kigurumi Mask Wiki (Kig.wiki)
+# Kigurumi Mask Wiki
 
 Welcome to **Kig.Wiki**, an open resource for Kigurumi Masks (着ぐるみ).
 

@@ -1,8 +1,9 @@
 ---
 id: traveling-with-kig-overview
-title: Traveling With a Kigurumi Mask
+title: "Traveling With a Kigurumi Mask"
+sidebar_label: "Traveling With Kig"
 slug: /traveling-with-kig
-description: Travel tips for kigurumi masks: packing, carry-on vs checked luggage considerations, and ways to avoid damage in transit.
+description: "Travel tips for kigurumi masks: packing, carry-on vs checked luggage considerations, and ways to avoid damage in transit."
 ---
 
 # Traveling With a Kigurumi Mask
@@ -25,7 +26,7 @@ If they can't fit it in a carry on, "Pelican" style boxes are a popular choice. 
     loading="lazy"
   />
   <div className="info-box-caption">
-    Nanuk 960 is the largest you can fly with on most airlines before going oversized
+    Nanuk 960 is their largest model you can fly with on most airlines before going oversized
   </div>
 </div>
 
@@ -38,4 +39,4 @@ Other considerations before flying should include:
 
 #### Additional Resources
 
-- [Kigurumi Mask Storage](./mask-storage.md)
+- [Kigurumi Mask Storage](./storage.md)

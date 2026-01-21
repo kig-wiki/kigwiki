@@ -1,6 +1,7 @@
 ---
 id: mask-maker-styles
 title: Kigurumi Mask Makers and Stores List | Guide To Finding The Best Kigurumi Masks 2026
+sidebar_label: "Mask Makers List"
 slug: /buy/makers
 tags:
   - buying

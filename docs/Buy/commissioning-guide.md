@@ -1,12 +1,13 @@
 ---
 id: mask-commissioning-guide
-title: Kigurumi Mask Commissioning Guide - How to Order a Kigurumi Mask
+title: "Kigurumi Mask Commissioning Guide - How to Order a Kigurumi Mask"
+sidebar_label: "Commissioning Guide"
 slug: /buy/commissioning
 tags:
   - buying
   - mask
 sidebar_position: 5
-description: How kigurumi mask commissions work: what to ask makers, typical options, and how to reduce mistakes and misunderstandings.
+description: "How kigurumi mask commissions work: what to ask makers, typical options, and how to reduce mistakes and misunderstandings."
 ---
 
 # Kigurumi Mask Commissioning Guide

@@ -1,12 +1,13 @@
 ---
 id: cleaning-mask
-title: Cleaning Your Kigurumi Mask (Care Guide)
+title: "Cleaning Your Kigurumi Mask (Care Guide)"
+sidebar_label: "Cleaning Masks"
 slug: /care/cleaning-mask
 tags:
   - mask
   - care
 sidebar_position: 2
-description:  Practical guidance for cleaning and maintaining a kigurumi mask to keep it in good condition and reduce wear over time.
+description: "Practical guidance for cleaning and maintaining a kigurumi mask to keep it in good condition and reduce wear over time."
 ---
 
 # How to Clean a Kigurumi Mask

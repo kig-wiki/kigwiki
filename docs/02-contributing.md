@@ -1,8 +1,9 @@
 ---
 sidebar_position: 3
-title: Contributing Guide (How to Edit Kig.wiki)
+title: "Contributing Guide (How to Edit Kig.wiki)"
+sidebar_label: "Contributing to Kig.wiki"
 slug: /contributing
-description: How to contribute to Kig.wiki: editing workflow, expectations, and the basic process for improving pages and resources.
+description: "How to contribute to Kig.wiki: editing workflow, expectations, and the basic process for improving pages and resources. Contribute to Kig.wiki and help improve the wiki."
 ---
 
 # Contributing to Kig.wiki

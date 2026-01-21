@@ -1,11 +1,12 @@
 ---
 id: introduction-faq
-title: Kigurumi FAQ: Masks, Hadatai, Buying & Care
+title: "Kigurumi FAQ: Masks, Hadatai, Buying & Care"
+sidebar_label: "FAQ"
 slug: /reference/faq
 tags:
   - introduction
 sidebar_position: 9
-description: Answers to common kigurumi questions about masks, hadatai, buying, care, comfort, and basic expectations for newcomers.
+description: "Answers to common kigurumi questions about masks, hadatai, buying, care, comfort, and basic expectations for newcomers."
 ---
 
 import FAQStructuredData from '@site/src/theme/MDXComponents/FAQStructuredData';

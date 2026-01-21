@@ -1,11 +1,13 @@
 ---
 id: introduction-what-is-kigurumi
-title: What Is Kigurumi? Kigurumi Masks Explained
+title: "What Is Kigurumi? Kigurumi Masks Explained"
+sidebar_label: "What is Kigurumi?"
 slug: /start/what-is-kigurumi
 tags:
   - introduction
 sidebar_position: 2
-description: Definition and overview of kigurumi masks, key terms, and how the hobby is commonly approached.
+description: "Definition and overview of kigurumi masks, key terms, and how the hobby is commonly approached."
+---
 
 # What is Kigurumi?
 

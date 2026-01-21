@@ -1,13 +1,14 @@
 ---
 id: buying-hadatai
-title: Hadatai Stores and Where to Buy a Hadatai
+title: "Hadatai Stores and Where to Buy a Hadatai"
+sidebar_label: "Hadatai Stores"
 slug: /buy/hadatai
 tags:
   - buying
   - makers
   - hadatai
 sidebar_position: 2
-description: Where to buy hadatai: maker list, typical options, and what to look for when choosing sizing, fabric, and construction.
+description: "Where to buy hadatai: maker list, typical options, and what to look for when choosing sizing, fabric, and construction."
 ---
 
 import HadataiCards from '@site/src/components/HadataiCards';

@@ -1,8 +1,9 @@
 ---
 id: community-overview
-title: Kigurumi Communities: Discords, Forums & Groups
+title: "Kigurumi Communities: Discords, Forums & Groups"
+sidebar_label: "Communities"
 slug: /community/community-overview
-description: Places where kigurumi hobbyists gather: communities, Discords, and other hubs for discussion, learning, and help.
+description: "Places where kigurumi hobbyists gather: communities, Discords, and other hubs for discussion, learning, and help."
 ---
 
 # Kigurumi Communities

@@ -1,11 +1,12 @@
 ---
 id: hadati-padding-theory
-title: Kigurumi Mask Padding Guide (Fit & Comfort)
+title: "Kigurumi Mask Padding Guide (Fit & Comfort)"
+sidebar_label: "Padding Theory"
 slug: /start/padding-theory
 tags:
   - hadatai
 sidebar_position: 6
-description: Concepts behind padding for kigurumi: shape, proportions, and fit. What padding changes and how to use it.
+description: "Concepts behind padding for kigurumi: shape, proportions, and fit. What padding changes and how to use it. Learn how to pad your Kigurumi Mask to best fit your head."
 ---
 
 # Kigurumi Padding Theory

@@ -1,11 +1,12 @@
 ---
 id: shopping-taobao-guide
-title: Kigurumi Taobao Guide for Buying Kigurumi Masks
+title: "Kigurumi Taobao Guide for Buying Kigurumi Masks"
+sidebar_label: "Taobao Guide"
 slug: /buy/marketplaces/taobao-guide
 tags:
   - buying
   - secondhand
-description: How to buy kigurumi-related items through Taobao, including the typical workflow and issues buyers run into.
+description: "How to buy kigurumi-related items through Taobao, including the typical workflow and issues buyers run into."
 ---
 
 # Taobao Guide for Buying Kigurumi Masks and Hadatai
