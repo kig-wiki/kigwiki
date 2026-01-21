@@ -1,7 +1,7 @@
 ---
 id: buy-padding-shapewear
 title: Where to Buy Padding and Shapewear for Kigurumi
-sidebar_label: "Buy Padding and Shapewear"
+sidebar_label: "Padding and Shapewear Sellers"
 slug: /buy/padding-and-shapewear
 tags:
   - buying
