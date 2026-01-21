@@ -44,7 +44,7 @@ Foam while the most breathable of the padding types, its also one of the most an
 
 Less so accessible to make yourself or customize, silicone padding offers neater seam lines, are more flexible and less likely to show through the hadatai.
 
-Beyond costing more, they are also a lot heavier and more of a pain to transport. 
+Beyond costing more, they are also a lot heavier and more of a pain to transport.
 
 ### Inflatable Latex Padding
 
@@ -64,3 +64,6 @@ Various types of shapewear include:
 - Corsets
 - "Butt lifters"
 
+#### Where to buy Shapewear?
+
+See our [Buy Shapewear](../Buy/buy-padding-shapewear.md) page for a list of shapewear sellers.
