@@ -1,0 +1,33 @@
+name: Validate Documentation
+
+on:
+  pull_request:
+    paths:
+      - 'docs/**'
+      - 'kigwiki-docusaurus/scripts/validate-docs.js'
+      - '.github/workflows/validate-docs.yml'
+  push:
+    paths:
+      - 'docs/**'
+      - 'kigwiki-docusaurus/scripts/validate-docs.js'
+      - '.github/workflows/validate-docs.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Initialize submodules
+        run: git submodule update --init --recursive
+      
+      - name: Validate documentation
+        run: node kigwiki-docusaurus/scripts/validate-docs.js
+
