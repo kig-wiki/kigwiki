@@ -19,14 +19,18 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          submodules: recursive
       
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
       
-      - name: Initialize submodules
-        run: git submodule update --init --recursive
+      - name: Initialize submodules with HTTPS
+        run: |
+          git config --global url."https://github.com/".insteadOf "git@github.com:"
+          git submodule update --init --recursive
       
       - name: Validate documentation
         run: node kigwiki-docusaurus/scripts/validate-docs.js
