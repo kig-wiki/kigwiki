@@ -6,7 +6,7 @@ slug: /resource/glossary
 tags:
   - introduction
   - resource
-sidebar_position: 7
+sidebar_position: 8
 description: "Glossary of common kigurumi terms (kig, hadatai, animegao, kiger, and more) in one reference list. Learn the meaning of common kigurumi terms."
 ---
 

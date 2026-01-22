@@ -1,6 +1,6 @@
 ---
 id: mask-maker-styles
-title: Kigurumi Mask Makers and Stores List | Guide To Finding The Best Kigurumi Masks 2026
+title: "Kigurumi Mask Makers and Stores List | Guide To Finding The Best Kigurumi Masks 2026"
 sidebar_label: "Mask Makers List"
 slug: /buy/makers
 tags:
@@ -8,7 +8,7 @@ tags:
   - makers
   - mask
 sidebar_position: 1
-description: Directory of kigurumi mask makers and sellers, with notes to help you compare options and understand what each offers.
+description: "Directory of kigurumi mask makers and sellers, with notes to help you compare options and understand what each offers."
 ---
 
 import MakersCards from '@site/src/components/MakersCards';

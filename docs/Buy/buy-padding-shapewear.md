@@ -1,13 +1,13 @@
 ---
 id: buy-padding-shapewear
-title: Where to Buy Padding and Shapewear for Kigurumi
+title: "Where to Buy Padding and Shapewear for Kigurumi"
 sidebar_label: "Padding and Shapewear Sellers"
 slug: /buy/padding-and-shapewear
 tags:
   - buying
   - hadatai
 sidebar_position: 3
-description: List of popular padding and shapewear sellers for kigurumi performers.
+description: "List of popular padding and shapewear sellers for kigurumi performers."
 ---
 
 # Where to Buy Padding and Shapewear for Kigurumi

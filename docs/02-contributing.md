@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 title: "Contributing Guide (How to Edit Kig.wiki)"
 sidebar_label: "Contributing to Kig.wiki"
 slug: /contributing
