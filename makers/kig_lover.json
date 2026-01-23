@@ -1,0 +1,18 @@
+{
+  "name": "KigLover",
+  "website": "https://kiglover.com/",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/kiglover_site"
+  },
+  "priceTier": "$$",
+  "currency": "CNY",
+  "materialType": "3D print",
+  "size": "custom",
+  "features": {
+    "Hard Hair": false
+  },
+  "englishOrdering": true,
+  "notes": "Very thorough documentation on their site for the ordering process found [on their site](https://kiglover.com/blogs/become-kiger-a-series-of-tutorials-to-help-kiger/become-kiger-how-to-order-a-kigurumi-kigu-mask) as well as a [publicly shared commission process](https://x.com/kiglover_site/status/2001865033999904901). \n\n Site additionally has a number of DIY resources and tutorials, as well as a link to their discord."
+} 
