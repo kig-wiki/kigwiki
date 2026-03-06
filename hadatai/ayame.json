@@ -1,0 +1,26 @@
+{
+  "name": "Ayame",
+  "socials": {
+    "x": "https://x.com/ayamestore/",
+    "weibo": "",
+    "bluesky": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "Region": "Japan",
+  "currency": "JPY",
+  "englishOrdering": true,
+  "priceExamples": [
+    {
+      "type": "Easy Order Page",
+      "price": "20240",
+      "link": "https://hadatai.jp/en/easyorder.html"
+    },
+    {
+      "type": "Full Option Ordering Page",
+      "price": "20900",
+      "link": "https://hadatai.jp/en/fullcustom.html"
+    }
+  ],
+  "notes": "Top tier Japanese hadatai maker. Higher prices, higher quality with more options and a variety of material choices. Strong attention to detail in their work. \n\n Prices listed are starting prices, options, materials and other addons can add to the cost."
+} 
