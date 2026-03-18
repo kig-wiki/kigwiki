@@ -42,7 +42,10 @@ Sites such as [thingiverse](https://www.thingiverse.com/search?q=kigurumi&page=1
 
 ### Printing Materials
 
-Many bought kig masks tend to be printed using a resin or SLA 3D printer as
+Many bought kig masks tend to be printed using a resin or SLA 3D printer. Due to the sizes involved, unless you are using a professional 3D printing service this may not be an option. If you have a choice of resin, do choose stronger "ABS-like" resins as many resins are weak and the last thing you want is your mask to warp or break after all that time and effort.
+
+If using a more traditional FDM printer, you will want to consider using a material that is heat resistant and has a good balance of strength and flexibility. Basically, not PLA. PLA is too weak in heat and while rigid, is too brittle. PETG is a better option but still will require plenty of sanding.
+ASA or ABS if you can print them are by far better choices, and can utilize vapor smoothing to help with the surface quality.
 
 ### Latches and locks
 
