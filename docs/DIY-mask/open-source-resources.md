@@ -40,6 +40,10 @@ Sites such as [thingiverse](https://www.thingiverse.com/search?q=kigurumi&page=1
 
 ## Components
 
+### Printing Materials
+
+Many bought kig masks tend to be printed using a resin or SLA 3D printer as
+
 ### Latches and locks
 
 If you're making a "full" or "full lock" mask, you will want to consider how to secure the mask and the two halves together. What you are often looking for in specific is a "hasp", which has a clasp that connects to the two halves of the mask. These come in many varities from simple, to integrated locks, or with a pass through for a small external lock.
@@ -60,7 +64,7 @@ Pre-made mask options may or may not have existing spots for a hasp, you may nee
 
 A popular option many Chinese makers use is a "3018 带锁" (3018 with lock) hasp readily available via Taobao, [here](https://www.taobao.com/list/item/ekgySkZJR3F4VjR5dkc2cFNkU3Rydz09.htm) for example, however you will need a proxy service to order from Taobao. If you need help finding a proxy service, check out our [taobao guide](../Buy/taobao-guide.md).
 
-Your local hardware store may also have something similar if you are looking to shop closer to home. Technically this component can be 3d printed as well, take for instance the following freely available hasp [made by "Raffosan"](https://cults3d.com/en/3d-model/various/classic-style-hasp-for-boxes-model-3)
+Your local hardware store may also have something similar if you are looking to shop closer to home. Technically this component can be 3D printed as well, take for instance the following freely available hasp [made by "Raffosan"](https://cults3d.com/en/3d-model/various/classic-style-hasp-for-boxes-model-3)
 
 Amazon as always also has a number of options, the ["uxcell" seller for instance](https://www.amazon.com/s?k=uxcell+hasp) has dozens of options available if you want a place to start looking.
 

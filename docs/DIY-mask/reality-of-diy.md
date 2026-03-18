@@ -16,16 +16,17 @@ Often times on social media, the realities of making a DIY Kigurumi Mask are not
 
 A quick fact check:
 
-**DIY is not easy**: DIY Kigurumi masks take proficiency in a number of skills including but not limited to: 
+**DIY is not easy**: DIY Kigurumi masks take proficiency in a number of skills including but not limited to:
+
 - 3D modeling
 - 3D Printing
-- Sanding 
-- Airbrush painting 
+- Sanding
+- Airbrush painting
 - Wig making and styling
 
-If you are new to 3d printing cosplay props, have never styled a wig, or have never seen a kigurumi mask up close before, DIY will introduce a number of new challenges and learning curves.
+If you are new to 3D printing cosplay props, have never styled a wig, or have never seen a kigurumi mask up close before, DIY will introduce a number of new challenges and learning curves.
 
-While some components can be outsourced, such as using a generic premade model, or leveraging a 3d printing service, there is a lot of work that needs to be done in order to get a mask to a point where it is ready to be used.
+While some components can be outsourced, such as using a generic premade model, or leveraging a 3D printing service, there is a lot of work that needs to be done in order to get a mask to a point where it is ready to be used.
 
 Regular wigs for instance are not nearly big enough for Kig masks for instance and **will** look uncanny if used, you will often need to piece together the wig yourself. Masks need styling as well, if you arent used to styling wigs, you will want to learn and use practice wigs before attempting to style a mask's hair.
 
@@ -42,11 +43,11 @@ Details such as getting the eyes holes aligned properly to see through while als
 
 Do not expect the first mask shell you get printed to be the one that you want to use, its not unusual to have to iterate multiple times before it's suitable.
 
-One of the best things you can do is study other people's masks, although finer details are often difficult to notice from social media photos alone. 
+One of the best things you can do is study other people's masks, although finer details are often difficult to notice from social media photos alone.
 
-**Safety equipment is often overlooked**: 
+**Safety equipment is often overlooked**:
 
-Safety equipment is also sadly often overlooked, do not skip on a resperator when sanding or painting, no kig mask is worth your health. There have been makers who have had major health issues due to not wearing a resperator. 
+Safety equipment is also sadly often overlooked, do not skip on a resperator when sanding or painting, no kig mask is worth your health. There have been makers who have had major health issues due to not wearing a resperator.
 
 #### Additional Resources
 
