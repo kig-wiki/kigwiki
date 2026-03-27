@@ -6,7 +6,7 @@ slug: /start/what-is-kigurumi
 tags:
   - introduction
 sidebar_position: 2
-description: "Definition and overview of kigurumi masks, key terms, and how the hobby is commonly approached."
+description: "Definition and overview of kigurumi masks, key terms, and how the hobby is commonly approached. Kigurumi masks explained and how to get started with kigurumi cosplay."
 ---
 
 # What is Kigurumi?
@@ -21,22 +21,24 @@ Paired with the mask is an all-encompasing flesh-toned bodysuit known as a [Hada
 
 The Japanese term Kigurumi (着ぐるみ) itself is somewhat of a blanketed term for full body costumes, The anime kigurumi masks this wiki is focused on can be specifically referred to as Bishoujo Kigurumi (美少女着ぐるみ), although most kigurumi masks are not limited to just anime characters nor only girl characters.
 
-Owing to the stage show nature of Kigurumi, someone who kigs is often referred to as a [Kigurumi performer](./glossary.md#kigurumi-performer). 
+Owing to the stage show nature of Kigurumi, someone who kigs is often referred to as a [Kigurumi performer](./glossary.md#kigurumi-performer).
 
 ## Kigurumi Etiquite
 
 There are a number of unwritten "rules" that are often followed by kigurumi performers, two of the big ones are:
+
 - Kigurumi dont talk
 - Kigurumi dont unmask in public
 
-It's of the opinion of the admin of this wiki that those rules are more suggestions. Obviously communicate with your handler or friends as needed. Unmask if you need to cool down, hydrate or otherwise, although many kigs will do so in a less busy area though for privacy reasons.  
+It's of the opinion of the admin of this wiki that those rules are more suggestions. Obviously communicate with your handler or friends as needed. Unmask if you need to cool down, hydrate or otherwise, although many kigs will do so in a less busy area though for privacy reasons.
 
 For fans interacting with kigurumi performers keep in mind:
+
 - Kigurumi is not consent, ask before you go in for a hug or other physical contact.
 - Be understanding of the fact that kigurumi performers often dont talk, and may not be able to respond to your questions.
 - While many Kigurumi are male, dont assume all kigurumi performers are, they come in all walks of life.
 - If you want to connect with a kigurumi performer, ask them if they have any socials, many kigs will have a twitter, instagram, or other social media account they use for their kigurumi.
-- Kigurumi is performance, just because the character is friendly doesnt mean they're trying to be everyone's friend. 
+- Kigurumi is performance, just because the character is friendly doesnt mean they're trying to be everyone's friend.
 
 ## What are the typical components of a Kigurumi?
 
