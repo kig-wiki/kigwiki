@@ -91,6 +91,11 @@ Use your browser's search function (Ctrl+F / Cmd+F) to quickly find specific kig
 
 - **Definition**: The titular mask of a kigurumi costume, the most involved component of kigurumi cosplay.
 
+### **Kigurumi performer**
+
+- **Definition**: The kigurumi wearer themselves.
+- **Context**: One of several words that refers to person who dons a kigurumi mask and hadatai.
+
 ## L
 
 ### **Laowai Tax**
@@ -146,9 +151,7 @@ Ideally this section would not exist, however, some confusing terms get used tha
 **Animegao or Animegao Mask**
 
 - **Definition**: Anime face
-- **Reasoning**: An old mistranslation artifact from the early days of machine translations, where "anime faced" masks were confused for a unique term. The term is not used internationally, and can be confusing to international audiences as a sort of faux-Japanese term. [The Japanese wikipedia page](https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%9D%80%E3%81%90%E3%82%8B%E3%81%BF) has long noted that this term is an 'overseas specific term', and is not used in Japan much as some attempt to edit Wikipedia to make the term sound more genuine than it is.
-- **Historical Context**: The term was used to astroturf kigurumi masks in the west, as you would find only western results searching for the term.
-- **In defence of**: The term does at least differentiate between referring to masks versus onsie type pajamas. However you can just say kigurumi mask, kig mask, or similar.
+- **Reasoning**: An old transliteration artifact that gained some traction. The term is both confusing to some audeiences and carries negative connotation due to some western makers reviling in it's usage to capitalize on the term for their own gain. [The Japanese wikipedia page](https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%9D%80%E3%81%90%E3%82%8B%E3%81%BF) has long noted that this term is an 'overseas specific term'.
 
 **Kiger**
 
