@@ -102,3 +102,15 @@
 # Redirect old costs/timeline subpage to commissioning guide
 /buy/costs-timelines /buy/commissioning 301
 /buy/costs-timelines/ /buy/commissioning 301
+
+
+# fix redirects for publications section
+/publications/kigwiki-admin-publications/admin-intro /publications/admin-intro 301
+/publications/kigwiki-admin-publications/admin-intro/ /publications/admin-intro 301
+/publications/publications/posting-as-art /publications/posting-as-art 301
+/publications/publications/posting-as-art/ /publications/posting-as-art 301
+
+
+# latex redirects to hadatai basics page
+/hadatai/latex-info /start/hadatai-basics 301
+/hadatai/latex-info/ /start/hadatai-basics 301
