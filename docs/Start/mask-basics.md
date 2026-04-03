@@ -7,7 +7,7 @@ tags:
   - intro
   - mask
 sidebar_position: 3
-description: "Learn what kigurumi masks are like, common types and features, and practical considerations for fit, comfort, and use. Learn what kigurumi masks are, common types and features, and practical considerations for fit, comfort, and use."
+description: "Learn what kigurumi masks are like, common types and features, and practical considerations for fit, comfort, and use."
 ---
 
 # Kigurumi Mask Basics

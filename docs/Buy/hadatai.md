@@ -1,6 +1,6 @@
 ---
 id: buying-hadatai
-title: "Hadatai Stores and Where to Buy a Hadatai"
+title: "Hadatai Stores and Where to Buy a Hadatai in 2026"
 sidebar_label: "Hadatai Stores"
 slug: /buy/hadatai
 tags:
@@ -11,8 +11,8 @@ sidebar_position: 2
 description: "Where to buy hadatai: maker list, typical options, and what to look for when choosing sizing, fabric, and construction."
 ---
 
-import HadataiCards from '@site/src/components/HadataiCards';
-import { hadataiData } from '../../src/data/hadatai-data';
+import HadataiCards from "@site/src/components/HadataiCards";
+import {hadataiData} from "../../src/data/hadatai-data";
 
 # Hadatai Makers (Where to Buy)
 
@@ -27,7 +27,7 @@ If you are looking for general information on hadatai, check out our [Hadatai Ba
 - **Hadatai are made to measure**: As hadatai are custom made for each customer, the measurements are typically not a one size fits all. Some makers like GKO have various generic sizes available.
 - **Orders take time**: As hadatai are custom made for each customer the production time typically takes a while regardless of maker. Do not expect to receive your hadatai in a week.
 - **Taobao Agents**: Many hadatai makers are on Taobao and require using an agent for international orders. We are working on a [taobao guide](./taobao-guide.md) to help with this.
-- **Measurements**: Ask the hadatai maker for their measurements guide, it is highly, *highly* recommended to have someone help measure you to ensure it fits correctly. Typically these measurements are best done with any padding or shapewear being used.
+- **Measurements**: Ask the hadatai maker for their measurements guide, it is highly, _highly_ recommended to have someone help measure you to ensure it fits correctly. Typically these measurements are best done with any padding or shapewear being used.
 - **Material**: Consider the material thickness (1mm, 2mm, etc.) based on your needs. Thicker material obscure lines and anything under the hadatai, while thinner material run cooler and are more breathable.
 
 ## Misc

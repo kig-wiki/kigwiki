@@ -6,7 +6,7 @@ slug: /start/what-is-kigurumi
 tags:
   - introduction
 sidebar_position: 2
-description: "Definition and overview of kigurumi masks, key terms, and how the hobby is commonly approached. Kigurumi masks explained and how to get started with kigurumi cosplay."
+description: "Definition and overview of kigurumi masks, and how the hobby is commonly approached. How to get started with kigurumi cosplay."
 ---
 
 # What is Kigurumi?

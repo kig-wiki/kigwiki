@@ -3,7 +3,7 @@ sidebar_position: 2
 title: "Contributing Guide (How to Edit Kig.wiki)"
 sidebar_label: "Contributing to Kig.wiki"
 slug: /contributing
-description: "How to contribute to Kig.wiki: editing workflow, expectations, and the basic process for improving pages and resources. Contribute to Kig.wiki and help improve the wiki."
+description: "How to contribute to Kig.wiki: editing workflow, expectations, and the basic process for improving pages and resources."
 ---
 
 # Contributing to Kig.wiki
@@ -12,7 +12,7 @@ A few things to note before contributing:
 
 tldr: Be nice, be respectful, be helpful. Don't try to upload content you don't have permission to share with us, or content that goes against GitHub's terms of service.
 
-On this wiki, we may use location labels for regional references, as importing and shipping options may differ especially for western buyers. These terms are used in a geographic sense only. 
+On this wiki, we may use location labels for regional references, as importing and shipping options may differ especially for western buyers. These terms are used in a geographic sense only.
 
 ## How to Contribute
 
@@ -32,7 +32,7 @@ If this is not your thing, you can still contribute by [opening an issue](https:
 ### Traditional Git Method
 
 For those who are more comfortable with Git, you can clone the repository and make your changes locally.
-Repo has vscode settings if you want a better experience. 
+Repo has vscode settings if you want a better experience.
 
 ### Document Structure
 
@@ -57,10 +57,10 @@ For example this will link to the contributing guide:
 
 We have a custom component for embedding social media posts. It's a work in progress and will be improved in the future.
 It can be used like this:
-```<SocialEmbed post="https://twitter.com/user/status/1234567890" />```
-```<SocialEmbed post="https://bsky.app/profile/username/post/1234567890"  />```
-```<SocialEmbed post="https://www.tiktok.com/@username/video/1234567890"  />```
-```<SocialEmbed post="https://www.youtube.com/watch?v=1234567890" />```
+`<SocialEmbed post="https://twitter.com/user/status/1234567890" />`
+`<SocialEmbed post="https://bsky.app/profile/username/post/1234567890"  />`
+`<SocialEmbed post="https://www.tiktok.com/@username/video/1234567890"  />`
+`<SocialEmbed post="https://www.youtube.com/watch?v=1234567890" />`
 
 On a technical note, we do need to import a component on any pages its used, just after the frontmatter (the stuff at the top of the file that starts with `---`). ie
 
@@ -68,8 +68,6 @@ On a technical note, we do need to import a component on any pages its used, jus
 ---
 import SocialEmbed from '@site/src/components/SocialEmbed';
 ```
-
-
 
 ### Need Help?
 
@@ -81,7 +79,7 @@ If you're not familiar with Git or GitHub, don't worry! You can:
 
 While we can't guarantee all submissions will be published, we appreciate all contributions that align with our guidelines.
 
-If you really need to contact for a change and cannot use Github, you can contact via email at change-request @ kig.wiki . 
+If you really need to contact for a change and cannot use Github, you can contact via email at change-request @ kig.wiki .
 
 :::info
 You can make info type blocks and other quality of life bits, checkout the [Docusaurus documentation](https://docusaurus.io/docs/creating-pages).

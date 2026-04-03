@@ -1,17 +1,17 @@
 ---
-id: hadati-padding-theory
+id: hadatai-padding-theory
 title: "Kigurumi Mask Padding Guide (Fit & Comfort)"
 sidebar_label: "Padding Theory"
 slug: /start/padding-theory
 tags:
   - hadatai
 sidebar_position: 6
-description: "Concepts behind padding for kigurumi: shape, proportions, and fit. What padding changes and how to use it. Learn how to pad your Kigurumi Mask to best fit your head."
+description: "Concepts behind padding for kigurumi: shape, proportions, and fit. What padding changes and how to use it."
 ---
 
 # Kigurumi Padding Theory
 
-Anime style characters rarely have human proportions, this tends to be especially true for bishoujo characters. 
+Anime style characters rarely have human proportions, this tends to be especially true for bishoujo characters.
 
 So for kigurumi, shapeewear and padding are often used to complement the mask's size, and one's body shape to create a more true to 2d anime character.
 
@@ -29,16 +29,16 @@ Common areas for padding itself are generally:
 
 - Hips
 - Butt
-- Breasts 
+- Breasts
 
 Although some may use padding for other areas, these are the most common.
 
 ### Foam Padding
 
-The most accessible and flexible to DIY option, foam padding is a classic choice for many kigurumi makers. 
+The most accessible and flexible to DIY option, foam padding is a classic choice for many kigurumi makers.
 Foam padding can tend to show lines through the hadatai if not smoothed over with shapewear or an extra pair of pantyhose or two. Some prefer to add layers to avoid lines, some embrace the subtle lines padding creates.
 
-Foam while the most breathable of the padding types, its also one of the most annoying to deep clean.  
+Foam while the most breathable of the padding types, its also one of the most annoying to deep clean.
 
 ### Silicone Padding
 
@@ -49,7 +49,6 @@ Beyond costing more, they are also a lot heavier and more of a pain to transport
 ### Inflatable Latex Padding
 
 Inflatable latex padding is the most expensive option, but also the most. Typically in the form of a type of latex shorts, they have inflatable regions to customize their shape to the proportions you desire.
-
 
 ## Shapewear
 
