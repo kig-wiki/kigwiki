@@ -90,19 +90,23 @@ This depends a lot on where you live and whats available. Many stain removers fo
 Reminder, you must work the stain remover into the fabric. Follow the instructions on the product.
 
 - Puracy's Laundry Stain Remover
-  Contains Protease and Lipase enzymes, as well as Amalyse, Pectinase and Mannase enzymes for various food stains.
+
+  - Contains Protease and Lipase enzymes, as well as Amalyse, Pectinase and Mannase enzymes for various food stains.
 
 - 365 by Whole Foods Market Stain Remover
-  Protease and Amylase. Also contains Lipase, Pectate Lyase, and Mannanase for food stains.
+
+  - Protease and Amylase. Also contains Lipase, Pectate Lyase, and Mannanase for food stains.
 
 - Berkley Green Baby Fabric Stain Remover
-  Lipase and Protease, amylase and mannanase for food stains.
+
+  - Lipase and Protease, amylase and mannanase for food stains.
 
 - Zout Triple Action
-  Contains Protease and Lipase, as well as Amalyse enzymes.
+
+  - Contains Protease and Lipase, as well as Amalyse enzymes.
 
 - Lion brand "Top Nanox for collars and sleeves"
-  While it's only enzyme is a type of Lipase enzyme, it is a very concentrated stain remover for sebum based stains. Japanese based, in other regions it may only be available at import stores.
+  - While it's only enzyme is a type of Lipase enzyme, it is a very concentrated stain remover for sebum based stains. Japanese based, in other regions it may only be available at import stores.
 
 :::note
 
@@ -115,39 +119,47 @@ Know any other potent options in your region? Please let us know over on our [gi
 Better than nothing but often lacking lipase. Many will still contain various surfactants that can help with a variety of stains, they arent useless but may not be as effective for common hadatai stains as more specialized options.
 
 - Tide OxiPro Stain Remover - Grease Stains
-  Lipase but no protease. Good for sebum based stains.
+
+  - Lipase but no protease. Good for sebum based stains.
 
 - OxiClean Max Force Spray and Max Gel
-  Has protease but not lipase, amylase and mannase are more food stain targeting. The oxi (sodium hydroxide) components mainly help with oxidizible stains (grass, blood, coffee, fruit juice, sweat) not anything oil based. Still a better option than the powder oxi-products.
+
+  - Has protease but not lipase, amylase and mannase are more food stain targeting. The oxi (sodium hydroxide) components mainly help with oxidizible stains (grass, blood, coffee, fruit juice, sweat) not anything oil based. Still a better option than the powder oxi-products.
 
 - Shout Active Enzyme "Triple-acting" stain remover
-  Only enzyme is protease. The "triple action" is that it "clings to fabric stains, penetrates stains, and lift stains". In reality its a basic protease + surfactant formula. Ironically their dual action formula contains more enzyme types but is still lacking lipase.
+
+  - Only enzyme is protease. The "triple action" is that it "clings to fabric stains, penetrates stains, and lift stains". In reality its a basic protease + surfactant formula. Ironically their dual action formula contains more enzyme types but is still lacking lipase.
 
 - Carbona Bio-enzyme Stain Remover
-  Similar story to Shout, only enzyme is protease, otherwise relies on surfactants to clean.
+  - Similar story to Shout, only enzyme is protease, otherwise relies on surfactants to clean.
 
 ### Non-recommended options
 
 Some stain removers are more focused on food stains, or are misleading in their claimes. Some notable examples are:
 
 - Dove soap
-  A bit of a "wive's tale" for washing hadatai for washing hadatai hands in particular. Dove soap is a surfactant, it helps clean but contains a lot of useless ingredients like moisturizers and other components that are not effective for laundry. Its great for your hands, not so much for your hadatai.
-  Most of it's "action" lies in rubbing a surfactant into the fabric, it will be less effective than doing so with an actual stain remover. If its all you have at a convention hotel, its better than nothing, but not ideal.
+
+  - A bit of a "wive's tale" for washing hadatai for washing hadatai hands in particular. Dove soap is a surfactant, it helps clean but contains a lot of useless ingredients like moisturizers and other components that are not effective for laundry. Its great for your hands, not so much for your hadatai.
+    Most of it's "action" lies in rubbing a surfactant into the fabric, it will be less effective than doing so with an actual stain remover. If its all you have at a convention hotel, its better than nothing, but not ideal.
 
 - Liquid (chlorine) bleach
-  Can damage and discolor hadatai, avoid.
+
+  - Can damage and discolor hadatai, avoid.
 
 - Oxygen bleach powders (ie oxyclean, resolove, oxi-type powders)
-  They mostly help with oxidizible stains (grass, blood, coffee, fruit juice, sweat). Main issues are many contain optical brighteners which can cause shift in colors, using too much can cause discoloration, and generally dosing is not as ideal as products meant to be specifically targeted onto stains.
+
+  - They mostly help with oxidizible stains (grass, blood, coffee, fruit juice, sweat). Main issues are many contain optical brighteners which can cause shift in colors, using too much can cause discoloration, and generally dosing is not as ideal as products meant to be specifically targeted onto stains.
 
 - Any "white revive" or "white boost" products
-  Optical brighteners, avoid. Pointless for hadatai, will cause shifts in color over time.
+
+  - Optical brighteners, avoid. Pointless for hadatai, will cause shifts in color over time.
 
 - Stain sheets or color catchers
-  Designed to trap dyes and some stains from transfering to other clothes, they dont really work well and dont really help with actually removing stains. Avoiding washing hadatai with other clothes, particularly heavily stained ones avoids this problem altogether.
+
+  - Designed to trap dyes and some stains from transfering to other clothes, they dont really work well and dont really help with actually removing stains. Avoiding washing hadatai with other clothes, particularly heavily stained ones avoids this problem altogether.
 
 - Shout Advanced Grease Busting Foam
-  Relies on propellant as a strong solvent with some surfactants to remove oil stains. Risks spreading stains or transfering them. Unsure how color-safe it would be for hadatai, not worth the risk. Best avoided unless you're desperate for an intense oil stain.
+  - Relies on propellant as a strong solvent with some surfactants to remove oil stains. Risks spreading stains or transfering them. Unsure how color-safe it would be for hadatai, not worth the risk. Best avoided unless you're desperate for an intense oil stain.
 
 Most stain removers you can usually google "product + ingredients" to find out what they contain. If they're ambiguous, its probably a mediocre formulation.
 
