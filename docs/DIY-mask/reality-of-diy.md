@@ -12,19 +12,20 @@ description: "What to know before attempting a DIY kigurumi mask: constraints, t
 
 # Before You Start a DIY Kigurumi Mask
 
-Often times on social media, the realities of making a DIY Kigurumi Mask are not fully portrayed, often only showing the highlights and the the tedius process. This page is meant to provide a more realistic view of the realities of making a DIY Kigurumi Mask.
+Often times on social media, the realities of making a DIY Kigurumi Mask are not fully portrayed, often only showing the highlights and not the tedius process or constant itterations. Getting started is easy, but finishing a mask that you're happy with is quite honestly, not.
+This page is meant to provide a more realistic view of many difficulties of making a DIY Kigurumi Mask.
 
-A quick fact check:
+**If you are new to 3D printing cosplay props, have never styled a wig, DIY will introduce a number of new challenges and learning curves.**
+
+**If you have never seen a Kigurumi mask up close before, there are a number of subtleties to functional design and aesthetic styling that are easy to overlook. Details that aren't so simple to just pick up from references alone.**
 
 **DIY is not easy**: DIY Kigurumi masks take proficiency in a number of skills including but not limited to:
 
-- 3D modeling
+- Advanced 3D modeling
 - 3D Printing
 - Sanding
 - Airbrush painting
-- Wig making and styling
-
-If you are new to 3D printing cosplay props, have never styled a wig, or have never seen a kigurumi mask up close before, DIY will introduce a number of new challenges and learning curves.
+- Wig making and wig styling
 
 While some components can be outsourced, such as using a generic premade model, or leveraging a 3D printing service, there is a lot of work that needs to be done in order to get a mask to a point where it is ready to be used.
 
@@ -49,6 +50,6 @@ One of the best things you can do is study other people's masks, although finer 
 
 Safety equipment is also sadly often overlooked, do not skip on a resperator when sanding or painting, no kig mask is worth your health. There have been makers who have had major health issues due to not wearing a resperator.
 
-#### Additional Resources
+#### Resources
 
 - [Open-Source Resources for DIY Kigurumi Masks](./open-source-resources.md)
