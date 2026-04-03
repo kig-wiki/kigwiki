@@ -14,7 +14,7 @@ description: "Learn what kigurumi masks are like, common types and features, and
 
 ## Intro to Kigurumi Masks
 
-The Kigurumi mask itself is the most visible and recognizable component of kigurumi, the focal point of the costume and the character being portrayed.
+The Kigurumi mask itself is the most visible and recognizable component of kigurumi, the focal point of the costume and the character being portrayed. In a mix between traditional cosplay and more mascot-esque styles, Kigurumi masks offer a unique way to bring a character to life. <br />
 Typically Kigurumi masks are commisioned from a maker and custom made to the references provided to be as accurate to the character as possible.
 
 ### Materials
@@ -23,7 +23,10 @@ Usually masks are resin 3D printed, or more traditionally made from fiberglass r
 
 ### Types of Kigurumi Masks
 
-Kigurumi masks usually come as either 'full' face masks that cover the entire head, or mostly-covering 3/4 or 1/2 masks where the hair is the primary part covering the back of the head.
+Kigurumi masks usually come as either 'full' face masks that cover the entire head, or mostly-covering 3/4 or 1/2 masks where the hair is the primary part covering the back of the head. In a sense, "full" masks are more like a helmet in that the mask itself fully covers the head rather than relying on the wig to cover the back of the head.
+
+Sometimes as well the full style masks can have a lockable or latching mechanism to secure the mask to the head.<br />
+Zipper back styles also exist where the back of the wig opens up with a zipper to allow for easier wearing and removal. With some makers having various methods of hiding or stylizing the zipper.
 
 Apart from mask style, there are a few different categories of masks.
 
