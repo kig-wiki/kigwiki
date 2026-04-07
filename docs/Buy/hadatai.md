@@ -12,7 +12,7 @@ description: "Where to buy hadatai: maker list, typical options, and what to loo
 ---
 
 import HadataiCards from "@site/src/components/HadataiCards";
-import {hadataiData} from "../../src/data/hadatai-data";
+import {hadataiData} from "@site/src/data/hadatai-data";
 
 # Hadatai Makers (Where to Buy)
 

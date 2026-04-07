@@ -12,7 +12,7 @@ description: "Directory of kigurumi mask makers and sellers, with notes to help 
 ---
 
 import MakersCards from "@site/src/components/MakersCards";
-import {makersData} from "../../src/data/makers-data";
+import {makersData} from "@site/src/data/makers-data";
 
 # Kigurumi Mask Makers & Sellers
 
