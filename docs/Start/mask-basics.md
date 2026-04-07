@@ -3,6 +3,7 @@ id: mask-overview
 title: "Kigurumi Mask Basics: Types, Features and Buying Guide"
 sidebar_label: "Mask Basics"
 slug: /start/mask-basics
+canonical_url: https://kig.wiki/start/mask-basics
 tags:
   - intro
   - mask

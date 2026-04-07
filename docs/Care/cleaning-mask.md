@@ -3,6 +3,7 @@ id: cleaning-mask
 title: "Cleaning Your Kigurumi Mask (Care Guide)"
 sidebar_label: "Cleaning Masks"
 slug: /care/cleaning-mask
+canonical_url: https://kig.wiki/care/cleaning-mask
 tags:
   - mask
   - care

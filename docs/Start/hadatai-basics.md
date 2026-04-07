@@ -3,6 +3,7 @@ id: hadatai-overview
 title: "Hadatai Basics: What is a Hadatai for Kigurumi Masks?"
 sidebar_label: "Hadatai Basics"
 slug: /start/hadatai-basics
+canonical_url: https://kig.wiki/start/hadatai-basics
 tags:
   - hadatai
 sidebar_position: 5

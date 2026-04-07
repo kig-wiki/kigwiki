@@ -3,6 +3,7 @@ id: diy-mask-open-source-resources
 title: "Open-Source DIY Kigurumi Mask Resources (3D Models)"
 sidebar_label: "DIY Resources"
 slug: /diy-mask/open-source-resources
+canonical_url: https://kig.wiki/diy-mask/open-source-resources
 tags:
   - diy
   - mask

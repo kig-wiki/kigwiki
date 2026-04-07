@@ -3,6 +3,7 @@ id: reality-of-diy
 title: "DIY Kigurumi Mask: What to Expect Before You Start"
 sidebar_label: "DIY Cautionary Info"
 slug: /diy-mask/reality-of-diy
+canonical_url: https://kig.wiki/diy-mask/reality-of-diy
 tags:
   - diy
   - mask

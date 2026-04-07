@@ -3,6 +3,7 @@ id: introduction-what-is-kigurumi
 title: "What Is Kigurumi? Kigurumi Masks Explained"
 sidebar_label: "What is Kigurumi?"
 slug: /start/what-is-kigurumi
+canonical_url: https://kig.wiki/start/what-is-kigurumi
 tags:
   - introduction
 sidebar_position: 2

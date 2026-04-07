@@ -3,6 +3,7 @@ id: mask-padding
 title: "Kigurumi Mask Padding Guide (Fit & Comfort)"
 sidebar_label: "Padding Masks"
 slug: /care/mask-padding
+canonical_url: https://kig.wiki/care/mask-padding
 tags:
   - mask
   - care

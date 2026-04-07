@@ -3,6 +3,7 @@ id: handlers-guide
 title: "Kigurumi Handler's Guide"
 sidebar_label: "Handlers Guide"
 slug: /start/handlers-guide
+canonical_url: https://kig.wiki/start/handlers-guide
 tags:
   - introduction
 sidebar_position: 7

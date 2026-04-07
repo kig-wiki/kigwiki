@@ -3,6 +3,7 @@ id: mask-sizing-options
 title: "Kigurumi Mask Sizing Options and Measurements"
 sidebar_label: "Sizing Masks"
 slug: /buy/sizing
+canonical_url: https://kig.wiki/buy/sizing
 tags:
   - buying
 sidebar_position: 4
@@ -10,7 +11,6 @@ description: "Sizing approaches for kigurumi masks: measurements, fit options, a
 ---
 
 # Kigurumi Mask Sizing Options
-
 
 Many makers will offer a range of sizing options, this is often based on the size of your actual head, but also the proportions you are trying to achieve.
 

@@ -3,6 +3,7 @@ id: hadatai-padding-theory
 title: "Kigurumi Mask Padding Guide (Fit & Comfort)"
 sidebar_label: "Padding Theory"
 slug: /start/padding-theory
+canonical_url: https://kig.wiki/start/padding-theory
 tags:
   - hadatai
 sidebar_position: 6

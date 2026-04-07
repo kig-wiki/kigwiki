@@ -3,6 +3,7 @@ sidebar_position: 1
 title: "Kigurumi Mask Wiki"
 sidebar_label: "Home"
 slug: /
+canonical_url: https://kig.wiki/
 description: "Kigurumi Mask wiki: beginner basics, buying guidance, care, troubleshooting, and community resources."
 ---
 
@@ -29,7 +30,7 @@ Looking for mask makers or where to get a hadatai?
 ## About Kig.Wiki
 
 Much of the googleable kigurumi info is scattered, outdated, or incomplete.
-Like many hobbies in 2025, most discussion happens on non-indexed parts of the web like Discord, other social media or private spaces. 
+Like many hobbies in 2025, most discussion happens on non-indexed parts of the web like Discord, other social media or private spaces.
 
 There's many wonderful communities however they're not always the easiest place to find and get quick answers to common questions, nor a spot to simply link someone looking to learn more about kigurumi.
 

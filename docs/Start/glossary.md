@@ -3,6 +3,7 @@ id: glossary
 title: "Kigurumi Glossary: Kig, Hadatai, Animegao & More"
 sidebar_label: "Glossary"
 slug: /resource/glossary
+canonical_url: https://kig.wiki/resource/glossary
 tags:
   - introduction
   - resource

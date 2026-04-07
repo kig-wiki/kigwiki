@@ -3,6 +3,7 @@ id: buying-used-overview
 title: "Buying Used Kigurumi Mask: Guide & Safety Tips"
 sidebar_label: "Buying Used"
 slug: /buy/used/used-overview
+canonical_url: https://kig.wiki/buy/used/used-overview
 tags:
   - buying
   - secondhand

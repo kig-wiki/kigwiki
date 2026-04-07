@@ -3,6 +3,7 @@ id: introduction-beginner-path
 title: "Kigurumi Guide to Getting Started"
 sidebar_label: "Getting Started"
 slug: /start/get-started-with-kigurumi
+canonical_url: https://kig.wiki/start/get-started-with-kigurumi
 tags:
   - introduction
 sidebar_position: 1

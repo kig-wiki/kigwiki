@@ -3,6 +3,7 @@ id: buying-hadatai
 title: "Hadatai Stores and Where to Buy a Hadatai in 2026"
 sidebar_label: "Hadatai Stores"
 slug: /buy/hadatai
+canonical_url: https://kig.wiki/buy/hadatai
 tags:
   - buying
   - makers

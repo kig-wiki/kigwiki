@@ -3,6 +3,7 @@ id: shopping-taobao-guide
 title: "Kigurumi Taobao Guide for Buying Kigurumi Masks"
 sidebar_label: "Taobao Guide"
 slug: /buy/marketplaces/taobao-guide
+canonical_url: https://kig.wiki/buy/marketplaces/taobao-guide
 tags:
   - buying
   - secondhand
@@ -31,7 +32,6 @@ This section is under development. Future content plans to include:
 - A whole lot more about Taobao and the proxy ordering process
 
   :::
-
 
 #### Additional Resources
 

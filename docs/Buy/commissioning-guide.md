@@ -3,6 +3,7 @@ id: mask-commissioning-guide
 title: "How to Order a Kigurumi Mask - Kigurumi Mask Commissioning"
 sidebar_label: "Commissioning Guide"
 slug: /buy/commissioning
+canonical_url: https://kig.wiki/buy/commissioning
 tags:
   - buying
   - mask
