@@ -11,7 +11,7 @@ description: "Answers to common kigurumi questions about masks, hadatai, buying,
 
 import FAQStructuredData from '@site/src/theme/MDXComponents/FAQStructuredData';
 
-<!-- vscode will not like the below formatting, it is what it is, but it does work and is required for the FAQStructuredData component -->
+{/* vscode will not like the below formatting, it is what it is, but it does work and is required for the FAQStructuredData component */}
 export const faqs = [
   {
     question: "How do I get started with Kigurumi?",
