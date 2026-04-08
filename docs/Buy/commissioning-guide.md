@@ -20,6 +20,12 @@ While each maker's process varies, typically you will need to provide two key pi
 - Reference art
 - Head size
 
+## Does the maker's style align with your vision?
+
+Before you commission a maker, it's a good idea to check their socials to see if masks they've made align with what you are looking for. If they've shared posts of customers on their account, check those performer's accounts out to see how the mask has fared for them.
+
+[KiguDB](https://kigudb.info/) is an additional great resource to cross reference masks makers have made, comparing the most popular characters across various makers is also a great way to get an idea of varying styles and quality.
+
 ## Reference Art
 
 Reference art is typically the most important part of the commissioning process, it does not have to be perfect, nor a single image, but it should be a good representation of the character you are trying to portray.
