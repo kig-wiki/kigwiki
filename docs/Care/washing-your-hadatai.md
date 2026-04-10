@@ -209,7 +209,15 @@ Put the hadatai in a **mesh laundry bag** to protect the hadatai from getting sn
 
 Ideally wash the hadatai by itself. Adding shapewear in their own mesh bags usually wont cause harm if you must. The critical point is to avoid mixing with other colors, or with heavily stained items, dont give opportunity for stains to transfer.
 
-Rinsing twice or a rinse with a tablespoon of citric acid can help ensure all the detergent fully rinsed out and your hadatai is squeaky clean. Some products like "Tide Clean boost" or P&G "Rinse and Refresh" are essentially citric acid in a bottle with fragrance
+### Rinsing Suggestions
+
+In a perfect world your detergetn would be dosed perfectly and all the detergent would be perfectly rinsed out, but machines are often far from perfect as are detergents.
+
+Rinsing twice if or a rinse with a bit of citric acid can help ensure all the detergent fully rinsed out and your hadatai is squeaky clean, as a bonus it does a great job of "softening" the fabric without any buildup problems like what fabric softeners cause.
+
+Some products like "Tide Clean boost" or P&G "Rinse and Refresh" are essentially citric acid in a bottle with fragrance, they'd go in the same compartment as your machine labels for fabric softeners so they only are used in the rinse cycle. You can also just totally make it yourself with citric acid powder for a fraction the cost. [More info on citric acid rinsing and how to make your own](https://www.reddit.com/r/laundry/comments/1nhdr0r/when_the_rinse_washes_you_clean_youll_know_citric/), tldr: 2 TSP in a HE machine, double for a top loader, and 50% more if your water is very hard.
+
+It really is surprising how much it can improve the final feel of fabric while also helping avoid any issues of leftover detergent, which could irritate some people's skin.
 
 ## Drying
 
