@@ -5,22 +5,24 @@
     "weibo": "",
     "bluesky": "",
     "instagram": "",
-    "tiktok": "",
-    "currently_unused_tiktok": "rubberrisa",
-    "currently_unused_website": "https://rubberrisa.com"
+    "tiktok": ""
   },
   "Region": "Mainland China",
   "currency": "CNY",
+  "currently_unused_tiktok": "rubberrisa",
+  "currently_unused_website": "https://rubberrisa.com",
   "priceExamples": [
     {
       "type": "Latex Hadatai with 3D molded chest",
       "price": "1019" ,
-      "link": "https://world.taobao.com/item/1042700017826.htm"
+      "link": "https://world.taobao.com/item/1042700017826.htm",
+      "material": "Latex"
     },
     {
       "type": "Latex Hadatai (Simplified design)",
       "price": "915" ,
-      "link": "https://world.taobao.com/item/1042700017826.htm"
+      "link": "https://world.taobao.com/item/1042700017826.htm",
+      "material": "Latex"
     }
   ],
   "notes": "Ordering done via taobao, store also carries other latex bodysuits and accessories. \n\n Wechat and QQ socials on their X bio if needed."

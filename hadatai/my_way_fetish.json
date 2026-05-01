@@ -13,12 +13,14 @@
     {
       "type": "Standard spandex hadatai",
       "price": "415" ,
-      "link": "https://item.taobao.com/item.htm?id=26710864059"
+      "link": "https://item.taobao.com/item.htm?id=26710864059",
+      "material": "Fabric"
     },
     {
       "type": "Addons, nails, etc",
       "price": "Varies",
-      "link": "https://item.taobao.com/item.htm?id=40898393301"
+      "link": "https://item.taobao.com/item.htm?id=40898393301",
+      "material": "Fabric"
     }
   ],
   "notes": "One of the more popular hadatai makers on Taobao. Requires using a Taobao agent if ordering from overseas"

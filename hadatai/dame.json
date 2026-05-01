@@ -15,12 +15,14 @@
     {
       "type": "MWF spandex skinsuit",
       "price": "150",
-      "link": "https://damekigurumi.com/Skinsuits/H001-Skinsuit"
+      "link": "https://damekigurumi.com/Skinsuits/H001-Skinsuit",
+      "material": "Fabric"
     },
     {
       "type": "Cantillon spandex skinsuit",
       "price": "120",
-      "link": "https://damekigurumi.com/Skinsuits/H011-Skinsuit"
+      "link": "https://damekigurumi.com/Skinsuits/H011-Skinsuit",
+      "material": "Fabric"
     }
   ],
   "notes": "Reseller of MWF and Cantillon. Several times the cost, but they're English and have a website if thats your thing."

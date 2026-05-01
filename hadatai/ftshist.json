@@ -13,12 +13,14 @@
     {
       "type": "Spandex zentai",
       "price": "350",
-      "link": "https://item.taobao.com/item.htm?id=824376591615"
+      "link": "https://item.taobao.com/item.htm?id=824376591615",
+      "material": "Fabric"
     },
     {
       "type": "Nylon zentai",
       "price": "330",
-      "link": "https://item.taobao.com/item.htm?id=816901651127"
+      "link": "https://item.taobao.com/item.htm?id=816901651127",
+      "material": "Fabric"
     }
   ],
   "notes": "Taobao, requires using a Taobao agent if ordering from overseas"

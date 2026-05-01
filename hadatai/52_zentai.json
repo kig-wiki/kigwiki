@@ -13,27 +13,32 @@
     {
       "type": "Spandex zentai",
       "price": "199",
-      "link": "https://item.taobao.com/item.htm?id=552135216586"
+      "link": "https://item.taobao.com/item.htm?id=552135216586",
+      "material": "Fabric"
     },
     {
       "type": "Velvet zentai",
       "price": "369",
-      "link": "https://item.taobao.com/item.htm?id=714472957295"
+      "link": "https://item.taobao.com/item.htm?id=714472957295",
+      "material": "Fabric"
     },
     {
       "type": "Custom kemono (Furry Hadatai)",
       "price": "659",
-      "link": "https://item.taobao.com/item.htm?id=724335519289"
+      "link": "https://item.taobao.com/item.htm?id=724335519289",
+      "material": "Fabric"
     },
     {
       "type": "Custom print",
       "price": "300",
-      "link": "https://item.taobao.com/item.htm?id=643068551129"
+      "link": "https://item.taobao.com/item.htm?id=643068551129",
+      "material": "Fabric"
     },
     {
       "type": "Various addons ordered with the hadatai",
       "price": "Varies",
-      "link": "https://item.taobao.com/item.htm?id=26102172896"
+      "link": "https://item.taobao.com/item.htm?id=26102172896",
+      "material": "Fabric"
     }
   ],
   "notes": "Taobao, requires using a Taobao agent if ordering from overseas"

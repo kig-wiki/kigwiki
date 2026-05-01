@@ -13,27 +13,32 @@
     {
       "type": "Standard spandex zentai",
       "price": "200",
-      "link": "https://item.taobao.com/item.htm?id=530742243450"
+      "link": "https://item.taobao.com/item.htm?id=530742243450",
+      "material": "Fabric"
     },
     {
       "type": "Stretchy spandex zentai",
       "price": "228",
-      "link": "https://item.taobao.com/item.htm?id=616922052042"
+      "link": "https://item.taobao.com/item.htm?id=616922052042",
+      "material": "Fabric"
     },
     {
       "type": "Sweat-wicking spandex zentai",
       "price": "258",
-      "link": "https://item.taobao.com/item.htm?id=824778519300"
+      "link": "https://item.taobao.com/item.htm?id=824778519300",
+      "material": "Fabric"
     },
     {
       "type": "Thick spandex zentai (1.5mm)",
       "price": "330",
-      "link": "https://item.taobao.com/item.htm?id=557889062688"
+      "link": "https://item.taobao.com/item.htm?id=557889062688",
+      "material": "Fabric"
     },
     {
       "type": "Various addons",
       "price": "Varies",
-      "link": "https://item.taobao.com/item.htm?id=527988841267"
+      "link": "https://item.taobao.com/item.htm?id=527988841267",
+      "material": "Fabric"
     }
   ],
   "notes": "One of the more popular hadatai makers on Taobao. Requires using a Taobao agent if ordering from overseas"

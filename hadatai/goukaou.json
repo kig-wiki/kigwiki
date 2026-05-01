@@ -15,12 +15,14 @@
     {
       "type": "Realistic print zentai",
       "price": "3570",
-      "link": "http://goukaou.blog131.fc2.com/blog-entry-516.html"
+      "link": "http://goukaou.blog131.fc2.com/blog-entry-516.html",
+      "material": "Fabric"
     },
     {
       "type": "BJD print zentai",
       "price": "3750",
-      "link": "https://www.gko-kig.com/bjdsuit-eng"
+      "link": "https://www.gko-kig.com/bjdsuit-eng",
+      "material": "Fabric"
     }
   ],
   "notes": "Reputable Japanese Mask maker. Their hadatai are not made inhouse, but are of quality. BJD Options available."
