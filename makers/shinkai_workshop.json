@@ -1,6 +1,5 @@
 {
   "name": "Shinkai Workshop",
-  "website": "https://x.com/ShinkaiWorkshop",
   "status": "open",
   "Region": "Mainland China",
   "socials": {
@@ -9,6 +8,7 @@
   },
   "priceTier": "$",
   "currency": "CNY",
+  "taobaoStore": "https://shop154932055.world.taobao.com",
   "materialType": "3D print ",
   "size": "Average-large",
   "englishOrdering": true,

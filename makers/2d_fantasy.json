@@ -1,11 +1,11 @@
 {
   "name": "2D Fantasy",
-  "website": "https://x.com/2DFantasy111",
   "status": "open",
   "Region": "Mainland China",
   "socials": {
     "x": "https://x.com/2DFantasy111"
   },
+  "taobaoStore": "https://2dfantasy.taobao.com",
   "priceTier": "$",
   "currency": "CNY",
   "materialType": "3D print (ABS)",
@@ -13,5 +13,5 @@
   "features": {
     "Hard Hair": false
   },
-  "notes": "Taobao store, Full-lock default for all models."
+  "notes": "Taobao ordering, Full-lock default for all models."
 } 

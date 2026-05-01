@@ -1,6 +1,5 @@
 {
   "name": "HiDolls",
-  "website": "https://x.com/HiDolls_mm",
   "status": "open",
   "Region": "Mainland China",
   "socials": {
@@ -9,6 +8,7 @@
   },
   "priceTier": "$",
   "currency": "CNY",
+  "taobaoStore": "https://shop262915540.taobao.com",
   "materialType": "full-cast (PU)",
   "size": "Small to average",
   "features": {

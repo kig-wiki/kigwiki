@@ -1,7 +1,6 @@
 {
   "name": "Lightning",
-  "alias": "Xiuji Kigurumi Workshop",
-  "website": "https://x.com/lightning520",
+  "alias": "Princess Kigurumi",
   "status": "open",
   "Region": "Mainland China",
   "socials": {
@@ -9,6 +8,7 @@
   },
   "priceTier": "$$",
   "currency": "CNY",
+  "taobaoStore": "https://shop149798535.world.taobao.com",
   "materialType": "3D print",
   "size": "Default is small but sizes are customizable",
   "englishOrdering": true,

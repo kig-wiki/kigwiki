@@ -1,6 +1,5 @@
 {
   "name": "Fantasy Masks",
-  "website": "https://x.com/FantasyMasks_",
   "status": "open",
   "Region": "Mainland China",
   "socials": {
@@ -9,6 +8,7 @@
   },
   "priceTier": "$$",
   "currency": "CNY",
+  "taobaoStore": "https://shop280285115.world.taobao.com",
   "materialType": "3D print",
   "size": "Average to custom",
   "features": {

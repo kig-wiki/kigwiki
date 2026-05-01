@@ -1,6 +1,5 @@
 {
   "name": "Scarlet0rabbit",
-  "website": "https://x.com/Scarlet0rabbit",
   "status": "open",
   "Region": "Mainland China",
   "socials": {
@@ -9,11 +8,12 @@
   },
   "priceTier": "$$",
   "currency": "CNY",
+  "taobaoStore": "https://shop236878671.taobao.com",
   "materialType": "3D print ",
   "size": "Average",
   "englishOrdering": true,
   "features": {
     "Hard Hair": true
   },
-  "notes": "commissions done outside Taobao have heavily increased costs, full-lock options, eyes are printed mesh"
+  "notes": "Commissions done outside Taobao have heavily increased costs, full-lock options, eyes are printed mesh"
 } 

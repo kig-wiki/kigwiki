@@ -1,6 +1,5 @@
 {
   "name": "Bear Technique Studio",
-  "website": "https://x.com/BearTechCenter",
   "status": "closed",
   "Region": "Mainland China",
   "socials": {
@@ -9,6 +8,7 @@
   },
   "priceTier": "$$",
   "currency": "CNY",
+  "taobaoStore": "https://shop288725622.taobao.com/",
   "materialType": "3D print",
   "size": "Average",
   "features": {

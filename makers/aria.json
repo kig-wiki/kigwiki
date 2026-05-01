@@ -1,7 +1,6 @@
 {
   "name": "Aria",
   "alias": "Mitsukiriya",
-  "website": "https://x.com/mitsukiriya",
   "status": "closed",
   "Region": "Mainland China",
   "socials": {
@@ -9,10 +8,11 @@
   },
   "priceTier": "$$",
   "currency": "CNY",
+  "taobaoStore": "https://shop280538250.taobao.com",
   "materialType": "3D print ",
   "size": "Small",
   "features": {
     "Hard Hair": false
   },
-  "notes": "Taobao store"
+  "notes": "Taobao ordering"
 } 

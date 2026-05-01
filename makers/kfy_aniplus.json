@@ -1,7 +1,6 @@
 {
   "name": "KFY Aniplus",
   "alias": "Sekiya",
-  "website": "https://x.com/KFY_Aniplus",
   "status": "open",
   "Region": "Mainland China",
   "socials": {
@@ -10,6 +9,7 @@
   },
   "priceTier": "$$",
   "currency": "CNY",
+  "taobaoStore": "https://shop567949612.taobao.com",
   "materialType": "3D print (ABS)",
   "size": "Average-large",
   "features": {

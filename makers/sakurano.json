@@ -1,7 +1,6 @@
 {
   "name": "Sakurano",
   "alias": "Sakura Ingnai",
-  "website": "https://x.com/sakura_ingnai",
   "status": "open",
   "Region": "Mainland China",
   "socials": {
@@ -10,6 +9,7 @@
   },
   "priceTier": "$$",
   "currency": "CNY",
+  "taobaoStore": "https://shop129877201.taobao.com",
   "materialType": "3D print ",
   "size": "Average",
   "features": {

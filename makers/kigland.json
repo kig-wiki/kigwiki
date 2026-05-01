@@ -1,13 +1,14 @@
 {
   "name": "KigLand",
   "alias": "Remi and XiamiKo",
-  "website": "https://kig.land/en",
+  "website": "https://kig.land/en-US",
   "status": "open",
   "Region": "Mainland China",
   "socials": {
     "x": "https://x.com/Remi_IO"
   },
   "englishOrdering": true,
+  "taobaoStore": "https://kigland.taobao.com",
   "priceTier": "$",
   "currency": "CNY",
   "materialType": "3D print",
@@ -15,5 +16,5 @@
   "features": {
     "Hard Hair": false
   },
-  "notes": "Uses AI. Budget maker, quality highly varies and is incredibly dependent on the references being good. Generics have been questionable quality.."
+  "notes": "Uses AI. Budget maker, quality highly varies and is incredibly dependent on the references being good. Generics have been questionable quality. \n\n Discord, Telegram, email and QQ socials on their website. English support available."
 }

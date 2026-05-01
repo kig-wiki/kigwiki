@@ -1,6 +1,5 @@
 {
   "name": "W Rabbit Mi",
-  "website": "https://x.com/WithRabbitMI",
   "status": "open",
   "Region": "Mainland China",
   "socials": {
@@ -8,10 +7,12 @@
   },
   "priceTier": "$",
   "currency": "CNY",
+  "taobaoStore": "https://shop202579386.taobao.com",
+  "englishOrdering": true,
   "materialType": "3D print",
   "size": "Average",
   "features": {
     "Hard Hair": false
   },
-  "notes": "Former KHS staff, masks models are ever changing, open mouths are breathable fabric"
+  "notes": "Primarily taobao, can commission via X DMs as per bio. Former KHS staff, masks models are ever changing, open mouths are breathable fabric"
 } 
