@@ -17,11 +17,11 @@ import {makersData} from "@site/src/data/makers-data";
 
 # Kigurumi Mask Makers & Sellers
 
-This directory contains information about various kigurumi mask makers, including their pricing, contact information, and features. Use the search and sort functionality to find makers that match your needs. Check out our [Kigurumi Mask Commissioning Guide](./commissioning-guide.md) to learn more about how to commission a kigurumi mask, or [Kigurumi Basics](../Start/mask-basics.md) to learn more about kigurumi masks in general.
-
-Do check their socials to see if their styles align with your vision. Additionally, [KiguDB](https://kigudb.info/) is a great resource to cross reference masks they've made and see how various kigurumi performers with them have fared.
+This directory contains information about various kigurumi mask makers. Check out [Kigurumi Mask Commissioning Guide](./commissioning-guide.md) to learn more about how to commission a kigurumi mask, or [Kigurumi Basics](../Start/mask-basics.md) to learn more about kigurumi masks in general.
 
 This is not a comprehensive list of every mask maker, but a general list of some of the more popular ones who are a safer bet. This list is currently growing and not yet in it's final form. Please [contribute](../02-contributing.md) to the wiki if you feel a maker is missing or you have more information about a maker! Your help is greatly appreciated.
+
+Most makers are only really active on X (formerly Twitter) for western social media.
 
 <MakersCards data={makersData} />
 
@@ -37,3 +37,5 @@ Many makers can cover a range of styles, but if you have a specific style in min
 - **Custom Work**: Full custom masks typically cost more and take longer than semi-custom options
 
 Note: Location labels are provided as geographic references to help readers understand potential shipping and customs considerations.
+
+[KiguDB](https://kigudb.info/) is a great resource to cross reference mask makers and their masks, as well as to see how various kigurumi performers with them have fared.
