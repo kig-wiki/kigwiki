@@ -115,6 +115,13 @@ Know any other potent options in your region? Please let us know over on our [gi
 [Additional Resources](./washing-your-hadatai.md#additional-resources) also has some additional links for finding North American options.
 :::
 
+While not a stain remover itself, Ammonia can help the fight against oil based stains. Typically you'd want a solution of 2-25% ammonium hydroxide typically sold in the cleaning isles of many appropriate stores. Probably worth avoiding any with "lemon" or "citrus" scents, use no more than 1 cup of 2% solution, 0.5 cups of 5%, 1/4 cup of 10% or 1.5Tbps of 25% solution for a hadatai sized load.
+
+:::warning
+
+NEVER MIX AMMONIA WITH LIQUID BLEACH, it WILL create a gas that will harm you. That said you should never be using liquid bleach on your hadatai in the first place. Powdered "oxygen bleach" does not have this problem.
+:::
+
 ### Mid options
 
 Better than nothing but often lacking lipase. Many will still contain various surfactants that can help with a variety of stains, they arent useless but may not be as effective for common hadatai stains as more specialized options.
