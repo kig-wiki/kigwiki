@@ -72,6 +72,25 @@ As previously mentioned, some opt to use a zentai suit instead of a hadatai. Due
 
 For a list of hadatai makers and general information on how to order a hadatai, see our [buying hadatai](/buy/hadatai) page.
 
+Hadatai are generally made to measure, when ordering the maker will provide you with a measurements guide and a form to fill out.
+They often have various options as well for features such as:
+
+- Male and Female located crotch zippers (for easier access in emergency bathroom breaks)
+- Options for a "3D chest" (for a more accurate chest shape)
+  - Sewn in vest for breas forms
+- Different face openings
+- Various zipper types (discrete, ring pull being the most common)
+
+Especially for beginners its highly recommended to get the ring pull type zippers, as they are much easier to do up and down.
+
+Other suggestions worth considering are 3D chest options, and to have a full face opening.
+Openings that are just eyes or eyes + mouth, are less common and generally can have issues with condensation or moisture buildup, theres little real advantage to the other types.
+Sometimes makers will offer no face opening option, this is generally an advanced option and should only be considered if you really do want to have no visibility at all.
+
+### Measurements
+
+Makers will generally provide a measurements guide and a form to fill out for all the various measurements they will need to make your hadatai. It's greatly advised to have someone help you measure to ensure everything is accurate. Some measures like shoulder width can be tricky to get solo. As to the saying measure twice, cut once... double check your measurements are all good before submitting, its better to be safe than sorry.
+
 ## Hadatai Care
 
 For information on how to care for your hadatai, see our [cleaning a hadatai](/care/cleaning-a-hadatai) page.

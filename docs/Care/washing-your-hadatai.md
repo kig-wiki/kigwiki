@@ -25,14 +25,17 @@ A little dirt or stain isnt a life sentence to your hadatai however, a little bi
 - Wash your hadatai sooner rather than later, the longer sweat and dirt sits the less likely it is to come out
 - [Spot treat stains](./washing-your-hadatai.md#common-hadatai-stains-and-how-to-target-them), particularly any marks around hands and feet with a stain remover ideally containing Protease and Lipase enzymes
   - **Work the stain remover into the fabric**. Spray and pray isnt as good as rubbing it in.
-- Handwash if you want to play it safe
+    - A spare toothbrush or other soft brush can be used gently to work the stain remover into the fabric.
+- Handwash if you want to play it safe, but dont be afraid to use a washing machine either.
 - If using a washing machine:
   - Use a gentle cycle, cold water
-  - Do not mix with other clothes
+  - Do not mix with other clothes, washing multiple hadatai is fine but if one is heavily stained, it's better to wash it separately.
   - Put the hadatai in a mesh laundry bag
+    - If multiple hadatai, use a separate mesh laundry bag for each hadatai.
 - Do not put in a clothes dryer, let it air dry. Use the least heat possible if you absolutely must use a dryer.
-- Never use liquid bleach or any fabric softener
-- Ideally avoid detergents with optical brighteners
+- Never use liquid bleach or any fabric softener.
+- Ideally avoid detergents with optical brighteners, check [our suggestions](./washing-your-hadatai.md#detergents) for more info.
+- Bonus: Use a rinsing aid or citric acid in the rinse cycle to ensure all the detergent is neutralized, it will feel softer and cleaner without any buildup or nasty residue like a "fabric softener" would. [More info](./washing-your-hadatai.md#rinsing-suggestions)
 
 ## Common Hadatai Stains and how to target them
 
@@ -206,19 +209,19 @@ Due to optical brighteners (OBAs), skip:
 
 Hand washing is one of the best ways to care for your hadatai or other delicate garments such as cosplay outfits. If this concept is new to you, honestly it's not that difficult, will preserve the fabric, and is a good skill to have. That said learning how to is better left to videos on youtube or tiktok.
 
-Just remember, it's the rinsing that really gets dirt out, rinse well if not multiple times. Rinse by soaking it in water, not by running water over it. Dont wring the water out by stretching the fabric, a faster way to get water out is to lay it flat on a towel and roll it up briefly.
+Just remember, it's the rinsing that really gets dirt out, rinse well if not multiple times. Dont wring the water out by stretching the fabric, a faster way to get water out is to lay it flat on a towel and roll it up briefly.
 
 ### Machine Washing
 
-If you need to use a washing machine, use the most gentle cycle your machine has.
-Use cold water, and not too much detergent.
-Put the hadatai in a **mesh laundry bag** to protect the hadatai from getting snagged or caught on the washing machine.
+If you opt to use a washing machine, use the most gentle cycle your machine has.
+Use cold water, and not too much detergent. It's better to use a bit less than too much.
+Put the hadatai in a **mesh laundry bag** to protect the hadatai from getting snagged or caught on the washing machine. If multiple hadatai, use a separate mesh laundry bag for each hadatai.
 
 Ideally wash the hadatai by itself. Adding shapewear in their own mesh bags usually wont cause harm if you must. The critical point is to avoid mixing with other colors, or with heavily stained items, dont give opportunity for stains to transfer.
 
 ### Rinsing Suggestions
 
-In a perfect world your detergetn would be dosed perfectly and all the detergent would be perfectly rinsed out, but machines are often far from perfect as are detergents.
+In a perfect world your detergent would be dosed perfectly and all the detergent would be perfectly rinsed out, but machines are often far from perfect as are detergents.
 
 Rinsing twice if or a rinse with a bit of citric acid can help ensure all the detergent fully rinsed out and your hadatai is squeaky clean, as a bonus it does a great job of "softening" the fabric without any buildup problems like what fabric softeners cause.
 
@@ -236,7 +239,9 @@ Leave the hadatai to air dry, do not put it in a clothes dryer.
 
 Hang it up to dry in a spot with good air circulation, even a decent clothes hanger can do, just avoid pulling the fabric. Ideally a proper drying rack of some kind is best, google has plenty of diy ideas if you dont have anything suitable.
 
-If you absolutely need to use a dryer, use the lowest heat setting possible to avoid damaging the fabric. Do not use dryer sheets.
+Need it dry in a hurry? At a con without access to a drying rack or are hand washing it? You can briefly roll it up in a towel like a burrito or sushi roll to help pull the water out, but dont wring it out by stretching the fabric.
+
+If you absolutely need to use a dryer, use the lowest possible heat setting to avoid damaging the fabric. Do not use dryer sheets, they can leave a residue on the fabric that can cause issues with future washes.
 
 ## Post Wash Care and other tips
 
