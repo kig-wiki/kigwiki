@@ -29,9 +29,10 @@ Looking for mask makers or where to get a hadatai?
 
 ## About Kig.Wiki
 
-Much of the googleable kigurumi info is scattered, outdated, or incomplete.
-Like many hobbies in the current day, most discussion happens on non-indexed parts of the web like Discord, on social media platforms or private spaces otherwise.
+Like many hobbies in the current day, most discussion happens on non-indexed parts of the web like Discord, on social media platforms or private communities otherwise. Sometimes these spaces are not the easiest places to find, or are not the most suitable place for beginners to seek answers to common questions.
 
-There's many wonderful communities however they're not always the easiest place to find or to get quick answers to common questions. Neither is it often so easy to simply link someone looking to learn more about kigurumi to a place where they can find answers.
+What information is googleable is often fragmented, outdated, incomplete or lacking otherwise.
 
-Kig.Wiki aims to fill this information gap.
+While neither of those two problems are intentional, they are major friction points especially for beginners or when trying to share information with others.
+
+Kig.Wiki aims to fill this information gap by making kigurumi knowledge more accessible, organized, open source, peer reviewed and searchable. This isnt meant to be any one kigurumi's soapbox, the more contributors there are the greater the resource can become.
