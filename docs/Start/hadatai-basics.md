@@ -83,8 +83,8 @@ They often have various options as well for features such as:
 
 Especially for beginners its highly recommended to get the ring pull type zippers, as they are much easier to do up and down.
 
-Other suggestions worth considering are 3D chest options, and to have a full face opening.
-Openings that are just eyes or eyes + mouth, are less common and generally can have issues with condensation or moisture buildup, theres little real advantage to the other types.
+For face openings its highly recommended to get a standard "open face" opening. Some makers will offer more limited "eye holes" or "eye window" openings, sometimes with a seperate mouth opening. These are generally less common, less comfortable, and just generally less practical with no real advantage while also costing more.
+
 Sometimes makers will offer no face opening option, this is generally an advanced option and should only be considered if you really do want to have no visibility at all.
 
 ### Measurements
