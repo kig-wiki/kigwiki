@@ -1,0 +1,19 @@
+{
+  "name": "Haagaau Kigurumi Workshop",
+  "alias": "Haagaau",
+  "website_not_currently_working": "https://shop.haagaau-kig.com/",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/haagaau_GF_EN"
+  },
+  "priceTier": "$$$$",
+  "currency": "CNY",
+  "materialType": "3D Print",
+  "size": "Larger but customizable",
+  "taobaoStore": "https://shop529112271.taobao.com/",
+  "englishOrdering": true,
+  "features": {
+  },
+  "notes": "Custom 3d work is standard, commissions done outside Taobao have increased costs. DM over X or fill their google form on X bio for commissions outside taobao."
+} 
