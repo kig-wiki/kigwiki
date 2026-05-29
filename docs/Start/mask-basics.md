@@ -22,6 +22,43 @@ Typically Kigurumi masks are commisioned from a maker and custom made to the ref
 
 Usually masks are resin 3D printed, or more traditionally made from fiberglass reinforced plastic (FRP). Different makers will have different materials and production processes, as well as engineer things in their own ways.
 
+#### 3D Printed Kigurumi Masks
+
+3D Printed Kigurumi Mask Pros:
+
+- Highly customizable, many makers offering fully customized designs.
+- Makers able to scale and size the masks per customer's head size and character design.
+- Far more cost effective than FRP masks.
+
+3D Printed Kigurumi Mask Cons:
+
+- Base shell material isnt as durable as FRP, primarily of concern if you were to drop the mask from a decent height.
+
+Older kigurumi in particular often stress durability concerns, but modern 3D printed masks are generally far more durable than the ones of old.
+
+It is further worth noting, for every FRP mask there are dozens of 3D printed ones, purely out of so many more existing it is easier to find examples of 3D printed masks which have gotten damaged compared to FRP. Both still use similar paints and clear coats, an accident that will chip or damage the paint on one will still likely cause the same damage to the other.
+
+#### FRP Kigurumi Masks
+
+FRP Kigurumi Mask Pros:
+
+- Durability
+
+FRP Mask Cons:
+
+- Most makers will typically do semi-custom designs, ie having a few base molds they'll customize the mouths on.
+- More expensive than 3D printed masks, stuck to whatever head size and proportions the mold is.
+- Full custom FRP both cost a lot more and have a far longer production timeline.
+
+While neither a Pro or a Con, its worth noting most FRP masks are often 3/4 while many more 3D printed ones are full face masks. Neither is inherently better, its just a matter of what you are looking for.
+
+#### Vinyl Kigurumi Masks
+
+Avoid at all costs, these are generally low quality and poorly made with awkward fit to form. Allegations of allergenic materials in use or ofgassing are reported.
+The only main makers of these types these days are Munimuni and resellers such as "J Sensei". You are better off with just about any other option.
+
+On a further aside, while the afformentioned makers are starting to do more 3D printed offerings, the shells they make are often not properly proportional and end up looking tiny if not outright uncanny, despite their marketing claiming to work for various head sizes otherwise. There is good reason most who make the mistake of a munimuni often move on to other makers without looking back.
+
 ### Types of Kigurumi Masks
 
 Kigurumi masks usually come as either 'full' face masks that cover the entire head, or mostly-covering 3/4 or 1/2 masks where the hair is the primary part covering the back of the head. In a sense, "full" masks are more like a helmet in that the mask itself fully covers the head rather than relying on the wig to cover the back of the head.
