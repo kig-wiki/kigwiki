@@ -1,0 +1,27 @@
+{
+  "name": "Bear Technique Studio",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/BearTechCenter",
+    "weibo": "https://m.weibo.cn/u/7788533155"
+  },
+  "currency": "CNY",
+  "englishOrdering": false,
+  "priceExamples": [
+    {
+      "type": "Generic Pre-sized Hadatai",
+      "price": "278",
+      "link": "https://item.taobao.com/item.htm?id=989648194926",
+      "material": "Fabric"
+    },
+    {
+      "type": "Custom Made-to-measure Hadatai",
+      "price": "378",
+      "link": "https://item.taobao.com/item.htm?id=780229129036",
+      "material": "Fabric"
+    }
+  ],
+  "notes": "Taobao store with various Hadatai options including Hadatai with printed designs. \n\n Warning: Social media feed has some very NSFW content involving themes some may find offensive."
+} 
+
