@@ -1,5 +1,5 @@
 {
-  "name": "Dygard",
+  "name": "Magic Latex",
   "website": "",
   "socials": {
     "x": "",
@@ -11,12 +11,12 @@
   "Region": "Mainland China",
   "englishOrdering": false,
   "currency": "CNY",
-  "taobaoStore": "https://shop121507578.taobao.com/",
+  "taobaoStore": "https://shop305182648.taobao.com/",
   "priceExamples": [
     {
       "type": "Latex Hadatai (Taobao)",
-      "price": "1280" ,
-      "link": "https://item.taobao.com/item.htm?id=903088180918",
+      "price": "680" ,
+      "link": "https://item.taobao.com/item.htm?id=1027421004711",
       "material": "Latex"
     }
   ],

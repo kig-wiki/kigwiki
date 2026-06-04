@@ -1,8 +1,8 @@
 {
-  "name": "Dygard",
+  "name": "Illusion Latex",
   "website": "",
   "socials": {
-    "x": "",
+    "x": "https://x.com/IllusionLatex",
     "weibo": "",
     "bluesky": "",
     "instagram": "",
@@ -10,13 +10,13 @@
   },
   "Region": "Mainland China",
   "englishOrdering": false,
+  "taobaoStore": "https://shop106920679.taobao.com",
   "currency": "CNY",
-  "taobaoStore": "https://shop121507578.taobao.com/",
   "priceExamples": [
     {
       "type": "Latex Hadatai (Taobao)",
-      "price": "1280" ,
-      "link": "https://item.taobao.com/item.htm?id=903088180918",
+      "price": "1230" ,
+      "link": "https://item.taobao.com/item.htm?id=738757370860",
       "material": "Latex"
     }
   ],
