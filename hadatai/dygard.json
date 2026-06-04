@@ -1,0 +1,23 @@
+{
+  "name": "Dygard",
+  "website": "",
+  "socials": {
+    "x": "",
+    "weibo": "",
+    "bluesky": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "Region": "Mainland China",
+  "englishOrdering": false,
+  "currency": "CNY",
+  "priceExamples": [
+    {
+      "type": "Latex Hadatai (Taobao)",
+      "price": "1280" ,
+      "link": "https://item.taobao.com/item.htm?id=903088180918",
+      "material": "Latex"
+    }
+  ],
+  "notes": "Taobao only."
+} 
