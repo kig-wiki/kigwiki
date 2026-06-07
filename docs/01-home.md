@@ -4,7 +4,7 @@ title: "Kigurumi Mask Wiki"
 sidebar_label: "Home"
 slug: /
 canonical_url: https://kig.wiki/
-description: "Kigurumi Mask wiki: beginner basics, buying guidance, care, troubleshooting, and community resources."
+description: "Kigurumi Mask Wiki: How to get into Kigurumi, Mask and Hadatai Makers, Kig Care, Troubleshooting, and Other Resources."
 ---
 
 # Kigurumi Mask Wiki
