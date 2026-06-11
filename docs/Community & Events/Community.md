@@ -32,13 +32,11 @@ And much as Kigurumi performing is often mute, you have to have good communicati
 
 ### People with endless problems involving others
 
-This is not unique to kigurumi, but it is worth mentioning. Sometimes there are people that appear to have infinite problems with other kigs, and constantly look for any open ears to vent to, particularly newer entrants to the hobby.
+This is not unique to kigurumi, but it is worth mentioning. Sometimes there are people that appear to have infinite problems with others, treat being "wronged" almost like a social currency or pitty flag rather than ever dealing with the actual issues. Cliche being constantly look for any open ears to vent to, if you're new to a space and they instantly "trauma dump", that might be a sign.
 
 It is true some have unfortunate luck with socializing however many completely lack introspection and are not willing to look at themselves in the mirror. If there are constant problems and its always purely the fault of others, it may in fact be the case they are the problem or at least part of the problem.
 
-Other common cliches are sweeping statements like how "the scene" is "nothing but drama" and how "no one ever wants to have serious talks", often missing the reasons why serious talks with them are borderline impossible without them blowing up over minor issues, turning it into an eternal grudge. In reality the majority of kigs rarely run into any real drama, simple communication ahead of time can help avoid most issues.
-
-Try not to let one bad apple ruin your experiences, just because you share a hobby with someone does not mean you are obligated to be friends or be their therapist.
+Try not to let one bad apple ruin your experiences, just because you share a hobby with someone does not mean you are obligated to be friends or be their therapist. In reality most kigurumi rarely run into any such drama, simple communication ahead of time rather than making assumptions avoids most issues.
 
 ### Consent and boundaries
 
