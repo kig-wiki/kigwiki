@@ -21,7 +21,13 @@ This directory contains information about various kigurumi mask makers. Check ou
 
 This is not a comprehensive list of every mask maker, but a general list of some of the more popular ones who are a safer bet. This list is currently growing and not yet in it's final form. Please [contribute](../02-contributing.md) to the wiki if you feel a maker is missing or you have more information about a maker! Your help is greatly appreciated.
 
-Most makers are only really active on X (formerly Twitter) for western social media.
+Most makers are only really active on X (formerly Twitter) for western social media, it is highly suggested to check out their recent works to see if their styles align with what you are looking for.
+
+:::info
+
+We do not attempt to list "exact prices" as prices arent exactly static, as well as vary greatly depending on what you are looking for. Notable factors being hair length or complex styling, additional accessories, or other labor intensive requirements. These are custom made masks, not mass produced commodities after all.
+
+:::
 
 <MakersCards data={makersData} />
 
