@@ -17,25 +17,31 @@ import {makersData} from "@site/src/data/makers-data";
 
 # Kigurumi Mask Makers & Sellers
 
-This directory contains information about various kigurumi mask makers. Check out [Kigurumi Mask Commissioning Guide](./commissioning-guide.md) to learn more about how to commission a kigurumi mask, or [Kigurumi Basics](../Start/mask-basics.md) to learn more about kigurumi masks in general.
+This page contains a curated list of Kigurumi Mask Makers and their various links.
 
-This is not a comprehensive list of every mask maker, but a general list of some of the more popular ones who are a safer bet. This list is currently growing and not yet in it's final form. Please [contribute](../02-contributing.md) to the wiki if you feel a maker is missing or you have more information about a maker! Your help is greatly appreciated.
-
-Most makers are only really active on X (formerly Twitter) for western social media, it is highly suggested to check out their recent works to see if their styles align with what you are looking for.
-
-:::info
-
-We do not attempt to list "exact prices" as prices arent exactly static, as well as vary greatly depending on what you are looking for. Notable factors being hair length or complex styling, additional accessories, or other labor intensive requirements. These are custom made masks, not mass produced commodities after all.
-
-:::
+## Makers List
 
 <MakersCards data={makersData} />
 
+This is not a comprehensive list of every single mask maker to have existed, but a general list of some of the more popular ones who are a relatively safe bet. For easier ordering you may want to apply the "English Ordering" filter to show makers who you can communicate with directly in English.
+
+Our list is currently growing and not yet in it's final form. Please [contribute](../02-contributing.md) to the wiki if you feel a maker is missing or you have more information about a maker! Your help is greatly appreciated.
+
+:::info
+
+We don't attempt to list "exact prices" as prices arent exactly static, as well as vary greatly depending on what you are looking for. Notable factors being hair length or complex styling, additional accessories, or other labor intensive requirements.
+
+:::
+
+## Getting Started with Kigurumi Masks
+
+Check out [Kigurumi Mask Commissioning Guide](./commissioning-guide.md) to learn more about how to commission a kigurumi mask, or [Kigurumi Basics](../Start/mask-basics.md) to learn more about kigurumi masks in general.
+
 ## Maker Styles
 
-Makers will often have signature styles that they are known for, and this can be seen in the masks they make. Sigma for instance is known for more of a vintage aesthetic compared to today's more moeblob anime designs.
+Some makers will have signature styles or character types they are best known for, and this can be seen in the masks they make. Sigma for instance is known for more of a vintage aesthetic compared to today's more moeblob anime designs.
 
-Many makers can cover a range of styles, but if you have a specific style in mind, it's worth looking into a maker that is known for that style or has produced similar styles in the past.
+Its highly recommended to check out a maker's socials to see if their styles align with what you are looking for.
 
 ## Ordering Tips
 
