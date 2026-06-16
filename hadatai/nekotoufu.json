@@ -1,0 +1,26 @@
+{
+  "name": "NekoToufu",
+  "alias": "猫豆腐",
+  "status": "open",
+  "Region": "China",
+  "socials": {
+    "x": "https://x.com/Nekotoufu_Shop",
+  },
+  "currency": "USD",
+  "englishOrdering": true,
+  "priceExamples": [
+    {
+      "type": "Generic Pre-sized Hadatai",
+      "price": "90",
+      "link": "https://x.com/Nekotoufu_Shop/status/2066504093749875060",
+      "material": "Fabric"
+    },
+    {
+      "type": "Custom Made-to-measure Hadatai",
+      "price": "120",
+      "link": "https://x.com/Nekotoufu_Shop/status/2066504093749875060",
+      "material": "Fabric"
+    }
+  ],
+  "notes": "Orders over Discord or QQ as per the links above. \n\n Main account for domestic Chinese market is https://x.com/nekotoufufu"} 
+
