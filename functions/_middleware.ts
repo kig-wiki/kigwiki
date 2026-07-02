@@ -54,13 +54,19 @@ function appendVaryAccept(headers: Headers): void {
 }
 
 async function fetchMarkdownAsset(
-  context: { env: { ASSETS?: { fetch: (input: string, init?: RequestInit) => Promise<Response> } }; next: (input?: string, init?: RequestInit) => Promise<Response> },
+  context: any,
+  requestUrl: URL,
   candidatePath: string,
-): Promise<Response> {
-  if (context.env.ASSETS) {
-    return context.env.ASSETS.fetch(candidatePath, { method: "GET" });
+): Promise<Response | null> {
+  try {
+    const assetUrl = new URL(candidatePath, requestUrl).toString();
+    if (context.env?.ASSETS) {
+      return await context.env.ASSETS.fetch(assetUrl, { method: "GET" });
+    }
+    return await context.next(candidatePath, { method: "GET" });
+  } catch {
+    return null;
   }
-  return context.next(candidatePath, { method: "GET" });
 }
 
 export const onRequest = async (context: any): Promise<Response> => {
@@ -75,9 +81,8 @@ export const onRequest = async (context: any): Promise<Response> => {
   }
 
   for (const candidatePath of markdownAssetCandidates(requestUrl.pathname)) {
-    const markdownResponse = await fetchMarkdownAsset(context, candidatePath);
-
-    if (!markdownResponse.ok) {
+    const markdownResponse = await fetchMarkdownAsset(context, requestUrl, candidatePath);
+    if (!markdownResponse?.ok) {
       continue;
     }
 
