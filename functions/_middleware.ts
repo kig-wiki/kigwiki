@@ -1,5 +1,9 @@
 const MARKDOWN_CONTENT_TYPE = "text/markdown; charset=utf-8";
 
+const MARKDOWN_EXCLUDED_PREFIXES = ["/assets/", "/icons/", "/img/", "/search/"];
+const MARKDOWN_EXCLUDED_EXTENSIONS =
+  /\.(?:md|js|css|map|png|jpe?g|gif|webp|svg|ico|woff2?|xml|json|webmanifest|txt)$/i;
+
 function requestAcceptsMarkdown(acceptHeader: string): boolean {
   if (!acceptHeader) {
     return false;
@@ -27,6 +31,13 @@ function markdownAssetCandidates(pathname: string): string[] {
   return [`${normalizedPath}/index.md`, `${normalizedPath}.md`];
 }
 
+function shouldSkipMarkdownNegotiation(pathname: string): boolean {
+  if (MARKDOWN_EXCLUDED_EXTENSIONS.test(pathname)) {
+    return true;
+  }
+  return MARKDOWN_EXCLUDED_PREFIXES.some((prefix) => pathname.startsWith(prefix));
+}
+
 function appendVaryAccept(headers: Headers): void {
   const vary = headers.get("Vary");
   if (!vary) {
@@ -42,6 +53,16 @@ function appendVaryAccept(headers: Headers): void {
   }
 }
 
+async function fetchMarkdownAsset(
+  context: { env: { ASSETS?: { fetch: (input: string, init?: RequestInit) => Promise<Response> } }; next: (input?: string, init?: RequestInit) => Promise<Response> },
+  candidatePath: string,
+): Promise<Response> {
+  if (context.env.ASSETS) {
+    return context.env.ASSETS.fetch(candidatePath, { method: "GET" });
+  }
+  return context.next(candidatePath, { method: "GET" });
+}
+
 export const onRequest = async (context: any): Promise<Response> => {
   const acceptHeader = context.request.headers.get("Accept") ?? "";
   if (!requestAcceptsMarkdown(acceptHeader)) {
@@ -49,13 +70,12 @@ export const onRequest = async (context: any): Promise<Response> => {
   }
 
   const requestUrl = new URL(context.request.url);
+  if (shouldSkipMarkdownNegotiation(requestUrl.pathname)) {
+    return context.next();
+  }
 
   for (const candidatePath of markdownAssetCandidates(requestUrl.pathname)) {
-    const markdownUrl = new URL(candidatePath, requestUrl);
-    const markdownResponse = await context.env.ASSETS.fetch(markdownUrl.toString(), {
-      method: "GET",
-      headers: context.request.headers,
-    });
+    const markdownResponse = await fetchMarkdownAsset(context, candidatePath);
 
     if (!markdownResponse.ok) {
       continue;
@@ -65,6 +85,7 @@ export const onRequest = async (context: any): Promise<Response> => {
     const headers = new Headers(markdownResponse.headers);
     headers.set("Content-Type", MARKDOWN_CONTENT_TYPE);
     headers.set("x-markdown-tokens", String(Math.ceil(markdownBody.length / 4)));
+    headers.set("X-Content-Negotiation", "markdown");
     appendVaryAccept(headers);
 
     return new Response(markdownBody, {
