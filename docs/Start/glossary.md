@@ -27,7 +27,7 @@ Use your browser's search function (Ctrl+F / Cmd+F) to quickly find specific kig
 Basically the original term for kigurumi mask costumes, at least of feminine characters.
 
 **Related**:
-[Kigurumi](#kigurumi-kigurumi)
+[Kigurumi](#kigurumi-着ぐるみ)
 
 ### **Bobblehead**
 
