@@ -24,7 +24,7 @@ Contributing to this documentation is _fairly_ straightforward if you have a Git
 Technically you can do this all on the Github website.
 
 1. Fork the [repository](https://github.com/kig-wiki/kigwiki)
-2. Make your changes to the .MD markdown files in the docs folder throughGitHub's text editor
+2. Make your changes to the .MD markdown files in the docs folder through GitHub's text editor
 3. Submit a Pull Request from your fork to our `staging-build` branch
 
 Since we're primarily dealing with Markdown files, the GitHub web interface is perfect for most contributions!
