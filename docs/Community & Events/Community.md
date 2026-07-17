@@ -1,10 +1,10 @@
 ---
 id: community-overview
-title: "Kigurumi Communities: Discords, Forums & Groups"
+title: "Kigurumi Communities: Etiquette & Pitfalls"
 sidebar_label: "Communities"
 slug: /community/community-overview
 canonical_url: https://kig.wiki/community/community-overview
-description: "Avoiding various pitfalls in kigurumi communities and various other protips."
+description: "What to expect from kigurumi communities: meeting local kigs, consent and boundaries, and how to avoid common social pitfalls in the hobby."
 ---
 
 # Kigurumi Communities

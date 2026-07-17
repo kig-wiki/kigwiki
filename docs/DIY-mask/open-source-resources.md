@@ -1,6 +1,6 @@
 ---
 id: diy-mask-open-source-resources
-title: "Open-Source DIY Kigurumi Mask Resources (3D Models)"
+title: "Free Open-Source Kigurumi Mask 3D Models & Parts"
 sidebar_label: "DIY Resources"
 slug: /diy-mask/open-source-resources
 canonical_url: https://kig.wiki/diy-mask/open-source-resources
@@ -8,7 +8,7 @@ tags:
   - diy
   - mask
 sidebar_position: 4
-description: "Collection of open-source DIY kigurumi mask resources, including free 3D models and related materials."
+description: "Open-source resources for DIY kigurumi masks: free 3D-printable head models, plus components like latches, eyes, paint, and padding."
 ---
 
 import SocialEmbed from "@site/src/components/SocialEmbed";

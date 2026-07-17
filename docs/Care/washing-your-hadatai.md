@@ -1,6 +1,6 @@
 ---
 id: cleaning-a-hadatai
-title: "How To Maintain and Wash a Hadatai"
+title: "How to Wash and Care for a Hadatai"
 sidebar_label: "Hadatai Care"
 slug: /care/cleaning-a-hadatai
 canonical_url: https://kig.wiki/care/cleaning-a-hadatai
@@ -8,7 +8,7 @@ tags:
   - hadatai
   - repair
 sidebar_position: 3
-description: "How to wash and care for a hadatai, with handling tips to maintain fit, fabric condition, and longevity."
+description: "Washing and care guide for hadatai: how to wash without damaging the fabric, plus drying and handling tips to keep the fit and make it last."
 ---
 
 # How to Wash a Hadatai

@@ -1,13 +1,13 @@
 ---
 id: hadatai-padding-theory
-title: "Kigurumi Mask Padding Guide (Fit & Comfort)"
+title: "Kigurumi Padding Theory: Anime Body Proportions"
 sidebar_label: "Padding Theory"
 slug: /start/padding-theory
 canonical_url: https://kig.wiki/start/padding-theory
 tags:
   - hadatai
 sidebar_position: 6
-description: "Concepts behind padding for kigurumi: shape, proportions, and fit. What padding changes and how to use it."
+description: "How body padding creates anime proportions in kigurumi: foam, silicone, and inflatable options, where to pad, and how to plan your shape."
 ---
 
 # Kigurumi Padding Theory

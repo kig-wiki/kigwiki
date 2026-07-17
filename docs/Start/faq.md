@@ -7,7 +7,7 @@ canonical_url: https://kig.wiki/reference/faq
 tags:
   - introduction
 sidebar_position: 9
-description: "Answers to common kigurumi questions about masks, hadatai, buying, care, comfort, and basic expectations for newcomers."
+description: "Frequently asked kigurumi questions answered: mask and hadatai basics, costs, where to buy, comfort, care, and what newcomers should expect."
 ---
 
 import FAQStructuredData from "@site/src/theme/MDXComponents/FAQStructuredData";

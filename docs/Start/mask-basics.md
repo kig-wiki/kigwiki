@@ -1,6 +1,6 @@
 ---
 id: mask-overview
-title: "Kigurumi Mask Basics: Types, Features and Buying Guide"
+title: "Kigurumi Mask Basics: Types, Features & Buying"
 sidebar_label: "Mask Basics"
 slug: /start/mask-basics
 canonical_url: https://kig.wiki/start/mask-basics
@@ -8,7 +8,7 @@ tags:
   - intro
   - mask
 sidebar_position: 3
-description: "Learn what kigurumi masks are like, common types and features, and practical considerations for fit, comfort, and use."
+description: "What kigurumi masks are, the common types and features, and what to consider for fit, comfort, and visibility before buying your first mask."
 ---
 
 # Kigurumi Mask Basics

@@ -1,13 +1,13 @@
 ---
 id: mask-sizing-options
-title: "Kigurumi Mask Sizing Options and Measurements"
+title: "Kigurumi Mask Sizing: Measurements & Fit Options"
 sidebar_label: "Sizing Masks"
 slug: /buy/sizing
 canonical_url: https://kig.wiki/buy/sizing
 tags:
   - buying
 sidebar_position: 4
-description: "Sizing approaches for kigurumi masks: measurements, fit options, and how to choose sizing details for comfort and stability."
+description: "How kigurumi mask sizing works: the measurements makers ask for, common fit options, and how to choose for comfort and stability."
 ---
 
 # Kigurumi Mask Sizing Options

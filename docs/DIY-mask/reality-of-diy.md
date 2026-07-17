@@ -8,7 +8,7 @@ tags:
   - diy
   - mask
 sidebar_position: 1
-description: "What to know before attempting a DIY kigurumi mask: constraints, tradeoffs, and common surprises first-timers encounter."
+description: "The realistic costs, skills, and time a DIY kigurumi mask takes, and the common surprises that catch first-time builders off guard."
 ---
 
 # Before You Start a DIY Kigurumi Mask

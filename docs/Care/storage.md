@@ -8,7 +8,7 @@ tags:
   - mask
   - care
 sidebar_position: 4
-description: "Storage methods for kigurumi masks: ways to protect shape, finish, and components during short and long-term storage."
+description: "Short and long-term storage tips for kigurumi masks: protecting the shell, finish, hair, and padding from damage, dust, and deformation."
 ---
 
 # Kigurumi Storage Methods

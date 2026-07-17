@@ -1,6 +1,6 @@
 ---
 id: buying-used-overview
-title: "Buying Used Kigurumi Mask: Guide & Safety Tips"
+title: "Buying a Used Kigurumi Mask: Guide & Safety Tips"
 sidebar_label: "Buying Used"
 slug: /buy/used/used-overview
 canonical_url: https://kig.wiki/buy/used/used-overview
@@ -8,7 +8,7 @@ tags:
   - buying
   - secondhand
 sidebar_position: 1
-description: "Buying used kigurumi masks: where they're listed, what to check before purchase, and common risks to avoid."
+description: "Thinking about a secondhand kigurumi mask? Where used masks are sold, what to check before you pay, and the scams and risks to avoid."
 ---
 
 # Buying Used Kigurumi Masks

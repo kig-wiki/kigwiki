@@ -1,6 +1,6 @@
 ---
 id: buying-hadatai
-title: "Hadatai Stores and Where to Buy a Hadatai in 2026"
+title: "Where to Buy a Hadatai: Stores & Makers (2026)"
 sidebar_label: "Hadatai Stores"
 slug: /buy/hadatai
 canonical_url: https://kig.wiki/buy/hadatai
@@ -9,7 +9,7 @@ tags:
   - makers
   - hadatai
 sidebar_position: 2
-description: "Where to buy hadatai: maker list, typical options, and what to look for when choosing sizing, fabric, and construction."
+description: "Current list of hadatai makers and stores, plus what to check on sizing, fabric, and construction before ordering a kigurumi hadatai."
 ---
 
 import HadataiCards from "@site/src/components/HadataiCards";

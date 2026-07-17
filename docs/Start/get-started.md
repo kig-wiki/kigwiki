@@ -1,13 +1,13 @@
 ---
 id: introduction-beginner-path
-title: "Kigurumi Guide to Getting Started"
+title: "Getting Started with Kigurumi: A Beginner's Guide"
 sidebar_label: "Getting Started"
 slug: /start/get-started-with-kigurumi
 canonical_url: https://kig.wiki/start/get-started-with-kigurumi
 tags:
   - introduction
 sidebar_position: 1
-description: "Start here: the basic components, common first steps, and what to know before buying a kigurumi mask or hadatai. Get started with Kigurumi."
+description: "New to kigurumi? Start here for the basics: what a kig is made of, realistic costs and wait times, and what to know before your first order."
 ---
 
 # Getting started with Kigurumi

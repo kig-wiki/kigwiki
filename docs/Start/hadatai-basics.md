@@ -1,13 +1,13 @@
 ---
 id: hadatai-overview
-title: "Hadatai Basics: What is a Hadatai for Kigurumi Masks?"
+title: "What Is a Hadatai? The other half of Kigurumi explained"
 sidebar_label: "Hadatai Basics"
 slug: /start/hadatai-basics
 canonical_url: https://kig.wiki/start/hadatai-basics
 tags:
   - hadatai
 sidebar_position: 5
-description: "What a Hadatai (ハダタイ) is, how it's worn, and how it differs from zentai, plus common terminology and pitfalls."
+description: "What a hadatai (ハダタイ) is, how it's worn with a kigurumi mask, how it differs from zentai, and what new buyers should know."
 ---
 
 # Hadatai Basics

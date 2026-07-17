@@ -1,13 +1,13 @@
 ---
 id: handlers-guide
-title: "Kigurumi Handler's Guide"
+title: "Kigurumi Handler's Guide: Tips & Checklist"
 sidebar_label: "Handlers Guide"
 slug: /start/handlers-guide
 canonical_url: https://kig.wiki/start/handlers-guide
 tags:
   - introduction
 sidebar_position: 7
-description: "Guide for kigurumi handlers, first time handler tips and handler's checklist. Learn how to be a great kigurumi handler."
+description: "What a kigurumi handler does and how to be a good one: first-time handler tips, safety, communication, and a practical checklist."
 ---
 
 # Kigurumi and Handlers

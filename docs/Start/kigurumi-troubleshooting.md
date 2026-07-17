@@ -1,6 +1,6 @@
 ---
 id: troubleshooting
-title: "Kigurumi Troubleshooting: Common Mask & Hadatai Issues"
+title: "Kigurumi Troubleshooting: Mask & Hadatai Fixes"
 sidebar_label: "Troubleshooting"
 slug: /resource/troubleshooting
 canonical_url: https://kig.wiki/resource/troubleshooting
@@ -8,7 +8,7 @@ tags:
   - introduction
   - resource
 sidebar_position: 10
-description: "Troubleshooting common kigurumi issues and practical fixes, including fit, comfort, cleaning, and handling problems."
+description: "Practical fixes for common kigurumi problems: masks that sit wrong or fit too small, padding showing through the hadatai, and more."
 ---
 
 # Kigurumi Troubleshooting

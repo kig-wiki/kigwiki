@@ -1,13 +1,13 @@
 ---
 id: mask-padding
-title: "Kigurumi Mask Padding Guide (Fit & Comfort)"
+title: "How to Pad a Kigurumi Mask for a Better Fit"
 sidebar_label: "Padding Masks"
 slug: /care/mask-padding
 canonical_url: https://kig.wiki/care/mask-padding
 tags:
   - mask
   - care
-description: "How to pad your Kigurumi Mask to best fit your head, guide for an optimal kigurumi mask fit to look your best."
+description: "How to pad the inside of your kigurumi mask so it fits your head comfortably, sits securely, and keeps the eyes and face aligned."
 ---
 
 # Kigurumi Mask Padding Guide

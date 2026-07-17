@@ -1,6 +1,6 @@
 ---
 id: buy-padding-shapewear
-title: "Where to Buy Padding and Shapewear for Kigurumi"
+title: "Where to Buy Kigurumi Padding & Shapewear"
 sidebar_label: "Padding and Shapewear Sellers"
 slug: /buy/padding-and-shapewear
 canonical_url: https://kig.wiki/buy/padding-and-shapewear
@@ -8,7 +8,7 @@ tags:
   - buying
   - hadatai
 sidebar_position: 3
-description: "List of popular padding and shapewear sellers for kigurumi performers. How to achieve that perfect anime style look with kigurumi cosplay."
+description: "Popular sellers of body padding and shapewear for kigurumi, and what to look for to achieve anime style proportions in kig."
 ---
 
 # Where to Buy Padding and Shapewear for Kigurumi
