@@ -16,7 +16,7 @@ Padding is a common way to customize a mask to best fit your head. While makers 
 
 <div className="info-box-container">
   <img
-    src="/img/padding/microfiber-sponges.jpg"
+    src="/img/padding/microfiber-sponges.webp"
     alt="Microfiber Sponges"
     className="info-box-image"
     loading="lazy"

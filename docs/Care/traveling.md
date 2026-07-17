@@ -21,7 +21,7 @@ If they can't fit it in a carry on, "Pelican" style boxes are a popular choice. 
 
 <div className="info-box-container">
   <img
-    src="/img/misc-recommendations/Nanuk-960-Black-Cubed-Foam.png"
+    src="/img/misc-recommendations/Nanuk-960-Black-Cubed-Foam.webp"
     alt="Nanuk 960 Case"
     className="info-box-image"
     loading="lazy"
