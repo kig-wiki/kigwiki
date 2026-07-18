@@ -280,5 +280,5 @@ Non-English origins and contexts, non-english audiences do not have the same con
 - [Troubleshooting](./kigurumi-troubleshooting.md)
 
 :::note
-This glossary is continuously updated. If you notice a term that should be added or corrected, please contribute to the community knowledge base.
+This glossary is continuously updated. If you notice a term that should be added or corrected, please contribute to our community knowledge base.
 :::

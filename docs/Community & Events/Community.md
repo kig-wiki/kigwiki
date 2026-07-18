@@ -19,7 +19,7 @@ This section is currently under development. If you have ideas for content, plea
 on the github repo.
 
 What this section will _not_ cover is advertising communities nor trying to make this resource into
-a community either. This is a resource for the community, not a community itself.
+a community either. This is a resource for the kigurumi community, not a community itself.
 
 :::
 

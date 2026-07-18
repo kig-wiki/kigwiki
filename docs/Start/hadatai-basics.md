@@ -72,7 +72,7 @@ Some of the common reasons for wearing a hadatai are:
 
 Generally a hadatai should fit like a second skin and feel like nothing at all is there.
 
-At risk of sounding pretentious there are often perceived notions in the community that those who see a hadatai as something completely optional are just trying to do the bare minimum. Its somewhat like having just a fursuit head without any other parts to go with, [poodling](https://en.wikifur.com/wiki/Poodling) as the furry community would say. To a similar notion, many feel a kigurumi is incomplete without a hadatai, and if required padding/shapewear as needed to achieve the unrealistic anime physique.
+At risk of sounding pretentious there are often perceived notions in kig communities that those who see a hadatai as something completely optional are just trying to do the bare minimum. Its somewhat like having just a fursuit head without any other parts to go with, [poodling](https://en.wikifur.com/wiki/Poodling) as the furry community would say. To a similar notion to achieve the unrealistic anime aesthetic, many feel it is impossible without a hadatai, and often times padding/shapewear in addition.
 
 While a hadatai is not absolutely required, many see it as something thats hard to go without. That said do not buy one simply because someone told you to, do your own research and make a decision that is right for you. Additionally, a bad zentai can be far worse than no hadatai at all, so please dont feel pressured to just buy "something" because its the norm.
 
