@@ -60,7 +60,7 @@ Velcro is a hadatai's worst enemy, and will pull at the material. There are some
 
 :::
 
-## Why Use a Hadatai?
+## Why Wear a Hadatai?
 
 Some of the common reasons for wearing a hadatai are:
 
