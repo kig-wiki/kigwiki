@@ -103,7 +103,7 @@ Sometimes makers will offer no face opening option, this is generally an advance
 
 ### Measurements
 
-Makers will generally provide a measurements guide and a form to fill out for all the various measurements they will need to make your hadatai. It's greatly advised to have someone help you measure to ensure everything is accurate. Some measures like shoulder width can be tricky to get solo. As to the saying measure twice, cut once... double check your measurements are all good before submitting, its better to be safe than sorry.
+Makers will generally provide a measurements guide and a form to fill out for all the various measurements they will need to make your hadatai. It's greatly advised to have someone help you measure to ensure everything is accurate. Some measures like shoulder width can be tricky to get solo. As to the saying "measure twice, cut once...", double check your measurements are all good before submitting, its better to be safe than sorry.
 
 ## Hadatai Care
 
