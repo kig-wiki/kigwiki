@@ -20,8 +20,8 @@ Compared to a zentai, hadatai tend to be:
 
 - Made to measure and tailored to the customer
 - Matte flesh-toned finish
-- Increased attention towards clean, smooth seams, particularly around the joints.
-- Typically but not always, better quality materials
+- Increased attention towards clean, smooth seams, particularly around the joints and fingers
+- Typically but not always, better quality materials and more durable construction techniques
 
 Zentai additionally tend to use a warmer, more beige flesh-toned color:
 
@@ -54,13 +54,27 @@ Do note that these are just examples, colors may vary between makers, production
 What is consistent is the difficulty in finding a zentai that properly matches the typical kigurumi pinkish flesh tones.
 Know a zentai maker that does? Please let us know over on our [github](https://github.com/kig-wiki/kigwiki/issues)
 
-While a hadatai is not strictly required, it is a common and recommended addition to kigurumi mask to have the full costumed experience. That said, do not buy one simply because someone told you to, do your own research and make a decision that is right for you. A bad zentai can be far worse than no zentai.
-
 :::warning
 
 Velcro is a hadatai's worst enemy, and will pull at the material. There are some makers that offer fabrics less prone to this however the average hadatai is not one of them.
 
 :::
+
+## Why Use a Hadatai?
+
+Some of the common reasons for wearing a hadatai are:
+
+- To smooth out any shapewear or padding
+- Covering skin imperfections to get a very anime-like perfect skin tone
+- Matching skin tone to the mask
+- For those who have body hair or tattoos, to avoid their kig being defined by those features
+- As part of the "full body costumed experience" or similar mascot-esque ideas
+
+Generally a hadatai should fit like a second skin and feel like nothing at all is there.
+
+At risk of sounding pretentious there are often perceived notions in the community that those who see a hadatai as something completely optional are just trying to do the bare minimum. Its somewhat like having just a fursuit head without any other parts to go with, [poodling](https://en.wikifur.com/wiki/Poodling) as the furry community would say. To a similar notion, many feel a kigurumi is incomplete without a hadatai, and if required padding/shapewear as needed to achieve the unrealistic anime physique.
+
+While a hadatai is not absolutely required, many see it as something thats hard to go without. That said do not buy one simply because someone told you to, do your own research and make a decision that is right for you. Additionally, a bad zentai can be far worse than no hadatai at all, so please dont feel pressured to just buy "something" because its the norm.
 
 ## Hadatai Alternatives
 
