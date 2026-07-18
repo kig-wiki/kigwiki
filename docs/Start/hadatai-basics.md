@@ -91,7 +91,7 @@ They often have various options as well for features such as:
 
 - Male and Female located crotch zippers (for easier access in emergency bathroom breaks)
 - Options for a "3D chest" (for a more accurate chest shape)
-  - Sewn in vest for breas forms
+  - Sewn in vest for breast forms
 - Different face openings
 - Various zipper types (discrete, ring pull being the most common)
 
