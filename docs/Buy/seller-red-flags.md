@@ -64,7 +64,7 @@ open to making new masks for characters they've already made before, but rarely 
 the exact same mask as they've already made prior. Their social pages are more a showcase of what they've
 made in the past, rather than what they're currently trying to sell you.
 
-In reality if you reverse image searched any of the images of such scam sellers, you'd likely find the original maker's social media pages. In this case, most of the photos are ripped straight from maker Lightning's socials.
+In reality if you reverse image searched any of the images of such scam sellers, you'd likely find the original maker's social media pages. In this case, most of the photos are ripped straight from maker Lightning's socials. Sometimes these sellers will edit out watermarks and put their own to try and get some semblance of legitimacy.
 
 ### A lack of social media presence
 
