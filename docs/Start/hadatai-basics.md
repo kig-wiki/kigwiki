@@ -93,7 +93,7 @@ They often have various options as well for features such as:
 - Options for a "3D chest" (for a more accurate chest shape)
   - Sewn in vest for breast forms
 - Different face openings
-- Various zipper types (discrete, ring pull being the most common)
+- Various zipper types (discrete or "hidden" zippers, ring pull being the most common)
 
 Especially for beginners its highly recommended to get the ring pull type zippers, as they are much easier to do up and down.
 
