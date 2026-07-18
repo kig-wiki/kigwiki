@@ -24,9 +24,9 @@ This page contains a curated list of Kigurumi Mask Makers and their various link
 <MakersCards data={makersData} />
 
 This is not a comprehensive list of every single mask maker to have existed, but a general list of some of the more popular ones who are a relatively safe bet. For easier ordering you may want to apply the "English Ordering" filter to show makers who you can communicate with directly in English.
-
-Our list is currently growing and not yet in it's final form. Please [contribute](../02-contributing.md) to the wiki if you feel a maker is missing or you have more information about a maker! Your help is greatly appreciated.
-
+:::warning
+Many top Google results for kigurumi stores are unfortunately resellers, scalpers or outright scammers. Most masks are made to order, not some storefront with countless premade masks advertised. Check out our [seller red flags](./seller-red-flags.md) page to learn more about how to avoid these sellers.
+:::
 :::info
 
 We don't attempt to list "exact prices" as prices arent exactly static, as well as vary greatly depending on what you are looking for. Notable factors being hair length or complex styling, additional accessories, or other labor intensive requirements.

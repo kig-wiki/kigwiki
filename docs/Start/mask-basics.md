@@ -18,6 +18,18 @@ description: "What kigurumi masks are, the common types and features, and what t
 The Kigurumi mask itself is the most visible and recognizable component of kigurumi, the focal point of the costume and the character being portrayed. In a mix between traditional cosplay and more mascot-esque styles, Kigurumi masks offer a unique way to bring a character to life. <br />
 Typically Kigurumi masks are commisioned from a maker and custom made to the references provided to be as accurate to the character as possible.
 
+## Where to get a Kigurumi Mask?
+
+If you're just looking for a list of makers, check out our [buying kigurumi masks](../Buy/makers.md) page.
+
+Generally a masks are commissioned rather than a product generally available for immediate purchase. Customized for size, style, and to meet your specific character. Kig masks are not quite some off the shelf mass produced good, and as such sometimes you'll have to wait a while for your given mask to be made.
+
+:::warning
+Many top Google results for kigurumi stores are unfortunately resellers, scalpers or outright scammers. Most masks are made to order, not some storefront with countless premade masks advertised. Check out our [seller red flags](../Buy/seller-red-flags.md) page to learn more about how to avoid these sellers.
+:::
+
+## Mask Materials and Details
+
 ### Materials
 
 Usually masks are resin 3D printed, or more traditionally made from fiberglass reinforced plastic (FRP). Different makers will have different materials and production processes, as well as engineer things in their own ways.
@@ -108,12 +120,6 @@ Sometimes the eyes will have white mesh around the pupil, some makers will have 
 
 Many masks cannot fit glasses underneath, if contacts are an option, this is a good way to go. If you need to wear glasses, check with the maker if this is a concern about having enough space rather than assume it will.
 
-## Ordering a Kigurumi Mask
-
-For a list of kigurumi mask makers and general information on how to order a kigurumi mask, see our [buying kigurumi masks](../Buy/makers.md) page.
-
-Have patience, many makers have backlogs and it may take some time to get your mask. Sometimes makers may have masks available for immediate purchase, but this is rarely the case and often more when a maker has masks the commisioner has failed to pay the final balance for.
-
 ## Kigurumi Mask Padding
 
 Masks come with generic padding that is a best effort from the maker, often however you will want to customize the padding to best fit your head. Many makers will include extra padding for this purpose.
@@ -122,7 +128,8 @@ Masks come with generic padding that is a best effort from the maker, often howe
 
 ## DIY Kigurumi Masks
 
-DIY Kigurumi masks are do-able, however there is a laundry list of reasons why you may want to commission a mask from a maker instead, especially if you're new to kigurumi masks or DIY prop making. The [cautionary DIY page](../DIY-mask/reality-of-diy.md) has more information on the reality of DIY kigurumi masks.
+DIY Kigurumi masks are do-able, however there is a laundry list of reasons why you may want to commission a mask from a maker instead, especially if you're new to kigurumi masks or DIY prop making. The [cautionary DIY page](../DIY-mask/reality-of-diy.md) has more information on the reality of DIY kigurumi masks.  
+Generally if you've never styled a wig or painted a 3d printed prop before, its **highly** recommended to try simpler DIY projects first before undertaking a kigurumi mask. This is an advanced level project to get results you'll be happy with, DIY takes a lot of time and resources to get decent results.
 
 ## Furkigs
 
