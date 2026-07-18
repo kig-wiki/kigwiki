@@ -1,6 +1,6 @@
 ---
 id: seller-red-flags
-title: "Kigurumi Mask Seller Red Flags: How to Avoid Scams and Resellers"
+title: "Kigurumi Mask Seller Red Flags: How to Avoid Scams"
 sidebar_label: "Seller Red Flags"
 slug: /buy/seller-red-flags
 canonical_url: https://kig.wiki/buy/seller-red-flags
