@@ -12,15 +12,13 @@
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.wordWrap": "on",
-    "editor.rulers": [100],
     "editor.unicodeHighlight.ambiguousCharacters": false,
     "editor.suggestOnTriggerCharacters": false
   },
   "[mdx]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.wordWrap": "on",
-    "editor.rulers": [100]
+    "editor.wordWrap": "on"
   },
   "files.associations": {
     "*.md": "markdown",
