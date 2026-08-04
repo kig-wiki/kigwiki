@@ -12,7 +12,7 @@ description: "What a hadatai (ハダタイ) is, how it's worn with a kigurumi ma
 
 # Hadatai Basics
 
-## Intro to Hadatai - Hadatai vs Zentai
+## Intro to Kigurumi Hadatai
 
 Hadatai (ハダタイ) is a type of zentai-like bodysuit worn by kigs. Its not a zentai, but a hadatai.
 
@@ -74,7 +74,7 @@ Generally a hadatai should fit like a second skin and feel like nothing at all i
 
 At risk of sounding pretentious there are often perceived notions in kig communities that those who see a hadatai as something completely optional are just trying to do the bare minimum. Its somewhat like having just a fursuit head without any other parts to go with, [poodling](https://en.wikifur.com/wiki/Poodling) as the furry community would say. To a similar notion to achieve the unrealistic anime aesthetic, many feel it is impossible without a hadatai, and often times padding/shapewear in addition.
 
-While a hadatai is not absolutely required, many see it as something thats hard to go without. That said do not buy one simply because someone told you to, do your own research and make a decision that is right for you. Additionally, a bad zentai can be far worse than no hadatai at all, so please dont feel pressured to just buy "something" because its the norm.
+While a hadatai is not absolutely required, many see it as something thats hard to go without. That said do not buy one simply because someone told you to, do your own research and make a decision that is right for you. Additionally, a bad zentai can be far worse than no hadatai at all, so please don't feel pressured to just buy "something" because its the norm.
 
 ## Hadatai Alternatives
 
@@ -97,7 +97,7 @@ They often have various options as well for features such as:
 
 Especially for beginners its highly recommended to get the ring pull type zippers, as they are much easier to do up and down.
 
-For face openings its highly recommended to get a standard "open face" opening. Some makers will offer more limited "eye holes" or "eye window" openings, sometimes with a seperate mouth opening. These are generally less common, less comfortable, and just generally less practical with no real advantage while also costing more.
+For face openings its highly recommended to get a standard "open face" opening. Some makers will offer more limited "eye holes" or "eye window" openings, sometimes with a separate mouth opening. These are generally less common, less comfortable, and just generally less practical with no real advantage while also costing more.
 
 Sometimes makers will offer no face opening option, this is generally an advanced option and should only be considered if you really do want to have no visibility at all.
 

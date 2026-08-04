@@ -13,9 +13,9 @@ description: "Washing and care guide for hadatai: how to wash without damaging t
 
 # How to Wash a Hadatai
 
-Hadatai like any other garment can get dirty. Especially if you are wearing it out and about in public areas, some spots like the hands can get quite discolored if you arent careful.
+Hadatai like any other garment can get dirty. Especially if you are wearing it out and about in public areas, some spots like the hands can get quite discolored if you aren't careful.
 
-A little dirt or stain isnt a life sentence to your hadatai however, a little bit of care keeps them looking good as new for a long time.
+A little dirt or stain isn't a life sentence to your hadatai however, a little bit of care keeps them looking good as new for a long time.
 
 ## Summary (TLDR Version)
 
@@ -24,9 +24,9 @@ A little dirt or stain isnt a life sentence to your hadatai however, a little bi
 
 - Wash your hadatai sooner rather than later, the longer sweat and dirt sits the less likely it is to come out
 - [Spot treat stains](./washing-your-hadatai.md#common-hadatai-stains-and-how-to-target-them), particularly any marks around hands and feet with a stain remover ideally containing Protease and Lipase enzymes
-  - **Work the stain remover into the fabric**. Spray and pray isnt as good as rubbing it in.
+  - **Work the stain remover into the fabric**. Spray and pray isn't as good as rubbing it in.
     - A spare toothbrush or other soft brush can be used gently to work the stain remover into the fabric.
-- Handwash if you want to play it safe, but dont be afraid to use a washing machine either.
+- Handwash if you want to play it safe, but don't be afraid to use a washing machine either.
 - If using a washing machine:
   - Use a gentle cycle, cold water
   - Do not mix with other clothes, washing multiple hadatai is fine but if one is heavily stained, it's better to wash it separately.
@@ -41,9 +41,9 @@ A little dirt or stain isnt a life sentence to your hadatai however, a little bi
 
 Most modern stain fighters use various enzymes to break down specific types of stains, with most stain products having a mix of various enzymes to target multiple stain types. Knowing what you're trying to target is key to solving the right type of problem.
 
-Enzymes however are not magic, they dont replace surfactants and other cleaning agents, they work together to get the job done. The enzymes being listed here are classes of enzymes and not specific ingredients, so you might need to google some ingredients to find out what a product truly contains.
+Enzymes however are not magic, they don't replace surfactants and other cleaning agents, they work together to get the job done. The enzymes being listed here are classes of enzymes and not specific ingredients, so you might need to google some ingredients to find out what a product truly contains.
 
-Regardless of the stain type or product, **work the stain remover into the fabric** using a dedicated scrubber or wearing gloves with your hands. Similar concept to showering, you dont just put soap on your body and wash it off, you rub it in some. Let the stain remover sit for a few minutes, and then rinse it off.
+Regardless of the stain type or product, **work the stain remover into the fabric** using a dedicated scrubber or wearing gloves with your hands. Similar concept to showering, you don't just put soap on your body and wash it off, you rub it in some. Let the stain remover sit for a few minutes, and then rinse it off.
 
 ### Common dirt and discoloration on Hadatai
 
@@ -59,7 +59,7 @@ The most common stains you'll find on a hadatai are a buildup of sweat and sebum
     loading="lazy"
   />
   <div className="info-box-caption">
-    A classic example of a stain that if ignored can turn into a permanent mark. <br /> Dont let
+    A classic example of a stain that if ignored can turn into a permanent mark. <br /> don't let
     your dark soles turn into the Dark Souls of laundry care. Clean them as soon as possible.
   </div>
 </div>
@@ -80,7 +80,7 @@ Solution: Varies
 
 Given kigs cant really eat in mask, food stains tend to be less common. Stain removers however depend on what kind of food is involved.
 
-- Starchy foods and sauces benefit from Amalyse
+- Starchy foods and sauces benefit from Amylase
 - Protein based foods benefit from Protease
 - Fat based foods benefit from Lipase
 - Fruit stains benefit from Pectinase
@@ -95,7 +95,7 @@ Reminder, you must work the stain remover into the fabric. Follow the instructio
 
 - Puracy's Laundry Stain Remover
 
-  - Contains Protease and Lipase enzymes, as well as Amalyse, Pectinase and Mannase enzymes for various food stains.
+  - Contains Protease and Lipase enzymes, as well as Amylase, Pectinase and mannanase enzymes for various food stains.
 
 - 365 by Whole Foods Market Stain Remover
 
@@ -107,7 +107,7 @@ Reminder, you must work the stain remover into the fabric. Follow the instructio
 
 - Zout Triple Action
 
-  - Contains Protease and Lipase, as well as Amalyse enzymes.
+  - Contains Protease and Lipase, as well as Amylase enzymes.
 
 - Lion brand "Top Nanox for collars and sleeves"
   - While it's only enzyme is a type of Lipase enzyme, it is a very concentrated stain remover for sebum based stains. Japanese based, in other regions it may only be available at import stores.
@@ -118,7 +118,7 @@ Know any other potent options in your region? Please let us know over on our [gi
 [Additional Resources](./washing-your-hadatai.md#additional-resources) also has some additional links for finding North American options.
 :::
 
-While not a stain remover itself, Ammonia can help the fight against oil based stains. Typically you'd want a solution of 2-25% ammonium hydroxide typically sold in the cleaning isles of many appropriate stores. Probably worth avoiding any with "lemon" or "citrus" scents, use no more than 1 cup of 2% solution, 0.5 cups of 5%, 1/4 cup of 10% or 1.5Tbps of 25% solution for a hadatai sized load.
+While not a stain remover itself, Ammonia can help the fight against oil based stains. Typically you'd want a solution of 2-25% ammonium hydroxide typically sold in the cleaning isles of many appropriate stores. Probably worth avoiding any with "lemon" or "citrus" scents, use no more than 1 cup of 2% solution, 0.5 cups of 5%, 1/4 cup of 10% or 1.5Tbsp of 25% solution for a hadatai sized load.
 
 :::warning
 
@@ -127,7 +127,7 @@ NEVER MIX AMMONIA WITH LIQUID BLEACH, it WILL create a gas that will harm you. T
 
 ### Mid options
 
-Better than nothing but often lacking lipase. Many will still contain various surfactants that can help with a variety of stains, they arent useless but may not be as effective for common hadatai stains as more specialized options.
+Better than nothing but often lacking lipase. Many will still contain various surfactants that can help with a variety of stains, they aren't useless but may not be as effective for common hadatai stains as more specialized options.
 
 - Tide OxiPro Stain Remover - Grease Stains
 
@@ -135,7 +135,7 @@ Better than nothing but often lacking lipase. Many will still contain various su
 
 - OxiClean Max Force Spray and Max Gel
 
-  - Has protease but not lipase, amylase and mannase are more food stain targeting. The oxi (sodium hydroxide) components mainly help with oxidizible stains (grass, blood, coffee, fruit juice, sweat) not anything oil based. Still a better option than the powder oxi-products.
+  - Has protease but not lipase, amylase and mannanase are more food stain targeting. The oxi (sodium hydroxide) components mainly help with oxidizable stains (grass, blood, coffee, fruit juice, sweat) not anything oil based. Still a better option than the powder oxi-products.
 
 - Shout Active Enzyme "Triple-acting" stain remover
 
@@ -146,7 +146,7 @@ Better than nothing but often lacking lipase. Many will still contain various su
 
 ### Non-recommended options
 
-Some stain removers are more focused on food stains, or are misleading in their claimes. Some notable examples are:
+Some stain removers are more focused on food stains, or are misleading in their claims. Some notable examples are:
 
 - Dove soap
 
@@ -157,9 +157,9 @@ Some stain removers are more focused on food stains, or are misleading in their 
 
   - Can damage and discolor hadatai, avoid.
 
-- Oxygen bleach powders (ie oxyclean, resolove, oxi-type powders)
+- Oxygen bleach powders (ie oxycleanOxyclean, Resolve, oxi-type powders)
 
-  - They mostly help with oxidizible stains (grass, blood, coffee, fruit juice, sweat). Main issues are many contain optical brighteners which can cause shift in colors, using too much can cause discoloration, and generally dosing is not as ideal as products meant to be specifically targeted onto stains.
+  - They mostly help with oxidizable stains (grass, blood, coffee, fruit juice, sweat). Main issues are many contain optical brighteners which can cause shift in colors, using too much can cause discoloration, and generally dosing is not as ideal as products meant to be specifically targeted onto stains.
 
 - Any "white revive" or "white boost" products
 
@@ -167,10 +167,10 @@ Some stain removers are more focused on food stains, or are misleading in their 
 
 - Stain sheets or color catchers
 
-  - Designed to trap dyes and some stains from transfering to other clothes, they dont really work well and dont really help with actually removing stains. Avoiding washing hadatai with other clothes, particularly heavily stained ones avoids this problem altogether.
+  - Designed to trap dyes and some stains from transferring to other clothes, they don't really work well and don't really help with actually removing stains. Avoiding washing hadatai with other clothes, particularly heavily stained ones avoids this problem altogether.
 
 - Shout Advanced Grease Busting Foam
-  - Relies on propellant as a strong solvent with some surfactants to remove oil stains. Risks spreading stains or transfering them. Unsure how color-safe it would be for hadatai, not worth the risk. Best avoided unless you're desperate for an intense oil stain.
+  - Relies on propellant as a strong solvent with some surfactants to remove oil stains. Risks spreading stains or transferring them. Unsure how color-safe it would be for hadatai, not worth the risk. Best avoided unless you're desperate for an intense oil stain.
 
 Most stain removers you can usually google "product + ingredients" to find out what they contain. If they're ambiguous, its probably a mediocre formulation.
 
@@ -179,11 +179,11 @@ Most stain removers you can usually google "product + ingredients" to find out w
 ### Detergents
 
 Hadatai owing to being synthetic blends are not as sensitive to detergents as some fabrics, but that doesn't mean you should throw it in with other clothes. <br />
-The ideal detergent is one that works well on synthetics and doesnt contain optical brighteners.
+The ideal detergent is one that works well on synthetics and doesn't contain optical brighteners.
 
 Some suggestions in no particular order are:
 
-- Tide Free and Gentle in Liquid Form, also called "Hygenic Clean" in some regions
+- Tide Free and Gentle in Liquid Form, also called "Hygienic Clean" in some regions
 - ECOS Hypoallergenic Laundry Detergent with Enzymes
 - Puracy Laundry Detergent
 - The Unscented Company Plastic-Free Laundry Detergent Pacs
@@ -209,7 +209,7 @@ Due to optical brighteners (OBAs), skip:
 
 Hand washing is one of the best ways to care for your hadatai or other delicate garments such as cosplay outfits. If this concept is new to you, honestly it's not that difficult, will preserve the fabric, and is a good skill to have. That said learning how to is better left to videos on youtube or tiktok.
 
-Just remember, it's the rinsing that really gets dirt out, rinse well if not multiple times. Dont wring the water out by stretching the fabric, a faster way to get water out is to lay it flat on a towel and roll it up briefly.
+Just remember, it's the rinsing that really gets dirt out, rinse well if not multiple times. don't wring the water out by stretching the fabric, a faster way to get water out is to lay it flat on a towel and roll it up briefly.
 
 ### Machine Washing
 
@@ -217,7 +217,7 @@ If you opt to use a washing machine, use the most gentle cycle your machine has.
 Use cold water, and not too much detergent. It's better to use a bit less than too much.
 Put the hadatai in a **mesh laundry bag** to protect the hadatai from getting snagged or caught on the washing machine. If multiple hadatai, use a separate mesh laundry bag for each hadatai.
 
-Ideally wash the hadatai by itself. Adding shapewear in their own mesh bags usually wont cause harm if you must. The critical point is to avoid mixing with other colors, or with heavily stained items, dont give opportunity for stains to transfer.
+Ideally wash the hadatai by itself. Adding shapewear in their own mesh bags usually wont cause harm if you must. The critical point is to avoid mixing with other colors, or with heavily stained items, don't give opportunity for stains to transfer.
 
 ### Rinsing Suggestions
 
@@ -237,9 +237,9 @@ Leave the hadatai to air dry, do not put it in a clothes dryer.
 
 :::
 
-Hang it up to dry in a spot with good air circulation, even a decent clothes hanger can do, just avoid pulling the fabric. Ideally a proper drying rack of some kind is best, google has plenty of diy ideas if you dont have anything suitable.
+Hang it up to dry in a spot with good air circulation, even a decent clothes hanger can do, just avoid pulling the fabric. Ideally a proper drying rack of some kind is best, google has plenty of diy ideas if you don't have anything suitable.
 
-Need it dry in a hurry? At a con without access to a drying rack or are hand washing it? You can briefly roll it up in a towel like a burrito or sushi roll to help pull the water out, but dont wring it out by stretching the fabric.
+Need it dry in a hurry? At a con without access to a drying rack or are hand washing it? You can briefly roll it up in a towel like a burrito or sushi roll to help pull the water out, but don't wring it out by stretching the fabric.
 
 If you absolutely need to use a dryer, use the lowest possible heat setting to avoid damaging the fabric. Do not use dryer sheets, they can leave a residue on the fabric that can cause issues with future washes.
 

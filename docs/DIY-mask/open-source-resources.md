@@ -27,7 +27,7 @@ One such model to be used with Blender is [plumKigurumi](https://github.com/vuic
 
 ### Kiglover
 
-Kiglover is a maker who has released models for personal use, and who also have a number of tutorials on their website, [kiglover.com](https://kiglover.com/). Their models can also be found on thingiverse [here](https://www.thingiverse.com/Kiglover/designs).
+Kiglover is a maker who has released models for personal use, and who also have a number of tutorials on their website, [kiglover.com](https://kiglover.com/). Their models can also be found on Thingiverse [here](https://www.thingiverse.com/Kiglover/designs).
 
 Their socials are also worth checking out for more information and inspiration.
 
@@ -37,7 +37,7 @@ If DIY is a bit too much, you can also consider commissioning Kiglover to make a
 
 ### Other Models
 
-Sites such as [thingiverse](https://www.thingiverse.com/search?q=kigurumi&page=1P) in general also have a number of models available for download, and can be also worth checking out for inspiration, accessories, and other parts. [Yeggi](https://www.yeggi.com/) is a search aggregator for 3d models as well that also can be worth checking out.
+Sites such as [Thingiverse](https://www.thingiverse.com/search?q=kigurumi&page=1P) in general also have a number of models available for download, and can be also worth checking out for inspiration, accessories, and other parts. [Yeggi](https://www.yeggi.com/) is a search aggregator for 3d models as well that also can be worth checking out.
 
 ## Components
 
@@ -45,14 +45,14 @@ Sites such as [thingiverse](https://www.thingiverse.com/search?q=kigurumi&page=1
 
 Many bought kig masks tend to be printed using a resin or SLA 3D printer. Due to the sizes involved, unless you are using a professional 3D printing service this may not be an option. If you have a choice of resin, do choose stronger "ABS-like" resins as many resins are weak and the last thing you want is your mask to warp or break after all that time and effort.
 
-If using a more traditional FDM printer, you will want to consider using a material that is heat resistant and has a good balance of strength and flexibility. Basically, not PLA. PLA is too weak in heat and while rigid, is too brittle. PETG is a better option but still will require plenty of sanding.
+If using a more traditional FDM printer, you will want to consider using a material that is heat resistant and has a good balance of strength and flexibility. Basically, not PLA filament. PLA is too weak in heat, and while decently rigid it is too brittle against impacts. PETG is a better option but still will require plenty of sanding.
 ASA or ABS if you can print them are by far better choices, and can utilize vapor smoothing to help with the surface quality.
 
 ### Latches and locks
 
-If you're making a "full" or "full lock" mask, you will want to consider how to secure the mask and the two halves together. What you are often looking for in specific is a "hasp", which has a clasp that connects to the two halves of the mask. These come in many varities from simple, to integrated locks, or with a pass through for a small external lock.
+If you're making a "full" or "full lock" mask, you will want to consider how to secure the mask and the two halves together. What you are often looking for in specific is a "hasp", which has a clasp that connects to the two halves of the mask. These come in many varieties from simple, to integrated locks, or with a pass through for a small external lock.
 
-Pre-made mask options may or may not have existing spots for a hasp, you may need to add them yourself or find an option that fits if the mask is designed for one but doesnt list which.
+Pre-made mask options may or may not have existing spots for a hasp, you may need to add them yourself or find an option that fits if the mask is designed for one but doesn't list which.
 
 <div className="info-box-container-large">
   <img
@@ -76,14 +76,14 @@ Amazon as always also has a number of options, the ["uxcell" seller for instance
 
 There are a few different styles of eyes you can choose from, each with their own advantages and disadvantages. Some food for thought:
 
-- **Mesh Eyes**: One of the simpler styles with great visiility and added ventelation. The sclera, the whites part of the eyes is mesh. Often with a printed iris. White eye mesh is easily available on all the usual major online marketplaces such as [Amazon](https://www.amazon.com/BENECREAT-39x11-8inch-Waterproof-Printable-Fursuits/dp/B0CZ9FGT4V). 0.5mm pitch works great.
+- **Mesh Eyes**: One of the simpler styles with great visibility and added ventilation. The sclera, the whites part of the eyes is mesh. Often with a printed iris. White eye mesh is easily available on all the usual major online marketplaces such as [Amazon](https://www.amazon.com/BENECREAT-39x11-8inch-Waterproof-Printable-Fursuits/dp/B0CZ9FGT4V). 0.5mm pitch works great.
 - **Black mesh**: Instead of the whites of the eyes being the vision portion, the pupils or a shadow gradient at the top of the eye has a region with black mesh.
 - **Lens eyes**: Instead of any mesh, a dark plastic lens akin to sun glasses is used with a sticker on top. Fogs easily making defogging compounds a must. You also would likely want to matte coat the lens to avoid differences in glare between the lens and the eye. -**Follow-me eyes**: Can be done in any of the above styles, but requires having a concave eye design set further back in the mask than normal kig eyes. Many guides exist online for follow-me fursuit eyes, much of the same applies.
 
-Printing directly onto mesh is difficult and often requires a special dye sublimation setup. If you are printing onto a sticker, there are many printale vinyl sticker papers that can be used on common printers which work great.
+Printing directly onto mesh is difficult and often requires a special dye sublimation setup. If you are printing onto a sticker, there are many printable vinyl sticker papers that can be used on common printers which work great.
 
-Do consider printer inks are water soluble and work best when sealed in with a protective clear coat so that humidity doesnt impact them. While less of an issue with vinyl based stickers compared to paper-based ones, its still is often a good idea to seal them.
-If your printer ink really likes to run and smudge when doing a clear coat, sprayable fixatifs exist as a pre-coat to help keep them looking their best, Krylon makes a readibly available one.
+Do consider printer inks are water soluble and work best when sealed in with a protective clear coat so that humidity doesn't impact them. While less of an issue with vinyl based stickers compared to paper-based ones, its still is often a good idea to seal them.
+If your printer ink really likes to run and smudge when doing a clear coat, sprayable fixatifs exist as a pre-coat to help keep them looking their best, Krylon makes a readily available one.
 
 ### Mask painting
 

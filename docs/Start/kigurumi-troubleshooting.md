@@ -17,13 +17,13 @@ description: "Practical fixes for common kigurumi problems: masks that sit wrong
 
 ### Mask sits funny
 
-Masks often come with an ammount of padding, however, you often need to customize it to best fit your head. Many makers will include extra padding for this purpose.
+Masks often come with an amount of padding, however, you often need to customize it to best fit your head. Many makers will include extra padding for this purpose.
 
 [Mask Padding](../Care/mask-padding.md) has more information on how to pad your mask.
 
 ### Shapewear or padding shows through the hadatai
 
-Some shapewear with strong seems can show lines. This isnt itself a problem, but some can find it less than ideal. Thicker hadatai are less likely to show lines, similarly adding layers can help smooth out lines, such as adding pantyhose under the hadatai.
+Some shapewear with strong seems can show lines. This isn't itself a problem, but some can find it less than ideal. Thicker hadatai are less likely to show lines, similarly adding layers can help smooth out lines, such as adding pantyhose under the hadatai.
 
 ### Mask is too small
 

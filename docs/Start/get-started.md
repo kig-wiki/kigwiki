@@ -42,11 +42,11 @@ Or a glossary of various terms:
 
 Point blank, kigurumi is not a cheap hobby.
 
-Many masks are made to order, and as such can take months as a maker works through their backlog. Masks also arent cheap, expect to pay several hundred dollars, while kigurumi is ever-more accessible, it is not a hobby easy to enjoy on a budget.
+Many masks are made to order, and as such can take months as a maker works through their backlog. Masks also aren't cheap, expect to pay several hundred dollars, while kigurumi is ever-more accessible, it is not a hobby easy to enjoy on a budget.
 
 ### A note about budget
 
-The cheapest mask makers usually cost cut corners, such as AI to replace human artists, and generally do a quick and dirty job of details such as paint, hair styling and so on. While higher cost does not mean better, this is not a hobby where cheaping out results in a quality experience.
+The cheapest mask makers usually cost cut corners, such as AI to replace human artists, and generally do a quick and dirty job of details such as paint, hair styling and so on. While higher cost does not mean better, this is not a hobby where "cheapening out" results in a quality experience.
 
 Being real no one wants to be the kig that looks uncanny or like they went to Spirit Halloween. While some may perceive this as elitist, many kigs avoid interacting with people who rush to simply have the bare minimum to call themselves a kigurumi cosplayer in hopes it will grant them access to "the community". This is not the case, there is no one community, it is not a club.
 
@@ -56,7 +56,7 @@ Like many thing in life, friendships are based on mutual interests and respect, 
 
 ### DIY is not for everyone
 
-tl;dr: DIY is not for everyone, it is a lot of work, requires a lot of time and proficiency in several skills in order to get half decent results. Most who DIY areless about saving money and more about getting every last detail exactly how they want.
+tl;dr: DIY is not for everyone, it is a lot of work, requires a lot of time and proficiency in several skills in order to get half decent results. Most who DIY are less about saving money and more about getting every last detail exactly how they want.
 
 The [cautionary DIY page](../DIY-mask/reality-of-diy.md) has more information on the reality of DIY kigurumi masks.
 

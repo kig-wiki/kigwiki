@@ -131,7 +131,7 @@ Most who enjoy kigurumi are not "kig fans", but every "kig fan" is a fan of kigu
 **Definition**:
 Used to describe having someone that doesn't kig consensually try out someone's kigurumi mask and hadatai.
 
-**Context**: Numerous artists draw this situation jokingly, without consent, and as something that can "just happen" for example while asleep. In reality this is only ever a deliberate, enthusiastically consentful trial of kigurumi.
+**Context**: Numerous artists draw this situation jokingly, without consent, and as something that can "just happen" for example while asleep. In reality this is only ever a deliberate, enthusiastically consenting trial of kigurumi.
 
 <span class="badge badge--secondary">Uncommon Term</span>
 
@@ -249,7 +249,7 @@ Ideally this section would not exist, however, some confusing terms get used tha
 Anime face
 
 **Reasoning**:
-A transliteration artifact invented to differentiate Bishoujo Kigurumi/Kigurumi Masks from the parent term Kigurumi. The term is both confusing to some audiences and carries negative connotation due to some western makers reviling in it's usage to capitalize on the term for their own gain.
+A transliteration artifact invented to differentiate Bishoujo Kigurumi and Kigurumi Masks from the parent term Kigurumi. The term is both confusing to some audiences and carries negative connotation due to some past western makers reveling in it's usage to capitalize on the term for their own gain.
 
 [The Japanese wikipedia page](https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%9D%80%E3%81%90%E3%82%8B%E3%81%BF) has long noted that this term is an 'overseas specific term'.
 
@@ -260,14 +260,14 @@ Kig Wiki's Admin wrote a [thesis on Animegao Kigurumi](https://kig.wiki/publicat
 **Definition**:
 A shorthand term for a **kig**urumi perform**er** often used in Chinese and sometimes Japanese contexts.
 
-**Reasonings**:
+**Reasoning**:
 Some westerners use the term ironically in a racist connotation or as a dog whistle. People are not clueless especially when a second g is added in the term, it is not some "secret" term.
 Use of the term in western English contexts is not recommended. Similarly, do not harass or try to "educate" non-western kigurumi performers who use the term, as it is properly understood in their native contexts.
 
 **Related**:
 See [Coser](#coser)
 
-**In defence of**:
+**In defense of**:
 Non-English origins and contexts, non-english audiences do not have the same connotations around such phrasing as western audiences would. It too is a term to differentiate between those who wear kigurumi masks vs those who wear onesie pajamas.
 
 ---

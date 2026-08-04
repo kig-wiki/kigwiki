@@ -29,7 +29,7 @@ Many top Google results for kigurumi stores are unfortunately resellers, scalper
 :::
 :::info
 
-We don't attempt to list "exact prices" as prices arent exactly static, as well as vary greatly depending on what you are looking for. Notable factors being hair length or complex styling, additional accessories, or other labor intensive requirements.
+We don't attempt to list "exact prices" as prices aren't exactly static, as well as vary greatly depending on what you are looking for. Notable factors being hair length or complex styling, additional accessories, or other labor intensive requirements.
 
 :::
 

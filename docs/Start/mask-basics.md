@@ -16,7 +16,7 @@ description: "What kigurumi masks are, the common types and features, and what t
 ## Intro to Kigurumi Masks
 
 The Kigurumi mask itself is the most visible and recognizable component of kigurumi, the focal point of the costume and the character being portrayed. In a mix between traditional cosplay and more mascot-esque styles, Kigurumi masks offer a unique way to bring a character to life. <br />
-Typically Kigurumi masks are commisioned from a maker and custom made to the references provided to be as accurate to the character as possible.
+Typically Kigurumi masks are commissioned from a maker and custom made to the references provided to be as accurate to the character as possible.
 
 ## Where to get a Kigurumi Mask?
 
@@ -44,7 +44,7 @@ Usually masks are resin 3D printed, or more traditionally made from fiberglass r
 
 3D Printed Kigurumi Mask Cons:
 
-- Base shell material isnt as durable as FRP, primarily of concern if you were to drop the mask from a decent height.
+- Base shell material isn't as durable as FRP, primarily of concern if you were to drop the mask from a decent height.
 
 Older kigurumi in particular often stress durability concerns, but modern 3D printed masks are generally far more durable than the ones of old.
 
@@ -66,10 +66,10 @@ While neither a Pro or a Con, its worth noting most FRP masks are often 3/4 whil
 
 #### Vinyl Kigurumi Masks
 
-Avoid at all costs, these are generally low quality and poorly made with awkward fit to form. Allegations of allergenic materials in use or ofgassing are reported.
+Avoid at all costs, these are generally low quality and poorly made with awkward fit to form. Allegations of allergenic materials in use or off-gassing are reported.
 The only main makers of these types these days are Munimuni and resellers such as "J Sensei". You are better off with just about any other option.
 
-On a further aside, while the afformentioned makers are starting to do more 3D printed offerings, the shells they make are often not properly proportional and end up looking tiny if not outright uncanny, despite their marketing claiming to work for various head sizes otherwise. There is good reason most who make the mistake of a munimuni often move on to other makers without looking back.
+On a further aside, while the aforementioned makers are starting to do more 3D printed offerings, the shells they make are often not properly proportional and end up looking tiny if not outright uncanny, despite their marketing claiming to work for various head sizes otherwise. There is good reason most who make the mistake of a munimuni often move on to other makers without looking back.
 
 ### Types of Kigurumi Masks
 
@@ -94,13 +94,13 @@ More complex than just generics, these masks are still based off common molds or
 
 #### Custom
 
-More complex than semi-custom, these masks are fully custom made to the commisioner's specifications. Size, expression, eye shape, integrated accessories, and more are all customizable. Most 3D printed masks fall into this category due to the flexability of 3D printing, however some FRP makers will offer custom options.
+More complex than semi-custom, these masks are fully custom made to the commissioner's specifications. Size, expression, eye shape, integrated accessories, and more are all customizable. Most 3D printed masks fall into this category due to the flexibility of 3D printing, however some FRP makers will offer custom options.
 
 #### Features
 
 Various makers will have different features and options available. An example of some features makers may offer are:
 
-- Interchangable faceplates
+- Interchangeable faceplates
 - Removable wigs
 - 3D printed hard hair
 - Eye options such as "follow-me" eyes or LED lit eyes
@@ -133,7 +133,7 @@ Generally if you've never styled a wig or painted a 3d printed prop before, its 
 
 ## Furkigs
 
-Not quite a fursuit, not quite an anime style kigurumi mask, but soemthing inbetween. Furkigs are a more recent genre of masks that are becoming more popular. While the wiki does not currently have a page for furkigs, there are a number of makers who offer them.
+Not quite a fursuit, not quite an anime style kigurumi mask, but something in-between. Furkigs are a more recent genre of masks that are becoming more popular. While the wiki does not currently have a page for furkigs, there are a number of makers who offer them.
 
 It is worth mentioning, a lot of makers use one of a few rather generic shells for the masks, leading to many more budget offerings looking similar. Custom furkig makers often pride themselves on the quality of their masks and the attention to detail in comparison and will often be far more expensive.
 

@@ -1,7 +1,7 @@
 ---
 id: mask-storage
 title: "How to Store a Kigurumi Mask"
-sidebar_label: "Storaging Masks"
+sidebar_label: "Storing Masks"
 slug: /care/kig-storage
 canonical_url: https://kig.wiki/care/kig-storage
 tags:

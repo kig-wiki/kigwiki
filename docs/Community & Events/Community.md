@@ -32,7 +32,7 @@ And much as Kigurumi performing is often mute, you have to have good communicati
 
 ### People with endless problems involving others
 
-This is not unique to kigurumi, but it is worth mentioning. Sometimes there are people that appear to have infinite problems with others, treat being "wronged" almost like a social currency or pitty flag rather than ever dealing with the actual issues. Cliche being constantly look for any open ears to vent to, if you're new to a space and they instantly "trauma dump", that might be a sign.
+This is not unique to kigurumi, but it is worth mentioning. Sometimes there are people that appear to have infinite problems with others, treat being "wronged" almost like a social currency or pity flag rather than ever dealing with the actual issues. Cliche being constantly look for any open ears to vent to, if you're new to a space and they instantly "trauma dump", that might be a sign.
 
 It is true some have unfortunate luck with socializing however many completely lack introspection and are not willing to look at themselves in the mirror. If there are constant problems and its always purely the fault of others, it may in fact be the case they are the problem or at least part of the problem.
 
@@ -40,7 +40,7 @@ Try not to let one bad apple ruin your experiences, just because you share a hob
 
 ### Consent and boundaries
 
-While often common sense, its often worth clarifying with other kigs what your boundaries are. Are you fine with handholding, hugging, or other physical contact? If so, how much? Are you more handsy, or would rather keep a more typical social distance akin to if you weren't in kig? The less you know someone, the more important it is to be clear and concise about your boundaries.
+While perhaps considered common sense, its often worth clarifying with other kigs your boundaries. Are you fine with handholding, hugging, or other physical contact? If so, how much? Are you more handsy, or would rather keep a more typical social distance akin to if you weren't in kig? The less you know someone, the more important it is to be clear and concise about your boundaries.
 Similarly with photos or videos, if you're together and some are taken are you fine with them being posted online? If not, its best to clarify sooner rather than later.
 
 Obviously you don't need to constantly be on guard or clarifying for every interaction, such as at cons or other general public settings. However when in more private spaces clarity helps ensure everyone is on the same page and everyone is comfortable rather than avoiding the topic altogether.
@@ -59,6 +59,6 @@ Having a Kigurumi card akin to a business card with a photo and some of your soc
 
 A good mask doesn't mean a person is good. Similarly a bad mask doesn't mean a person is bad.
 
-However, if the person puts the bare minimum into the hobby to partake its often a good indicator they arent willing to put in the work to actually have a good time with others. There are some who unfortunately revel in being an uncanny or creepy centerpiece, don't judge a book entirely by it's cover but don't be ignorant to cautionary signs either.
+However, if the person puts the bare minimum into the hobby to partake its often a good indicator they aren't willing to put in the work to actually have a good time with others. There are some who unfortunately revel in being an uncanny or creepy centerpiece, don't judge a book entirely by it's cover but don't be ignorant to cautionary signs either.
 
 There is a big difference between someone who isn't currently very skilled or doesn't have a lot to spend on the hobby, and someone who simply does not care and will only ever do the bare minimum treating it like an entry pass. Doubly so a red flag if they're only treating the hobby as some sort of BDSM keycard.

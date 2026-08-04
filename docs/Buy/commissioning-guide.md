@@ -30,14 +30,14 @@ Before you commission a maker, it's a good idea to check their socials to see if
 
 Reference art is typically the most important part of the commissioning process, it does not have to be perfect, nor a single image, but it should be a good representation of the character you are trying to portray.
 
-Consider highlighting what youv consider the most important details.
+Consider highlighting what you've considered the most important details.
 Maybe it's the way certain hair is styled, or the way certain accessories are worn. The way their eyes should look, what kind of mouth expression they have, and so on.
 
-Commissioning an artist to create custom reference art is a great way to have exactly the representation you want, alhough it's not purely necessary.
+Commissioning an artist to create custom reference art is a great way to have exactly the representation you want, although it's not purely necessary.
 
 ## Head Size and Proportions
 
-Many makers have varying levels of head sizes they can accomidate, when comissioning however it may also be a good idea to ask how large they can make the mask relative to your head size. A larger mask is often a good idea for characters with smaller proportions, especially the taller or larger the kigurumi performer is. Its all about proportions and finding the right balance.
+Many makers have varying levels of head sizes they can accommodate, when commissioning however it may also be a good idea to ask how large they can make the mask relative to your head size. A larger mask is often a good idea for characters with smaller proportions, especially the taller or larger the kigurumi performer is. Its all about proportions and finding the right balance.
 
 ## Considerations and Questions to Ask When Commissioning a Kigurumi Mask
 
@@ -45,7 +45,7 @@ Many makers have varying levels of head sizes they can accomidate, when comissio
 
 Perhaps an obvious question, pricing varies greatly even between masks done by a single maker. Complexities in hair design, accessories if any, or additional features and more will typically cost more. Some makers for example may charge more if you are asking for a larger sized mask then their average size.
 
-An example of a hair style that would typically cost more are ones with many different colors, or heavily styled wigs. Precure characcters for instance often have rather challenging hair styles.
+An example of a hair style that would typically cost more are ones with many different colors, or heavily styled wigs. Precure characters for instance often have rather challenging hair styles.
 
 ### Maker's timeline
 

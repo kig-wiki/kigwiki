@@ -12,7 +12,7 @@ description: "How to order kigurumi masks and hadatai through Taobao: using prox
 
 # Taobao Guide for Buying Kigurumi Masks and Hadatai
 
-Many makers of masks, hadatai, cosplay and outfits are located on Taobao, a Chinese ecommerce platform. Learning to buy off taobao may seem a bit daunting, but greatly expands the options you have while also being able to buy cheaper than through some reseller.
+Many makers of masks, hadatai, cosplay and outfits are located on Taobao, a Chinese eCommerce platform. Learning to buy off taobao may seem a bit daunting, but greatly expands the options you have while also being able to buy cheaper than through some reseller.
 
 ## Proxy Services/Taobao Agents
 

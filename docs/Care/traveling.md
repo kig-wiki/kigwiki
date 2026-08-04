@@ -34,15 +34,15 @@ If they can't fit it in a carry on, "Pelican" style boxes are a popular choice. 
 Other considerations before flying should include:
 
 - **Remove any batteries**: It should be obvious but if you have a mask with batteries for fans or light-up eyes, remove them.
-- **Packing**: Packing securely and protected is a given, but consider not to pack any objects that might increase the odds airport staff might want to open your luggage. Silicone padding or other oddly dense objects can raise a flag.
+- **Packing**: Securely packing and protecting your mask is a given, but consider how you pack any objects that might increase the odds airport staff will have to open your luggage. Silicone padding for instance due to it's density can often raise a flag at the scanner, packing it towards the top makes it easier for airport staff to get to it, and get you through their checkpoint faster rather than having to dig through your luggage.
 - **Insurance**: Many airlines will not cover damage to your luggage or mask. Consider booking via a credit card that offers free travel insurance if you have one. Most still will not cover most of the mask's cost but may at least dampen the blow.
 
 ## Kigging Abroad
 
-While it often goes without saying regardless of the hobby, do be mindful of what is socially acceptable in your destination if travelling abroad.
+While it often goes without saying regardless of the hobby, do be mindful of what is socially acceptable in your destination if traveling abroad.
 
 Japan for instance tends to be more conservative than the west regarding taking photos or videos around random businesses, or kigging publicly in general. The last thing anyone wants is to be escorted out of a business or have the police called on them for being a nuisance.
-Kigurumi performers with characters associated to IP or brands also tend to be far more cautious about their behavior and to not be mistaken as an official reprensentative if appearing in any sort of public setting.
+Kigurumi performers with characters associated to IP or brands also tend to be far more cautious about their behavior and to not be mistaken as an official representative if appearing in any sort of public setting.
 
 #### Additional Resources
 

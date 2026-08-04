@@ -30,7 +30,7 @@ To be added: examples of each of the mask types.
 
 Most makers these days use 3D printed masks, which allow them to highly customize the mask to the customer's specifications. These makers often can offer a wide variety of sizes.
 
-Makers that do semi-custom or "generic" masks, or who are still using traditional mold making will typically have a much more limited range of sizes available. Sigma and GKO are two such makers whose main offerings are limited to a few sizes. Custom options are usually available but at a higher cost, longer wait, and other limitations. This doesnt mean they are a bad or limited maker by any means, its just a matter of what they offer and what you are looking for.
+Makers that do semi-custom or "generic" masks, or who are still using traditional mold making will typically have a much more limited range of sizes available. Sigma and GKO are two such makers whose main offerings are limited to a few sizes. Custom options are usually available but at a higher cost, longer wait, and other limitations. This doesn't mean they are a bad or limited maker by any means, its just a matter of what they offer and what you are looking for.
 
 #### Additional Resources
 

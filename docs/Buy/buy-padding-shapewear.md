@@ -13,7 +13,7 @@ description: "Popular sellers of body padding and shapewear for kigurumi, and wh
 
 # Where to Buy Padding and Shapewear for Kigurumi
 
-TLDR: Padding isnt exclusive to kigurumi, people usually buy off the shelf shapewear and padding. Many of these sellers market primarily towards crossdressers, trans people, or various gender-bending performers.
+TLDR: Padding isn't exclusive to kigurumi, people usually buy off the shelf shapewear and padding. Many of these sellers market primarily towards crossdressers, trans people, or various gender-bending performers.
 
 You may also want to read our [Padding Theory](../Start/padding-theory.md) page to learn more about padding and shapewear in general
 
@@ -47,7 +47,7 @@ Honestly for basic foam padding, you can find a lot of resellers on Amazon, Alie
 
 ### Maidenform
 
-Primarily marketed towards women, [Maidenform](https://www.maidenform.com/shapewear) has a wide variety of shapewear primarily focused on slimming the stomach and waist. Not as form compressing as a corset however still very effective for many. Many of their products are available at Amazon and other major retailers making them a decently reliable source.
+Primarily marketed towards women, [Maidenform](https://www.maidenform.com/shapewear) has a wide variety of shapewear primarily focused on slimming the stomach and waist. Not as form compressing as a corset however still very effective for many. Plenty of their products are available at Amazon and other major retailers making them a decently reliable source.
 
 ### Other sellers on Amazon, Aliexpress, and Taobao
 
@@ -55,6 +55,6 @@ Akin to the mention above on padding, you can find a lot of shapewear on Amazon,
 
 :::info
 
-This list is incomplete, know any we shoudl add? Please [contribute](../02-contributing.md) to the wiki!
+This list is incomplete, know any we should add? Please [contribute](../02-contributing.md) to the wiki!
 
 :::

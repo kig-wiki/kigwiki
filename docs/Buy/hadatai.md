@@ -17,7 +17,7 @@ import {hadataiData} from "@site/src/data/hadatai-data";
 
 # Hadatai Makers (Where to Buy)
 
-Hadatai are full-body suits that are often worn with kigurumi masks to both cover the the body and hide any padding or shapewear being used. This directory contains information about various hadatai makers, their pricing, and contact information.
+Hadatai are full-body suits that are often worn with kigurumi masks to both cover the body and hide any padding or shapewear being used. This directory contains information about various hadatai makers, their pricing, and contact information.
 
 If you are looking for general information on hadatai, check out our [Hadatai Basics](../Start/hadatai-basics.md) page.
 
@@ -28,7 +28,7 @@ If you are looking for general information on hadatai, check out our [Hadatai Ba
 - **Hadatai are made to measure**: As hadatai are custom made for each customer, the measurements are typically not a one size fits all. Some makers like GKO have various generic sizes available.
 - **Orders take time**: As hadatai are custom made for each customer the production time typically takes a while regardless of maker. Do not expect to receive your hadatai in a week.
 - **Taobao Agents**: Many hadatai makers are on Taobao and require using an agent for international orders. We are working on a [taobao guide](./taobao-guide.md) to help with this.
-- **Measurements**: Ask the hadatai maker for their measurements guide, it is highly, _highly_ recommended to have someone help measure you to ensure it fits correctly. Typically these measurements are best done with any padding or shapewear being used.
+- **Measurements**: Ask the hadatai maker for their measurements guide, it is _highly_ recommended to have someone help measure you to ensure it fits correctly. Typically these measurements are best done with any padding or shapewear being used.
 - **Material**: Consider the material thickness (1mm, 2mm, etc.) based on your needs. Thicker material obscure lines and anything under the hadatai, while thinner material run cooler and are more breathable.
 
 ## Misc
