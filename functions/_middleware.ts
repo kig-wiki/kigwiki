@@ -70,12 +70,16 @@ async function fetchMarkdownAsset(
 }
 
 export const onRequest = async (context: any): Promise<Response> => {
+  const requestUrl = new URL(context.request.url);
+  if (requestUrl.pathname.startsWith('/api/')) {
+    return context.next();
+  }
+
   const acceptHeader = context.request.headers.get("Accept") ?? "";
   if (!requestAcceptsMarkdown(acceptHeader)) {
     return context.next();
   }
 
-  const requestUrl = new URL(context.request.url);
   if (shouldSkipMarkdownNegotiation(requestUrl.pathname)) {
     return context.next();
   }
