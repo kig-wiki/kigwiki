@@ -55,6 +55,9 @@ This repository contains only the content for Kig.wiki. The technical infrastruc
 - `makers/` - JSON data for kigurumi mask makers
 - `hadatai/` - JSON data for hadatai (zentai) makers
 - `static/` - Static assets (images, icons, etc.)
+- `functions/` - Cloudflare Pages Functions (markdown content negotiation, `/api/feedback`)
 - `kigwiki-docusaurus/` - Technical infrastructure (git submodule, most contributors need not worry about this)
+
+Feedback form ops (Turnstile site key at build time, `TURNSTILE_SECRET_KEY` + `DISCORD_WEBHOOK_URL` as Pages secrets) are documented in the [kigwiki-docusaurus README](https://github.com/kig-wiki/kigwiki-docusaurus).
 
 Docusaurus is MIT licensed, as is any applicable content of the Kig.wiki site. Fork it or do as you please, like Kigurumi is for everyone so is this github's content.

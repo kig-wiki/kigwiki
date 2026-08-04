@@ -15,7 +15,7 @@ New to Kig? We suggest checking out the [Getting Started](./Start/get-started.md
 
 :::note
 
-This wiki is a living document that is regularly being updated. Feedback is appreciated on our [github](https://github.com/kig-wiki/kigwiki/issues).  
+This wiki is a living document that is regularly being updated. Feedback is appreciated on our [github](https://github.com/kig-wiki/kigwiki/issues) or via the [feedback form](/feedback/).  
 Have information you'd like to add? Please [contribute](./02-contributing.md), Kig.wiki is an open source resource!
 
 :::

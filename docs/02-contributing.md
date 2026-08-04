@@ -80,7 +80,7 @@ If you're not familiar with Git or GitHub, don't worry! You can:
 
 While we can't guarantee all submissions will be published, we appreciate all contributions that align with our guidelines.
 
-If you really need to contact for a change and cannot use Github, you can contact via email at change-request @ kig.wiki .
+If you really want to contact us for a change and cannot use Github, you can [send feedback via the web form](/feedback/) or email change-request @ kig.wiki .
 
 :::info
 You can make info type blocks and other quality of life bits, checkout the [Docusaurus documentation](https://docusaurus.io/docs/creating-pages).
