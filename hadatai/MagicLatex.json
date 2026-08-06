@@ -1,0 +1,24 @@
+{
+  "name": "Magic Latex",
+  "website": "",
+  "socials": {
+    "x": "https://x.com/Magiclatex712",
+    "weibo": "",
+    "bluesky": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "Region": "Mainland China",
+  "englishOrdering": false,
+  "taobaoStore": "https://shop305182648.taobao.com",
+  "currency": "CNY",
+  "priceExamples": [
+    {
+      "type": "Latex Hadatai (Taobao)",
+      "price": "1250" ,
+      "link": "https://item.taobao.com/item.htm?id=1027421004711",
+      "material": "Latex"
+    }
+  ],
+  "notes": "Taobao only. Has 0.4mm and 0.25mm thick options."
+} 
