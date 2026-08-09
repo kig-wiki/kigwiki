@@ -1,0 +1,13 @@
+{
+  "name": "Kaiser Factory",
+  "website": "https://kaiserfactory.com/",
+  "status": "open",
+  "Region": "Hong Kong",
+  "socials": {
+    "x": "https://x.com/Kaiser_Factory"
+  },
+  "currency": "HKD",
+  "materialType": "3D print",
+  "features": {},
+  "notes": ""
+}

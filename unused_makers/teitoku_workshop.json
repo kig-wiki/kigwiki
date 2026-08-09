@@ -1,0 +1,15 @@
+{
+  "name": "Teitoku Workshop",
+  "website": "https://www.teitokuworkshop.com/",
+  "status": "open",
+  "Region": "Hong Kong",
+  "socials": {
+    "facebook": "https://www.facebook.com/TeitokuHk/",
+    "x": "https://x.com/Teitoku_shop"
+  },
+  "currency": "HKD",
+  "materialType": "3D print",
+  "size": "Small",
+  "features": {},
+  "notes": ""
+}

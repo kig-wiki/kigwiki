@@ -1,0 +1,18 @@
+{
+  "name": "Raigeki Workshop",
+  "alias": "雷击工坊",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "facebook": "https://www.facebook.com/raige.ki.79",
+    "x": "https://x.com/RAIGEKI_Li"
+  },
+  "taobaoStore": "https://shop100905188.taobao.com/",
+  "currency": "CNY",
+  "materialType": "3D print",
+  "size": "Average",
+  "features": {
+    "Hard Hair": true
+  },
+  "notes": ""
+}

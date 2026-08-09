@@ -1,0 +1,13 @@
+{
+  "name": "Dora Studio",
+  "alias": "哆啦工坊",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/DoraKigStudio"
+  },
+  "currency": "CNY",
+  "materialType": "3D print",
+  "features": {},
+  "notes": ""
+}

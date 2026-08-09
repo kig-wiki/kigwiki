@@ -1,0 +1,17 @@
+{
+  "name": "Shushu Workshop",
+  "alias": "鼠鼠工坊",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/Shushu_kigurumi"
+  },
+  "taobaoStore": "https://shop599961211.taobao.com/",
+  "currency": "CNY",
+  "materialType": "3D print",
+  "size": "Average to large",
+  "features": {
+    "Hard Hair": true
+  },
+  "notes": ""
+}

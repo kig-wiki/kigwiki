@@ -1,0 +1,17 @@
+{
+  "name": "Magic Doll",
+  "alias": "魔界工坊 / Huanyu",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/MagicDoll1208"
+  },
+  "taobaoStore": "https://shop452482185.taobao.com/",
+  "currency": "CNY",
+  "materialType": "3D print",
+  "size": "Average",
+  "features": {
+    "Hard Hair": true
+  },
+  "notes": ""
+}

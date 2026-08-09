@@ -1,0 +1,14 @@
+{
+  "name": "Ayame Store",
+  "alias": "Hadatai.jp",
+  "website": "https://hadatai.jp/",
+  "status": "closed",
+  "Region": "Japan",
+  "socials": {
+    "x": "https://x.com/ayamestore"
+  },
+  "currency": "JPY",
+  "materialType": "full-cast",
+  "features": {},
+  "notes": "No longer making masks, just Hadatai"
+}
