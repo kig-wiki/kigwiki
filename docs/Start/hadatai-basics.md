@@ -14,51 +14,85 @@ description: "What a hadatai (ハダタイ) is, how it's worn with a kigurumi ma
 
 ## Intro to Kigurumi Hadatai
 
-Hadatai (ハダタイ) is a type of zentai-like bodysuit worn by kigs. Its not a zentai, but a hadatai.
+Hadatai (ハダタイ) is a type of bodysuit worn by kigs, layered above any shapewear or padding used but underneath the mask and any clothes.  
+The name comes from _hada_ (skin) + _tai_ (abbreviation of _taitsu_, tights). Literally “skin tights”, figuratively "skin suit".
 
-Compared to a zentai, hadatai tend to be:
+Zentai (ゼンタイ) is a shortening of _zenshin tights_ (full-body tights). It is a generic bodysuit category, not a kigurumi-specific product. People sometimes use the words interchangeably, this wiki does not.
 
-- Made to measure and tailored to the customer
-- Matte flesh-toned finish
-- Increased attention towards clean, smooth seams, particularly around the joints and fingers
-- Typically but not always, better quality materials and more durable construction techniques
+Both are stretch bodysuits, often a blend of spandex and nylon. Beyond that they diverge quickly:
 
-Zentai additionally tend to use a warmer, more beige flesh-toned color:
+<div style={{overflowX: "auto", WebkitOverflowScrolling: "touch", marginBottom: "1rem"}}>
+
+|                  | **Hadatai**                                                                                                        | **Zentai**                                                                                                                                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Purpose**      | Built for kigurumi: matching mask and smoothing padding/shapewear                                                  | Generic full-body suit: often a costume itself or a base layer cosplay is sewed onto                                                        |
+| **Finish**       | Matte like an anime figure's skin; avoids shine under lighting or in photos                                        | Often shiny or semi-shiny (some matte); shine reads as fabric, not faux skin                                                                |
+| **Color**        | Pinkish kig flesh by default; many makers also do custom colors for masks that aren't the default                  | Many vivid hues, flesh tones often warmer yellow/orange undertones, rarely matches standard kig flesh                                       |
+| **Coverage**     | Almost always head-to-toe with a face opening under the mask; some makers offer enclosed / full-mask style options | Fully enclosed head, or ends at the neck                                                                                                    |
+| **Hands & feet** | Defined fingers and toes, finer flatened seams for up close photos                                                 | Often sock-like feet without toes. Hand and foot design often a simpler design with more basic stitching.                                   |
+| **Fit**          | Usually made to measure (measure with padding on), some makers do offer generic sizes                              | Almost always generic sizing, with a more neutral fit rather than exaggerated (padded) anime physique                                       |
+| **Build**        | Fine seams, cleavage shaping, optional vest for breast forms / crotch zippers for easier emergency bathroom breaks | Basic construction for mass production                                                                                                      |
+| **Cost**         | More expensive, with custom wait times                                                                             | "Spirit Halloween" levels of availability, cost, and quality. Its a bodysuit but not necessarily the one that will let your kigurumi shine. |
+
+</div>
+
+Zentai do have some use with kigurumi for someone just new and wanting to experiment before committing to a kigurumi mask and hadatai. They are however probably not what you want your kigurumi to be seen in, no one wants to look like a cheap halloween costume purely because the skin tone mismatches poorly from the mask.
+
+### Color undertones
+
+“Flesh tone” on a product page does not mean it will match a kigurumi mask. Zentai “skin” colors tend to run warmer and more beige:
 
 <div
   style={{width: "50px", height: "50px", backgroundColor: "#C69653", display: "inline-block"}}
 ></div>
 
-Compared to the more pink-flesh standard kig masks and hadatai use:
-MWF hadatai for instance uses Pantone® 7513 U:
+Typical kig masks and hadatai use pinker flesh. Examples:
+
+MWF hadatai uses Pantone® 7513 U:
 
 <div
   style={{
     width: "50px",
     height: "50px",
-    backgroundColor: "lab(78.99% 15.06 8.60)",
+    backgroundColor: "#E7BBB4",
     display: "inline-block",
   }}
 ></div>
-For comparison [kig.land](https://help.kig.land/MAICRA) claims to use Pantone® 7514 U:
+
+[Kig.land](https://help.kig.land/MAICRA) claims Pantone® 7520 U:
+
 <div
   style={{
     width: "50px",
     height: "50px",
-    backgroundColor: "lab(73.18% 16.01 13.39)",
+    backgroundColor: "#F3C4BF",
     display: "inline-block",
   }}
 ></div>
 
-Do note that these are just examples, colors may vary between makers, production batches, and the viewed color depends on your monitor being correctly calibrated.
-What is consistent is the difficulty in finding a zentai that properly matches the typical kigurumi pinkish flesh tones.
-Know a zentai maker that does? Please let us know over on our [github](https://github.com/kig-wiki/kigwiki/issues)
+Or alternatively a popular Ayame color, Pantone® 2015U and Pantone® 698U for instance:
 
-:::warning
+<div
+  style={{
+    width: "50px",
+    height: "50px",
+    backgroundColor: "#FFDAB6",
+    display: "inline-block",
+  }}
+></div>
+<div
+  style={{
+    width: "50px",
+    height: "50px",
+    backgroundColor: "#FBD7DA",
+    display: "inline-block",
+  }}
+></div>
+These are examples only as we cannot quite display exact Pantone colors on the web, and these colors
+can look different depending on your display's calibration. Default kigurumi mask flesh tones
+usually fall somewhere inbetween those four above shades.
 
-Velcro is a hadatai's worst enemy, and will pull at the material. There are some makers that offer fabrics less prone to this however the average hadatai is not one of them.
-
-:::
+Colors also fade with washing and wear. See [our hadatai care guide](/care/washing-a-hadatai) to keep yours looking its best.
 
 ## Why Wear a Hadatai?
 
@@ -78,16 +112,16 @@ While a hadatai is not absolutely required, many see it as something thats hard 
 
 ## Hadatai Alternatives
 
-Some kigurumi alternatively opt to use latex bodysuits instead of a hadatai, often in flesh colored variations still matching the mask.
+Some kigurumi alternatively opt to use latex bodysuits instead of a hadatai, often in flesh colored variations still matching the mask. This adds difficulty due to the nature of donning latex, however some find the skin-like sensation appealing in it's own right.
 
-As previously mentioned, some opt to use a zentai suit instead of a hadatai. Due to the generic sizing of a zentai, the mismatch of color compared to masks, and the general low quality of most zentai, this is not recommended.
+Some people try a cheap zentai instead of a hadatai. Wrong undertone, shiny finish, generic sizing, and sock-like feet usually make the whole kig look worse than going without. It is not recommended.
 
 ## Ordering a hadatai
 
 For a list of hadatai makers and general information on how to order a hadatai, see our [buying hadatai](/buy/hadatai) page.
 
 Hadatai are generally made to measure, when ordering the maker will provide you with a measurements guide and a form to fill out.
-They often have various options as well for features such as:
+Do consider various options as well for features such as:
 
 - Male and Female located crotch zippers (for easier access in emergency bathroom breaks)
 - Options for a "3D chest" (for a more accurate chest shape)
@@ -106,5 +140,10 @@ Sometimes makers will offer no face opening option, this is generally an advance
 Makers will generally provide a measurements guide and a form to fill out for all the various measurements they will need to make your hadatai. It's greatly advised to have someone help you measure to ensure everything is accurate. Some measures like shoulder width can be tricky to get solo. As to the saying "measure twice, cut once...", double check your measurements are all good before submitting, its better to be safe than sorry.
 
 ## Hadatai Care
+
+:::warning
+
+Velcro is a hadatai's sole worst enemy, and can damage the material if not handled with care.
+:::
 
 For information on how to care for your hadatai, see our [cleaning a hadatai](/care/cleaning-a-hadatai) page.
