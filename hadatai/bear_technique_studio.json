@@ -10,18 +10,49 @@
   "englishOrdering": false,
   "priceExamples": [
     {
+      "type": "Custom Made-to-measure Hadatai",
+      "price": "445",
+      "hadatai_color": "default",
+      "link": "https://item.taobao.com/item.htm?id=780229129036",
+      "material": "Fabric"
+    },
+    {
+      "type": "Custom Made-to-measure Hadatai (thinner fabric)",
+      "price": "445",
+      "hadatai_color": "default",
+      "link": "https://item.taobao.com/item.htm?id=780229129036",
+      "material": "Fabric"
+    },
+    {
       "type": "Generic Pre-sized Hadatai",
       "price": "278",
+      "hadatai_color": "default",
+      "link": "https://item.taobao.com/item.htm?id=989648194926",
+      "material": "Fabric"
+    },
+
+    {
+      "type": "Generic Pre-sized Hadatai (crotch zipper version)",
+      "price": "278",
+      "hadatai_color": "default",
       "link": "https://item.taobao.com/item.htm?id=989648194926",
       "material": "Fabric"
     },
     {
-      "type": "Custom Made-to-measure Hadatai",
-      "price": "378",
-      "link": "https://item.taobao.com/item.htm?id=780229129036",
+      "type": "Generic Pre-sized Hadatai (zipperless crotch hole version)",
+      "price": "375",
+      "hadatai_color": "default",
+      "link": "https://item.taobao.com/item.htm?id=732319269466",
+      "material": "Fabric"
+    },
+    {
+      "type": "Generic Pre-sized Hadatai (extra thick fabric)",
+      "price": "568",
+      "hadatai_color": "default",
+      "link": "https://item.taobao.com/item.htm?id=867667034462",
       "material": "Fabric"
     }
   ],
-  "notes": "Taobao store with various Hadatai options including Hadatai with printed designs. \n\n Warning: Social media feed has some very NSFW content involving themes some may find offensive."
+  "notes": "Taobao store with numerous Hadatai options including Hadatai with printed designs. \n\n Warning: Social media feed has some very NSFW content involving themes some may find offensive."
 } 
 

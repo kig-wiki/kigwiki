@@ -1,5 +1,6 @@
 {
   "name": "Goukaou",
+  "alias": "GKO",
   "website": "https://www.gko-kig.com/",
   "socials": {
     "x": "https://x.com/goukaou",
@@ -13,17 +14,19 @@
   "englishOrdering": true,
   "priceExamples": [
     {
-      "type": "Realistic print zentai",
+      "type": "GPZ-04 Hadatai",
       "price": "3570",
+      "hadatai_color": "default",
       "link": "http://goukaou.blog131.fc2.com/blog-entry-516.html",
       "material": "Fabric"
     },
     {
-      "type": "BJD print zentai",
+      "type": "BJD Hadatai",
       "price": "3750",
+      "hadatai_color": "default",
       "link": "https://www.gko-kig.com/bjdsuit-eng",
       "material": "Fabric"
     }
   ],
-  "notes": "Reputable Japanese Mask maker. Their hadatai are not made in-house, but are of quality. BJD Options available."
+  "notes": "Reputable Japanese Mask maker. Their hadatai are not made in-house and are contracted with custom options through MWF."
 } 

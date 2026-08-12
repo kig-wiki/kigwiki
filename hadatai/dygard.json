@@ -16,6 +16,7 @@
     {
       "type": "Latex Hadatai (Taobao)",
       "price": "1280" ,
+      "hadatai_color": "default",
       "link": "https://item.taobao.com/item.htm?id=903088180918",
       "material": "Latex"
     }

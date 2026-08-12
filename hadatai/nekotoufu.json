@@ -12,12 +12,14 @@
     {
       "type": "Generic Pre-sized Hadatai",
       "price": "90",
+      "hadatai_color": "default",
       "link": "https://x.com/Nekotoufu_Shop/status/2066504093749875060",
       "material": "Fabric"
     },
     {
       "type": "Custom Made-to-measure Hadatai",
       "price": "120",
+      "hadatai_color": "default",
       "link": "https://x.com/Nekotoufu_Shop/status/2066504093749875060",
       "material": "Fabric"
     }

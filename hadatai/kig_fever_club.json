@@ -13,17 +13,19 @@
   "englishOrdering": true,
   "priceExamples": [
     {
-      "type": "Whisper of Dream bodysuit zentai",
+      "type": "Whisper of Dream bodysuit zentai (thinner fabric option)",
       "price": "130" ,
+      "hadatai_color": "default",
       "link": "https://kigfeverclub.com/products/%E8%96%B0%E8%A1%A3%E8%8D%89%E7%B4%AB-%E5%85%A8%E5%8C%85%E7%B4%A7%E8%BA%AB%E8%A1%A3-zentai-%E9%87%8F%E8%BA%AB%E5%AE%9A%E5%88%B6",
       "material": "Fabric"
     },
     {
-      "type": "Seagull No.1 kigurumi hadatai",
+      "type": "Seagull No.1 kigurumi hadatai (thicker fabric option)",
       "price": "160",
+      "hadatai_color": "default",
       "link": "https://kigfeverclub.com/products/seagull-no-1-kigurumi-skinsuit",
       "material": "Fabric"
     }
   ],
-  "notes": "Ordering done via their own website"
+  "notes": "Ordering done via their own website, despite using hadatai/zentai naming convention the biggest difference is thickness of material. Similar options across both."
 } 

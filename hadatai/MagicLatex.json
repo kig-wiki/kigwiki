@@ -14,7 +14,8 @@
   "currency": "CNY",
   "priceExamples": [
     {
-      "type": "Latex Hadatai (Taobao)",
+      "type": "Latex Hadatai",
+      "hadatai_color": "kiger肉粉色",
       "price": "1250" ,
       "link": "https://item.taobao.com/item.htm?id=1027421004711",
       "material": "Latex"

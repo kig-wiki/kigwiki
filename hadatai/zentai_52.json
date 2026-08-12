@@ -1,5 +1,6 @@
 {
-  "name": "52 Zentai",
+  "name": "Zentai 52",
+  "alias": "52 League of Legends",
   "socials": {
     "x": "",
     "weibo": "",
@@ -12,12 +13,14 @@
   "priceExamples": [
     {
       "type": "Spandex zentai",
+      "hadatai_color": "unavailable",
       "price": "199",
       "link": "https://item.taobao.com/item.htm?id=552135216586",
       "material": "Fabric"
     },
     {
       "type": "Velvet zentai",
+      "hadatai_color": "unavailable",
       "price": "369",
       "link": "https://item.taobao.com/item.htm?id=714472957295",
       "material": "Fabric"
@@ -41,5 +44,5 @@
       "material": "Fabric"
     }
   ],
-  "notes": "Taobao, requires using a Taobao agent if ordering from overseas"
+  "notes": "Zentai focused. Has flesh toned Zentai but not a Kigurumi specific flesh tone, will not match as well as hadatai specific colorings. \n\n Taobao, requires using a Taobao agent if ordering from oversea."
 } 

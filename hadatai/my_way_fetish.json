@@ -1,5 +1,6 @@
 {
   "name": "My Way Fetish",
+  "alias": "MWF",
   "socials": {
     "x": "",
     "weibo": "",
@@ -11,13 +12,27 @@
   "currency": "CNY",
   "priceExamples": [
     {
-      "type": "Standard spandex hadatai",
+      "type": "Standard hadatai",
+      "hadatai_color": "肉粉色kig款",
       "price": "415" ,
       "link": "https://item.taobao.com/item.htm?id=26710864059",
       "material": "Fabric"
     },
     {
-      "type": "Addons, nails, etc",
+      "type": "Thin lightweight hadatai",
+      "hadatai_color": "薄款-浅肉粉kig款",
+      "price": "415" ,
+      "link": "https://item.taobao.com/item.htm?id=26710864059",
+      "material": "Fabric"
+    },
+    {
+      "type": "Hadatai cleavage options with/without padding",
+      "price": "Varies" ,
+      "link": "https://item.taobao.com/item.htm?id=26710864059",
+      "material": "Fabric"
+    },
+    {
+      "type": "Addons, nails, etc options for Hadatai",
       "price": "Varies",
       "link": "https://item.taobao.com/item.htm?id=40898393301",
       "material": "Fabric"

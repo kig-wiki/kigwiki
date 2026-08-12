@@ -13,18 +13,12 @@
   "currency": "CNY",
   "priceExamples": [
     {
-      "type": "Latex Hadatai (Taobao)",
-      "price": "980" ,
+      "type": "Latex Hadatai",
+      "hadatai_color": "kiger肉粉色",
+      "price": "1350" ,
       "link": "https://item.taobao.com/item.htm?id=765910303673",
-      "material": "Latex"
-    },
-    {
-      "type": "Latex Hadatai (Website)",
-      "price": "259" ,
-      "currency": "USD",
-      "link": "https://llyalatexstudio.com/en/products/standardrubber0-4mm%E3%83%9E%E3%82%B9%E3%82%AF-%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96-%E3%82%BD%E3%83%83%E3%82%AF%E3%82%B9%E4%BB%98%E3%81%8D-%E3%83%A9%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B9%E3%83%BC%E3%83%84",
       "material": "Latex"
     }
   ],
-  "notes": "More expensive via website but has paypal ordering and international shipping options. \n\n Measurement guide available on their website's hadatai listing."
+  "notes": "Email for international ordering on X bio. Has had paypal ordering and international shipping options. \n\n \n\n Has a variety of latex thickness options. "
 } 

@@ -11,9 +11,10 @@
   "currency": "CNY",
   "priceExamples": [
     {
-      "type": "Latex zentai",
-      "price": "1580",
-      "link": "https://item.taobao.com/item.htm?id=577262266422",
+      "type": "Latex Hadatai",
+      "price": "1650",
+      "hadatai_color": "default",
+      "link": "https://item.taobao.com/item.htm?id=977656345614",
       "material": "Latex"
     },
     {
@@ -23,5 +24,5 @@
       "material": "Latex"
     }
   ],
-  "notes": "Taobao seller specializing in latex zentai suits. Requires using a Taobao agent if ordering from overseas."
+  "notes": "Taobao seller specializing in latex zentai suits, does offer a specific Hadatai flesh tone color. Requires using a Taobao agent if ordering from overseas."
 } 

@@ -11,13 +11,15 @@
   "currency": "CNY",
   "priceExamples": [
     {
-      "type": "Spandex zentai",
+      "type": "Hadatai",
+      "hadatai_color": "浅粉 kig皮",
       "price": "350",
       "link": "https://item.taobao.com/item.htm?id=824376591615",
       "material": "Fabric"
     },
     {
       "type": "Nylon zentai",
+      "hadatai_color": "No specific tone — 肉粉 冰爽超薄 may be close",
       "price": "330",
       "link": "https://item.taobao.com/item.htm?id=816901651127",
       "material": "Fabric"

@@ -11,25 +11,29 @@
   "currency": "CNY",
   "priceExamples": [
     {
-      "type": "Standard spandex zentai",
-      "price": "200",
+      "type": "Standard Kigurumi Hadatai",
+      "hadatai_color": "肉肤色哑光氨纶kig款",
+      "price": "370",
       "link": "https://item.taobao.com/item.htm?id=530742243450",
       "material": "Fabric"
     },
     {
-      "type": "Stretchy spandex zentai",
-      "price": "228",
+      "type": "Double Zipper Hadatai",
+      "hadatai_color": "浅粉色kig款",
+      "price": "398",
       "link": "https://item.taobao.com/item.htm?id=616922052042",
       "material": "Fabric"
     },
     {
-      "type": "Sweat-wicking spandex zentai",
-      "price": "258",
+      "type": "Sweat-wicking Yoga Fabric Hadatai",
+      "hadatai_color": "肉粉色kig款",
+      "price": "428",
       "link": "https://item.taobao.com/item.htm?id=824778519300",
       "material": "Fabric"
     },
     {
-      "type": "Thick spandex zentai (1.5mm)",
+      "type": "Thick 1.5mm Zentai",
+      "hadatai_color": "unavailable",
       "price": "330",
       "link": "https://item.taobao.com/item.htm?id=557889062688",
       "material": "Fabric"
@@ -42,4 +46,4 @@
     }
   ],
   "notes": "One of the more popular hadatai makers on Taobao. Requires using a Taobao agent if ordering from overseas"
-} 
+}

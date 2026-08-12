@@ -15,12 +15,14 @@
   "priceExamples": [
     {
       "type": "Latex Hadatai with 3D molded chest",
+      "hadatai_color": "粉膚色",
       "price": "1019" ,
       "link": "https://world.taobao.com/item/1042700017826.htm",
       "material": "Latex"
     },
     {
-      "type": "Latex Hadatai (Simplified design)",
+      "type": "Simplified Latex Hadatai",
+      "hadatai_color": "肉膚色",
       "price": "915" ,
       "link": "https://world.taobao.com/item/1042700017826.htm",
       "material": "Latex"
