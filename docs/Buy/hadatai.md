@@ -21,6 +21,8 @@ Hadatai are full-body suits that are often worn with kigurumi masks to both cove
 
 If you are looking for general information on hadatai, check out our [Hadatai Basics](../Start/hadatai-basics.md) page.
 
+Most Hadatai default to the typical "kigurumi pinkish flesh tone", please note the "hadatai_color" field for if that is a default or if a choice must be selected to match typical kigurumi masks.
+
 <HadataiCards data={hadataiData} />
 
 ## Ordering Tips
@@ -29,7 +31,7 @@ If you are looking for general information on hadatai, check out our [Hadatai Ba
 - **Orders take time**: As hadatai are custom made for each customer the production time typically takes a while regardless of maker. Do not expect to receive your hadatai in a week.
 - **Taobao Agents**: Many hadatai makers are on Taobao and require using an agent for international orders. We are working on a [taobao guide](./taobao-guide.md) to help with this.
 - **Measurements**: Ask the hadatai maker for their measurements guide, it is _highly_ recommended to have someone help measure you to ensure it fits correctly. Typically these measurements are best done with any padding or shapewear being used.
-- **Material**: Consider the material thickness (1mm, 2mm, etc.) based on your needs. Thicker material obscure lines and anything under the hadatai, while thinner material run cooler and are more breathable.
+- **Material**: Consider the material thickness (1mm, 2mm, etc.) based on your needs. Thicker material obscure lines and anything under the hadatai, while thinner material run cooler and are more breathable. Some makers have options, some just have a default "normal" thickness.
 
 ## Misc
 
