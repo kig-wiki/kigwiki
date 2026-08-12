@@ -1,0 +1,55 @@
+{
+  "name": "Heyaoheyao",
+  "alias": "Heyao",
+  "website": "https://heyaoheyao.com/",
+  "taobaoStore": "https://shop339252004.world.taobao.com/",
+  "socials": {
+      "x": "https://x.com/heyaoheyao",
+      "weibo": "",
+      "bluesky": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "Region": "Mainland China",
+    "currency": "USD",
+    "englishOrdering": true,
+    "priceExamples": [
+      {
+        "type": "Hadatai",
+        "price": "150",
+        "hadatai_color": "default",
+        "link": "https://heyaoheyao.com/products/huajiao-hadatai-heyaoheyao-kigurumi-tights",
+        "material": "Fabric"
+      },
+      {
+        "type": "Hadatai without Legs or Chest Shaping (Generic Sizing)",
+        "price": "60",
+        "hadatai_color": "default",
+        "link": "https://heyaoheyao.com/products/hadatai2",
+        "material": "Fabric"
+      },
+      {
+        "type": "Hadatai Gloves (Generic Sizing)",
+        "price": "25",
+        "hadatai_color": "default",
+        "link": "https://heyaoheyao.com/products/%E6%B2%B3%E5%A6%96%E5%B7%A5%E6%88%BF-%E3%82%AD%E3%82%B0%E3%83%AB%E3%83%9F%E5%B0%82%E7%94%A8%E6%89%8B%E8%A2%8B%E3%81%A8%E3%82%B7%E3%83%A7%E3%83%AB%E3%83%80%E3%83%BC%E4%BB%98%E3%81%8D%E3%83%90%E3%83%A9%E3%82%AF%E3%83%A9%E3%83%90",
+        "material": "Fabric"
+      },
+      {
+        "type": "Doll Suit Hadatai",
+        "price": "880",
+        "hadatai_color": "default",
+        "link": "https://heyaoheyao.com/products/huixiang-kigurumi-doll-suit-heyaoheyao",
+        "material": "Fabric"
+      },
+      {
+        "type": "Latex Hadatai",
+        "price": "380",
+        "hadatai_color": "default",
+        "link": "https://heyaoheyao.com/products/huajiao-hadatai-heyaoheyao-kigurumi-latex",
+        "material": "Latex"
+      }
+    ],
+    "notes": "Doll Suit Hadatai is one of their specialty items, not a standard hadatai but included nonetheless. \n\n Might be cheaper via Taobao, would require a proxy service to do so with all the pros and cons that enails, consider via website if a first time kig buyer or new to taobao."
+} ."
+  }
