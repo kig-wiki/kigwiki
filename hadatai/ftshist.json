@@ -9,6 +9,7 @@
   },
   "Region": "Mainland China",
   "currency": "CNY",
+  "taobao_store": "https://shop394772802.taobao.com",
   "priceExamples": [
     {
       "type": "Hadatai",

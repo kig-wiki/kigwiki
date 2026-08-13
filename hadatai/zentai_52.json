@@ -10,6 +10,7 @@
   },
   "Region": "Mainland China",
   "currency": "CNY",
+  "taobao_store": "https://shop103180818.taobao.com",
   "priceExamples": [
     {
       "type": "Spandex zentai",

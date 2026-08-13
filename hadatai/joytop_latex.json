@@ -9,6 +9,7 @@
   },
   "Region": "Mainland China",
   "currency": "CNY",
+  "taobao_store": "https://shop69826779.taobao.com",
   "priceExamples": [
     {
       "type": "Latex Hadatai",
