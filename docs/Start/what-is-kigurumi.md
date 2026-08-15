@@ -50,3 +50,15 @@ The three core components of kigurumi are:
 3. [Shapewear and/or padding](./padding-theory.md)
 
 If you want to learn more about the various components, follow the above links.
+
+While not required, strongly consider props or other items that help sell the character. Even if its just a plushie or one of the character's items it helps sell the character so much better than just being a character with empty hands and only posing to lean on.
+
+## Kigurumi is a Social Hobby
+
+Despite being covered up and mostly silent, Kigurumi is an incredibly social hobby. You do not need social media, nor to go to cons, or events. And you especially do not need to interact with everyone who shares the hobby. Weak social skills will however make connecting with people much harder.
+
+Energy in equals energy out. The effort you put into the kig, the performing, and towards other people is the energy you get back. Kigurumi is not a contest, but doing the bare minimum still counts as what you brought to the table. People will take that at face value and leave you to it.
+
+Because so much of kig is non-verbal, a lot of behaviors get amplified. If its unclear to others whether your behaviors are "the character" or "you", people will typically make assumptions towards the latter.
+
+The social aspects of Kigurumi are explored more in depth on the [Kigurumi Communities](/community/community-overview) page.

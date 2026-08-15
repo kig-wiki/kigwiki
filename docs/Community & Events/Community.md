@@ -47,13 +47,27 @@ Obviously you don't need to constantly be on guard or clarifying for every inter
 
 Remember, consent can be withdrawn at any time. It doesn't mean you can hold an act previously consented to over their head, but once withdrawn it is withdrawn. If you become uncomfortable with something or someone, speak up rather than letting it fester. Break character, unmask, or otherwise end the interaction. Don't let it feel like you need to stay silent in mask to appease someone.
 
+## In the room
+
+Energy in equals energy out. The effort you put into the kig, the performing, and towards other people is the energy you get back. Kigurumi is not a contest, but doing the bare minimum still counts as what you brought to the table. No acting, hanging back, being reclusive, antisocial behaviors, or treating the room like it should come to you... people will take that at face value and leave you to it.
+
+Similar goes for photos and videos. People who only ask for "content" and never offer a hand themselves get noticed, and not in a good way. Its not a matter of having gear or being a pro photographer either, small gestures or being a helping hand goes a long way. Basically dont be a social black hole unless thats the energy you want in return.
+
+Because so much of kig is non-verbal, a lot of behaviors get amplified. Nonchalant for example can read as rude or looking down on others, unless the acting and the mask’s expression properly sells it as the character, not you. If its unclear to others whether your behaviors are "the character" or "you", people will typically make assumptions towards the latter.
+
 ## Local Kigs
 
-Often times the best community ends up being local community, rather than people you might only interact with online. Try not to put too much pressure on yourself to make friends with every single person local just because you share a hobby or are in proximity, but its worth at least making the effort to reach out or introduce yourself.
+Often times the best community ends up being local community, rather than people you might only interact with online. Try not to put too much pressure on yourself to make friends with every single person local just because you share a hobby or are in proximity. Don't expect to break into every kigurumi group you come across either, but definitly do not be afraid to introduce yourself.
 
 One of the easiest ways to meet local kigs are at cons, and having some way of sharing socials with them. Similarly running into other local kigs on social media also can occur, but do be mindful sometimes kigs are inundated with people trying to connect on social media and can miss more meaningful connection attempts by other kigs.
 
-Having a Kigurumi card akin to a business card with a photo and some of your socials on it can be a great way to network when in kigurumi, or even when just running into other kigs at events.
+Having a Kigurumi card akin to a business card with a photo and some of your socials on it can be a great way to network when in kigurumi, or even when just running into other kigs at events. It is a common icebreaker that doesn't break character.
+
+Not every interaction has to be kigurumi related as well. A casual social meetup like grabbing coffee or a bite to eat can be a great way to connect with other kigurumi, "vibe check" and ensure you're on the same page before doing any actual kigurumi related activities. Cool photo ideas? Bring it up, team work makes the dream work.
+
+## Online
+
+Treat it as a hobby, not a lifestyle. Commenting on every kigurumi post just to get noticed, or spamming groups with only your own content is a fast way to wear out a welcome. Be normal about things.
 
 ## Kigurumi Physiognomy
 
