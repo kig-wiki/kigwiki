@@ -7,7 +7,7 @@ canonical_url: https://kig.wiki/start/what-is-kigurumi
 tags:
   - introduction
 sidebar_position: 2
-description: "What kigurumi (animegao) cosplay is, how masks and hadatai come together, and how to get started in the hobby as a performer or fan."
+description: "What kigurumi mask cosplay is, how masks and hadatai come together, and how to get started in the hobby as a performer or fan."
 ---
 
 # What is Kigurumi?
