@@ -15,26 +15,20 @@ description: "Current list of hadatai makers and stores, plus what to check on s
 import HadataiCards from "@site/src/components/HadataiCards";
 import {hadataiData} from "@site/src/data/hadatai-data";
 
-# Hadatai Makers (Where to Buy)
+# Where to Buy a Hadatai
 
-Hadatai are full-body suits that are often worn with kigurumi masks to both cover the body and hide any padding or shapewear being used. This directory contains information about various hadatai makers, their pricing, and contact information.
+A list of hadatai makers, with pricing and contact info. For what a hadatai is and which options to pick, see [Hadatai Basics](../Start/hadatai-basics.md).
 
-If you are looking for general information on hadatai, check out our [Hadatai Basics](../Start/hadatai-basics.md) page.
+Most Hadatai default to the typical "kigurumi pinkish flesh tone". If a listing doesnt, check the "Standard Kig Color Option" section for which color is the "typical" kigurumi flesh tone.
 
-Most Hadatai default to the typical "kigurumi pinkish flesh tone", please note the "hadatai_color" field for if that is a default or if a choice must be selected to match typical kigurumi masks.
+Note: Location labels are provided as geographic references to help readers understand potential shipping and customs considerations.
 
 <HadataiCards data={hadataiData} />
 
 ## Ordering Tips
 
-- **Hadatai are made to measure**: As hadatai are custom made for each customer, the measurements are typically not a one size fits all. Some makers like GKO have various generic sizes available.
-- **Orders take time**: As hadatai are custom made for each customer the production time typically takes a while regardless of maker. Do not expect to receive your hadatai in a week.
+- **Hadatai are made to measure**: Custom for each customer, not one size fits all. Some makers like GKO have various generic sizes available.
+- **Orders take time**: Production typically takes a while regardless of maker. Do not expect to receive your hadatai in a week.
 - **Taobao Agents**: Many hadatai makers are on Taobao and require using an agent for international orders. We are working on a [taobao guide](./taobao-guide.md) to help with this.
-- **Measurements**: Ask the hadatai maker for their measurements guide, it is _highly_ recommended to have someone help measure you to ensure it fits correctly. Typically these measurements are best done with any padding or shapewear being used.
+- **Measurements**: Ask the maker for their measurements guide, and have someone help. Measure with any padding or shapewear you will actually wear. Zippers, face openings, and the rest of the options are on [Hadatai Basics](../Start/hadatai-basics.md).
 - **Material**: Consider the material thickness (1mm, 2mm, etc.) based on your needs. Thicker material obscure lines and anything under the hadatai, while thinner material run cooler and are more breathable. Some makers have options, some just have a default "normal" thickness.
-
-## Misc
-
-- **Hadatai Care**: Read our [hadatai care](../Care/washing-your-hadatai.md) page to learn how to care for your hadatai.
-
-Note: Location labels are provided as geographic references to help readers understand potential shipping and customs considerations.

@@ -10,12 +10,14 @@ sidebar_position: 5
 description: "What a hadatai (ハダタイ) is, how it's worn with a kigurumi mask, how it differs from zentai, and what new buyers should know."
 ---
 
-# Hadatai Basics
+# What is a Hadatai?
 
-## Intro to Kigurumi Hadatai
+Hadatai (ハダタイ) is a type of bodysuit worn by kigs, layered above any shapewear or padding used but underneath the mask and any clothes.
+The name comes from _hada_ (skin) + _tai_ (abbreviation of _taitsu_, tights). Literally "skin tights", figuratively "skin suit".
 
-Hadatai (ハダタイ) is a type of bodysuit worn by kigs, layered above any shapewear or padding used but underneath the mask and any clothes.  
-The name comes from _hada_ (skin) + _tai_ (abbreviation of _taitsu_, tights). Literally “skin tights”, figuratively "skin suit".
+A hadatai is the other half of the look next to the [kigurumi mask](./mask-basics.md). Padding and shapewear sit underneath; see [Padding Theory](./padding-theory.md).
+
+## Hadatai vs zentai
 
 Zentai (ゼンタイ) is a shortening of _zenshin tights_ (full-body tights). It is a generic bodysuit category, not a kigurumi-specific product. People sometimes use the words interchangeably, this wiki does not.
 
@@ -30,7 +32,7 @@ Both are stretch bodysuits, often a blend of spandex and nylon. Beyond that they
 | **Color**         | Pinkish kig flesh by default; many makers also do custom colors for masks that aren't the default                                                                       | Many vivid hues, flesh tones often warmer yellow/orange undertones, rarely matches kig masks.                                                                |
 | **Coverage**      | Almost always head-to-toe with a face opening under the mask; some makers offer enclosed, full-mask style options                                                       | Often either fully enclosed head, or ends at the neck                                                                                                        |
 | **Hands & feet**  | Well defined fingers and toes fitting like a second skin, finer flatened seams for up close photos                                                                      | Often sock-like feet without toes. Hand and foot design often a simpler, universal fabric pattern with basic stitching rather than per your own measurements |
-| **Fit**           | Usually made to measure (measure with padding on), some makers do offer generic sizes. Should fit like a second skin                                                    | Almost always generic sizing, with a more neutral one-size-fits-all design rather than for exaggerated (padded) anime physique                               |
+| **Fit**           | Usually made to measure (with padding on), some makers do offer generic sizes. Should fit like a second skin                                                            | Almost always generic sizing, with a more neutral one-size-fits-all design rather than for exaggerated (padded) anime physique                               |
 | **Build**         | Fine seams, cleavage shaping, optional vest for breast forms, or crotch zippers for easier emergency bathroom breaks. Typically more durable stitching and construction | Basic construction engineered for mass production, with many being "fast fashion" levels of quality                                                          |
 | **Accessibility** | More expensive, with varying wait times for production                                                                                                                  | "Spirit Halloween" levels of availability, cost, and quality                                                                                                 |
 
@@ -40,7 +42,7 @@ Zentai do have some use with kigurumi for someone just new and wanting to experi
 
 ### Color undertones
 
-“Flesh tone” on a product page does not mean it will match a kigurumi mask. Zentai “skin” colors tend to run warmer and more beige:
+"Flesh tone" on a product page does not mean it will match a kigurumi mask. Zentai "skin" colors tend to run warmer and more beige:
 
 <div
   style={{width: "50px", height: "50px", backgroundColor: "#C69653", display: "inline-block"}}
@@ -114,7 +116,7 @@ While a hadatai is not absolutely required, many see it as something thats hard 
 
 Some kigurumi alternatively opt to use latex bodysuits instead of a hadatai, often in flesh colored variations still matching the mask. This adds difficulty due to the nature of donning latex, however some find the skin-like sensation appealing in it's own right.
 
-Some people try a cheap zentai instead of a hadatai. Wrong undertone, shiny finish, generic sizing, and sock-like feet usually make the whole kig look worse than going without. It is not recommended.
+A cheap zentai instead of a hadatai is talked about above. Wrong color tones, shiny finish, generic sizing, and sock-like feet usually make the whole kig look worse than going without. It is not recommended.
 
 ## Ordering a hadatai
 

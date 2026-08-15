@@ -15,27 +15,27 @@ description: "Directory of active kigurumi mask makers and stores, with notes on
 import MakersCards from "@site/src/components/MakersCards";
 import {makersData} from "@site/src/data/makers-data";
 
-# Kigurumi Mask Makers & Sellers
+# Kigurumi Mask Makers & Stores
 
-This page contains a curated list of Kigurumi Mask Makers and their various links.
+This is a curated list of kigurumi mask makers, not every maker who has ever existed, and not a storefront of premade masks. How to actually commission one is on the [commissioning guide](./commissioning-guide.md). What a mask even is: [Mask Basics](../Start/mask-basics.md). You will still need a [hadatai](./hadatai.md).
 
-## Makers List
-
-<MakersCards data={makersData} />
-
-This is not a comprehensive list of every single mask maker to have existed, but a general list of some of the more popular ones who are a relatively safe bet. For easier ordering you may want to apply the "English Ordering" filter to show makers who you can communicate with directly in English.
 :::warning
 Many top Google results for kigurumi stores are unfortunately resellers, scalpers or outright scammers. Most masks are made to order, not some storefront with countless premade masks advertised. Check out our [seller red flags](./seller-red-flags.md) page to learn more about how to avoid these sellers.
 :::
+
+This is a general list of some of the more popular makers who are a relatively safe bet. For easier ordering you may want to apply the "English Ordering" filter to show makers who you can communicate with directly in English.
+
 :::info
 
 We don't attempt to list "exact prices" as prices aren't exactly static, as well as vary greatly depending on what you are looking for. Notable factors being hair length or complex styling, additional accessories, or other labor intensive requirements.
 
 :::
 
-## Getting Started with Kigurumi Masks
+Note: Location labels are provided as geographic references to help readers understand potential shipping and customs considerations.
 
-Check out [Kigurumi Mask Commissioning Guide](./commissioning-guide.md) to learn more about how to commission a kigurumi mask, or [Kigurumi Basics](../Start/mask-basics.md) to learn more about kigurumi masks in general.
+## Makers List
+
+<MakersCards data={makersData} />
 
 ## Maker Styles
 
@@ -45,9 +45,6 @@ Its highly recommended to check out a maker's socials to see if their styles ali
 
 ## Ordering Tips
 
-- **Status**: Check the maker's current wait times before ordering
-- **Custom Work**: Full custom masks typically cost more and take longer than semi-custom options
-
-Note: Location labels are provided as geographic references to help readers understand potential shipping and customs considerations.
-
-[KiguDB](https://kigudb.info/) is a great resource to cross reference mask makers and their masks, as well as to see how various kigurumi performers with them have fared.
+- **Status**: Check the maker's current wait times before ordering.
+- **Custom Work**: Full custom masks typically cost more and take longer than semi-custom options.
+- The actual commission process, reference art, and questions to ask are on the [commissioning guide](./commissioning-guide.md).

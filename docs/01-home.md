@@ -11,7 +11,11 @@ description: "Guides for getting started with kigurumi. Finding kig mask makers 
 
 Welcome to **Kig.Wiki**, an open resource for Kigurumi Masks (着ぐるみ).
 
-New to Kig? We suggest checking out the [Getting Started](./Start/get-started.md) page.
+Like many hobbies in the current day, most discussion happens on non-indexed parts of the web like Discord, on social media platforms or private communities otherwise. Sometimes these spaces are not the easiest places to find, or are not the most suitable place for beginners to seek answers to common questions. What information is google-able is often fragmented, outdated, incomplete or lacking otherwise.
+
+Kig.Wiki aims to fill this information gap by making kigurumi knowledge more accessible, organized, open source, peer reviewed and searchable.
+
+New to kig? Start with [Getting Started](./Start/get-started.md), or [What is Kigurumi?](./Start/what-is-kigurumi.md) if you still want the "what even is this." Already hunting a mask or hadatai? Skip to the lists below.
 
 :::note
 
@@ -22,18 +26,7 @@ Have information you'd like to add? Please [contribute](./02-contributing.md), K
 
 ## Kig Mask Maker and Hadatai Sellers
 
-Looking for where to get a kigurumi mask or hadatai?
-Avoid resellers, scalpers and other sketchy sellers by checking out our list of reputable makers and sellers.
+Just need info on makers? Check our below guides for kigurumi makers and hadatai vendors:
 
 - [Kigurumi mask makers list](Buy/makers.md)
 - [Hadatai vendors](Buy/hadatai.md)
-
-## About Kig.Wiki
-
-Like many hobbies in the current day, most discussion happens on non-indexed parts of the web like Discord, on social media platforms or private communities otherwise. Sometimes these spaces are not the easiest places to find, or are not the most suitable place for beginners to seek answers to common questions.
-
-What information is google-able is often fragmented, outdated, incomplete or lacking otherwise.
-
-While neither of those two problems are intentional, they are major friction points especially for beginners or when trying to share information with others.
-
-Kig.Wiki aims to fill this information gap by making kigurumi knowledge more accessible, organized, open source, peer reviewed and searchable. This isn't meant to be any one kigurumi's soapbox, the more contributors there are the greater the resource can become.
