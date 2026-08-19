@@ -31,7 +31,7 @@ Both are stretch bodysuits, often a blend of spandex and nylon. Beyond that they
 | **Finish**        | Matte like an anime figure's skin. Avoids shine under lighting or in photos                                                                                             | Often shiny or semi-shiny.                                                                                                                                   |
 | **Color**         | Pinkish kig flesh by default; many makers also do custom colors for masks that aren't the default                                                                       | Many vivid hues, flesh tones often warmer yellow/orange undertones, rarely matches kig masks.                                                                |
 | **Coverage**      | Almost always head-to-toe with a face opening under the mask; some makers offer enclosed, full-mask style options                                                       | Often either fully enclosed head, or ends at the neck                                                                                                        |
-| **Hands & feet**  | Well defined fingers and toes fitting like a second skin, finer flatened seams for up close photos                                                                      | Often sock-like feet without toes. Hand and foot design often a simpler, universal fabric pattern with basic stitching rather than per your own measurements |
+| **Hands & feet**  | Well defined fingers and toes fitting like a second skin, finer flattened seams for up close photos                                                                     | Often sock-like feet without toes. Hand and foot design often a simpler, universal fabric pattern with basic stitching rather than per your own measurements |
 | **Fit**           | Usually made to measure (with padding on), some makers do offer generic sizes. Should fit like a second skin                                                            | Almost always generic sizing, with a more neutral one-size-fits-all design rather than for exaggerated (padded) anime physique                               |
 | **Build**         | Fine seams, cleavage shaping, optional vest for breast forms, or crotch zippers for easier emergency bathroom breaks. Typically more durable stitching and construction | Basic construction engineered for mass production, with many being "fast fashion" levels of quality                                                          |
 | **Accessibility** | More expensive, with varying wait times for production                                                                                                                  | "Spirit Halloween" levels of availability, cost, and quality                                                                                                 |
@@ -92,9 +92,9 @@ Or alternatively a popular Ayame color, Pantone® 2015U and Pantone® 698U for i
 ></div>
 These are examples only as we cannot quite display exact Pantone colors on the web, and these colors
 can look different depending on your display's calibration. Default kigurumi mask flesh tones
-usually fall somewhere inbetween those four above shades.
+usually fall somewhere in-between those four above shades.
 
-Colors also fade with washing and wear. See [our hadatai care guide](/care/washing-a-hadatai) to keep yours looking its best.
+Colors also fade with washing and wear. See [our hadatai care guide](../Care/washing-your-hadatai.md) to keep yours looking its best.
 
 ## Why Wear a Hadatai?
 
@@ -120,7 +120,7 @@ A cheap zentai instead of a hadatai is talked about above. Wrong color tones, sh
 
 ## Ordering a hadatai
 
-For a list of hadatai makers and general information on how to order a hadatai, see our [buying hadatai](/buy/hadatai) page.
+For a list of hadatai makers and general information on how to order a hadatai, see our [buying hadatai](../Buy/hadatai.md) page.
 
 Hadatai are generally made to measure, when ordering the maker will provide you with a measurements guide and a form to fill out.
 Do consider various options as well for features such as:
@@ -148,4 +148,4 @@ Makers will generally provide a measurements guide and a form to fill out for al
 Velcro is a hadatai's sole worst enemy, and can damage the material if not handled with care.
 :::
 
-For information on how to care for your hadatai, see our [cleaning a hadatai](/care/cleaning-a-hadatai) page.
+For information on how to care for your hadatai, see our [cleaning a hadatai](../Care/washing-your-hadatai.md) page.
