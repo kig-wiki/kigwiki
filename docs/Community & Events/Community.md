@@ -57,7 +57,7 @@ Because so much of kig is non-verbal, a lot of behaviors get amplified. Nonchala
 
 ## Local Kigs
 
-Often times the best community ends up being local community, rather than people you might only interact with online. Try not to put too much pressure on yourself to make friends with every single person local just because you share a hobby or are in proximity. Don't expect to break into every kigurumi group you come across either, but definitly do not be afraid to introduce yourself.
+Often times the best community ends up being local community, rather than people you might only interact with online. Try not to put too much pressure on yourself to make friends with every single person local just because you share a hobby or are in proximity. Don't expect to break into every kigurumi group you come across either, but definitely do not be afraid to introduce yourself.
 
 One of the easiest ways to meet local kigs are at cons, and having some way of sharing socials with them. Similarly running into other local kigs on social media also can occur, but do be mindful sometimes kigs are inundated with people trying to connect on social media and can miss more meaningful connection attempts by other kigs.
 

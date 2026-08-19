@@ -19,7 +19,7 @@ import {hadataiData} from "@site/src/data/hadatai-data";
 
 A list of hadatai makers, with pricing and contact info. For what a hadatai is and which options to pick, see [Hadatai Basics](../Start/hadatai-basics.md).
 
-Most Hadatai default to the typical "kigurumi pinkish flesh tone". If a listing doesnt, check the "Standard Kig Color Option" section for which color is the "typical" kigurumi flesh tone.
+Most Hadatai default to the typical "kigurumi pinkish flesh tone". If a listing doesn't, check the "Standard Kig Color Option" section for which color is the "typical" kigurumi flesh tone.
 
 Note: Location labels are provided as geographic references to help readers understand potential shipping and customs considerations.
 
