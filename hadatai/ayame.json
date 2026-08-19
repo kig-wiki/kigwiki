@@ -1,5 +1,6 @@
 {
   "name": "Ayame",
+  "alias": "hadatai.jp",
   "website": "https://hadatai.jp/en/",
   "socials": {
     "x": "https://x.com/ayamestore/",
@@ -14,14 +15,14 @@
   "priceExamples": [
     {
       "type": "Easy Order Hadatai",
-      "price": "20240",
+      "price": "21340",
       "hadatai_color": "Numerous, most makers match to 698U with some more yellow-toned masks matching 2015U. \n\n Ask mask maker if unsure, many can refer an exact Ayame color",
       "link": "https://hadatai.jp/en/easyorder.html",
       "material": "Fabric"
     },
     {
       "type": "Full Option Ordering Hadatai",
-      "price": "20900",
+      "price": "23900",
       "hadatai_color": "Numerous, most makers match to 698U with some more yellow-toned masks matching 2015U. \n\n Ask mask maker if unsure, many can refer an exact Ayame color",
       "link": "https://hadatai.jp/en/fullcustom.html",
       "material": "Fabric"
