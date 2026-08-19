@@ -7,7 +7,7 @@
     "markdown",
     "mdx"
   ],
-  "javascript.validate.enable": true,
+  "js/ts.validate.enabled": true,
   "[markdown]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -27,7 +27,8 @@
   "markdown.validate.enabled": true,
   "markdown.validate.fileLinks.enabled": "warning",
   "markdown.validate.ignoredLinks": [
-    "/img/**"
+    "/img/**",
+    "/publications/**"
   ],
   "markdown.updateLinksOnFileMove.enabled": "prompt",
   "markdown.preview.breaks": true,
