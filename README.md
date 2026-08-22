@@ -20,7 +20,11 @@ Bishoujo Kigurumi, Kigurumi (着ぐるみ), or Kig/Kigu for even shorter is a ma
 
 # Why Kig.wiki exists
 
-tldr: inactivity and out of date info on various kigurumi resources, biases on many of said resources, or otherwise painting of various matters as black and white. Kigurumi is a bespoke hobby made by artesians both commercial and DIY, it is not a mass produced factory good, quality is not such a binary matter. Much like you would consider certain artists for certain art commissions based on their unique style, there is nuance to why you may want to go with one maker or the other as per the vision you have of your kigurumi. There rarely are perfect answers, only informed or uninformed decisions.
+tldr: googling kigurumi mostly turns up stale "guides." Every maker that once was, prices and wait times from years ago, or third-hand grudges from people who have never even been happy with a mask they own. The point is enjoying the hobby and making getting a mask accessible, not drowning people in a sea of questionable links or outdated info.
+
+The useful stuff lives in private Discords, group chats, and DMs, which means it is not on Google. Public kig servers fill up with people who have a lot of opinions and not much kig, fans who will never wear a mask, or someone who kigged once and wanted a hangout or soapbox. The performers you'd actually want to learn from tend not to live in that noise, if they show up at all. Kig.wiki exists to distill such kig wisdom, protips, and experiences onto the public web, along with meaningful maker resources so you can start without needing an invite, sitting in a questionable Discord, or sliding into someone's DMs.
+
+Kigurumi is a bespoke hobby made by artisans both commercial and DIY, it is not a mass produced factory good, quality is not such a binary matter. Much like you would consider certain artists for certain art commissions based on their unique style, there is nuance to why you may want to go with one maker or the other as per the vision you have of your kigurumi. There rarely are perfect answers, only informed or uninformed decisions.
 
 # How to contribute
 
