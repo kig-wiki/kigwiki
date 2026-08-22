@@ -11,9 +11,9 @@ description: "Guides for getting started with kigurumi. Finding kig mask makers 
 
 Welcome to **Kig.Wiki**, an open resource for Kigurumi Masks (着ぐるみ).
 
-Like many hobbies in the current day, most discussion happens on non-indexed parts of the web like Discord, on social media platforms or private communities otherwise. Sometimes these spaces are not the easiest places to find, or are not the most suitable place for beginners to seek answers to common questions. What information is google-able is often fragmented, outdated, incomplete or lacking otherwise.
+Most of the useful kigurumi conversation happens off Google-able resources, such as on Discord, in group chats, DMs, or on social media platforms. Those spaces are not always easy to find, and the public ones are not always a great place for beginners. What does show up in search is often fragmented, outdated, or incomplete.
 
-Kig.Wiki aims to fill this information gap by making kigurumi knowledge more accessible, organized, open source, peer reviewed and searchable.
+Kig.Wiki aims to fill this information gap by making kigurumi knowledge more accessible, organized, open source, peer reviewed and searchable. Info and guides to actually get started, because getting into the hobby shouldn't take a research project.
 
 New to kig? Start with [Getting Started](./Start/get-started.md), or [What is Kigurumi?](./Start/what-is-kigurumi.md) if you still want the "what even is this." Already hunting a mask or hadatai? Skip to the lists below.
 
