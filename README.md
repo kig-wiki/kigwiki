@@ -20,7 +20,7 @@ Bishoujo Kigurumi, Kigurumi (着ぐるみ), or Kig/Kigu for even shorter is a ma
 
 # Why Kig.wiki exists
 
-tldr: googling for kigurumi resources mostly turns up scattered tutorials or stale "guides." Every maker that once was, prices and wait times from years ago, or third-hand grudges from people who have never even been happy with a mask they own. The point is enjoying the hobby and making getting a mask accessible, not drowning people in a sea of questionable links and outdated info.
+tldr: googling for kigurumi resources mostly turns up scattered tutorials or stale "guides." Every maker that once was, prices and wait times from years ago, or third-hand vendettas from people who only buy fourth-rate masks and have a grudge against just about every decent maker. If they've never even been happy with a mask they own, they are probably not who you should be listening to. The point of a resource should be helping to enjoy the hobby and making getting a mask accessible, not drowning people in a sea of questionable links and outdated info.
 
 The useful stuff lives in private Discords, group chats, and DMs, which means it is not on Google. Public kig servers fill up with people who have a lot of opinions and not much kig, fans who will never wear a mask, or someone who kigged once and wanted a hangout or soapbox. The performers you'd actually want to learn from tend not to live in that noise, if they show up at all. Kig.wiki exists to distill such kig wisdom, protips, and experiences onto the public web, along with meaningful maker resources so you can start without needing an invite, sitting in a questionable Discord, or sliding into someone's DMs.
 
