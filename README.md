@@ -4,19 +4,19 @@ Welcome to the Github repo for [Kig.wiki](https://kig.wiki)
 
 # What is Kigurumi?
 
-Bishoujo Kigurumi, Kigurumi (着ぐるみ), or Kig/Kigu for even shorter is a mask oriented form of cosplay. Kigurumi typically combines both an anime styled mask with a type of zentai worn underneath, a Hadatai or Hada for short. Through strategic shapewear and padding wearers seek to transform themselves into their ideal of the represented character.
+Kigurumi (着ぐるみ), or Kig/Kigu for short is a mask oriented form of cosplay that bridges the gap between regular cosplay and more mascot-esque forms. Kigurumi typically combines both an anime styled mask wit a Hadatai bodysuit, along with strategic shapewear and padding to achieve the most "anime to life" transformation possible beyond typical cosplay.
 
 # What this aims to be
 
-- A community resource that no one person owns, that is free as in freedom not free as in free beer. Libre, not gratis
-- A site that provides those interested in Kigurumi with a spectrum of knowledge so they may best be equipped to make decisions
+- A site that makes it as easy as possible to get started with kigurumi, while also providing in depth guides and resoces for more nuanced areas of the hobby
+- A community resource that no one person owns, that is free as in freedom not just free as in free beer. Libre, not just gratis
 
 # What this is _not_ meant to be
 
 - A community
-- Any one individual's soapbox, the more contributors there are the further we can strive towards this
+- Any one individual's soapbox, the more contributors the better
 - An advertising spot for makers, merchants, etc
-- A copy/paste of other kigurumi resources
+- A copy/paste of other kigurumi resources, or some mere list of links with a few hot opinions
 
 # Why Kig.wiki exists
 
@@ -31,11 +31,11 @@ The useful stuff lives in private Discords, group chats, and DMs, which means it
 This repository contains only the content for Kig.wiki. To contribute content:
 
 - Write markdown files in [docs/](docs/)
-- Add images to [static/img/](static/img/) (they will appear at `/img` on the live site)
-- Add maker data in [makers/](makers/) (JSON files)
-- Add hadatai data in [hadatai/](hadatai/) (JSON files)
+- If needed add images to [static/img/](static/img/) (they will appear at `/img` on the live site)
+- Maker data exists in [makers/](makers/) (JSON files)
+- Hadatai data exists in [hadatai/](hadatai/) (JSON files)
 
-[See contributing guidelines](https://kig.wiki/contributing/)
+[See contributing guidelines](https://kig.wiki/contributing/) for finer details, we highly encourage contributions or critiques of the site or content. Is something not clear, poorly explained, or just wrong? Let us know!
 
 ## Technical Contributors
 
@@ -59,7 +59,5 @@ This repository contains only the content for Kig.wiki. The technical infrastruc
 - `static/` - Static assets (images, icons, etc.)
 - `functions/` - Cloudflare Pages Functions (markdown content negotiation, `/api/feedback`)
 - `kigwiki-docusaurus/` - Technical infrastructure (git submodule, most contributors need not worry about this)
-
-Feedback form ops (Turnstile site key at build time, `TURNSTILE_SECRET_KEY` + `DISCORD_WEBHOOK_URL` as Pages secrets) are documented in the [kigwiki-docusaurus README](https://github.com/kig-wiki/kigwiki-docusaurus).
 
 Docusaurus is MIT licensed, as is any applicable content of the Kig.wiki site. Fork it or do as you please, like Kigurumi is for everyone so is this github's content.
