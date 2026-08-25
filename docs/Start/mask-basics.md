@@ -31,55 +31,45 @@ Many top Google results for kigurumi stores are unfortunately resellers, scalper
 
 ## Kigurumi Mask Materials
 
-Usually masks are resin 3D printed, or more traditionally made from fiberglass reinforced plastic (FRP). Different makers will have different materials and production processes, as well as engineer things in their own ways.
+Usually masks are resin 3D printed, or less frequently these days made from fiberglass reinforced plastic (FRP). Different makers will have different materials and production processes, as well as engineer things in their own ways.
 
 ### 3D Printed Kigurumi Masks
 
-3D Printed Kigurumi Mask Pros:
+The most common material for Kigurumi masks these days by a large margin, these days most makers have moved over to 3D printed masks as materials have improved and printers have become better quality at scale.
 
-- Highly customizable, many makers offering fully customized designs.
-- Makers able to scale and size the masks per customer's head size and character design.
-- Far more cost effective than FRP masks.
+These masks are highly customized, being able to be built to the specific head size and to fit the proportions of the character. Size is not the only level of customization, as face shape and other features can be modelled into the mask's design rather than added on top of a molded mask.
 
-3D Printed Kigurumi Mask Cons:
+These masks are often "full masks" where the entire head is covered by the mask, rather than a 3/4 mask where some part of the back is either just a wig or some level of padding under the wig.
 
-- Base shell material isn't as durable as FRP, primarily of concern if you were to drop the mask from a decent height.
+Older kigurumi in particular sometimes stress durability concerns, however materials have come a long way since the early days and printed masks aren't nearly as fragile as some remember the materials being.
 
-Older kigurumi in particular often stress durability concerns, but modern 3D printed masks are generally far more durable than the ones of old.
-
-It is further worth noting, for every FRP mask there are dozens of 3D printed ones, purely out of so many more existing it is easier to find examples of 3D printed masks which have gotten damaged compared to FRP. Both still use similar paints and clear coats, an accident that will chip or damage the paint on one will still likely cause the same damage to the other.
+It is further worth noting, for every FRP mask there are dozens of 3D printed ones, by sheer prevalence of many more existing you can find more examples of 3D printed masks that have gotten damage compared to FRP. Both still use similar paints and coatings, an accident that will chip or damage a 3D printed mask will still probably cause some amount of damage to an FRP's condition.
 
 ### FRP Kigurumi Masks
 
-FRP Kigurumi Mask Pros:
+Previously more commonplace, these masks are molded out out of fiberglass reinforced plastic (FRP), with makers usually offering masks from a few base molds they'll customize the mouths on.
 
-- Durability
+Some makers will offer full custom FRP masks, although those are generally even more expensive and have a far longer production timeline.
 
-FRP Mask Cons:
-
-- Most makers will typically do semi-custom designs, ie having a few base molds they'll customize the mouths on.
-- More expensive than 3D printed masks, stuck to whatever head size and proportions the mold is.
-- Full custom FRP both cost a lot more and have a far longer production timeline.
-
-While neither a Pro or a Con, its worth noting most FRP masks are often 3/4 while many more 3D printed ones are full face masks. Neither is inherently better, its just a matter of what you are looking for.
+It's worth noting most FRP masks are basically always 3/4 style where the back shell isn't fully solid and often have a wig itself or some level of padding at the back under the wig.
 
 ### Vinyl Kigurumi Masks
 
 Avoid at all costs, these are generally low quality and poorly made with awkward fit to form. Allegations of allergenic materials in use or off-gassing are reported.
-The only main makers of these types these days are Munimuni and resellers such as "J Sensei". You are better off with just about any other option.
-
-On a further aside, while the aforementioned makers are starting to do more 3D printed offerings, the shells they make are often not properly proportional and end up looking tiny if not outright uncanny, despite their marketing claiming to work for various head sizes otherwise. There is good reason most who make the mistake of a munimuni often move on to other makers without looking back.
+We do not list any makers of these types of masks, they're usually more of the "halloween gag" type rather than anything aesthetic or meant to be worn for any extended period of time.
 
 ## Full face vs 3/4 Kigurumi Masks
 
-Kigurumi masks usually come as either 'full' face masks that cover the entire head, or mostly-covering 3/4 or 1/2 masks where the hair is the primary part covering the back of the head. In a sense, "full" masks are more like a helmet in that the mask itself fully covers the head rather than relying on the wig to cover the back of the head.
+Kigurumi masks usually come as either 'full' face masks that cover the entire head, or mostly-covering 3/4 or 1/2 masks. The parial masks have hair covering the back of the head sometimes with an amount of padding behind the wig. "Full" masks are more like a helmet in that the mask itself fully covers the head rather than relying on the wig as part of the main physical structure.
+
+Neither is inherently better, and even how involved their construction is can vary greatly between makers.
 
 Sometimes as well the full style masks can have a lockable or latching mechanism to secure the mask to the head.
 Zipper back styles also exist where the back of the wig opens up with a zipper to allow for easier wearing and removal. With some makers having various methods of hiding or stylizing the zipper.
 
 ## Custom vs generic Kigurumi Masks
 
-Apart from mask style, there are a few different categories of masks.
+Apart from mask style, there are a few different categories of masks. Custom are what most people opt for, however we'll start with the least flexible options and work our way up.
 
 ### Generics
 
