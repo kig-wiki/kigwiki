@@ -6,10 +6,11 @@
     "x": "https://x.com/taku_sigkig",
     "instagram": "https://www.instagram.com/taku_sigkig"
   },
-  "priceTier": "$$$",
+  "priceTier": "$$$$",
   "currency": "JPY",
   "materialType": "3D print",
   "size": "Custom",
+  "englishOrdering": true,
   "features": {
   },
   "notes": "DM on X for commissions as per bio."
