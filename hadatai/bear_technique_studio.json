@@ -9,6 +9,7 @@
   "taobao_store": "https://shop288725622.taobao.com",
   "currency": "CNY",
   "englishOrdering": false,
+  "contentWarning": true,
   "priceExamples": [
     {
       "type": "Custom Made-to-measure Hadatai",
