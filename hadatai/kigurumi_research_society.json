@@ -1,0 +1,23 @@
+{
+  "name": "Kigurumi Research Society",
+  "Region": "Mainland China",
+  "currency": "CNY",
+  "taobao_store": "https://shop73067594.taobao.com",
+  "priceExamples": [
+    {
+      "type": "Generic Sized Hadatais",
+      "hadatai_color": "default",
+      "price": "435",
+      "link": "https://item.taobao.com/item.htm?id=612341065432",
+      "material": "Fabric"
+    },
+    {
+      "type": "Generic Sized Hadatai without chest contour, no crotch opening",
+      "hadatai_color": "default",
+      "price": "329",
+      "link": "https://item.taobao.com/item.htm?id=727249660348",
+      "material": "Fabric"
+    }
+  ],
+  "notes": "Taobao seller, currently seems to only be pre-sized hadatai. \n\n Given the price, probably worth going from another seller that offers customization."
+} 
