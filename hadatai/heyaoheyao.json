@@ -44,11 +44,19 @@
       },
       {
         "type": "Latex Hadatai",
-        "price": "380",
+        "price": "520",
         "hadatai_color": "default",
         "link": "https://heyaoheyao.com/products/huajiao-hadatai-heyaoheyao-kigurumi-latex",
         "material": "Latex"
+      },
+      {
+        "type": "Hadatai (Taobao Link)",
+        "currency": "CNY",
+        "price": "150",
+        "hadatai_color": "default",
+        "link": "https://item.taobao.com/item.htm?id=775121650927",
+        "material": "Fabric"
       }
     ],
-    "notes": "Doll Suit Hadatai is one of their specialty items, not a standard hadatai but included nonetheless. \n\n Might be cheaper via Taobao, would require a proxy service to do so with all the pros and cons that entails, consider via website if a first time kig buyer or new to taobao."
+    "notes": "Doll Suit Hadatai is one of their specialty items, not a standard hadatai but included nonetheless. \n\n Slightly cheaper via Taobao, recommends foreign buyers reach out to them via X/Twitter DMs for 'a better purchase process'."
 }
