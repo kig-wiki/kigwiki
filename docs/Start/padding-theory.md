@@ -16,7 +16,9 @@ Anime style characters rarely have human proportions, this tends to be especiall
 
 So for kigurumi, shapewear and padding are often used to complement the mask's size, and one's body shape to create a more true to 2d anime character. Padding sits under the [hadatai](./hadatai-basics.md).
 
-There are a number of ways to achieve various body types, and the exact padding used can vary depending on your own body shape. Padding in kig is not exclusive to any body shape or gender, even women who kig tend to work their proportions to achieve a more anime style look in kig.
+There are a number of ways to achieve various body types, and the exact padding used can vary depending on your own body shape and goals. The masks are larger than your normal head is, so often some proportion adjustments are needed to achieve a more anime style proportion for their kig.
+
+Padding and shapewear in kig is not exclusive to any one body shape or gender, even women who kig tend to work their proportions some to achieve that anime-style physique.
 
 ## Padding Types
 
