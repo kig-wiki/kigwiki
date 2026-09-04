@@ -31,25 +31,25 @@ Many top Google results for kigurumi stores are unfortunately resellers, scalper
 
 ## Kigurumi Mask Materials
 
-Usually masks are resin 3D printed, or less frequently these days made from fiberglass reinforced plastic (FRP). Different makers will have different materials and production processes, as well as engineer things in their own ways.
-
 ### 3D Printed Kigurumi Masks
 
-The most common material for Kigurumi masks these days by a large margin, these days most makers have moved over to 3D printed masks as materials have improved and printers have become better quality at scale.
+The most common material for Kigurumi masks these days by a large margin, these aren't printed on your typical home 3d printer but often printed in professional large scale resin print farms.
 
-These masks are highly customized, being able to be built to the specific head size and to fit the proportions of the character. Size is not the only level of customization, as face shape and other features can be modelled into the mask's design rather than added on top of a molded mask.
+Owing to their higher level of customization in both design and size, there's good reason why when you look at popular kig events like [Doll Weekend](https://x.com/doll_weekend/status/2091150230330994821/photo/1) that by large it's 3D printed masks as far as the eye can see.
 
-These masks are often "full masks" where the entire head is covered by the mask, rather than a 3/4 mask where some part of the back is either just a wig or some level of padding under the wig.
+Size is not the only level of customization, as face shape and other features can be modelled into the mask's design rather than added on top of a molded generic mask.
 
-Older kigurumi in particular sometimes stress durability concerns, however materials have come a long way since the early days and printed masks aren't nearly as fragile as some remember the materials being.
+These masks are often "full masks" where the entire head is covered by the mask, although some makers like Haagaau do offer 3/4 options, different styles and features are available from many makers.
 
-It is further worth noting, for every FRP mask there are dozens of 3D printed ones, by sheer prevalence of many more existing you can find more examples of 3D printed masks that have gotten damage compared to FRP. Both still use similar paints and coatings, an accident that will chip or damage a 3D printed mask will still probably cause some amount of damage to an FRP's condition.
+Older kigurumi in particular sometimes fret about durability concerns, however materials have come a long way since the early days that some were used to.
+
+It is further worth noting these days there are dozens of 3D printed masks made for every non-3D printed mask, by sheer prevalence of being the most common type they are the most likely type to hear from people's experiences with, both good and bad.
 
 ### FRP Kigurumi Masks
 
-Previously more commonplace, these masks are molded out out of fiberglass reinforced plastic (FRP), with makers usually offering masks from a few base molds they'll customize the mouths on.
+Previously more commonplace, these masks are molded out of fiberglass reinforced plastic (FRP), with makers usually offering masks from a few base molds they'll customize the mouths on. Due to the nature of the material being costly to produce molds of, and being toxic to produce, most makers have switched to 3D printed masks.
 
-Some makers will offer full custom FRP masks, although those are generally even more expensive and have a far longer production timeline.
+Due to the costs involved most FRP makers focus on "generic" or "semi-custom" masks rather than bespoke custom masks, although most still will offer custom options for a higher price and lengthy production timeline.
 
 It's worth noting most FRP masks are basically always 3/4 style where the back shell isn't fully solid and often have a wig itself or some level of padding at the back under the wig.
 
@@ -60,7 +60,7 @@ We do not list any makers of these types of masks, they're usually more of the "
 
 ## Full face vs 3/4 Kigurumi Masks
 
-Kigurumi masks usually come as either 'full' face masks that cover the entire head, or mostly-covering 3/4 or 1/2 masks. The parial masks have hair covering the back of the head sometimes with an amount of padding behind the wig. "Full" masks are more like a helmet in that the mask itself fully covers the head rather than relying on the wig as part of the main physical structure.
+Kigurumi masks usually come as either 'full' face masks that cover the entire head, or mostly-covering 3/4 or 1/2 masks. The partial masks have hair covering the back of the head sometimes with an amount of padding behind the wig. "Full" masks are more like a helmet in that the mask itself fully covers the head rather than relying on the wig as part of the main physical structure.
 
 Neither is inherently better, and even how involved their construction is can vary greatly between makers.
 
@@ -69,23 +69,19 @@ Zipper back styles also exist where the back of the wig opens up with a zipper t
 
 ## Custom vs generic Kigurumi Masks
 
-Apart from mask style, there are a few different categories of masks. Custom are what most people opt for, however we'll start with the least flexible options and work our way up.
-
-### Generics
-
-More common to makers using FRP, these masks are based off common molds or 3d models with limited customization options usually limited to the styling of hair or eyes. The size and expressions are typically fixed, resulting in generics of the same model looking like sisters. Typically these masks are used for OC type characters rather than existing characters from various franchises.
-
-[Sigma](https://www.buildupstudiosigma.com/product/ena/) is a good example of a maker with various generics available. Due to the pre-made nature of the shell, they can have shorter production times, although they are not necessarily cheaper than custom masks.
-
-### Semi-custom
-
-More complex than just generics, these masks are still based off common molds or 3d models, but with more customization options such as customized mouth options, custom accessories, and other details.
-
-[GKO](https://www.gko-kig.com/mask-onsale) is an example of a maker who has a number of shell types they customize to create various characters.
+Apart from mask style, there are a two main categories of masks, with 3d printed custom masks being the most common and flexible these days.
 
 ### Custom
 
-More complex than semi-custom, these masks are fully custom made to the commissioner's specifications. Size, expression, eye shape, integrated accessories, and more are all customizable. Most 3D printed masks fall into this category due to the flexibility of 3D printing, however some FRP makers will offer custom options.
+As the name describes these masks are custom modeled, sized, and styled to the commissioner's specifications. Facial features and other details are modeled into the mask's design rather than added on top of a molded shell like with generic based masks. Most 3D printed masks fall into this category due to the flexibility of 3D printing.
+
+### Generics and Semi-custom
+
+More an era of FRP masks before 3d printing became the norm, these are based off common molds with limited customization options. Usually customization is limited to smaller details like styling of hair, eye pupil design, and makeup. The size and shape of the mask are fixed, , resulting in generics of the same model looking like sisters. A more common use for these types are for OC type characters.
+
+[Sigma](https://www.buildupstudiosigma.com/product/ena/) is a good example of a maker with various generics available. Due to the pre-made nature of the shell, they can have shorter production times, although they are not necessarily cheaper than custom masks.
+
+Semi-custom masks also exist but are largely the same idea, customizing generic shells. Usually there are more options to customization than with generics, such as sculpting a new mouth, more hair options and other details.
 
 ## Kigurumi Mask Features
 

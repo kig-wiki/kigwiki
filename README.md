@@ -8,7 +8,7 @@ Kigurumi (着ぐるみ), or Kig/Kigu for short is a mask oriented form of cospla
 
 # What this aims to be
 
-- A site that makes it as easy as possible to get started with kigurumi, while also providing in depth guides and resoces for more nuanced areas of the hobby
+- A site that makes it as easy as possible to get started with kigurumi, while also providing in depth guides and resources for more nuanced areas of the hobby
 - A community resource that no one person owns, that is free as in freedom not just free as in free beer. Libre, not just gratis
 
 # What this is _not_ meant to be
