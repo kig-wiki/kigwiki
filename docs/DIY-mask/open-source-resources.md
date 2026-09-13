@@ -8,47 +8,49 @@ tags:
   - diy
   - mask
 sidebar_position: 4
-description: "Open-source resources for DIY kigurumi masks: free 3D-printable head models, plus components like latches, eyes, paint, and padding."
+description: "Open-source resources for DIY Kigurumi Masks: 3D-printable head models plus guidance for materials, latches, eyes, paint, and padding."
 ---
 
 import SocialEmbed from "@site/src/components/SocialEmbed";
 
 # Open-Source Resources for DIY Kigurumi Masks
 
-If you are still determined to DIY your own kigurumi mask, there are a number of open source resources that can help you. Do note while these models are free to download, many are often made available for personal use only, as in not to be made to be sold for commercial use.
+These models, parts, and references can help with a DIY Kigurumi Mask. Be aware free access to files does not necessarily permit commercial use, redistribution, or selling printed copies.
+
+If this is your first time making a kigurumi mask, we highly recommend reading [what to expect from a DIY Kigurumi Mask](./reality-of-diy.md) before choosing a model or material. And if this is your first time making a 3D printed prop in general, it's best to start on a smaller scale with other props before jumping into a full kigurumi mask.
 
 ## 3D Models
 
-There exist a few open source 3d models that can be used as a starting point for your own mask.
+An existing model can shorten the design stage, but it still needs to be checked for head clearance, eye alignment, ventilation, wall thickness, closures, and your printing process. Dont just throw it into your slicer and press print.
 
 ### plumKigurumi
 
-One such model to be used with Blender is [plumKigurumi](https://github.com/vuicoo/plumKigurumi-) by [鹊跃](https://x.com/i/status/1741975998399439042).
+[plumKigurumi](https://github.com/vuicoo/plumKigurumi-) by [鹊跃](https://x.com/i/status/1741975998399439042) is a Blender-based starting point.
 
 ### MidDream_Kigu (Formerly Kiglover)
 
-MidDream_Kigu is a maker who has released models for personal use, and who also have a number of tutorials on their website, such as their DIY mask guide [https://kiglover.com/blogs/free-open-source/free-kigu-mask-model-animegao-kigurumi-diy-guide](https://kiglover.com/blogs/free-open-source/free-kigu-mask-model-animegao-kigurumi-diy-guide). Their models can also be found on Thingiverse [here](https://www.thingiverse.com/middreamkigu/designs).
-
-Their socials are also worth checking out for more information and inspiration.
+MidDream_Kigu has released models for personal use along with a [DIY Kigurumi Mask guide](https://kiglover.com/blogs/free-open-source/free-kigu-mask-model-animegao-kigurumi-diy-guide). Their downloads are also available through the [MidDream_Kigu Thingiverse profile](https://www.thingiverse.com/middreamkigu/designs).
 
 ### Other Models
 
-Sites such as [Thingiverse](https://www.thingiverse.com/search?q=kigurumi&page=1P) in general also have a number of models available for download, and can be also worth checking out for inspiration, accessories, and other parts. [Yeggi](https://www.yeggi.com/) is a search aggregator for 3d models as well that also can be worth checking out.
+[Thingiverse](https://www.thingiverse.com/search?q=kigurumi&page=1) hosts additional user-uploaded models. [Yeggi](https://www.yeggi.com/) aggregates listings from several 3D-model sites. Treat search results as unreviewed: inspect the geometry, source, license, and user examples before printing.
 
 ## Components
 
 ### Printing Materials
 
-Many bought kig masks tend to be printed using a resin or SLA 3D printer. Due to the sizes involved, unless you are using a professional 3D printing service this may not be an option. If you have a choice of resin, do choose stronger "ABS-like" resins as many resins are weak and the last thing you want is your mask to warp or break after all that time and effort.
+Commercial makers use several printing methods, most often being commercial large scale resin printers. Realistically however FDM printers are what most will have access to for kig sized prints.
 
-If using a more traditional FDM printer, you will want to consider using a material that is heat resistant and has a good balance of strength and flexibility. Basically, not PLA filament. PLA is too weak in heat, and while decently rigid it is too brittle against impacts. PETG is a better option but still will require plenty of sanding.
-ASA or ABS if you can print them are by far better choices, and can utilize vapor smoothing to help with the surface quality.
+PLA can deform in high heat, including a closed vehicle and is not quite recommended. PETG has reasonable heat resistance but is less rigid and tends not to print quite as cleanly, requiring more post processing.
+ASA/ABS has a great balance of strength and even stronger heat resistance, but is difficult to print on more entry level machines particularly at the size and scale of a Kigurumi mask. It does however enable some very high quality prints and can be chemically smoothed for a strong, clean surface finish.
+
+A professional printing service may be more practical than buying large-format equipment for one build.
 
 ### Latches and locks
 
-If you're making a "full" or "full lock" mask, you will want to consider how to secure the mask and the two halves together. What you are often looking for in specific is a "hasp", which has a clasp that connects to the two halves of the mask. These come in many varieties from simple, to integrated locks, or with a pass through for a small external lock.
+If you are making a full shell, plan how its sections align, stay closed, and open quickly. A small hasp is one option, but magnets, latches, hinges, and other closures are also used.
 
-Pre-made mask options may or may not have existing spots for a hasp, you may need to add them yourself or find an option that fits if the mask is designed for one but doesn't list which.
+A premade model may include mounting points without naming the required hasp/closure. You may need to source a different closure or modify the model to fit your needs.
 
 <div className="info-box-container-large">
   <img
@@ -62,35 +64,34 @@ Pre-made mask options may or may not have existing spots for a hasp, you may nee
   </div>
 </div>
 
-A popular option many Chinese makers use is a "3018 带锁" (3018 with lock) hasp readily available via Taobao, [here](https://www.taobao.com/list/item/ekgySkZJR3F4VjR5dkc2cFNkU3Rydz09.htm) for example, however you will need a proxy service to order from Taobao. If you need help finding a proxy service, check out our [taobao guide](../Buy/taobao-guide.md).
+A “3018 带锁” (3018 with lock) hasp is one example of a more commonly used closure available through [Taobao](https://www.taobao.com/list/item/ekgySkZJR3F4VjR5dkc2cFNkU3Rydz09.htm).
 
-Your local hardware store may also have something similar if you are looking to shop closer to home. Technically this component can be 3D printed as well, take for instance the following freely available hasp [made by "Raffosan"](https://cults3d.com/en/3d-model/various/classic-style-hasp-for-boxes-model-3)
+Local hardware and specialty suppliers may have similar closures. A printable [classic-style hasp by Raffosan](https://cults3d.com/en/3d-model/various/classic-style-hasp-for-boxes-model-3) is another reference, however a printed one is going to be weaker than a manufactured one.
 
-Amazon as always also has a number of options, the ["uxcell" seller for instance](https://www.amazon.com/s?k=uxcell+hasp) has dozens of options available if you want a place to start looking.
+[Amazon search results for small hasps](https://www.amazon.com/s?k=uxcell+hasp) can provide additional examples. Check dimensions and edge finishing carefully.
 
 ### Eyes
 
-There are a few different styles of eyes you can choose from, each with their own advantages and disadvantages. Some food for thought:
+Eye construction affects appearance, visibility, airflow, glare, and fogging.
 
-- **Mesh Eyes**: One of the simpler styles with great visibility and added ventilation. The sclera, the whites part of the eyes is mesh. Often with a printed iris. White eye mesh is easily available on all the usual major online marketplaces such as [Amazon](https://www.amazon.com/BENECREAT-39x11-8inch-Waterproof-Printable-Fursuits/dp/B0CZ9FGT4V). 0.5mm pitch works great.
-- **Black mesh**: Instead of the whites of the eyes being the vision portion, the pupils or a shadow gradient at the top of the eye has a region with black mesh.
-- **Lens eyes**: Instead of any mesh, a dark plastic lens akin to sun glasses is used with a sticker on top. Fogs easily making defogging compounds a must. You also would likely want to matte coat the lens to avoid differences in glare between the lens and the eye. -**Follow-me eyes**: Can be done in any of the above styles, but requires having a concave eye design set further back in the mask than normal kig eyes. Many guides exist online for follow-me fursuit eyes, much of the same applies.
+- **White mesh:** Part of the sclera provides vision and ventilation, often with a printed iris. Fine white eye mesh is sold for fursuit and costume use, this [0.5 mm-pitch mesh listing](https://www.amazon.com/BENECREAT-39x11-8inch-Waterproof-Printable-Fursuits/dp/B0CZ9FGT4V) is one example.
+- **Black mesh:** A pupil, upper-eye shadow, or other dark region hides the viewing area. Basically similar to the white mesh but having the blacks of the eyes be the openings instead.
 
-Printing directly onto mesh is difficult and often requires a special dye sublimation setup. If you are printing onto a sticker, there are many printable vinyl sticker papers that can be used on common printers which work great.
+- **Lens eyes:** A tinted transparent sunglass-like lens with an eye sticker on it
+- **Follow-me eyes:** A recessed, concave design creates the illusion that the eyes track the viewer. Making one yourself is a bit difficult due to the design considerations and required depth to produce the illusion.
 
-Do consider printer inks are water soluble and work best when sealed in with a protective clear coat so that humidity doesn't impact them. While less of an issue with vinyl based stickers compared to paper-based ones, its still is often a good idea to seal them.
-If your printer ink really likes to run and smudge when doing a clear coat, sprayable fixatifs exist as a pre-coat to help keep them looking their best, Krylon makes a readily available one.
+Printing directly onto meshes may require dye-sublimation or another process compatible with the material. For most people without such equipment printable vinyl can be easier for eye designs while still also being decently humidity resistant.
 
 ### Mask painting
 
-You will likely want to match your mask's tone to the skin tone of the hadatai you are using. While makers do vary, a few are shared on our [Hadatai Basics](../Start/hadatai-basics.md) page. We plan to add some basic paint mixing formulas in the future using readily available hobby paints to get close to these tones.
+Coordinate the mask's skin tone with the Hadatai you intend to wear. The more off the tone is from the Hadatai the more noticeable it will be. Make sure to check in natural lighting and not just under artificial indoor lighting.
 
 ### Mask padding
 
-Do consider checking our [Mask Padding](../Care/mask-padding.md) page for more information and inspiration on how to pad your mask. Even bought masks often require some customizing there to best fit and feel comfortable.
+See [Kigurumi Mask care and padding](../Care/mask-care.md) for fit checks and removable-padding ideas.
 
 :::note[Have more resources? Please contribute!]
 
-Please contribute to the wiki if you have an example of a 3d model or resource you think is particularly well done.
+If you know a well-documented model or resource with a clear license, please [contribute it to the wiki](../02-contributing.md).
 
 :::

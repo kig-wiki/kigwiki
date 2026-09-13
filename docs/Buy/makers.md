@@ -1,6 +1,6 @@
 ---
 id: mask-maker-styles
-title: "Kigurumi Mask Makers & Stores: Kig Mask Guide (2026)"
+title: "Kigurumi Mask Makers & Stores (2026)"
 sidebar_label: "Mask Makers List"
 slug: /buy/makers
 canonical_url: https://kig.wiki/buy/makers
@@ -9,7 +9,7 @@ tags:
   - makers
   - mask
 sidebar_position: 1
-description: "Directory of active kigurumi mask makers and stores, with notes on each to help you compare styles and find the right maker for you."
+description: "Directory of active Kigurumi Mask makers and stores, with filters and notes to compare styles, ordering options, locations, and recent works."
 ---
 
 import MakersCards from "@site/src/components/MakersCards";
@@ -17,17 +17,15 @@ import {makersData} from "@site/src/data/makers-data";
 
 # Kigurumi Mask Makers & Stores
 
-This is a curated list of kigurumi mask makers, not every maker who has ever existed, and not a storefront of premade masks. How to actually commission one is on the [commissioning guide](./commissioning-guide.md). What a mask even is: [Mask Basics](../Start/mask-basics.md). You will still need a [hadatai](./hadatai.md).
+This curated directory helps you discover Kigurumi Mask makers and compare their recent works. It is not a ranking, endorsement of every mask, or storefront.
 
-:::warning
-Many top Google results for kigurumi stores are unfortunately resellers, scalpers or outright scammers. Most masks are made to order, not some storefront with countless premade masks advertised. Check out our [seller red flags](./seller-red-flags.md) page to learn more about how to avoid these sellers.
-:::
+Before contacting a maker, read [how to order a Kigurumi Mask](./commissioning-guide.md). If the subject is new to you, begin with [Kigurumi Mask basics](../Start/mask-basics.md). A complete costume commonly also uses a [Hadatai](./hadatai.md).
 
-This is a general list of some of the more popular makers who are a relatively safe bet. For easier ordering you may want to apply the "English Ordering" filter to show makers who you can communicate with directly in English.
+Use the **English Ordering** filter if you need to communicate directly in English.
 
 :::info
 
-We don't attempt to list "exact prices" as prices aren't exactly static, as well as vary greatly depending on what you are looking for. Notable factors being hair length or complex styling, additional accessories, or other labor intensive requirements.
+Prices can fluctuate and vary greatly from mask to mask depending on the complexity of a commission, it's difficult to provide a single price estimate for makers, so we give general price ranges instead.
 
 :::
 
@@ -39,12 +37,12 @@ Note: Location labels are provided as geographic references to help readers unde
 
 ## Maker Styles
 
-Some makers will have signature styles or character types they are best known for, and this can be seen in the masks they make. Sigma for instance is known for more of a vintage aesthetic compared to today's more moeblob anime designs.
-
-Its highly recommended to check out a maker's socials to see if their styles align with what you are looking for.
+Makers often develop various approaches to face shape, paint, eyes, and hair. We recommend checking out several recent commissions and seeing if any characters they've made line up similarly with the vision you have for yours. Some are more stylized than others putting their own spin on characters, while some may be more faithful to the reference material. Typically most newer makers lean towards the latter, modelling the mask directly after your reference material.
 
 ## Ordering Tips
 
-- **Status**: Check the maker's current wait times before ordering.
-- **Custom Work**: Full custom masks typically cost more and take longer than semi-custom options.
-- The actual commission process, reference art, and questions to ask are on the [commissioning guide](./commissioning-guide.md).
+- Check whether commissions are open and how the maker accepts inquiries, some have sites, some prefer DMs, some prefer emails.
+- Compare work similar to your character rather than relying on one portfolio image.
+- Ask for the full price, expected start date, production window, and policies.
+- Prepare references and measurements using the [Kigurumi Mask ordering guide](./commissioning-guide.md).
+- Almost all makers have a social media presence of some kind, if you find a random shop or seller that doesn't, be wary and consider checking out [Kigurumi Mask seller red flags](./seller-red-flags.md). This is typically more common with random shops on Etsy, Ebay, or Aliexpress rather where they're just stealing photos off maker's social media accounts and presenting them as their store's inventory as "available product".

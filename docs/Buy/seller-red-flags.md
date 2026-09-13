@@ -7,81 +7,86 @@ canonical_url: https://kig.wiki/buy/seller-red-flags
 tags:
   - buying
 sidebar_position: 6
-description: "Warning signs to avoid and look out for when buying kigurumi masks from various sellers."
+description: "How to check whether a Kigurumi Mask seller is legitimate: stolen photos, fake inventory, weak verification, unsafe payments, and used-mask scams."
 ---
 
 # Is a Kigurumi Seller Legit?
 
-Unfortunately with the rise in popularity of kigurumi, there have been a number of sellers trying to rise to the top of Google results to take advantage particularly of those new to kigurumi.
-Luckily with some basic knowledge and a bit of caution, these sellers and listings can easily be identified and avoided.
+Most Kigurumi Masks are commissioned goods, a seller advertising a large catalog of ready-made masks on western marketplaces is point blank one of the single most common red flags.
 
-**tldr: avoid marketplaces with a bunch of listings advertising premade masks, genuine makers will also have social media presence which these sellers will not.**
+That said, checking out a maker's socials and verifying if a storefront is actually theirs usually isn't too difficult a task. It's a bit more complicated for used masks, but we've got some tips for that too.
 
-## Online Marketplace Scammers
+## Common warning signs
 
-Etsy, Amazon, eBay and other marketplaces are some of the prime spots these sellers often throw listings around.
-Often times these are listings for masks they simply don't have, using rather stock images from the social media pages of actual makers.
+- Photos are straight up copied from maker social media accounts.
+  - Most makers tend to be consistent on how they present made masks, if you see a mix of backdrops and photography styles it's very well likely a mix of stolen photos.
+- The seller cannot provide a current photo or video of the exact mask, and just relies on stock imagery.
+- Watermarks that when googled, dont return any maker socials. This can be a sign someone replaced a maker's watermark with their own.
+- Listings of specific characters but with vague promises that your actual order will be made in 30-60 days.
+- Used masks that are incredibly vague on details, no maker info, no mask size, no condition info, no pictures of the current condition.
+- A price that's "too good to be true."
+- The seller pressures you to use a payment method without buyer protection.
+- The seller's rating on the marketplace consists basically entirely of unrelated products, or is non-existent entirely.
+
+## What actually happens with these marketplace scams?
+
+Some won't ship at all, some will play delay games, or other nonsense where it gets "lost in shipping". Many will actually send you "a mask" but its not exactly what you expected. If you do get something, it'll likely be a rushed mask made by the absolute cheapest possible maker they could source something from, vaguely inspired off the mask you thought you were getting.
+
+## Stolen portfolio photos
 
 <div className="info-box-container-large">
   <img
     src="/img/red-flag-sellers/scam-mask.webp"
-    alt="Scam Mask Listing"
+    alt="Marketplace listing using a stolen Kigurumi Mask photo"
     className="info-box-image"
     loading="lazy"
   />
-  <div className="info-box-caption">An example of a scam listing on eBay</div>
+  <div className="info-box-caption">An example of stolen photos used for a scam listing</div>
 </div>
 
 <div className="info-box-container-large">
   <img
     src="/img/red-flag-sellers/scam-seller.webp"
-    alt="Scam Mask Listing"
-    className="info-box-image"
-    loading="lazy"
-  />
-  <div className="info-box-caption">Makers do not do this</div>
-</div>
-
-Kigurumi makers generally run on a commission basis, they don't exactly set up storefronts with mass produced inventory to sell. A store advertising many premade masks is about as big of a red flag as it gets. In a sense they often prey on the impatience of those looking to get a mask quickly.
-
-As you can see from the examples, its just a random bunch of images thrown together hoping to make it look like a legitimate store. Often with some random non-kigurumi items sold to try and make it look like a legitimate store with actual feedback.
-
-<div className="info-box-container-large">
-  <img
-    src="/img/red-flag-sellers/lightning-twitter.webp"
-    alt="Source of the stolen images"
+    alt="Storefront advertising many unrelated premade Kigurumi Masks"
     className="info-box-image"
     loading="lazy"
   />
   <div className="info-box-caption">
-    The ebay seller directly just stole these images from social media of actual makers.
+    Many different masks from many different makers, inconsistency is a major red flag
   </div>
 </div>
 
-Makers rarely will try to sell you an exact version of a mask they've already made. A storefront saying
-"we'll make you this mask if you order it" is about as big of a red flag as it gets. Many makers are
-open to making new masks for characters they've already made before, but rarely will try to sell you
-the exact same mask as they've already made prior. Their social pages are more a showcase of what they've
-made in the past, rather than what they're currently trying to sell you.
+Reverse-image-search several listing photos. Look for the earliest post, maker watermark, and performer account. A legitimate reseller or secondhand seller should be able to explain where the mask came from and prove that they possess it.
 
-In reality if you reverse image searched any of the images of such scam sellers, you'd likely find the original maker's social media pages. In this case, most of the photos are ripped straight from maker Lightning's socials. Sometimes these sellers will edit out watermarks and put their own to try and get some semblance of legitimacy.
+Some makers display previous commissions as portfolio examples and may accept the same character again. That is different from promising that a buyer will receive the exact mask shown. Ask what will be newly made, which details can vary, and whether the image is an example rather than inventory.
 
-### A lack of social media presence
+<div className="info-box-container-large">
+  <img
+    src="/img/red-flag-sellers/lightning-twitter.webp"
+    alt="Original maker social post matching photos copied into a marketplace listing"
+    className="info-box-image"
+    loading="lazy"
+  />
+  <div className="info-box-caption">
+    Reverse-image search can reveal the maker or performer who originally posted a photo
+  </div>
+</div>
 
-As mentioned above, actual makers will have a social media presence. They will never just have some random images thrown together on ebay or other marketplaces. Their socials are where they showcase their work and find an audience, not an ebay storefront.
+## Verify a maker
 
-### So what actually happens if you buy a mask from these sellers?
+Before commissioning:
 
-They typically will find "something" to ship you, however as you can imagine its rarely what you think you are getting. Often they find the absolute cheapest overseas maker to make whatever allows them to get away with the scheme. This is often a low quality mask, or a mask that is not what you expect if even one at all.
+1. Follow links from the maker's established socials or website instead of a sponsored search result.
+2. Compare work across multiple dates for consistent style and process.
+3. Search or ask around for any kigs who have masks from that maker that they enjoy using.
+4. Ask for a written quote identifying the character, options, mask size, price, payment schedule, production window, and shipping estimate.
+5. Confirm how progress approvals and revisions work. Makers should give you updates and unless you completely change your mind on major details, should be able to accommodate revisions during the making process.
+6. Use a payment method with suitable buyer protection and make note of its claim deadline.
 
-## Used Kigurumi Masks
+Language barriers and small accounts are not inherently suspicious. Focus on verifiable work, clear terms, consistent identity, and behavior.
 
-Used masks are the one thing you can expect to find sometimes on marketplaces. They can be a good deal on a ready to wear mask, but generally have their own set of things to be cautious of.
+## Marketplace listings
 
-Big red flags similarly are generic images, they cant answer questions about the mask or provide details on maker. Head size is something they should easily be able to answer, as well as showing images of it in it's current condition. If they cant do this, its a good sign they don't actually have the mask.
+Etsy, eBay, Amazon and AliExpress are where most of these scams are found. Marketplace feedback may describe unrelated products and does not prove that a seller can deliver the pictured Kigurumi Mask. Used masks do pop up on eBay, but typically social media postings from reputable kigs selling masks is far more reliable than a random eBay listing.
 
-Another pro tip is to reverse image search their photos as well, or ask around kigurumi communities to see if anyone has seen the mask before. Usually the socials of the owner can be found and you can verify the seller actually has the mask and isn't just stealing the photos off social media.
-
-Ideally you should not have to be doing this, but its better to play safe rather than sorry, as again with the rise of kigurumi has come lots of grifters trying to take advantage of those looking to get a quick or cheap mask.
-
-Check out our [used kigurumi masks](../Care/used-kigurumi-masks.md) page for more information on used masks in general if thats of interest to you.
+Due to the amount of kigurumi in China, Goofish is the most likely spot to actually find a used mask, however much akin to many of the red flags here, they similarly apply there. And you will likely need an agent to help you purchase and ship it internationally.

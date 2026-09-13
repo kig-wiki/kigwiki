@@ -4,29 +4,31 @@ title: "Kigurumi Mask Wiki"
 sidebar_label: "Home"
 slug: /
 canonical_url: https://kig.wiki/
-description: "Guides for getting started with kigurumi. Finding kig mask makers and hadatai sellers, padding and shapewear tips, kigu mask care, troubleshooting, and more."
+description: "Guides to Kigurumi Masks and Hadatai: getting started, finding kig makers, ordering safely, choosing padding, and caring for your kig setup."
 ---
 
 # Kigurumi Mask Wiki
 
-Welcome to **Kig.Wiki**, an open resource for Kigurumi Masks (着ぐるみ).
+Welcome to **Kig.wiki**, an open resource for Kigurumi Masks (着ぐるみ), Hadatai, buying, care, and performance.
 
-Most of the useful kigurumi conversation happens off Google-able resources, such as on Discord, in group chats, DMs, or on social media platforms. Those spaces are not always easy to find, and the public ones are not always a great place for beginners. What does show up in search is often fragmented, outdated, or incomplete.
+If you are new, begin with [Getting Started with Kigurumi](./Start/get-started.md). It covers the essential costume pieces, realistic cost and timing, and the main choices before you order anything.
 
-Kig.Wiki aims to fill this information gap by making kigurumi knowledge more accessible, organized, open source, peer reviewed and searchable. Info and guides to actually get started, because getting into the hobby shouldn't take a research project.
+## Just want maker lists?
 
-New to kig? Start with [Getting Started](./Start/get-started.md), or [What is Kigurumi?](./Start/what-is-kigurumi.md) if you still want the "what even is this." Already hunting a mask or hadatai? Skip to the lists below.
+If you're just looking for a list of kigurumi makers, you can find [mask makers here](./Buy/makers.md) and [hadatai makers here](./Buy/hadatai.md).
+
+## Find an answer
+
+- **Learn the basics:** [What is Kigurumi?](./Start/what-is-kigurumi.md), [Kigurumi Mask basics](./Start/mask-basics.md), and [Hadatai basics](./Start/hadatai-basics.md)
+- **Plan a first costume:** [Getting Started](./Start/get-started.md) and [body padding theory](./Start/padding-theory.md)
+- **Order safely:** [How to order a Kigurumi Mask](./Buy/commissioning-guide.md), [seller red flags](./Buy/seller-red-flags.md), and [buying a used Kigurumi Mask](./Buy/buying-used.md)
+- **Care for your costume:** [Kigurumi Mask care](./Care/mask-care.md), [washing a Hadatai](./Care/washing-your-hadatai.md), and [traveling with a Kigurumi Mask](./Care/traveling.md)
+- **Looking to build your own?:** [What to expect from DIY](./DIY-mask/reality-of-diy.md) and [open-source DIY resources](./DIY-mask/open-source-resources.md)
+- **Perform and connect:** [Handler guide](./Start/handlers-guide.md) and [Kigurumi community etiquette](./Community/Community.md)
+- **Look something up:** [Kigurumi FAQ](./Start/faq.md), [glossary](./Start/glossary.md), and [troubleshooting](./Start/kigurumi-troubleshooting.md)
 
 :::note
 
-This wiki is a living document that is regularly being updated. Feedback is appreciated on our [github](https://github.com/kig-wiki/kigwiki/issues) or via the [feedback form](/feedback/).  
-Have information you'd like to add? Please [contribute](./02-contributing.md), Kig.wiki is an open source resource!
+Kig.wiki is a living, open-source resource. Report an error or suggest an improvement on [GitHub](https://github.com/kig-wiki/kigwiki/issues), use the [feedback form](./03-feedback.md), or read [how to contribute](./02-contributing.md).
 
 :::
-
-## Kig Mask Maker and Hadatai Sellers
-
-Just need info on makers? Check our below guides for kigurumi makers and hadatai vendors:
-
-- [Kigurumi mask makers list](Buy/makers.md)
-- [Hadatai vendors](Buy/hadatai.md)

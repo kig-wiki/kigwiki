@@ -1,6 +1,6 @@
 ---
 id: glossary
-title: "Kigurumi Glossary: Kig, Hadatai, Animegao & More"
+title: "Kigurumi Glossary: Kigurumi Mask, Hadatai & More"
 sidebar_label: "Glossary"
 slug: /resource/glossary
 canonical_url: https://kig.wiki/resource/glossary
@@ -8,7 +8,7 @@ tags:
   - introduction
   - resource
 sidebar_position: 8
-description: "Glossary of kigurumi terms: kig, hadatai, animegao, kiger, and more. Quick definitions for the words you'll see around the hobby."
+description: "Definitions of Kigurumi Mask terms including kig, Hadatai, Animegao, eyeports, faceplates, handlers, padding, and zentai."
 ---
 
 # Glossary of Kigurumi Terms
@@ -24,7 +24,7 @@ Use your browser's search function (Ctrl+F / Cmd+F) to quickly find specific kig
 **Definition**: Literally "beautiful girl costume (kigurumi)" in Japanese.
 
 **Context**:
-Basically the original term for kigurumi mask costumes, at least of feminine characters.
+Basically the "proper" term for kigurumi mask costumes, at least of feminine characters.
 
 **Related**:
 [Kigurumi](#kigurumi-着ぐるみ)
@@ -57,7 +57,7 @@ A kigurumi performer, relating to the doll-like nature of kigurumi, akin to [#co
 ### **Eyeports** aka **Viewports**
 
 **Definition**:
-The holes in a kigurumi mask you view out of. Typically through a brow crease above the eyes in addition to often some level of lower visibility through the eyes themselves.
+The openings through which a wearer sees. They may be hidden in a brow crease, eye mesh, pupils, or other dark details.
 
 **Related**:
 [Mask basics](./mask-basics.md)
@@ -67,7 +67,7 @@ The holes in a kigurumi mask you view out of. Typically through a brow crease ab
 ### **Faceplate**
 
 **Definition**:
-A swappable front portion of a kigurumi mask some makers may offer.
+A swappable front portion of a Kigurumi Mask, usually providing a different expression.
 
 **Context**:
 Allows for different expressions used with the same base mask and wig.
@@ -78,7 +78,7 @@ Allows for different expressions used with the same base mask and wig.
 ### **Furkig**
 
 **Definition**:
-A type of kigurumi mask that is not quite a fursuit, not quite an anime style kigurumi mask, but in between combining the nuance of kigurumi masks with furry-esque designs, often in a "kemono furry" style rather than more western furry designs.
+A mask style that combines elements associated with Kigurumi Masks and kemono furry designs.
 
 **Context**:
 An alternative to fursuits that are often more accessible cost-wise, easier to transport, and generally cooler in temperature compared to a full fursuit.
@@ -100,18 +100,18 @@ When a mask does not have sufficient padding at the front for the wearer, leadin
 ### **Hadatai** (肌タイ)
 
 **Definition**:
-A full-body skin-tight suit that covers the performer's body, typically flesh-colored.
+A snug-fitting bodysuit made for Kigurumi Mask cosplay, commonly in a skin tone coordinated with the mask.
 
 **Context**:
 Creates a seamless base for the character's skin tone and smooths out any padding or shapewear.
 
 **Related**:
-[hadatai basics](./hadatai-basics.md)
+[Hadatai basics](./hadatai-basics.md)
 
 ### **Handler**
 
 **Definition**:
-Term for a person who helps a kigurumi get around safely such as at cons, events, or other public places. Often speaks on behalf of the kigurumi.
+A trusted person who helps a Kigurumi Mask performer navigate and communicate with others during a convention or event.
 
 **Related**:
 [Handler's Guide](./handlers-guide.md)
@@ -121,34 +121,33 @@ Term for a person who helps a kigurumi get around safely such as at cons, events
 ### **Kig fan**
 
 **Definition**:
-A term often used in a slightly demeaning manner to describe someone who is a bit _too_ enthusiastic about kigurumi without being really involved in the hobby. A kig "chaser" of sorts who puts performers on a pedestal. Often someone that compulsively lurks in kigurumi communities and may be annoying.
-
+A fan of Kigurumi Mask cosplay. Some communities use the phrase negatively for intrusive or boundary-crossing behavior by someone a bit too enthusiastic about the hobby without ever actually kigging themselves.
 **Context**:
 Most who enjoy kigurumi are not "kig fans", but every "kig fan" is a fan of kigurumi.
 
 ### **Kignapped** (Kignap / Kignapping)
 
 **Definition**:
-Used to describe having someone that doesn't kig consensually try out someone's kigurumi mask and hadatai.
+Playful slang for consensually letting someone try a Kigurumi Mask costume.
 
-**Context**: Numerous artists draw this situation jokingly, without consent, and as something that can "just happen" for example while asleep. In reality this is only ever a deliberate, enthusiastically consenting trial of kigurumi.
+**Context**: Much as the term might have implications of ambiguous consent it is generally used in a playful and consensual manner. It'd be near impossible to put someone into a hadatai and mask if they didn't want to be, nor would it be okay to force them into it.
 
 <span class="badge badge--secondary">Uncommon Term</span>
 
 ### **Kigpill** (Kigpilling)
 
 **Definition**:
-Instilling a new found love of kigurumi into someone who previously didn't really know or understand the hobby.
+Introducing someone to Kigurumi Mask cosplay in a way that sparks their interest.
 
 <span class="badge badge--secondary">Uncommon Term</span>
 
 ### **Kigurumi** (着ぐるみ)
 
 **Definition**:
-A full body costume. In the context of this wiki, an anime styled one that includes a mask and a hadatai. Sometimes shortened to Kig or Kigu.
+A full body costume. In the focus of this wiki, an anime styled one that includes a mask and a hadatai. Sometimes shortened to Kig or Kigu.
 
 **Context**:
-Usually refers to the kigurumi performer themselves rather than the costume alone.
+Depending on context, it may refer to the costume, the style, or the performer.
 
 **Related**:
 [What is Kigurumi](./what-is-kigurumi.md)
@@ -171,15 +170,15 @@ One of several words that refers to people who don a kigurumi mask and hadatai.
 ### **Laowai Tax**
 
 **Definition**:
-An informal term, "foreigner tax", essentially the upcharge Chinese makers may apply for those ordering outside of Taobao, requiring English communication, paypal payments, international shipping, etc. Essentially costing more as their own costs are increased compared to domestic orders.
+Informal slang for a higher price for international orders that may reflect translation, payment processing, export handling, customer support, or international shipping.
 
 **Context**:
-Some may 'skip' the laowai tax by ordering with a proxy service and by communicating directly in Chinese. Although that itself is another set of tradeoffs and potential drawbacks.
+A proxy service may expose domestic pricing but adds its own fees, communication limits, shipping steps, and buyer-protection tradeoffs. Do not assume every price difference has the same cause.
 
 ### **Layering**
 
 **Definition**:
-The technique of combining shapewear, padding, hadatai, and other pieces to achieve the desired character appearance. Sometimes multiple "layers" of padding and shapewear at that for more dramatic transformations.
+The technique of combining shapewear, body padding, a Hadatai, and other pieces to create the intended character silhouette.
 
 **Related**:
 [Padding theory](./padding-theory.md)
@@ -189,7 +188,7 @@ The technique of combining shapewear, padding, hadatai, and other pieces to achi
 ### **Neck eater**
 
 **Definition**:
-A term used to describe a kig mask that isn't sufficiently padded inside at the top, leading the mask to cover much of the wearer's neck.
+A mask that sits too low because its size or insufficient interior padding, covering the wearer's neck entirely.
 
 <span class="badge badge--secondary">Uncommon Term</span>
 
@@ -198,7 +197,7 @@ A term used to describe a kig mask that isn't sufficiently padded inside at the 
 ### **Padding**
 
 **Definition**:
-Soft foam, silicone, or other materials used under a hadatai to help create bodily curves, such as hip pads, butt pads, or breast pads.
+Foam, silicone, latex, or other forms worn under a Hadatai to adjust the costume's silhouette.
 
 **Context**:
 Combines with shapewear to achieve the desired character appearance.
@@ -209,7 +208,7 @@ Combines with shapewear to achieve the desired character appearance.
 ### **(Mask) Padding**
 
 **Definition**:
-The padding inside a kigurumi mask to keep it from being too loose and moving around, from being too low on your face, or making you look hunched over.
+Padding inside a Kigurumi Mask that stabilizes the shell and aligns the viewports.
 
 **Context**:
 Used to avoid the mask being a [neck eater](#neck-eater) or giving the appearance of a [gamer posture](#gamer-posture).
@@ -219,7 +218,7 @@ Used to avoid the mask being a [neck eater](#neck-eater) or giving the appearanc
 ### **Shapewear**
 
 **Definition**:
-Clothing worn under a hadatai to help adjust body curves and proportions, such as a waist cincher.
+Supportive or compressive clothing worn under a Hadatai to adjust one's silhouette or smooth out any padding.
 
 **Context**:
 Combines with padding to achieve the desired character appearance.
@@ -232,16 +231,16 @@ Combines with padding to achieve the desired character appearance.
 ### **Zentai**
 
 **Definition**:
-A generic term for a full body suit, similar to a hadatai but often of differing materials, finishes, and features.
+A broad term for a generic full-body suit, oft made of a blend of spandex and nylon. Often a more reflective finish than a hadatai, coming in a wide variety of vivid colors and with less focus on a perfectly form fitting custom design.
 
 **Related**:
 [Hadatai basics](./hadatai-basics.md)
 
 ---
 
-## Internationally confusing terms best avoided
+## Terms that vary by region
 
-Ideally this section would not exist, however, some confusing terms get used that should be addressed as unpleasant as they can be. There are international nuances to these terms which can be considered confusing or problematic in various regions.
+Some labels have different histories or connotations across languages and communities.
 
 - **_Animegao or Animegao Kigurumi_**
 
@@ -249,26 +248,24 @@ Ideally this section would not exist, however, some confusing terms get used tha
 Anime face
 
 **Reasoning**:
-A transliteration artifact invented to differentiate Bishoujo Kigurumi and Kigurumi Masks from the parent term Kigurumi. The term is both confusing to some audiences and carries negative connotation due to some past western makers reveling in it's usage to capitalize on the term for their own gain.
+Literally “anime face.” A term invented by a random wikipedia user that for one reason or another found some limited use. The term in some circles became an overseas label for anime-styled Kigurumi Mask cosplay, although it has largely fallen out of use in more recent years.
 
-[The Japanese wikipedia page](https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%9D%80%E3%81%90%E3%82%8B%E3%81%BF) has long noted that this term is an 'overseas specific term'.
+[The Japanese Wikipedia page](https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%9D%80%E3%81%90%E3%82%8B%E3%81%BF) describes Animegao as an overseas-specific term.
 
-Kig Wiki's Admin wrote a [thesis on Animegao Kigurumi](https://kig.wiki/publications/animegao-history), worth a read on the history of the term and it's elusive origin.
+[A history of the term Animegao Kigurumi](https://kig.wiki/publications/animegao-history) examines its use in more detail.
 
 - **_Kiger_**
 
 **Definition**:
-A shorthand term for a **kig**urumi perform**er** often used in Chinese and sometimes Japanese contexts.
+A shorthand term for a Kigurumi Mask performer, often used in Chinese and sometimes Japanese contexts.
 
 **Reasoning**:
-Some westerners use the term ironically in a racist connotation or as a dog whistle. People are not clueless especially when a second g is added in the term, it is not some "secret" term.
-Use of the term in western English contexts is not recommended. Similarly, do not harass or try to "educate" non-western kigurumi performers who use the term, as it is properly understood in their native contexts.
-
+The spelling can resemble an English-language slur, especially if altered with a second "g". Do not assume harmful intent when someone uses the established term in another language or cultural context, but probably avoid using it in English contexts.
 **Related**:
 See [Coser](#coser)
 
-**In defense of**:
-Non-English origins and contexts, non-english audiences do not have the same connotations around such phrasing as western audiences would. It too is a term to differentiate between those who wear kigurumi masks vs those who wear onesie pajamas.
+**Context**:
+Non-English origins and contexts, non-english audiences do not have the same connotations around such phrasing as western audiences would For better or worse, it's an established term to shorten the term of someone who performers kigurumi.
 
 ---
 

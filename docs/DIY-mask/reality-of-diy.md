@@ -8,49 +8,67 @@ tags:
   - diy
   - mask
 sidebar_position: 1
-description: "The realistic costs, skills, and time a DIY kigurumi mask takes, and the common surprises that catch first-time builders off guard."
+description: "The realistic cost, skills, tools, safety controls, and iteration a DIY Kigurumi Mask requires before a first-time builder starts."
 ---
 
 # Before You Start a DIY Kigurumi Mask
 
-Often times on social media, the realities of making a DIY Kigurumi Mask are not fully portrayed, often only showing the highlights and not the tedious process or constant iterations. Getting started is easy, but finishing a mask that you're happy with is quite honestly, not.
-This page is meant to provide a more realistic view of many difficulties of making a DIY Kigurumi Mask.
+A DIY Kigurumi Mask is an advanced prop project, not usually the simplest or cheapest first route into the hobby. It combines 3d modeling, 3d printing, surface finishing, painting, eye construction, wig making and styling, and more.
 
-**If you are new to 3D printing cosplay props, have never styled a wig, DIY will introduce a number of new challenges and learning curves.**
+It's worth understanding the full job, practising unfamiliar skills, and budgeting for iteration before committing to actually printing a mask and starting the build.
 
-**If you have never seen a Kigurumi mask up close before, there are a number of subtleties to functional design and aesthetic styling that are easy to overlook. Details that aren't so simple to just pick up from references alone.**
+Honestly if you haven't seen a kigurumi mask in person before, there probably are a number of small details that you may not have considered regarding vision, facial detail design, and overall proper fit.
 
-**DIY is not easy**: DIY Kigurumi masks take proficiency in a number of skills including but not limited to:
+## Skills a build can require
 
-- Advanced 3D modeling
-- 3D Printing
-- Sanding
-- Airbrush painting
-- Wig making and wig styling
+Depending on the model and construction method, the work may include:
 
-While some components can be outsourced, such as using a generic premade model, or leveraging a 3D printing service, there is a lot of work that needs to be done in order to get a mask to a point where it is ready to be used.
+- 3D modeling or modifying an existing model
+- measuring your head, eye positioning, and making sure the shell will both fit and be easy for you to see through
+- preparing a large print for a service or operating a suitable printer
+- joining, reinforcing, sanding, filling, priming, and painting a shell
+- designing and fabricating eyes
+- constructing and styling hair larger than a standard human wig in both size and volume of hair required
+- installing padding, latches or other closures
+- testing visibility, ventilation, balance
 
-Regular wigs for instance are not nearly big enough for Kig masks for instance and **will** look uncanny if used, you will often need to piece together the wig yourself. Masks need styling as well, if you aren't used to styling wigs, you will want to learn and use practice wigs before attempting to style a mask's hair.
+You can outsource modeling or printing, but outsourced parts still need to fit together and be finished. If several of these processes are new, practice them on smaller props, and inexpensive wigs first.
 
-**Just because your friend has a 3D printer, doesn't mean it's suitable for your needs**: Kig masks are large, prone to warping, and themselves are a rather challenging prop to print. FDM printers take forever to print them at any reasonable quality, there is good reason why most makers use SLA printers and rather outsource to print farms.
+## Cost and time
 
-You probably also want to be printing in something more heat resistant, but more difficult to print than PLA, such as ABS/ASA.
+DIY can save money but you honestly usually end up paying in time, and revisions. Other costs can include:
 
-**DIY often doesn't save you money or time**: DIY Kigurumi masks are not a quick or cheap endeavor.
+- model or software costs
+- printing, shipping, or failed-print costs
+- filler, primer, paint, clear coat, adhesives, abrasives, and applicators
+- eye mesh or lenses, wig fibre, fasteners, foam, and electronics
+- respirators, filters, ventilation, gloves, and eye protection
+- replacement materials for test pieces and revisions
 
-Iteration is a key part of the DIY process, and often times you will need to iterate on a design or a mask before you get it to a point where you are happy with it. Just because a 3d model might work for one person, does not mean it will work for you.
+Plan for mistakes. The first printed shell, paint mix, eye design, or wig layout may not be the version you keep. Test painting processes before you commit to using them on your mask, and just because a shell is the first thing you print doesn't mean it's the best one you can make, nor necessarily the right fit for you. Revisions are inevitable and should be expected rather than an exception.
 
-**There are subtle nuances to mask making that are often overlooked**:
-Details such as getting the eyes holes aligned properly to see through while also being able to see out of the eyes are often overlooked, and can be a pain to get right. Expressions are often a combination of stylization in both the mask's shape itself and the painting, there are subtle tricks makers use to achieve various expressions.
+## Printing considerations
 
-Do not expect the first mask shell you get printed to be the one that you want to use, its not unusual to have to iterate multiple times before it's suitable.
+Kigurumi Mask shells are large. A printer that handles small models may not have the build volume, temperature control, reliability, or material capability required for a wearable shell.
 
-One of the best things you can do is study other people's masks, although finer details are often difficult to notice from social media photos alone.
+FDM and resin printing can both work, with different equipment, joining, finishing, ventilation, and material requirements. Just because you have a printer accessible to you though, doesn't mean its the right one for the job.
 
-**Safety equipment is often overlooked**:
+PLA can deform in high heat, including a closed vehicle. Resin properties vary widely in structural integrity. ABS and ASA introduce ventilation and temperature-control requirements.
 
-Safety equipment is also sadly often overlooked, do not skip on a respirator when sanding or painting, no kig mask is worth your health. There have been makers who have had major health issues due to not wearing a respirator.
+## Fit, visibility, and hair
 
-#### Resources
+A model that fits someone else may not fit you, even if it physically fits around your head. Particularly the view ports should be considered if they'll work, you can always pad the inside of a shell if needed, but a mask thats too small or cant align properly with your eyes is going to be a pain to use.
 
-- [Open-Source Resources for DIY Kigurumi Masks](./open-source-resources.md)
+Standard wigs are made for human heads and may not provide enough coverage or fibre for a larger shell. Building up wefts, combining wigs, or using hard hair can require substantial planning and practice.
+
+Whenever possible, study finished masks in person and ask experienced builders how functional details are arranged. Social photos may hide the underside, interior, eyeports, closures, and hair attachment.
+
+## Safety
+
+When sanding and painting do so in a well ventilated area, and wear the appropriate protective equipment. Your health and safety should always be a priority.
+
+## Choosing your route
+
+Commissioning is usually the strongest first option if your main goal is to wear a finished character. DIY makes more sense when learning and controlling the build are part of the goal and you can accept the cost of practice and revision.
+
+Ready to investigate a build? Continue to the [open-source Kigurumi Mask models and resources](./open-source-resources.md). If you would rather compare finished work, use the [Kigurumi Mask maker directory](../Buy/makers.md).

@@ -10,47 +10,28 @@ sidebar_position: 1
 description: "New to kigurumi? Start here for the basics: what a kig is made of, realistic costs and wait times, and what to know before your first order."
 ---
 
-# Getting started with Kigurumi
+# Getting Started with Kigurumi
 
-Point blank, kigurumi is not a cheap hobby. It is also not a club you join by buying a mask. If you want the "what even is this," start with [What is Kigurumi](./what-is-kigurumi.md).
+Kigurumi Mask cosplay usually combines a mask, a Hadatai, and optional body padding or shapewear. Start by deciding what character and look you want, then compare makers and budget for the complete costume rather than only the mask.
 
-## Kig 101
+If the hobby is new to you, read [What is Kigurumi?](./what-is-kigurumi.md) first.
 
-- [What is Kigurumi?](./what-is-kigurumi.md)
-- [FAQ](./faq.md)
+## 1. Understand the essential pieces
 
-Looking to learn more about the different components of kigurumi:
+Most complete kigurumi costumes use:
 
-- [Mask basics](./mask-basics.md)
-- [Hadatai basics](./hadatai-basics.md)
-- [Padding theory](./padding-theory.md)
+1. A [Kigurumi Mask](./mask-basics.md), usually commissioned for a character.
+2. A [Hadatai](./hadatai-basics.md), generally made to measure and selected to coordinate with the mask's skin tone.
+3. Optional [body padding or shapewear](./padding-theory.md) to adjust proportions and smooth layers.
+4. The character's outfit, footwear, props, and accessories.
 
-Looking for makers?
+You do not need to buy every piece at once. Researching the full setup first helps avoid incompatible colors, incorrect measurements, and unexpected costs.
 
-- [Maker list](../Buy/makers.md)
-- [Hadatai vendors](../Buy/hadatai.md)
+## 2. Set a realistic budget and timeline
 
-For troubleshooting and other common issues:
+Kigurumi is a made-to-order hobby. A new Kigurumi Mask commonly costs several hundred US dollars and may take months, depending on the maker, character, options, backlog, shipping, and destination fees. Hadatai are also usually made to measure.
 
-- [Kigurumi Troubleshooting](./kigurumi-troubleshooting.md)
-
-Or a glossary of various terms:
-
-- [Glossary](./glossary.md)
-
-## Kigurumi costs and timelines
-
-Many masks are made to order, and as such can take months as a maker works through their backlog. Masks also aren't cheap, expect to pay several hundred dollars. While kigurumi is more accessible than ever before, it is not a hobby easy to get started on a budget.
-
-A mask by itself is not a kig. You will still want a [hadatai](./hadatai-basics.md), usually some [padding and shapewear](./padding-theory.md), and then outfits or cosplay on top. It is hard to even start without spending almost $1000, and that is before clothes.
-
-### How much does a first kigurumi cost?
-
-This is a realistic example of a kigurumi setup that's about as cheap as you can go on a new commission without buying used or sacrificing a lot on quality, ordered from places western buyers can deal with in English, via paypal, without needing to learn about Taobao, shipping agents, and so on.
-
-The mask is about as cheap as that bar gets. Hadatai and padding are the parts you can still source cheaper via Taobao if you want.
-
-Prices are in US dollars, approximate, and liable to change over time.
+The example below shows how a basic new setup can approach US$1,000 before an outfit. It is not a required shopping list or a promise of current pricing. Verify every price, shipping charge, tariff, and seller before ordering.
 
 <div style={{overflowX: "auto", WebkitOverflowScrolling: "touch", marginBottom: "1rem"}}>
 
@@ -72,22 +53,32 @@ A few specifics:
 - **Hadatai.** [NekoToufu](https://x.com/Nekotoufu_Shop/status/2066504093749875060) custom made-to-measure around $120, or [Kig Fever Club](https://kigfeverclub.com/products/%E8%96%B0%E8%A1%A3%E8%8D%89%E7%B4%AB-%E5%85%A8%E5%8C%85%E7%B4%A7%E8%BA%AB%E8%A1%A3-zentai-%E9%87%8F%E8%BA%AB%E5%AE%9A%E5%88%B6) around $130 + shipping. Measure with the padding you will actually wear. More vendors available on the [hadatai list](../Buy/hadatai.md).
 - **Breast forms.** Something like [these Vollence F cup forms](https://www.amazon.com/dp/B078N4F83Q?th=1&psc=1) is around $60. F is not as huge as it sounds, cup size is proportional to chest size, not a universal volume. [Padding theory](./padding-theory.md) has more information on this and the below padding.
 - **Hip pads.** Cheap foam pads off [AliExpress](https://www.aliexpress.com/item/1005005953328604.html) are around $15 a pair, similar options available also on Amazon. Layer two if you need more curve. Protip: pantyhose can be worn over hip pads but under hadatai for a smoother look.
-- **Waist cincher.** A [Maidenform Flexees](https://www.amazon.com/Maidenform-Flexees-Womens-Shapewear-Control/dp/B01BDQE5M8?th=1&psc=1) type cincher is around $18. Helps the hourglass look, less extreme than a corset, cheaper too. Other options on [padding and shapewear sellers](../Buy/buy-padding-shapewear.md).
 
-Then you still will likely need outfits or cosplay.
+Used equipment, simpler character designs, and regional buying options can lower the total, but low price does not automatically mean good value. Compare finished work, _customer_ photos, materials, fit, included features, and seller reliability instead of treating either price or maker popularity as proof of quality.
 
-Wait times are mostly the mask, a few months is normal. Hadatai are made to measure as well, do not expect them in a week. The Amazon/AliExpress bits are the only parts of this example that arrive quickly.
+## 3. Research makers before ordering
 
-### A note about budget
+Browse the [Kigurumi Mask maker directory](../Buy/makers.md), then follow the [ordering guide](../Buy/commissioning-guide.md). Compare several recent examples from each maker and look for customer photos, not only studio portfolio images. Many makers will also often retweet/reshare posts of their customers wearing their masks if you're not too sure where to look.
 
-The cheapest mask makers usually cost cut corners, such as AI to replace human artists, and generally do a quick and dirty job of details such as paint, hair styling and so on. While higher cost does not mean better, this is not a hobby where "cheapening out" results in a quality experience.
+Before paying, confirm:
 
-Being real no one wants to be the kig that looks uncanny or like they went to Spirit Halloween. While some may perceive this as elitist, many kigs avoid interacting with people who rush to simply have the bare minimum. Similarly to non-masked cosplay, many feel awkward when they have put in the effort to look their best and someone comes along treating it akin to just a joke or low effort gimmick.
+- whether the maker's style suits your character
+- the measurements and references they require
+- what features are included
+- the full price, shipping, and possible import costs
+- the expected start date and production window
+- revision terms and progress update expectations during production
 
-Do not buy a kigurumi mask assuming it is buying you friends, it is not. More on how communities actually work on [Kigurumi Communities](/Community & Events/Community.md).
+If you're looking at a store or maker not listed on our maker directory, consider checking our [Kigurumi Mask seller red flags](../Buy/seller-red-flags.md) to stay safe, especially if a storefront claims to stock many premade masks.
 
-### DIY is not for everyone
+## 4. Choose a Hadatai and padding
 
-tl;dr: DIY is not for everyone, it is a lot of work, requires a lot of time and proficiency in several skills in order to get half decent results. Most who DIY are less about saving money and more about getting every last detail exactly how they want.
+Use the [Hadatai maker directory](../Buy/hadatai.md) after reading [Hadatai basics](./hadatai-basics.md). Follow the seller's measurement guide and measure while wearing the padding and shapewear you expect to use.
 
-The [cautionary DIY page](../DIY-mask/reality-of-diy.md) has more information on the reality of DIY kigurumi masks.
+Body padding is optional but highly recommended and should support your character and comfort. The mask is bigger than a normal head, and anime characters often have exaggerated features, so we usually want to contour the body some to make it look the part. See [padding theory](./padding-theory.md) and the [padding and shapewear seller guide](../Buy/buy-padding-shapewear.md).
+
+## 5. Plan for care and wearing
+
+Before the first outing, learn how to [clean, pad, and store a Kigurumi Mask](../Care/mask-care.md), [wash a Hadatai](../Care/washing-your-hadatai.md), and work with a [handler](./handlers-guide.md) when visibility, crowds, or unfamiliar spaces make one useful.
+
+For more answers, see the [Kigurumi FAQ](./faq.md), [community guide](../Community/Community.md), [glossary](./glossary.md), and [troubleshooting guide](./kigurumi-troubleshooting.md).

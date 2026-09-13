@@ -10,68 +10,48 @@ sidebar_position: 7
 description: "What a kigurumi handler does and how to be a good one: first-time handler tips, safety, communication, and a practical checklist."
 ---
 
-# Kigurumi and Handlers
+# Kigurumi Handler Guide
 
-## Kigurumi Handler? Why?
+A handler is a trusted person who helps a Kigurumi Mask performer navigate and communicate while in character. A handler is useful in crowds or unfamiliar places, but is not required for every performer or setting. It's akin to how you'd usually see a mascot with someone helping them navigate and communicate while in character.
 
-Simply put a handler is a term for a friend helping you out when you kig in public. Much as the term might sound formal or like some bodyguard its really a lot more casual than that.
+## What a handler does
 
-If you think of the mascot analogy a handler is there to help you get around safely, and typically to speak on your behalf.
+A Kigurumi Mask can reduce peripheral vision, and kigs usually tend to remain quiet while in character. Depending on what the performer asks for, a handler can:
 
-Even if a kigurumi doesn't have any vision limitations, unfamiliar places or busy areas can be sometimes a bit tricky to navigate. While there are ways of communicating in kig without speaking, sometimes it helps a lot to have someone else speak for you.
+- Point out steps, curbs, obstacles, and approaching people
+- Speak or exchange social details on the performer's behalf
+- Check hair, accessories, Hadatai coverage, and costume alignment
+- Take photos or coordinate with a photographer
+- Carry water, a phone, room key, or repair supplies
+- Track time, heat, and planned breaks
+- Help the performer reach a private place to cool down or unmask
 
-A handler can also be invaluable for other reasons such as:
+Handling is a shared activity between friends or collaborators, not automatic authority over the performer. It isn't a job either, it should be something you're doing because you want to help a friend.
 
-- Spot checks to make sure you're looking your best.
-- Taking photos or videos.
-- Holding onto personal items like a phone or wallet.
-- Helping people connect over social media.
-- Keeping track of time, group chats, or other logistics.
+## Before the mask goes on
 
-### Why Handle for Kigurumi?
+If you have never handled before or never had someone handle for you, consider to discuss:
 
-First and foremost, love of the game and wanting to help out. Its not uncommon for a handler to be kigurumi themselves and handling for other kigs can be a reciprocal activity, a fun thing to do while taking a break from being in kig themselves. Even for handlers who aren't kigurumi themselves, handling for other kigs can be a fun way to participate in the hobby, helping out a friend, or just hanging together as part of a group.
+- Kig name, pronouns, and any public social accounts if relevant. Should they be referred to by the character's name?
+- If there are any concern areas when it comes to vision
+- Whether the kig wants the handler to speak for them
+- If there are any costume parts the handler should know about or keep an eye out for, ie making sure a bow remains well attached because it sometimes goes lopsided
+- Boundaries for touch, photos, and interactions with the public
+- Any specific plans for the outing, ie where to go, what to do, or just wandering around a convention
+- What to do if the pair becomes separated
 
-The giant anime doll next to you is always a conversation starter, and making sure they're represented well is a tide that raises all boats rhetorically speaking. Sometimes the only way people really learn about kigurumi is by talking to a handler.
+As a performer its usually smoothest to describe what is ahead if something might catch the kig off guard, and let them move under their own control. Holding hands together also can be a good way of staying together if both parties are comfortable with it.
 
-Handling for Kigurumi is not some obligation or job, it should not be done expecting anything in return but also it should not ever feel like some chore or job. Ideally it should be a fun time for both the handler and the kigurumi performer.
+## Clothing and presentation
 
-## Kigurumi Handler Checklist
+Handler clothing can complement a character or photoshoot, completely optional, but can raise the profile of the kig and handler pair. An example could be an idol type character with their handler wearing a suitable "producer" or "manager" outfit.
 
-So you want someone to handle for you, or are handling for someone for the first time? We've got some food for thought best discussed before you're out and about.
+Or similarly cosplaying a character from the same series as the kig can be another great way of having a great con time together, rather than just being some bub with their kig friend.
 
-- [x] How does the performer want to be referred to?
-  - [ ] Its fairly common for a kig to go by the name of their character, its always good to ask if you aren't sure.
-  - [ ] Sometimes kigs will have a preferred "stage name" or nickname they prefer to be called or that some might know them by.
-- [x] Any vision concerns or needs to be aware of?
-  - [ ] An example could be limited downward vision, and to warn them of any unexpected obstacles they might encounter.
-- [x] Are there any character specific points that should be mindful of?
-  - [ ] Does any accessory like to misbehave and sometimes end up at odd angles from time to time?
-  - [ ] Or perhaps a part of the hair sometimes gets out of place?
-- [x] If someone asks for social media connections, is there anything they'd like you to share on their behalf?
-- [x] How "active" should the handler be?
-  - [ ] Some kigs may prefer a more hands off approach, some enjoy being buddy-buddy, side by side with their handler.
+This is more of a rarity than the norm, and is mostly just mentioned as food for thought rather than any sort of requirement. Most important should really be that both parties are comfortable and having a good time together.
 
-Some of these may be obvious to some, but its always good to be mindful of these things.
-
-- [x] If photos/videos are being done, is the kigurumi performer looking properly at the camera?
-  - [ ] Sometimes a kig might not be used to the spot their mask itself looks at versus where they are looking.
-  - [ ] If something looks odd or off but you cant quite put your finger on why, ask the kigurumi performer if they're aware of it.
-- [x] Check in with the performer from time to time to make sure they're doing alright.
-  - [ ] Have they been in for a while? A time update can be a good mindful check in.
-
-### Looking the Part - Elevated Handling
-
-While not strict checklist items, an amazing handler doesn't just act the part, they look the part.
-
-If its at a con, dressing in a way with synergy to the kigurumi can be a great way to blend in and not stand out.
-Maybe it's wearing clothes that align with the kigurumi's vibe. If the character is from a particular series maybe its wearing clothes or cosplay of that series.
-If a character is an idol maybe its wearing a sharp "producer" or "manager" outfit.
-
-Not at a con? If you're doing a photoshoot somewhere in a more public space looking like a photographer or videographer can really make the difference to perception versus looking like some random bub. Dress for success.
-
-This isn't always possible or reasonable, but for those that can its just another way to elevate the experience for everyone.
-
-#### Additional Resources
+## Related guides
 
 - [Glossary of Kigurumi Terms](./glossary.md)
+- [Kigurumi community etiquette](../Community/Community.md)
+- [Traveling with a Kigurumi Mask](../Care/traveling.md)

@@ -8,120 +8,109 @@ tags:
   - intro
   - mask
 sidebar_position: 3
-description: "What kigurumi masks are, the common types and features, and what to consider for fit, comfort, and visibility before buying your first mask."
+description: "What Kigurumi Masks are, the different types of kig masks, and what to consider for fit, features, comfort, and visibility."
 ---
+
+import SocialEmbed from "@site/src/components/SocialEmbed";
 
 # Kigurumi Mask Basics
 
-A kigurumi mask is a head covering, anime-styled mask. While not the only component of kigurumi cosplay, it's the most visible and recognizable part of the costume.
+A Kigurumi Mask is an anime-styled character mask worn over the head. Most new masks these days are custom designed in 3D, based off reference photos, crafted to your measurements and preferences.
 
-Kigurumi is a mix between traditional cosplay, and more mascot-esque styles. Generally kigurumi offers a unique way to bring a character to life. Typically the masks are commissioned from a maker, custom made to the references provided to be as accurate to the character as possible.
+A mask is one part of the costume. Read [Hadatai basics](./hadatai-basics.md) and [body padding theory](./padding-theory.md) for the other common layers, or [What is Kigurumi?](./what-is-kigurumi.md) for an overview.
 
-As mentioned, the mask is only one part of the full costume. See [Hadatai Basics](./hadatai-basics.md) and [Padding Theory](./padding-theory.md) for the rest of the components, or [What is Kigurumi?](./what-is-kigurumi.md) if you still want the overview.
+## Where to get a Kigurumi Mask
 
-## Where to get a Kigurumi Mask?
+Most masks are commissioned directly from a maker, rather than premade and available from a storefront. We have a list of [Kigurumi Mask makers](../Buy/makers.md) as well as [how to order a mask](../Buy/commissioning-guide.md).
 
-If you're just looking for a list of makers, check out our [buying kigurumi masks](../Buy/makers.md) page. For the actual commission process see the [commissioning guide](../Buy/commissioning-guide.md), and [sizing](../Buy/sizing-options.md) for fit.
-
-Generally masks are commissioned rather than a product generally available for immediate purchase. Customized for size, style, and to meet your specific character. Kig masks are not quite some off the shelf mass produced good, and as such sometimes you'll have to wait a while for your given mask to be made.
-
-:::warning
-Many top Google results for kigurumi stores are unfortunately resellers, scalpers or outright scammers. Most masks are made to order, not some storefront with countless premade masks advertised. Check out our [seller red flags](../Buy/seller-red-flags.md) page to learn more about how to avoid these sellers.
-:::
+Due to the commission nature of masks, they aren't something exactly bought off the shelf. While makers will sometimes have a mask or two available for immediate purchase, thats rare rather than the norm.
+Unfortunately some scammers have tried to capitalize on this, with listings on Etsy, Aliexpress, Ebay and other marketplaces. [Kigurumi Mask seller red flags](../Buy/seller-red-flags.md) touches on this.
+A [used Kigurumi Mask](../Buy/buying-used.md) can be a legitimate ready-to-ship option when the seller, fit, and condition can be verified, however most quality used masks are sold on the Chinese domestic market on sites like Goofish rather than on more accessible international marketplaces.
 
 ## Kigurumi Mask Materials
 
+Most new Kigurumi Masks are either 3D printed or FRP, with the vast majority of makers having since moved on to 3D designed and printed masks.
+
 ### 3D Printed Kigurumi Masks
 
-The most common material for Kigurumi masks these days by a large margin, these aren't printed on your typical home 3d printer but often printed in professional large scale resin print farms.
-
-Owing to their higher level of customization in both design and size, there's good reason why when you look at popular kig events like [Doll Weekend](https://x.com/doll_weekend/status/2091150230330994821/photo/1) that by large it's 3D printed masks as far as the eye can see.
-
-Size is not the only level of customization, as face shape and other features can be modelled into the mask's design rather than added on top of a molded generic mask.
-
-These masks are often "full masks" where the entire head is covered by the mask, although some makers like Haagaau do offer 3/4 options, different styles and features are available from many makers.
-
-Older kigurumi in particular sometimes fret about durability concerns, however materials have come a long way since the early days that some were used to.
-
-It is further worth noting these days there are dozens of 3D printed masks made for every non-3D printed mask, by sheer prevalence of being the most common type they are the most likely type to hear from people's experiences with, both good and bad.
+3D-printed shells are the default largely as the face, expression, and size can be modeled for the commission instead of adapted from a shared mold. Professional makers generally use large-format resin printing, not the kind of consumer PLA printer you would find at a library or in a hobby setup.
 
 ### FRP Kigurumi Masks
 
-Previously more commonplace, these masks are molded out of fiberglass reinforced plastic (FRP), with makers usually offering masks from a few base molds they'll customize the mouths on. Due to the nature of the material being costly to produce molds of, and being toxic to produce, most makers have switched to 3D printed masks.
+Fiberglass-reinforced plastic (FRP) shells are made from molds. They were more common before printing took over, and a few makers still offer them. Because a new mold is expensive, most FRP catalogs are based off of a few shared molds, then customized with hair, eyes, makeup, mouth details, and accessories. A fully custom mold is usually possible, but it costs more and takes longer.
 
-Due to the costs involved most FRP makers focus on "generic" or "semi-custom" masks rather than bespoke custom masks, although most still will offer custom options for a higher price and lengthy production timeline.
+### Durability
 
-It's worth noting most FRP masks are basically always 3/4 style where the back shell isn't fully solid and often have a wig itself or some level of padding at the back under the wig.
+Regardless of shell type, the paint and finishes are rather similar. Accidents that would chip the finish on one will still damage the finish on the other. FRP may be slightly more durable in the worst-case freak accident. Printed masks are often more modular, so replacing a faceplate or back shell is usually cheaper than getting an FRP mask refinished.
+
+Early printed masks were often PLA on consumer printers, which is where a lot of the "printed masks are weak" reputation comes from. Tech and materials have moved on to more advanced materials and printers beyond the hobbyist level. For every new FRP mask, dozens of 3D-printed ones are made, which is why printed masks are the ones you are most likely to hear stories about, both good and bad. There is good reason however that at large events like Doll Weekend, it is 3D-printed masks as far as the eye can see.
+
+<SocialEmbed post="https://x.com/doll_weekend/status/2091150230330994821/photo/1" />
 
 ### Vinyl Kigurumi Masks
 
-Avoid at all costs, these are generally low quality and poorly made with awkward fit to form. Allegations of allergenic materials in use or off-gassing are reported.
-We do not list any makers of these types of masks, they're usually more of the "halloween gag" type rather than anything aesthetic or meant to be worn for any extended period of time.
+Soft vinyl masks show up mostly in costume shops and marketplace listings. We mention them here for completeness, but they're not exactly a common sight by any measure. If you see that as a material type, it's best avoided. Anecdotes about material smell or skin irritation do pop up from time to time, but being such a rare oddity its difficult to say if its a legitimate issue or not.
 
-## Full face vs 3/4 Kigurumi Masks
+## Full-shell vs partial-back masks
 
-Kigurumi masks usually come as either 'full' face masks that cover the entire head, or mostly-covering 3/4 or 1/2 masks. The partial masks have hair covering the back of the head sometimes with an amount of padding behind the wig. "Full" masks are more like a helmet in that the mask itself fully covers the head rather than relying on the wig as part of the main physical structure.
+Full-shell masks surround the head like a helmet. Partial-back designs use the wig and possibly padding to cover and support part of the rear opening. A soft back if you will.
 
-Neither is inherently better, and even how involved their construction is can vary greatly between makers.
+FRP masks are almost always partial-back, usually in "3/4" or "1/2" designs. 3D printed masks are more likely to be full-shell, but some are partial-back 3/4 as well. Haagaau is an example of a 3D printed maker that offers both.
 
-Sometimes as well the full style masks can have a lockable or latching mechanism to secure the mask to the head.
-Zipper back styles also exist where the back of the wig opens up with a zipper to allow for easier wearing and removal. With some makers having various methods of hiding or stylizing the zipper.
+Neither construction is automatically better, its a matter of personal preference and the design of the mask. Full masks can be easier to pad to perfection, but partial-back masks can be more portable, although hair design is the biggest limiting factor.
+How easy or difficult it is to wear the mask varies by design, some full masks just lift the front, some have a replaceable wig that must come off first. Makers sometimes will offer both options, depending on the design and the needs of the wearer.
 
-## Custom vs generic Kigurumi Masks
+Full shells may use internal latches, magnets, clasps, or locks, although the presence of a locking latch doesn't mean you actually need to lock it.
 
-Apart from mask style, there are a two main categories of masks, with 3d printed custom masks being the most common and flexible these days.
+## Custom, semi-custom, and generic masks
 
-### Custom
+- **Custom:** The face and other major elements are designed for the character and commission. This offers the most control but can require more time and cost.
+- **Semi-custom:** A maker adapts an existing base with selected face, eye, hair, paint, or accessory options. Mouth too usually can have some customization, in the case of FRP this is usually modified on top of the existing shell rather than modelled directly into the mask.
+- **Generic:** A standard character or face design is sold with even more limited changes. Availability may be faster, but size and shape options are fixed.
 
-As the name describes these masks are custom modeled, sized, and styled to the commissioner's specifications. Facial features and other details are modeled into the mask's design rather than added on top of a molded shell like with generic based masks. Most 3D printed masks fall into this category due to the flexibility of 3D printing.
-
-### Generics and Semi-custom
-
-More an era of FRP masks before 3d printing became the norm, these are based off common molds with limited customization options. Usually customization is limited to smaller details like styling of hair, eye pupil design, and makeup. The size and shape of the mask are fixed, , resulting in generics of the same model looking like sisters. A more common use for these types are for OC type characters.
-
-[Sigma](https://www.buildupstudiosigma.com/product/ena/) is a good example of a maker with various generics available. Due to the pre-made nature of the shell, they can have shorter production times, although they are not necessarily cheaper than custom masks.
-
-Semi-custom masks also exist but are largely the same idea, customizing generic shells. Usually there are more options to customization than with generics, such as sculpting a new mouth, more hair options and other details.
+What is a "generic" and what is a "semi-custom" largely depends on a maker's own definition, but both are essentially a similar concept.
 
 ## Kigurumi Mask Features
 
-Various makers will have different features and options available. An example of some features makers may offer are:
+Options vary by maker and may include:
 
 - Interchangeable faceplates
 - Removable wigs
-- 3D printed hard hair
-- Eye options such as "follow-me" eyes or LED lit eyes
-- Magnetic accessories such as hats, horns, cat ears, etc
+- 3D-printed hard hair
+- Eyes in "mesh based" designs, "lens based", "follow-me" optical illusions, or rarely sometimes even LED lit eyes
+- Fans or other ventilation, although how effective they are is debatable. Padding is a greater factor in comfort.
+- Magnetic accessories such as animal ears, horns, hats or other headgear
 - Glasses
 - Piercings
 
 ## Kigurumi Mask Visibility
 
-Kigurumi mask visibility varies greatly between makers. All masks will have some level of visibility, however, some makers will have more options than others.
+Visibility varies by design. Common viewports include the brow crease, and usually some combination of mesh in the eye whites, mesh pupils, or discrete openings around the eyes. Peripheral vision is the more limited aspect of visibility.
 
-Commonly you can see through a brow crease above the eyes, and some level of visibility through the eyes themselves.
+### Prescription glasses and contacts
 
-Sometimes the eyes will have white mesh around the pupil, some makers will have the blacks of the eyes be mesh, sometimes your only downward vision is through slits above the eyes.
+Smaller masks and partials might not have enough interior clearance for glasses. Full shell masks _may_ have enough clearance depending on the design and type of character portrayed. Typically larger masks lean towards characters with proportionally smaller bodies, which might not be a direction you're aiming for.
 
-### Prescription Glasses and Contacts
+Contacts if possible are highly worth considering. Alternatively, Serval Industries has recently started offering low profile glasses designed to comfortably fit under a mask and avoid any pressure points.
 
-Many masks cannot fit glasses underneath, if contacts are an option, this is a good way to go. If you need to wear glasses, check with the maker if this is a concern about having enough space rather than assume it will.
+<SocialEmbed post="https://x.com/servalindustry/status/2093965880644510088/photo/1" />
+
+It might be possible to set up a pair of old glasses to fit similarly as well for those more DIY inclined. Swimming glasses may also be similarly low profile and able to fit under a mask and over a hadatai.
 
 ## Kigurumi Mask Padding
 
-Masks come with generic padding that is a best effort from the maker, often however you will want to customize the padding to best fit your head. Many makers will include extra padding for this purpose.
-
-[Mask Padding](../Care/mask-padding.md) has more information on how to pad your mask.
+Many masks need small interior-padding adjustments after arrival. Padding should keep the mask comfortable, viewports aligned, and keep it oriented correctly over a long period of time. See [Kigurumi Mask care and padding](../Care/mask-care.md) for more details.
 
 ## DIY Kigurumi Masks
 
-DIY Kigurumi masks are do-able, however there is a laundry list of reasons why you may want to commission a mask from a maker instead, especially if you're new to kigurumi masks or DIY prop making. The [cautionary DIY page](../DIY-mask/reality-of-diy.md) has more information on the reality of DIY kigurumi masks.
-Generally if you've never styled a wig or painted a 3d printed prop before, its **highly** recommended to try simpler DIY projects first before undertaking a kigurumi mask. This is an advanced level project to get results you'll be happy with, DIY takes a lot of time and resources to get decent results.
+A DIY Kigurumi Mask is possible, but it combines several advanced prop-making skills and may require multiple shells or finishing attempts. Review [what to expect from a DIY build](../DIY-mask/reality-of-diy.md) and the [open-source Kigurumi Mask resources](../DIY-mask/open-source-resources.md) before choosing a route.
+
+If you haven't ever never made a 3D printed cosplay prop before, it's highly recommended to start with a simpler project first to get a feel for the process. A mask is an advanced process.
+Similarly if you've never seen a mask in person before, it's highly recommended if you can by some means. There's a number of nuanced tricks to making vision right, and towards designing various components in a way that looks right. For example, smile expressions tend to be a mix of sculpt and faux painted depth, getting the 2.5D brought to life look isn't as simple as it may seem.
 
 ## Furkigs
 
-Not quite a fursuit, not quite an anime style kigurumi mask, but something in-between. Furkigs are a more recent genre of masks that are becoming more popular. While the wiki does not currently have a page for furkigs, there are a number of makers who offer them.
+Furkigs combine features associated with Kigurumi Masks and kemono furry character designs, a sort of hybrid between Kigurumi and Fursuiting.
+We mention them for completeness but do not currently cover them in depth for our guides.
 
-It is worth mentioning a lot of furkig makers use one of a few rather generic shells for the masks, leading to many more budget offerings looking similar. Custom furkig makers often pride themselves on the quality of their masks and the attention to detail in comparison and will often be far more expensive.
-
-Please consider contributing to the wiki if you have wisdom to share on furkigs.
+Most use generic mass produced bases, although some are custom modeled. That said they are more DIY friendly owing to the mass produced shells, and using stretch fur fabric as their finish instead of a perfectly smoothed, well painted hard shell.

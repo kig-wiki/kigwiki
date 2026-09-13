@@ -7,7 +7,7 @@ canonical_url: https://kig.wiki/reference/faq
 tags:
   - introduction
 sidebar_position: 9
-description: "Frequently asked kigurumi questions answered: mask and hadatai basics, costs, where to buy, comfort, care, and what newcomers should expect."
+description: "Frequently asked Kigurumi Mask questions answered: Hadatai basics, costs, buying, comfort, care, DIY, community, and what newcomers should expect."
 ---
 
 import FAQStructuredData from "@site/src/theme/MDXComponents/FAQStructuredData";
@@ -16,60 +16,55 @@ import FAQStructuredData from "@site/src/theme/MDXComponents/FAQStructuredData";
 export const faqs = [
 {
 question: "How do I get started with Kigurumi?",
-answer: `Getting started typically involves connecting with the community first. Many kigurumi enthusiasts start by:
-
-- Following performers on social media
-- Joining Discord communities
-- Attending conventions
-
-The typical components people get started with kigurumi are:
-
-1. A kigurumi mask
-2. A hadatai (skin-toned bodysuit)
-3. Shapewear and/or padding
-   `  },
+answer: "Learn how the Kigurumi Mask, Hadatai, costume, and optional padding work together before buying. Choose a character and budget, compare several makers, review customer photos, and confirm measurements, price, timing, and seller policies. The Getting Started guide links each step."
+},
 {
-  question: "Where can I find Kigurumi events?",
-  answer:`Kigurumi performers often participate in:
-
-- Anime conventions
-- Specialized photoshoots
-- Community meetups
-
-Following active kigurumi performers in your region on social media is the best way to learn about upcoming events and gatherings.
-
-Note: Many photoshoots, events, and meetups are not publicly advertised and are often just a few friends getting together to take photos and hang out.`  },
-  {
-    question: "Can Kigurumi talk?",
-    answer: "Kigurumi masks aren't really made to be talked through, and owing to the mascot-like nature of kigurumi most kigs don't talk to stay in character.\n\nThere are some kigs that do, some might only speak when needed, few kigs deal in absolutes. Some romanticize not talking at all, safety is always most important."
-  },
-  {
-    question: "Can Kigurumi Eat?",
-    answer: "Not usually. Remember to stay hydrated and take breaks as needed."
-  },
-  {
-    question: "What exactly is Animegao?",
-    answer: "Animegao is an old translation artifact dating back to early web translations of the term Kigurumi. Specifically, anime-style masks were confused to be a unique term for Kigurumi masks themselves. This is not the case; however, in the west it has become its own sub-genre of Kigurumi, embracing stylizations unique to western mask makers."
-  },
-  {
-    question: "What's the appeal of kigurumi?",
-    answer:`There are many reasons why people enjoy kigurumi, some of which are:
-
-- Achieving a "2d brought to life" look beyond what cosplay can achieve
-  - Being a character they feel simply isn't reasonable for them to cosplay as
-- Cosplaying a character without it being tied to their physical looks
-  - The anonymous nature of kigurumi, such as an artist, vtuber, etc not wanting to out themselves while cosplaying
-- The opportunity to express oneself creatively through the character in a non-verbal way
-- Physical comfort of being all-enclosed in the mask and bodysuit`},
+question: "What do I need for a Kigurumi costume?",
+answer: "The characteristic pieces are an anime-styled Kigurumi Mask and a Hadatai. Many performers also use body padding or shapewear to adjust proportions, followed by the character's outfit, footwear, and props. The exact layers depend on the character, comfort, and setting."
+},
 {
-  question: "Is kigurumi a fetish?",
-  answer:`No but yes but no.
-
-Many kigs are people who enjoy the hobby for the sake of being the character or the mascot aspect, many do not engage in NSFW.
-
-However, there are many kigs who are NSFW/fetishists, and it can be difficult to go through kigurumi posts without seeing many such posts on social media. It's akin to how many cosplayers on social media exist who are NSFW, however cosplay itself is not a NSFW activity.
-
-The anonymous nature of kigurumi does however allow for them to engage in creating NSFW content without being recognized, without feeling like they're being judged.`
+question: "How much does Kigurumi cost?",
+answer: "Realistically don't expect to pay less than $1000 for a new kigurumi mask and hadatai. Used kigurumi masks can be found cheaper but entry to the hobby is still rather expensive compared to cosplay."
+},
+{
+question: "How long does a Kigurumi Mask take to make?",
+answer: "Many commissions take a few months. Ask separately when work is expected to start and how long production should take after it starts. Character complexity, maker backlog, revisions, shipping, and delays all affect the date."
+},
+{
+question: "Where can I buy a Kigurumi Mask?",
+answer: "Most quality Kigurumi Masks are commissioned directly from a maker rather than selected from a large stock catalog. We have a list of makers [here](../Buy/makers.md) that you can check out."
+},
+{
+question: "Can I make my own Kigurumi Mask?",
+answer: "Yes, but it is an advanced multidisciplinary prop project. It can require 3D modeling, large-format printing, sanding, painting, eye construction, wig building, fitting, and often multiple iterations on a build. First-time builders should understand those costs and hazards before starting."
+},
+{
+question: "Can Kigurumi talk?",
+answer: "Technically yes, but most avoid doing so as to not \"ruin the magic\" unless absolutely necessary."
+},
+{
+question: "Can you eat or drink in a Kigurumi Mask?",
+answer: "Usually not without removing or opening the mask. Plan regular breaks in a private or suitable area so you can cool down, drink, and eat. Do not delay hydration to remain in character."
+},
+{
+question: "What does Animegao mean?",
+answer: "Animegao literally means “anime face”, a term invented by a random wikipedia user that for one reason or another found some limited use. The term in some circles became an overseas label for anime-styled Kigurumi Mask cosplay, although it has largely fallen out of use in more recent years."
+},
+{
+question: "What's the appeal of kigurumi?",
+answer: "People enjoy Kigurumi for many reasons: bringing a stylized character to life, performing nonverbally, building costumes and props, playing with presentation, separating cosplay from their uncovered appearance, or simply enjoying the enclosed costume experience. No single motivation describes every performer."
+},
+{
+question: "Is kigurumi a fetish?",
+answer: "Kigurumi Mask cosplay is not inherently sexual. Many people participate for cosplay, performance, craft, or creative expression. Some adults do however incorporate it into kink or adult content, similar as what happens in other related scenes like cosplay, furry, etc."
+},
+{
+question: "How do I clean and store a Kigurumi Mask?",
+answer: "Use the least aggressive cleaning method and check the maker's instructions, a more detailed guide can be found [in our care guide](../Care/mask-care.md)."
+},
+{
+question: "Where can I meet other Kigurumi performers?",
+answer: "Conventions, public social accounts, and introductions through mutual friends are common starting points. Many meetups and photoshoots are private rather than publicly advertised. Introduce yourself respectfully, do not treat a mask purchase as access to a group, and accept that people may not share invitations or personal details."
 }
 ];
 
@@ -77,6 +72,11 @@ The anonymous nature of kigurumi does however allow for them to engage in creati
 
 <FAQStructuredData faqs={faqs} />
 
-#### Additional Resources
+## Related guides
 
-- [What is Kigurumi?](./what-is-kigurumi.md)
+- [Getting Started with Kigurumi](./get-started.md)
+- [How to order a Kigurumi Mask](../Buy/commissioning-guide.md)
+- [Buying a used Kigurumi Mask](../Buy/buying-used.md)
+- [Kigurumi Mask care](../Care/mask-care.md)
+- [DIY Kigurumi Mask resources](../DIY-mask/open-source-resources.md)
+- [Kigurumi community guide](../Community/Community.md)

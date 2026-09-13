@@ -1,39 +1,40 @@
 ---
 id: shopping-taobao-guide
-title: "How to Buy Kigurumi from Taobao (Agent Guide)"
+title: "How to Buy Kigurumi Items from Taobao with an Agent"
 sidebar_label: "Taobao Guide"
 slug: /buy/marketplaces/taobao-guide
 canonical_url: https://kig.wiki/buy/marketplaces/taobao-guide
 tags:
   - buying
   - secondhand
-description: "How to order kigurumi masks and hadatai through Taobao: using proxy agents, the typical workflow, and problems overseas buyers run into."
+description: "An overview of buying Kigurumi Masks, Hadatai, and supplies from Taobao through a proxy agent."
 ---
 
 # Taobao Guide for Buying Kigurumi Masks and Hadatai
 
-Many makers of masks, hadatai, cosplay and outfits are located on Taobao, a Chinese eCommerce platform. Learning to buy off taobao may seem a bit daunting, but greatly expands the options you have while also being able to buy cheaper than through some reseller.
+Taobao is a Chinese marketplace used by many types of sellers, including some Kigurumi Mask and Hadatai makers, costume sellers, and materials suppliers. International buyers may need a proxy agent that purchases domestically, receives the item at a warehouse, and forwards it overseas.
 
-## Proxy Services/Taobao Agents
+Some markets are able to register directly in the Taobao app and use Taobao's own shipping and warehouse service for international shipping. Not all storefronts support this, and generally it would not be recommended for more fragile or complex items like a Kigurumi Mask itself. A hadatai however can be a good candidate for this.
 
-Most often you will have to use a proxy service to buy from Taobao. Proxy services are a service that will forward your order to Taobao and then ship it to you. While there is an added cost, its typically far cheaper than buying from resellers such as on Aliexpress or other similar platforms.
+This page is a starting point not currently a complete walkthrough.
 
-### Agents
+## How a Taobao agent works
 
-Some commonly used agents are:
+1. Submit the Taobao item link, options, quantity, and any message for the seller. Need a measurement form? Ask the seller for it.
+2. Pay the item price, domestic Chinese shipping, and the agent's purchasing fees.
+3. The seller sends the order to the agent's warehouse.
+4. The proxy will typically send you photos upon arrival and if there are any obvious issues, raise them to you.
+5. Choose international packing, shipping, insurance, and customs declaration options. Most have a tool to help you choose what makes sense based off priority, weight, value and other factors.
+6. Pay the international shipping charge and any remaining fees.
+7. Wait for the item to arrive.
 
-- [Superbuy](https://www.superbuy.com/)
-- [Sugargoo](https://sugargoo.com/)
+## Choosing and using an agent
 
-:::note
+Examples that have offered Taobao purchasing include [Superbuy](https://www.superbuy.com/) and [Sugargoo](https://sugargoo.com/). Their inclusion is not an endorsement just an example, there are numerous taobao proxy services around but none too specific to kigurumi.
 
-This section is under development. Future content plans to include:
+## Related guides
 
-- A whole lot more about Taobao and the proxy ordering process
-
-  :::
-
-#### Additional Resources
-
-- [Kigurumi Mask Maker List](./makers.md)
-- [Kigurumi Mask Commissioning Guide](./commissioning-guide.md)
+- [Kigurumi Mask maker directory](./makers.md)
+- [How to order a Kigurumi Mask](./commissioning-guide.md)
+- [Hadatai maker directory](./hadatai.md)
+- [Buying a used Kigurumi Mask](./buying-used.md)

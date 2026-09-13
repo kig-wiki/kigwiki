@@ -3,21 +3,20 @@ id: traveling-with-kig-overview
 title: "Traveling With a Kigurumi Mask: Packing Tips"
 sidebar_label: "Traveling With Kig"
 slug: /traveling-with-kig
-canonical_url: https://kig.wiki/care/traveling-with-kig
-description: "How to travel with a kigurumi mask: packing methods, carry-on vs checked luggage, and how to keep your mask safe in transit."
+canonical_url: https://kig.wiki/traveling-with-kig
+description: "How to travel with a Kigurumi Mask: protective packing, carry-on versus checked luggage, keeping your mask safe and sound."
 ---
 
 # Traveling With a Kigurumi Mask
 
-Most kigs find some sort of padded box for transporting their kigurumi masks, or smaller bags like a motorcycle helmet bag for shorter trips. This area will be expanded to include various methods.
+## Flying with a Kigurumi Mask
 
-## Flying with Kig
+Carry-on transport keeps the mask under your control when its packed dimensions meet the airline's limits. Smaller partial-back masks may fit in a helmet bag or under-seat case, while larger full shells may require an overhead-bin case or checked hard case.
 
-Kigs usually try to go one of two routes.
+Measure the packed case and check the operating airline's current limits for every segment. Aircraft, fare, route, and regional rules vary. Do not rely on a case manufacturer's “carry-on” label.
 
-Most if they can fit in a carry on will, some will use a motorcycle helmet bag, some will pad up their mask in regular luggage. Technically speaking a Pelican iM2275 is the largest you can fit under a plane seat, but only smaller 3/4 masks will fit.
-
-If they can't fit it in a carry on, "Pelican" style boxes are a popular choice. The largest you can fly with on most airlines before going oversized is the [Nanuk 960](https://nanuk.com/products/nanuk-960)
+For checked baggage use a rigid case with enough internal support to prevent the mask from moving or taking a direct impact, "Pelican" or "Nanuk" branded cases are a great example of this, with "Nanuk" ones typically being a bit more cost effective. Regardless, if you can get one used that ends up being far cheaper than buying a new one.
+The [Nanuk 960](https://nanuk.com/products/nanuk-960) is one example of a large protective case suitable for taking a kig mask and some other items you may need to check.
 
 <div className="info-box-container">
   <img
@@ -26,24 +25,27 @@ If they can't fit it in a carry on, "Pelican" style boxes are a popular choice. 
     className="info-box-image"
     loading="lazy"
   />
-  <div className="info-box-caption">
-    Nanuk 960 is their largest model you can fly with on most airlines before going oversized
-  </div>
+  <div className="info-box-caption">Example of a large hard case</div>
 </div>
 
-Other considerations before flying should include:
+### Batteries and electronics
 
-- **Remove any batteries**: It should be obvious but if you have a mask with batteries for fans or light-up eyes, remove them.
-- **Packing**: Securely packing and protecting your mask is a given, but consider how you pack any objects that might increase the odds airport staff will have to open your luggage. Silicone padding for instance due to it's density can often raise a flag at the scanner, packing it towards the top makes it easier for airport staff to get to it, and get you through their checkpoint faster rather than having to dig through your luggage.
-- **Insurance**: Many airlines will not cover damage to your luggage or mask. Consider booking via a credit card that offers free travel insurance if you have one. Most still will not cover most of the mask's cost but may at least dampen the blow.
+Most masks dont have any electronics or batteries, but if they do you should remove them and keep them in your carry-on bag. The last thing you want is for them to have to dig through your kig case because you left something in there you shouldn't have put in there.
 
-## Kigging Abroad
+### Security inspection
 
-While it often goes without saying regardless of the hobby, do be mindful of what is socially acceptable in your destination if traveling abroad.
+Dense silicone body forms especially may prompt inspection as they tend to pick up on airport x-ray machines as potentially dangerous items, often requiring a manual inspection. Avoid putting them in a kig bag, and ideally put them in your bag towards the top so staff can reach them without digging through everything in your bag.
 
-Japan for instance tends to be more conservative than the west regarding taking photos or videos around random businesses, or kigging publicly in general. The last thing anyone wants is to be escorted out of a business or have the police called on them for being a nuisance.
-Kigurumi performers with characters associated to IP or brands also tend to be far more cautious about their behavior and to not be mistaken as an official representative if appearing in any sort of public setting.
+### Insurance
 
-#### Additional Resources
+Airline baggage liability and travel insurance may exclude fragile items, or the mask's full value. Being over-protective padding your mask is better than taking the risk of it getting damaged.
 
-- [Kigurumi Mask Storage](./storage.md)
+## Wearing Kigurumi abroad
+
+It might go without saying but research venue rules, photography expectations, costume restrictions, and local laws before wearing a Kigurumi Mask in another country. Public costume performance may be socially acceptable where you are, but may be unwelcome in other countries, or require special permissions from local authorities to do so.
+
+Ask before using private property or photographing identifiable bystanders. Follow staff instructions and avoid implying that you officially represent a character owner, event, or brand. Basically use common sense and be respectful of the people around you.
+
+## Related guide
+
+- [Kigurumi Mask care and storage](./mask-care.md)

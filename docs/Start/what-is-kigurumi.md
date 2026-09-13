@@ -7,58 +7,44 @@ canonical_url: https://kig.wiki/start/what-is-kigurumi
 tags:
   - introduction
 sidebar_position: 2
-description: "What kigurumi mask cosplay is, how masks and hadatai come together, and how to get started in the hobby as a performer or fan."
+description: "What Kigurumi Mask cosplay is, how a mask and Hadatai form the costume, why people perform, and other basics of Kig."
 ---
 
 # What is Kigurumi?
 
-## Definition of Kigurumi
+Kigurumi is a form of character cosplay centered around the titular Kigurumi Mask, an anime-styled mask. The mask along with a Hadatai, costume, and optional body shaping garments complete the character, bringing a 2D character to life in a mascot-like manner differing from traditional cosplay.
 
-Kigurumi, sometimes shortened to **Kig** is a cosplay genre that focuses around anime-styled masks.
+## What the term means
 
-Originating in concept from Japanese live-action shows, bringing an anime character to life in a mascot-esque way for the audience. These days kigurumi offers a unique way for cosplayers to bring their favorite characters to life or to become characters otherwise considered impossible to portray in the flesh.
+The Japanese word _kigurumi_ (着ぐるみ) broadly refers to full-body character costumes, this term technically applies to a number of full-body costumes. _Bishoujo kigurumi_ (美少女着ぐるみ) in some contexts can more specifically refer to anime-styled mask cosplay, however most kigs and mask makers generally refer to the hobby as Kigurumi these days, sometimes abbreviating to **kig** or **kigu**.
 
-Paired with the mask is an all-encompassing flesh-toned bodysuit known as a [Hadatai](./hadatai-basics.md). As anime characters rarely have realistic human anatomy and the masks larger than our own heads, a Hadatai serves double duty to cover up any padding or shapewear being used to achieve the desired character look.
+The aesthetic draws from Japanese live character performances and mascot presentations. It lets a performer portray a heavily stylized character without tying the result to the performer's uncovered face or body. People take part for wide variety of reasons including general cosplay, focusing on performance, enjoying the craft, expression separate from their "normal" identity, creative expression, and many other reasons.
 
-The Japanese term Kigurumi (着ぐるみ) itself is somewhat of a blanketed term for full body costumes, The anime kigurumi masks this wiki is focused on can be specifically referred to as Bishoujo Kigurumi (美少女着ぐるみ), although most kigurumi masks are not limited to just anime characters nor only girl characters.
+Kigurumi performers come from all sorts of backgrounds, and often portray characters with a similarly wide range of appearances, or sometimes are just stylized versions of themselves. That's part of the magic of Kigurumi, to viewers they never truly know. The gap between the character and the performer can be wide, or not at all, it's all up to the kig themselves and how they choose to express themselves.
 
-Owing to the stage show nature of Kigurumi, someone who kigs is often referred to as a [Kigurumi performer](./glossary.md#kigurumi-performer).
+## What a Kigurumi costume includes
 
-## Kigurumi Etiquette
+The three core components are:
 
-There are a number of unwritten "rules" that are often followed by kigurumi performers, two of the big ones are:
+1. A [Kigurumi Mask](./mask-basics.md)
+2. A [Hadatai](./hadatai-basics.md), a bodysuit selected to coordinate with the mask
+3. Optional body shaping garments like [body padding and shapewear](./padding-theory.md) for the intended proportions
 
-- Kigurumi don't talk
-- Kigurumi don't unmask in public
+The look is then completed with character outfits and optionally props.
 
-It's of the opinion of the admin of this wiki that those rules are more suggestions. Obviously communicate with your handler or friends as needed. Unmask if you need to cool down, hydrate or otherwise, although many kigs will do so in a less busy area though for privacy reasons.
+## Talking and unmasking
 
-For fans interacting with kigurumi performers keep in mind:
+Many performers stay silent and avoid unmasking in public much like mascot performers, primarily as a way of maintaining the character illusion. This is best understood as a performance convention rather than any strict rules. Like the mask, hadatai, body-shaping garments, costume, and props, it is a practice performers have coalesced on over the years to help sell the overall aesthetic and avoid "ruining the magic" for any viewers.
 
-- Kigurumi is not consent, ask before you go in for a hug or other physical contact.
-- Be understanding of the fact that kigurumi performers often don't talk, and may not be able to respond to your questions.
-- While many Kigurumi are male, don't assume all kigurumi performers are, they come in all walks of life.
-- If you want to connect with a kigurumi performer, ask them if they have any socials, many kigs will have a twitter, instagram, or other social media account they use for their kigurumi.
-- Kigurumi is performance, just because the character is friendly doesn't mean they're trying to be everyone's friend.
+Realistically kigs can and should speak or unmask if necessary for visibility, hydration, communication, consent, or comfort. A quieter or more private spot may be preferable when unmasking, but maintaining the illusion should never take priority over wellbeing, particularly if overheating or dehydration in a hot environment becomes a concern.
 
-## What are the typical components of a Kigurumi?
+Even when remaining in character, performers commonly communicate with other kigs, whether masked or unmasked, as well as with any accompanying handler⁠. While gestures can often be enough to convey details, sometimes brief verbal communication can be useful for coordinating in ways difficult for non-verbal means.
 
-The three core components of kigurumi are:
+## Interacting with a performer
 
-1. [The titular kigurumi mask](./mask-basics.md)
-2. [A hadatai (skin-toned bodysuit)](./hadatai-basics.md)
-3. [Shapewear and/or padding](./padding-theory.md)
+- Ask before hugging or any notable physical contact, cosplay is not consent.
+- Be understanding if they don't have a handler or friend to talk for them, there may be times they can't easily communicate such as if they're in a rush to get to an event and are being asked for a photo.
+- If you'd like to ask more in depth questions, ask if they have a public social account or other way to contact them. But also be aware they might not be available to answer every question for every person curious about them or the hobby.
+- Treat a friendly character performance as a performance, not as a promise of friendship. Just because they're portraying an outgoing character doesn't necessarily mean they're trying to be everyone's next best friend.
 
-If you want to learn more about the various components, follow the above links.
-
-While not required, strongly consider props or other items that help sell the character. Even if its just a plushie or one of the character's items it helps sell the character so much better than just being a character with empty hands and only posing to lean on.
-
-## Kigurumi is a Social Hobby
-
-Despite being covered up and mostly silent, Kigurumi is an incredibly social hobby. You do not need social media, nor to go to cons, or events. And you especially do not need to interact with everyone who shares the hobby. Weak social skills will however make connecting with people much harder.
-
-Energy in equals energy out. The effort you put into the kig, the performing, and towards other people is the energy you get back. Kigurumi is not a contest, but doing the bare minimum still counts as what you brought to the table. People will take that at face value and leave you to it.
-
-Because so much of kig is non-verbal, a lot of behaviors get amplified. If its unclear to others whether your behaviors are "the character" or "you", people will typically make assumptions towards the latter.
-
-The social aspects of Kigurumi are explored more in depth on the [Kigurumi Communities](/community/community-overview) page.
+Want to learn more? Check out [Getting Started with Kigurumi](./get-started.md) for the beginner path.

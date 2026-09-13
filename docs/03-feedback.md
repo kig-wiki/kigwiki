@@ -11,8 +11,8 @@ import FeedbackForm from "@site/src/components/FeedbackForm";
 
 # Ask a Question or Submit Feedback
 
-Know how to use GitHub? Consider [opening an issue](https://github.com/kig-wiki/kigwiki/issues), that is still the best place for concrete wiki corrections and feature requests. It also forces us to reply in a public setting.
+For a correction or feature request that can be discussed publicly, please [open a GitHub issue](https://github.com/kig-wiki/kigwiki/issues).
 
-If you would rather not deal with GitHub thats okay, you can send a short message with the form below.
+If you prefer not to use GitHub, send a message with the form below.
 
 <FeedbackForm />

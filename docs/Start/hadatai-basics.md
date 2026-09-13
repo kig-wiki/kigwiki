@@ -15,7 +15,7 @@ description: "What a hadatai (ハダタイ) is, how it's worn with a kigurumi ma
 Hadatai (ハダタイ) is a type of bodysuit worn by kigs, layered above any shapewear or padding used but underneath the mask and any clothes.
 The name comes from _hada_ (skin) + _tai_ (abbreviation of _taitsu_, tights). Literally "skin tights", figuratively "skin suit".
 
-A hadatai is the other half of the look next to the [kigurumi mask](./mask-basics.md). Padding and shapewear sit underneath; see [Padding Theory](./padding-theory.md).
+A hadatai is the other half of the look next to the [kigurumi mask](./mask-basics.md). Padding and shapewear sit underneath, see [Padding Theory](./padding-theory.md).
 
 ## Hadatai vs zentai
 
@@ -25,20 +25,20 @@ Both are stretch bodysuits, often a blend of spandex and nylon. Beyond that they
 
 <div style={{overflowX: "auto", WebkitOverflowScrolling: "touch", marginBottom: "1rem"}}>
 
-|                   | **Hadatai**                                                                                                                                                             | **Zentai**                                                                                                                                                   |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Purpose**       | Built for kigurumi: matching mask and smoothing padding/shapewear                                                                                                       | Generic full-body suit: often a disguise or costume itself, or as a base layer for a cosplay to be built on top of.                                          |
-| **Finish**        | Matte like an anime figure's skin. Avoids shine under lighting or in photos                                                                                             | Often shiny or semi-shiny.                                                                                                                                   |
-| **Color**         | Pinkish kig flesh by default; many makers also do custom colors for masks that aren't the default                                                                       | Many vivid hues, flesh tones often warmer yellow/orange undertones, rarely matches kig masks.                                                                |
-| **Coverage**      | Almost always head-to-toe with a face opening under the mask; some makers offer enclosed, full-mask style options                                                       | Often either fully enclosed head, or ends at the neck                                                                                                        |
-| **Hands & feet**  | Well defined fingers and toes fitting like a second skin, finer flattened seams for up close photos                                                                     | Often sock-like feet without toes. Hand and foot design often a simpler, universal fabric pattern with basic stitching rather than per your own measurements |
-| **Fit**           | Usually made to measure (with padding on), some makers do offer generic sizes. Should fit like a second skin                                                            | Almost always generic sizing, with a more neutral one-size-fits-all design rather than for exaggerated (padded) anime physique                               |
-| **Build**         | Fine seams, cleavage shaping, optional vest for breast forms, or crotch zippers for easier emergency bathroom breaks. Typically more durable stitching and construction | Basic construction engineered for mass production, with many being "fast fashion" levels of quality                                                          |
-| **Accessibility** | More expensive, with varying wait times for production                                                                                                                  | "Spirit Halloween" levels of availability, cost, and quality                                                                                                 |
+|                    | **Hadatai**                                                                       | **Zentai**                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Purpose**        | Coordinates with a Kigurumi Mask and smooths padding or shapewear                 | General costume, full-body covering, or cosplay base layer                                                                   |
+| **Finish**         | Matte to reduce shine in photos                                                   | Usually semi-shiny or shiny fabrics                                                                                          |
+| **Color**          | Commonly offered in Kigurumi Mask skin tones, with custom colors from some makers | Available in many vivid colors, skin-tone listings usually closer to an orangey-warm tone rather than light pink "kig flesh" |
+| **Coverage**       | Usually head-to-toe with a face opening under the mask                            | Varies from neck-high to fully enclosed designs                                                                              |
+| **Hands and feet** | Well defined fingers and toes with close-fitting seams                            | Generic suits may use simpler hand and foot patterns, feet sometimes sock-like                                               |
+| **Fit**            | Usually made to measure per user, over the padding that will be worn              | Generic sizing, some bespoke high end zentai makers do offer custom sizing                                                   |
+| **Options**        | May include shaped chest panels, breast-form pockets, or access zippers           | Usually just basic entry zipper                                                                                              |
+| **Accessibility**  | More expensive, with varying wait times for production                            | "Spirit Halloween" levels of availability, cost, and quality.                                                                |
 
 </div>
 
-Zentai do have some use with kigurumi for someone just new and wanting to experiment before committing to a kigurumi mask and hadatai. They are however probably not what you want your kigurumi to be seen in, no one wants to look like a cheap halloween costume purely because the skin tone mismatches poorly from the mask.
+In general a zentai is best left for experimenting with bodysuits before diving fully into kig and getting a mask + hadatai. They are however probably not what you want your kigurumi to be seen in, no one wants to look like a cheap halloween costume purely because the skin tone horribly mismatches the mask.
 
 ### Color undertones
 
@@ -103,8 +103,8 @@ Some of the common reasons for wearing a hadatai are:
 - To smooth out any shapewear or padding
 - Covering skin imperfections to get a very anime-like perfect skin tone
 - Matching skin tone to the mask
-- For those who have body hair or tattoos, to avoid their kig being defined by those features
-- As part of the "full body costumed experience" or similar mascot-esque ideas
+- For those who have body hair or tattoos to avoid their kig being defined by those features
+- As part of the "full body costumed experience" or similar mascot-esque notions
 
 Generally a hadatai should fit like a second skin and feel like nothing at all is there.
 
@@ -148,4 +148,10 @@ Makers will generally provide a measurements guide and a form to fill out for al
 Velcro is a hadatai's sole worst enemy, and can damage the material if not handled with care.
 :::
 
-For information on how to care for your hadatai, see our [cleaning a hadatai](../Care/washing-your-hadatai.md) page.
+While perhaps a bit odd, it's a good idea to lean backwards when doing up the zipper, this helps minimize the tension on the zipper and avoid pulling any teeth when zipping it up.
+
+On a more minor note, you can help protect the hand seams by avoiding to stretch them when taking them off. Rather than holding the finger tips and pulling it off, just take your hand out, inverting the fabric as you do so. It does add a bit more work to then flip the hand back out, but it does help if you want to maximize longevity of the hadatai.
+
+Depilling as well tends to be a good idea if you notice material pilling around the hands or other higher friction areas. Keeping them tamed helps you both look better, and avoid them building up bigger damaging more material.
+
+For information on how to care for and wash your hadatai, see our [cleaning a hadatai](../Care/washing-your-hadatai.md) page.
