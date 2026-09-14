@@ -11,13 +11,15 @@ sidebar_position: 1
 description: "How to clean, pad, and store a Kigurumi Mask without damaging its finish, hair, shell, or interior."
 ---
 
+import SocialEmbed from "@site/src/components/SocialEmbed";
+
 # Kigurumi Mask Care
 
 ## Cleaning a Kigurumi Mask
 
-### Clean the exterior
+#### Clean the exterior
 
-It might go without saying, however the best way to keep a mask clean is to avoid it getting dirty in the first place. If touching up the hair consider plastic wrap over the face to avoid any product getting on the mask, when storing it keep it in a clean dry place away from dust or where messes could end up on it.
+It might go without saying, however the best way to keep a mask clean is to avoid it getting dirty in the first place. Easier said then done sometimes, and accidents do happen, so lets cover some ways to clean a mask.
 
 If you do need to clean the exterior, essentially start with the least aggressive method and work your way up.
 
@@ -28,9 +30,7 @@ If you do need to clean the exterior, essentially start with the least aggressiv
 
 Magic erasers and similar melamine sponges are a great next step if required, but are slightly abrasive. If used too aggressively they can dull clear coats or remove paint, so be gentle with use.
 
-Scratches and paint chips if they occur usually need more than cleaning. If you attempt a touch-up, test the color and paint compatibility away from the mask first, even a close skin tone can dry to a visibly different color or sheen. Skin-tone paint markers can be a great way to easily do a minor touch up if needed.
-
-### Clean the interior
+#### Clean the interior
 
 If padding is removable, remove it and wash it with a bit of skin-safe soap or detergent, then let it dry completely. If the padding is fixed a bit of disinfectant like rubbing alcohol can be used sparingly to disinfect and clean, a fan pointed at the padding can help speed up the drying process. Trapped moisture can lead to odors or mildew, so make sure it's actually dry.
 
@@ -50,8 +50,10 @@ Padding the top of the head, back of the head, or forehead are the most common a
 
 Padding usually comes in either directly applied foam, or a removable type that can be velcro'd into place. Regardless of the method, test fit padding before adhering any of it or the attachment material to the mask.
 
-Too hot?
-It may sound counter intuitive, but the more padding you add the cooler a mask can often become. The best airflow in a mask is achieved when there isn't empty space for air to linger, where you have a more direct airflow path from your face to the viewports or other areas where air can escape. Empty space for air to linger is where heat and humidity builds up, leading to a more uncomfortable experience.
+Too hot?  
+It may sound counter intuitive, but the more padding you add the cooler a mask can often become.  
+The best airflow in a mask is achieved when there isn't empty space for air to linger, where you have a more direct airflow path from your face to the viewports or other areas where air can escape.  
+Empty space for air to linger is where heat and humidity builds up, leading to a more uncomfortable experience.
 
 <div className="info-box-container">
   <img
@@ -87,3 +89,55 @@ One common strategy is to use a paint marker to touch up a scratch, then wipe aw
 There isn't an exact single paint solution that perfectly matches all masks, visiting your local art store might be the best way to find some near matches.
 
 POSCA brand markers for example the closest on most kig masks is their "Powder Pink" shade followed by "Light Pink". For masks that lean warmer in tone, "Satin Pink" is about the closest they have.
+
+## Kig Hair Care
+
+Preventative care is still your best friend here as well.
+
+This usually means detangling and brushing the hair after use, and storing it in a way that prevents tangles and knots.  
+As a reminder, when detangling hair, start at the ends and work your way up. Use a gentle detangling brush like a "tangle teaser" or similar to help untangle the hair.
+
+### Tangling Treatments
+
+One of the best preventative measures is to use a silicone based wig spray for detangling. This is especially useful for long hair, it helps tangles occur less and also helps generally detangle in general, and is fairly common in general cosplay circles as well.
+
+Start with a product like the silicone wig spray by "Simply Stylin".
+
+While this should only be used on the long portions of hair rather than bangs, you probably want to cover the face of your mask with plastic wrap just to ensure no product gets on it.
+
+These sprays are slippery, so be mindful where you are doing this as well. If any gets on the floor, it WILL be insanely slippery and a pain to clean off.
+
+Start small, spray a little then work it in. Too much will make the hair look greasy and would probably need to be removed with a wet cloth.
+
+<SocialEmbed post="https://www.instagram.com/reel/C54QLOhSIXR/" />
+
+The above video is an example of the process, albeit for cosplay wigs rather than specifically on a kig mask.
+
+### Reviving Frizzed hair
+
+If the hair gets all frayed and frizzy, you can usually revive it with a bit of gentle steaming.
+
+You don't want to get steam too close to the face, so covering it with plastic wrap can help play it safe.  
+Steam can mess with the styling products in the bangs as well, so keep this just to the long portions of hair.
+
+<SocialEmbed post="https://www.tiktok.com/@cocchiya/video/7226838898687708462" />
+An example of the process. Play it gentle and use just a bit of steam at a time, rather than giving it
+a steam bath immediately.
+
+### Restyling Hair Bangs
+
+:::info
+
+This part is just a summary for the time being, we'll be adding more detailed guides soon.
+
+:::
+
+Hair bangs tend to fall into one of two types, product styled, or glued. Glue generally doesn't undo, but as that suggests is a pretty permanent method for better or for worse.
+If you've never touched up a wig or styled one before, it's probably better to get a cheap wig to experiment on first, rather than trying to do it on a kig's right away.
+
+Common products for styling are Got2b glued or Ultra Glued styling gel.
+Got2b's Glued Hair Spray is also an option, but requires heat from a blow dryer or similar to activate.
+
+Uhu's **solvent** based glue is an option used by some for wig styling. You don't need to necessarily use it all the way down, even just a cm or two above the end of the bangs is enough to hold them in place.  
+If used sparingly it does dry invisibly and hold insanely well.  
+Again, it's best to experiment on a cheap wig first, this is not an easily reversible process.
