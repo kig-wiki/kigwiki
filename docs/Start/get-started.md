@@ -12,7 +12,8 @@ description: "New to kigurumi? Start here for the basics: what a kig is made of,
 
 # Getting Started with Kigurumi
 
-Kigurumi Mask cosplay usually combines a mask, a Hadatai, and optional body padding or shapewear. Start by deciding what character and look you want, then compare makers and budget for the complete costume rather than only the mask.
+Kigurumi Mask cosplay usually combines a mask, a Hadatai, and optional body padding or shapewear.  
+Start by deciding what character and look you want, then compare makers and budget for the complete costume rather than only the mask.
 
 If the hobby is new to you, read [What is Kigurumi?](./what-is-kigurumi.md) first.
 
@@ -54,11 +55,13 @@ A few specifics:
 - **Breast forms.** Something like [these Vollence F cup forms](https://www.amazon.com/dp/B078N4F83Q?th=1&psc=1) is around $60. F is not as huge as it sounds, cup size is proportional to chest size, not a universal volume. [Padding theory](./padding-theory.md) has more information on this and the below padding.
 - **Hip pads.** Cheap foam pads off [AliExpress](https://www.aliexpress.com/item/1005005953328604.html) are around $15 a pair, similar options available also on Amazon. Layer two if you need more curve. Protip: pantyhose can be worn over hip pads but under hadatai for a smoother look.
 
-Used equipment, simpler character designs, and regional buying options can lower the total, but low price does not automatically mean good value. Compare finished work, _customer_ photos, materials, fit, included features, and seller reliability instead of treating either price or maker popularity as proof of quality.
+Used equipment, simpler character designs, and regional buying options can lower the total, but low price does not automatically mean good value.  
+Compare finished work, _customer_ photos, materials, fit, included features, and seller reliability instead of treating either price or maker popularity as proof of quality.
 
 ## 3. Research makers before ordering
 
-Browse the [Kigurumi Mask maker directory](../Buy/makers.md), then follow the [ordering guide](../Buy/commissioning-guide.md). Compare several recent examples from each maker and look for customer photos, not only studio portfolio images. Many makers will also often retweet/reshare posts of their customers wearing their masks if you're not too sure where to look.
+Browse the [Kigurumi Mask maker directory](../Buy/makers.md), then follow the [ordering guide](../Buy/commissioning-guide.md).  
+Compare several recent examples from each maker and look for customer photos, not only studio portfolio images. Many makers will also often retweet/reshare posts of their customers wearing their masks if you're not too sure where to look.
 
 Before paying, confirm:
 
@@ -75,7 +78,9 @@ If you're looking at a store or maker not listed on our maker directory, conside
 
 Use the [Hadatai maker directory](../Buy/hadatai.md) after reading [Hadatai basics](./hadatai-basics.md). Follow the seller's measurement guide and measure while wearing the padding and shapewear you expect to use.
 
-Body padding is optional but highly recommended and should support your character and comfort. The mask is bigger than a normal head, and anime characters often have exaggerated features, so we usually want to contour the body some to make it look the part. See [padding theory](./padding-theory.md) and the [padding and shapewear seller guide](../Buy/buy-padding-shapewear.md).
+Body padding is optional but highly recommended and should support your character and comfort.  
+The mask is bigger than a normal head, and anime characters often have exaggerated features, so we usually want to contour the body some to make it look the part.  
+See [padding theory](./padding-theory.md) and the [padding and shapewear seller guide](../Buy/buy-padding-shapewear.md).
 
 ## 5. Plan for care and wearing
 

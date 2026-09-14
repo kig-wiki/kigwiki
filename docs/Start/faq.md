@@ -8,6 +8,8 @@ tags:
   - introduction
 sidebar_position: 9
 description: "Frequently asked Kigurumi Mask questions answered: Hadatai basics, costs, buying, comfort, care, DIY, community, and what newcomers should expect."
+toc_max_heading_level: 2
+toc_expanded_default: false
 ---
 
 import FAQStructuredData from "@site/src/theme/MDXComponents/FAQStructuredData";
@@ -72,7 +74,7 @@ answer: "Conventions, public social accounts, and introductions through mutual f
 
 <FAQStructuredData faqs={faqs} />
 
-## Related guides
+### Related guides
 
 - [Getting Started with Kigurumi](./get-started.md)
 - [How to order a Kigurumi Mask](../Buy/commissioning-guide.md)

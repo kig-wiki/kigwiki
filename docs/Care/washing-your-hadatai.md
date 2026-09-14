@@ -9,6 +9,7 @@ tags:
   - care
 sidebar_position: 3
 description: "How to wash and care for a Hadatai: spot-treat stains, hand or machine wash gently, air dry, and avoid products that can damage the fabric."
+toc_max_heading_level: 2
 ---
 
 # How to Wash a Hadatai
@@ -202,8 +203,11 @@ Avoid washing with other dirty clothes or items. With another hadatai or shapewe
 
 An extra water-only rinse can help when detergent remains in the fabric.
 
-"Rinse aid" products like "Tide Clean Boost" or "P&G Rinse and Refresh" can help improve the rinsing process even further. They are not fabric softeners, but essentially citric acid based products that help remove any remaining detergent from the fabric.
-You also can just make your own easily, Google "citric acid laundry rinsing" if you want to try it out and save money while getting better laundry results.
+"Rinse aid" products like "Tide Clean Boost" or "P&G Rinse and Refresh" can help improve the rinsing process even further.
+
+They are not fabric softeners, but essentially citric acid based products that help remove any remaining detergent from the fabric.
+
+You also can technically make your own easily by mixing citric acid with water. Google "citric acid laundry rinsing" if you want to try it out and save money while getting better laundry results, or to learn more about why any of this is a thing.
 
 ## Drying
 
@@ -228,7 +232,8 @@ Avoid velcro-type fasteners, they are a hadatai's worst enemy.
 ### The case for multiple Hadatai
 
 Some performers keep separate Hadatai for active convention wear and controlled photoshoots.
-Basically having a hadatai set aside for their most pristine, controlled photo shoots, and at least one other for cons or any shoots in the outdoors. Having multiple for cons can be useful too if you are hoping to kig multiple days in a row, although hand washing and drying is always an option to keep odours at bay.
+Basically having a hadatai set aside for their most pristine, controlled photo shoots, and at least one other for cons or any shoots in the outdoors.  
+Having multiple for cons can be useful too if you are hoping to kig multiple days in a row, although hand washing and drying is always an option to keep odours at bay.
 
 Also worth keeping in mind, if your hadatai does get damaged, having a backup avoids having to put kigging on hold until you can get a replacement, although that might be a bit obvious.
 

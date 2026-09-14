@@ -15,7 +15,7 @@ description: "How to buy a used Kigurumi Mask: verify the seller, check fit and 
 
 A used Kigurumi Mask can cost less and arrive sooner than a new commission. The tradeoff is that its fit, condition, history, and seller need closer inspection before you pay. Don't just hit buy and expect perfection, things are unfortunately a bit more complicated.
 
-## Where used masks appear
+## Where to find used masks
 
 The usual marketplace depends on region. Xianyu (Goofish) is used in China, Yahoo auctions Japan is as the name implies, and Western sales mostly appear on social platforms or in established community groups rather than on sites like ebay.
 

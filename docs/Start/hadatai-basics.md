@@ -108,9 +108,13 @@ Some of the common reasons for wearing a hadatai are:
 
 Generally a hadatai should fit like a second skin and feel like nothing at all is there.
 
-At risk of sounding pretentious there are often perceived notions in kig communities that those who see a hadatai as something completely optional are just trying to do the bare minimum. Its somewhat like having just a fursuit head without any other parts to go with, [poodling](https://en.wikifur.com/wiki/Poodling) as the furry community would say. To a similar notion to achieve the unrealistic anime aesthetic, many feel it is impossible without a hadatai, and often times padding/shapewear in addition.
+At risk of sounding pretentious there are often perceived notions in kig communities that those who see a hadatai as something completely optional are just trying to do the bare minimum.  
+Its somewhat like having just a fursuit head without any other parts to go with, [poodling](https://en.wikifur.com/wiki/Poodling) as the furry community would say.  
+To a similar notion to achieve the unrealistic anime aesthetic, many feel it is impossible without a hadatai, padding, and where needed shapewear.
 
-While a hadatai is not absolutely required, many see it as something thats hard to go without. That said do not buy one simply because someone told you to, do your own research and make a decision that is right for you. Additionally, a bad zentai can be far worse than no hadatai at all, so please don't feel pressured to just buy "something" because its the norm.
+While a hadatai is not absolutely required, many see it as something thats hard to go without.  
+That said do not buy one simply because someone told you to, do your own research and make a decision that is right for you.  
+Additionally, a bad zentai can be far worse than no hadatai at all, so please don't feel pressured to just buy "something" because its the norm.
 
 ## Hadatai Alternatives
 
@@ -133,13 +137,18 @@ Do consider various options as well for features such as:
 
 Especially for beginners its highly recommended to get the ring pull type zippers, as they are much easier to do up and down.
 
-For face openings its highly recommended to get a standard "open face" opening. Some makers will offer more limited "eye holes" or "eye window" openings, sometimes with a separate mouth opening. These are generally less common, less comfortable, and just generally less practical with no real advantage while also costing more.
+For face openings its highly recommended to get a standard "open face" opening. Some makers will offer more limited "eye holes" or "eye window" openings, sometimes with a separate mouth opening.  
+These are generally less common, less comfortable, and just generally less practical with no real advantage while also costing more.
 
 Sometimes makers will offer no face opening option, this is generally an advanced option and should only be considered if you really do want to have no visibility at all.
 
 ### Measurements
 
-Makers will generally provide a measurements guide and a form to fill out for all the various measurements they will need to make your hadatai. It's greatly advised to have someone help you measure to ensure everything is accurate. Some measures like shoulder width can be tricky to get solo. As to the saying "measure twice, cut once...", double check your measurements are all good before submitting, its better to be safe than sorry.
+Makers will generally provide a measurements guide and a form to fill out for all the various measurements they will need to make your hadatai.
+
+It's greatly advised to have someone help you measure to ensure everything is accurate. Some measures like shoulder width can be tricky to get solo. If there isn't someone you feel comfortable asking, a tailor's services wouldn't be free but can help get the job done right for a quick measurement.
+
+As the saying goes, "measure twice, cut once...", double check your measurements are all good before submitting, its better to be safe than sorry.
 
 ## Hadatai Care
 
@@ -150,7 +159,9 @@ Velcro is a hadatai's sole worst enemy, and can damage the material if not handl
 
 While perhaps a bit odd, it's a good idea to lean backwards when doing up the zipper, this helps minimize the tension on the zipper and avoid pulling any teeth when zipping it up.
 
-On a more minor note, you can help protect the hand seams by avoiding to stretch them when taking them off. Rather than holding the finger tips and pulling it off, just take your hand out, inverting the fabric as you do so. It does add a bit more work to then flip the hand back out, but it does help if you want to maximize longevity of the hadatai.
+On a more minor note, you can help protect the hand seams by avoiding to stretch them when taking them off.  
+Rather than holding the finger tips and pulling it off, just take your hand out, inverting the fabric as you do so.  
+This does add a bit more work to then flip the hand back out, but it does help if you want to maximize longevity of the hadatai.
 
 Depilling as well tends to be a good idea if you notice material pilling around the hands or other higher friction areas. Keeping them tamed helps you both look better, and avoid them building up bigger damaging more material.
 

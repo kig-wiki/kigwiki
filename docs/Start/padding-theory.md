@@ -12,7 +12,10 @@ description: "How body padding creates anime proportions in kigurumi: foam, sili
 
 # Kigurumi Padding Theory
 
-Body padding and shapewear adjust a kig's silhouette towards the 'anime proportions', which are generally more exaggerated than real life, as well as matching the proportions of the mask which is different from one's normal head size. They sit under the [Hadatai](./hadatai-basics.md) and are separate from the [interior padding that fits a Kigurumi Mask](../Care/mask-care.md#padding-a-kigurumi-mask). The use of such body contouring garments isn't specific to any one body shape or gender, even women who kig tend to work their proportions some to achieve that anime-style physique.
+Body padding and shapewear adjust a kig's silhouette towards the 'anime proportions', which are generally more exaggerated than real life, as well as matching the proportions of the mask which is different from one's normal head size.
+
+Padding sits under the [Hadatai](./hadatai-basics.md) and are separate from the [interior padding that fits a Kigurumi Mask](../Care/mask-care.md#padding-a-kigurumi-mask).  
+The use of such body contouring garments isn't specific to any one body shape or gender, even women who kig tend to work their proportions some to achieve that anime-style physique.
 
 ## Padding Types
 
@@ -33,7 +36,8 @@ Although some may use padding for other areas, these are the most common.
 ### Foam Padding
 
 The most accessible and flexible to DIY option, foam padding is a classic choice for many kigurumi makers.
-Foam padding can tend to show lines through the hadatai if not smoothed over with shapewear or an extra pair of pantyhose or two. Some prefer to add layers to avoid lines, some embrace the subtle lines padding creates.
+Foam padding can tend to show lines through the hadatai if not smoothed over with shapewear or an extra pair of pantyhose or two.  
+Some prefer to add layers to avoid lines, some embrace the subtle lines padding creates.
 
 Foam while the most breathable of the padding types, its also one of the most annoying to deep clean.
 
@@ -63,9 +67,10 @@ Various types of shapewear include:
 ## Kigurumi Padding and Proportion Studies
 
 We will be referencing 3 of the most common female profiles in ACG (Anime, Cartoons, Games) media for the following section on proportion basics, as kigurumi characters being portrayed are overwhelmingly female:
--Loli
--JK (女子高生/high school girl)
--Older Sister
+
+- Loli
+- JK (女子高生/high school girl)
+- Older Sister
 
 But first, let's talk about the hard facts with regards to padding and shapewear.
 
@@ -107,7 +112,7 @@ By now most kigs should be intimately familiar with their measurements, as order
 
 So let's take a hypothetical John Kigurumi with these generic measurements as a reference: 173cm, 86-80-86, and they are aiming for a more JK build character.
 
-With shapewear compressing their waist, and padding in the form of breast forms and hip pads, they can attain a ratio of 96-77-96 or something along the lines.
+With shapewear compressing their waist, and padding in the form of breast forms and hip pads, they can attain a ratio of 96-77-96 or something along the lines.  
 Wearing a mask will then add a bit to their overall height, but because of the size of the shell, it can actually make their body look more fitting for a JK character.
 
 ### Relative Proportional Measurements

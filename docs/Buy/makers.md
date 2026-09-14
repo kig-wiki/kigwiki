@@ -10,6 +10,7 @@ tags:
   - mask
 sidebar_position: 1
 description: "Directory of active Kigurumi Mask makers and stores, with filters and notes to compare styles, ordering options, locations, and recent works."
+toc_max_heading_level: 2
 ---
 
 import MakersCards from "@site/src/components/MakersCards";
@@ -35,11 +36,15 @@ Note: Location labels are provided as geographic references to help readers unde
 
 <MakersCards data={makersData} />
 
-## Maker Styles
+### Maker Styles
 
-Makers often develop various approaches to face shape, paint, eyes, and hair. We recommend checking out several recent commissions and seeing if any characters they've made line up similarly with the vision you have for yours. Some are more stylized than others putting their own spin on characters, while some may be more faithful to the reference material. Typically most newer makers lean towards the latter, modelling the mask directly after your reference material.
+Makers often develop various approaches to face shape, paint, eyes, and hair.  
+We recommend checking out several recent commissions and seeing if any characters they've made line up similarly with the vision you have for yours.
 
-## Ordering Tips
+Some makers are more stylized than others putting their own spin on characters, while some may be more faithful to the reference material.  
+Typically most newer makers lean towards the latter, modelling the mask directly after your reference material.
+
+### Ordering Tips
 
 - Check whether commissions are open and how the maker accepts inquiries, some have sites, some prefer DMs, some prefer emails.
 - Compare work similar to your character rather than relying on one portfolio image.

@@ -8,6 +8,7 @@ tags:
   - buying
 sidebar_position: 3
 description: "Starting points for Kigurumi body padding and shapewear, including foam and silicone forms, sizing checks, and safer buying considerations."
+toc_max_heading_level: 2
 ---
 
 # Where to Buy Kigurumi Body Padding and Shapewear

@@ -42,6 +42,7 @@ MidDream_Kigu has released models for personal use along with a [DIY Kigurumi Ma
 Commercial makers use several printing methods, most often being commercial large scale resin printers. Realistically however FDM printers are what most will have access to for kig sized prints.
 
 PLA can deform in high heat, including a closed vehicle and is not quite recommended. PETG has reasonable heat resistance but is less rigid and tends not to print quite as cleanly, requiring more post processing.
+
 ASA/ABS has a great balance of strength and even stronger heat resistance, but is difficult to print on more entry level machines particularly at the size and scale of a Kigurumi mask. It does however enable some very high quality prints and can be chemically smoothed for a strong, clean surface finish.
 
 A professional printing service may be more practical than buying large-format equipment for one build.

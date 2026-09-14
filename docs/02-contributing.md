@@ -5,6 +5,7 @@ sidebar_label: "Contributing to Kig.wiki"
 slug: /contributing
 canonical_url: https://kig.wiki/contributing
 description: "Want to improve Kig.wiki? How to edit pages, submit changes, and what we look for in contributions to the kigurumi wiki."
+toc_expanded_default: false
 ---
 
 # Contributing to Kig.wiki
@@ -54,6 +55,8 @@ Use the custom social embed component like this:
 `<SocialEmbed post="https://bsky.app/profile/username/post/1234567890"  />`
 `<SocialEmbed post="https://www.tiktok.com/@username/video/1234567890"  />`
 `<SocialEmbed post="https://www.youtube.com/watch?v=1234567890" />`
+`<SocialEmbed post="https://www.instagram.com/p/SHORTCODE/" />`
+`<SocialEmbed post="https://www.instagram.com/reel/SHORTCODE/" />`
 
 Import the component after the frontmatter on every page that uses it:
 
@@ -62,7 +65,7 @@ Import the component after the frontmatter on every page that uses it:
 import SocialEmbed from '@site/src/components/SocialEmbed';
 ```
 
-Note: X/twitter posts marked as "sensitive media" aren't supported by their embed system, even if the content seems completely incorrectly labelled on their end. If this becomes a problem in the future a workaround might get added akin to the mask maker social embedding.
+Note: X/twitter posts marked as "sensitive media" aren't supported by their embed system, even if the content seems completely incorrectly labelled on their end. If this becomes a problem in the future a workaround might get added akin to the mask maker social embedding. Instagram embeds only work for public posts, reels, and IGTV videos.
 
 ### Need Help?
 

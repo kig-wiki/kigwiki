@@ -18,19 +18,23 @@ That said, checking out a maker's socials and verifying if a storefront is actua
 
 ## Common warning signs
 
-- Photos are straight up copied from maker social media accounts.
+- Etsy, eBay, Amazon and AliExpress are where most of these scams are found, with accounts usually being a mix of low quality items and unrelated products to boost their ratings.
+- The storefront has no online presence other than their account on the marketplace, ie no socials.
+- Listings of specific characters but with vague promises that your actual order will be made in 30-60 days.
+- Photos are straight up copied from maker social media accounts, something you can check by reverse-image searching the photos.
   - Most makers tend to be consistent on how they present made masks, if you see a mix of backdrops and photography styles it's very well likely a mix of stolen photos.
 - The seller cannot provide a current photo or video of the exact mask, and just relies on stock imagery.
 - Watermarks that when googled, dont return any maker socials. This can be a sign someone replaced a maker's watermark with their own.
-- Listings of specific characters but with vague promises that your actual order will be made in 30-60 days.
 - Used masks that are incredibly vague on details, no maker info, no mask size, no condition info, no pictures of the current condition.
+- They're listing many masks but have no kig related feedback or reviews, just random cheap items or unrelated product to boost their ratings.
 - A price that's "too good to be true."
 - The seller pressures you to use a payment method without buyer protection.
-- The seller's rating on the marketplace consists basically entirely of unrelated products, or is non-existent entirely.
 
 ## What actually happens with these marketplace scams?
 
-Some won't ship at all, some will play delay games, or other nonsense where it gets "lost in shipping". Many will actually send you "a mask" but its not exactly what you expected. If you do get something, it'll likely be a rushed mask made by the absolute cheapest possible maker they could source something from, vaguely inspired off the mask you thought you were getting.
+Some won't ship at all, some will play delay games, or other nonsense where it gets "lost in shipping".
+
+Many will actually send you "a mask" but its not exactly what you expected. If you do get something, it'll likely be a rushed mask made by the absolute cheapest possible maker they could source something from, vaguely inspired off the mask you thought you were getting.
 
 ## Stolen portfolio photos
 
@@ -84,9 +88,3 @@ Before commissioning:
 6. Use a payment method with suitable buyer protection and make note of its claim deadline.
 
 Language barriers and small accounts are not inherently suspicious. Focus on verifiable work, clear terms, consistent identity, and behavior.
-
-## Marketplace listings
-
-Etsy, eBay, Amazon and AliExpress are where most of these scams are found. Marketplace feedback may describe unrelated products and does not prove that a seller can deliver the pictured Kigurumi Mask. Used masks do pop up on eBay, but typically social media postings from reputable kigs selling masks is far more reliable than a random eBay listing.
-
-Due to the amount of kigurumi in China, Goofish is the most likely spot to actually find a used mask, however much akin to many of the red flags here, they similarly apply there. And you will likely need an agent to help you purchase and ship it internationally.
