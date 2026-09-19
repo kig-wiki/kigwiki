@@ -32,7 +32,7 @@ You do not need to buy every piece at once. Researching the full setup first hel
 
 Kigurumi is a made-to-order hobby. A new Kigurumi Mask commonly costs several hundred US dollars and may take months, depending on the maker, character, options, backlog, shipping, and destination fees. Hadatai are also usually made to measure.
 
-The example below shows how a basic new setup can approach US$1,000 before an outfit. It is not a required shopping list or a promise of current pricing. Verify every price, shipping charge, tariff, and seller before ordering.
+The example below breaks down the costs of an example kigurumi. This is not a required shopping list nor a promise of current pricing, just an example of what a solid setup can cost on the lower end. It isn't the bare minimum cheapest setup, but roughly the point where further cost-cutting stops being sensible and starts making compromises.
 
 <div style={{overflowX: "auto", WebkitOverflowScrolling: "touch", marginBottom: "1rem"}}>
 
