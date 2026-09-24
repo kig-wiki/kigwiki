@@ -7,7 +7,22 @@
     "x": "https://x.com/cover_plan"
   },
   "currency": "CNY",
-  "materialType": "3D print",
-  "features": {},
-  "notes": "Primarily taobao, DM on X or QQ for commissions as per bio."
+  "englishOrdering": true,
+  "priceExamples": [
+    {
+      "type": "Hadatai",
+      "price": "unknown",
+      "hadatai_color": "default",
+      "link": "https://x.com/cover_plan/status/2103142487686840417",
+      "material": "Fabric"
+    },
+    {
+      "type": "Latex Hadatai",
+      "price": "unknown",
+      "hadatai_color": "default",
+      "link": "https://x.com/cover_plan/status/2103142487686840417",
+      "material": "Latex"
+    }
+  ],
+  "notes": "DM Cover on X or QQ for hadatai orders. Hadatai is a recent addition to their offerings, some details may be missing or subject to change."
 }
