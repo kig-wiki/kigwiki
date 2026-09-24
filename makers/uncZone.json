@@ -1,0 +1,14 @@
+{
+  "name": "Uncle Zone",
+  "alias": "老叔zone",
+  "status": "open",
+  "Region": "Mainland China",
+  "socials": {
+    "x": "https://x.com/zone_rk3ly"
+  },
+  "currency": "CNY",
+  "priceTier": "Currently unknown",
+  "materialType": "3D print",
+  "features": {},
+  "notes": "Primarily QQ based for commissions. Specializes in animated kigurumi masks, specifically rotating between three eyes patterns with movable eyelids. \n\n (Interior view)[https://x.com/zone_rk3ly/status/2018654646555045980?s=20] of mechanisms. Design tradeoffs, costs, battery life and other details currently not determined."
+}
