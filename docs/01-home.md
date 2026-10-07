@@ -8,9 +8,13 @@ description: "Guides to Kigurumi Masks and Hadatai: getting started, finding kig
 toc_expanded_default: false
 ---
 
+import HomeAudienceNote from "@site/src/components/HomeAudienceNote";
+
 # Kigurumi Mask Wiki
 
 Welcome to **Kig.wiki**, an open resource for Kigurumi Masks (着ぐるみ), Hadatai, buying, care, and performance.
+
+<HomeAudienceNote />
 
 If you are new, begin with [Getting Started with Kigurumi](./Start/get-started.md). It covers the essential costume pieces, realistic cost and timing, and the main choices before you order anything.
 

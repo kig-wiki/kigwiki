@@ -3,10 +3,21 @@ type Env = {
   DISCORD_WEBHOOK_URL?: string;
 };
 
+type FeedbackLocale = 'en' | 'zh' | 'ja';
+
 type FeedbackBody = {
   name?: unknown;
   message?: unknown;
   turnstileToken?: unknown;
+  locale?: unknown;
+};
+
+const ALLOWED_LOCALES = new Set<FeedbackLocale>(['en', 'zh', 'ja']);
+
+const LOCALE_LABELS: Record<FeedbackLocale, string> = {
+  en: 'English',
+  zh: 'Chinese',
+  ja: 'Japanese',
 };
 
 const MAX_NAME_LENGTH = 100;
@@ -66,10 +77,18 @@ async function verifyTurnstile(secret: string, token: string): Promise<boolean> 
   }
 }
 
+function normalizeLocale(value: unknown): FeedbackLocale {
+  if (typeof value === 'string' && ALLOWED_LOCALES.has(value as FeedbackLocale)) {
+    return value as FeedbackLocale;
+  }
+  return 'en';
+}
+
 async function postDiscordWebhook(
   webhookUrl: string,
   displayName: string,
   message: string,
+  locale: FeedbackLocale,
 ): Promise<boolean> {
   const payload = {
     embeds: [
@@ -77,7 +96,10 @@ async function postDiscordWebhook(
         title: 'Kig.wiki feedback',
         color: 0x6b7fd7,
         description: message.slice(0, 4000),
-        fields: [{name: 'From', value: displayName.slice(0, 256) || 'Anonymous'}],
+        fields: [
+          {name: 'From', value: displayName.slice(0, 256) || 'Anonymous'},
+          {name: 'Locale', value: LOCALE_LABELS[locale]},
+        ],
         timestamp: new Date().toISOString(),
       },
     ],
@@ -122,6 +144,7 @@ export const onRequestPost = async (context: {
   const name = normalizeText(body.name, MAX_NAME_LENGTH);
   const message = normalizeText(body.message, MAX_MESSAGE_LENGTH);
   const turnstileToken = normalizeText(body.turnstileToken, 2048);
+  const locale = normalizeLocale(body.locale);
   const displayName = name || 'Anonymous';
 
   if (!message || !turnstileToken) {
@@ -137,7 +160,7 @@ export const onRequestPost = async (context: {
     return fakeSuccess();
   }
 
-  const delivered = await postDiscordWebhook(webhookUrl, displayName, message);
+  const delivered = await postDiscordWebhook(webhookUrl, displayName, message, locale);
   if (!delivered) {
     return jsonResponse({ok: false, error: 'delivery_failed'}, 502);
   }

@@ -8,12 +8,6 @@ description: "Send us feedback or ask a question about Kig.wiki without using Gi
 toc_expanded_default: false
 ---
 
-import FeedbackForm from "@site/src/components/FeedbackForm";
+import FeedbackPage from "@site/src/components/FeedbackPage";
 
-# Ask a Question or Submit Feedback
-
-For a correction or feature request that can be discussed publicly, please [open a GitHub issue](https://github.com/kig-wiki/kigwiki/issues).
-
-If you prefer not to use GitHub, send a message with the form below.
-
-<FeedbackForm />
+<FeedbackPage />
