@@ -3,7 +3,7 @@ id: hadatai-padding-theory
 title: "Kigurumi Padding Theory: Anime Body Proportions"
 sidebar_label: "Padding Theory"
 slug: /start/padding-theory
-canonical_url: https://kig.wiki/start/padding-theory
+canonical_url: "https://kig.wiki/start/padding-theory"
 tags:
   - hadatai
 sidebar_position: 6

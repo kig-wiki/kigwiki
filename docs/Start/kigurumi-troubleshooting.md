@@ -3,7 +3,7 @@ id: troubleshooting
 title: "Kigurumi Troubleshooting: Mask & Hadatai Fixes"
 sidebar_label: "Troubleshooting"
 slug: /resource/troubleshooting
-canonical_url: https://kig.wiki/resource/troubleshooting
+canonical_url: "https://kig.wiki/resource/troubleshooting"
 tags:
   - introduction
   - resource

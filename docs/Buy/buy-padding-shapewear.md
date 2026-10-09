@@ -3,7 +3,7 @@ id: buy-padding-shapewear
 title: "Where to Buy Kigurumi Padding & Shapewear"
 sidebar_label: "Padding and Shapewear Sellers"
 slug: /buy/padding-and-shapewear
-canonical_url: https://kig.wiki/buy/padding-and-shapewear
+canonical_url: "https://kig.wiki/buy/padding-and-shapewear"
 tags:
   - buying
 sidebar_position: 3
@@ -13,7 +13,7 @@ toc_max_heading_level: 2
 
 # Where to Buy Kigurumi Body Padding and Shapewear
 
-Body padding and shapewear are not specific to Kigurumi. Useful products usually aren't marketed specifically for Kigurumi but instead may be marketed to a wide variety of use cases from typical women's shapewear, to theatrical performance, to more niche specifics like crossdressing or beyond.
+Kigurumi body padding and shapewear usually come from general shapewear, theatrical costume, foam-form, and silicone-form sellers rather than Kigurumi-specific brands.
 
 Read [Kigurumi body padding theory](../Start/padding-theory.md) before choosing a product.
 

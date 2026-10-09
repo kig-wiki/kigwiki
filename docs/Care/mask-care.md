@@ -3,7 +3,7 @@ id: mask-care
 title: "Kigurumi Mask Care: Cleaning, Padding & Storage"
 sidebar_label: "Mask Care"
 slug: /care/mask-care
-canonical_url: https://kig.wiki/care/mask-care
+canonical_url: "https://kig.wiki/care/mask-care"
 tags:
   - mask
   - care

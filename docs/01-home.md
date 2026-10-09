@@ -3,8 +3,8 @@ sidebar_position: 1
 title: "Kigurumi Mask Wiki"
 sidebar_label: "Home"
 slug: /
-canonical_url: https://kig.wiki/
-description: "Guides to Kigurumi Masks and Hadatai: getting started, finding kig makers, ordering safely, choosing padding, and caring for your kig setup."
+canonical_url: "https://kig.wiki/"
+description: "Guides to Kigurumi Masks and Hadatai: getting started, finding Kigurumi Mask makers, ordering safely, choosing padding, and caring for your kig setup.."
 toc_expanded_default: false
 ---
 

@@ -3,7 +3,7 @@ id: diy-mask-open-source-resources
 title: "Free Open-Source Kigurumi Mask 3D Models & Parts"
 sidebar_label: "DIY Resources"
 slug: /diy-mask/open-source-resources
-canonical_url: https://kig.wiki/diy-mask/open-source-resources
+canonical_url: "https://kig.wiki/diy-mask/open-source-resources"
 tags:
   - diy
   - mask
@@ -17,7 +17,7 @@ import SocialEmbed from "@site/src/components/SocialEmbed";
 
 These models, parts, and references can help with a DIY Kigurumi Mask. Be aware free access to files does not necessarily permit commercial use, redistribution, or selling printed copies.
 
-If this is your first time making a kigurumi mask, we highly recommend reading [what to expect from a DIY Kigurumi Mask](./reality-of-diy.md) before choosing a model or material. And if this is your first time making a 3D printed prop in general, it's best to start on a smaller scale with other props before jumping into a full kigurumi mask.
+Before choosing a model or material, read [what to expect from a DIY Kigurumi Mask](./reality-of-diy.md). If you are new to 3D-printed props, it's highly recommended to practice on a smaller project first before attempting a wearable mask.
 
 ## 3D Models
 

@@ -3,18 +3,19 @@ id: seller-red-flags
 title: "Kigurumi Mask Seller Red Flags: How to Avoid Scams"
 sidebar_label: "Seller Red Flags"
 slug: /buy/seller-red-flags
-canonical_url: https://kig.wiki/buy/seller-red-flags
+canonical_url: "https://kig.wiki/buy/seller-red-flags"
 tags:
   - buying
 sidebar_position: 6
 description: "How to check whether a Kigurumi Mask seller is legitimate: stolen photos, fake inventory, weak verification, unsafe payments, and used-mask scams."
 ---
 
-# Is a Kigurumi Seller Legit?
+# Kigurumi Mask Seller Red Flags: How to Avoid Scams
 
-Most Kigurumi Masks are commissioned goods, a seller advertising a large catalog of ready-made masks on western marketplaces is point blank one of the single most common red flags.
+Most Kigurumi Masks are commissioned rather than held as ready-made inventory. A seller advertising a large catalog of supposedly in-stock masks on a Western marketplace is therefore a major warning sign.
 
-That said, checking out a maker's socials and verifying if a storefront is actually theirs usually isn't too difficult a task. It's a bit more complicated for used masks, but we've got some tips for that too.
+Before paying, verify that the storefront belongs to the maker, reverse-image-search its photos, request current proof of possession, and use a payment method with buyer protection.  
+This page goes into further detail on how to do so and what to look out for.
 
 ## Common warning signs
 

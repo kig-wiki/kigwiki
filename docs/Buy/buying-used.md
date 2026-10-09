@@ -3,7 +3,7 @@ id: buying-used-overview
 title: "Buying a Used Kigurumi Mask: Fit, Condition & Safety"
 sidebar_label: "Buying Used"
 slug: /buy/used/used-overview
-canonical_url: https://kig.wiki/buy/used/used-overview
+canonical_url: "https://kig.wiki/buy/used/used-overview"
 tags:
   - buying
   - secondhand
@@ -13,7 +13,7 @@ description: "How to buy a used Kigurumi Mask: verify the seller, check fit and 
 
 # Buying a Used Kigurumi Mask
 
-A used Kigurumi Mask can cost less and arrive sooner than a new commission. The tradeoff is that its fit, condition, history, and seller need closer inspection before you pay. Don't just hit buy and expect perfection, things are unfortunately a bit more complicated.
+A used Kigurumi Mask can cost less and arrive sooner than a new commission, but verify its fit, current condition, history, and seller before paying.
 
 ## Where to find used masks
 

@@ -3,7 +3,7 @@ id: community-overview
 title: "Kigurumi Community: Etiquette, Consent & Connection"
 sidebar_label: "Community"
 slug: /community/community-overview
-canonical_url: https://kig.wiki/community/community-overview
+canonical_url: "https://kig.wiki/community/community-overview"
 description: "How to meet other Kigurumi Mask performers, communicate clearly, respect consent and privacy, and take part without social gatekeeping."
 ---
 

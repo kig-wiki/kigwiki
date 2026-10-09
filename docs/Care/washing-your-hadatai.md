@@ -3,7 +3,7 @@ id: cleaning-a-hadatai
 title: "How to Wash and Care for a Hadatai"
 sidebar_label: "Hadatai Care"
 slug: /care/cleaning-a-hadatai
-canonical_url: https://kig.wiki/care/cleaning-a-hadatai
+canonical_url: "https://kig.wiki/care/cleaning-a-hadatai"
 tags:
   - hadatai
   - care

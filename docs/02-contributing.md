@@ -3,7 +3,7 @@ sidebar_position: 2
 title: "How to Contribute to Kig.wiki"
 sidebar_label: "Contributing to Kig.wiki"
 slug: /contributing
-canonical_url: https://kig.wiki/contributing
+canonical_url: "https://kig.wiki/contributing"
 description: "Want to improve Kig.wiki? How to edit pages, submit changes, and what we look for in contributions to the kigurumi wiki."
 toc_expanded_default: false
 ---

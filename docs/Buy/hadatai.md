@@ -3,7 +3,7 @@ id: buying-hadatai
 title: "Where to Buy a Hadatai: Stores & Makers (2026)"
 sidebar_label: "Hadatai Stores"
 slug: /buy/hadatai
-canonical_url: https://kig.wiki/buy/hadatai
+canonical_url: "https://kig.wiki/buy/hadatai"
 tags:
   - buying
   - makers
@@ -18,6 +18,8 @@ import {hadataiData} from "@site/src/data/hadatai-data";
 # Where to Buy a Hadatai
 
 This page lists Hadatai makers with available pricing and contact details. For materials, openings, zippers, color, and measurement guidance, read [Hadatai basics](../Start/hadatai-basics.md).
+
+**Page reviewed: October 2026.** Directory updates use linked seller websites and social accounts to check identity, recent activity, ordering routes, and available prices. Product availability, final quotes, and shipping terms can change, so confirm them before paying.
 
 Most Hadatai default to the typical "kigurumi pinkish flesh tone". If a listing doesn't, check the "Standard Kig Color Option" section for which color is the "typical" kigurumi flesh tone.
 

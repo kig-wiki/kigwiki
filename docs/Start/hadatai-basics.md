@@ -1,16 +1,16 @@
 ---
 id: hadatai-overview
-title: "What Is a Hadatai? The other half of Kigurumi explained"
+title: "What Is a Hadatai? Kigurumi Skinsuit Guide"
 sidebar_label: "Hadatai Basics"
 slug: /start/hadatai-basics
-canonical_url: https://kig.wiki/start/hadatai-basics
+canonical_url: "https://kig.wiki/start/hadatai-basics"
 tags:
   - hadatai
 sidebar_position: 5
-description: "What a hadatai (ハダタイ) is, how it's worn with a kigurumi mask, how it differs from zentai, and what new buyers should know."
+description: "What a Hadatai (ハダタイ) is, how it's worn with a Kigurumi Mask, how it differs from zentai, and what new buyers should know."
 ---
 
-# What is a Hadatai?
+# What Is a Hadatai?
 
 Hadatai (ハダタイ) is a type of bodysuit worn by kigs, layered above any shapewear or padding used but underneath the mask and any clothes.
 The name comes from _hada_ (skin) + _tai_ (abbreviation of _taitsu_, tights). Literally "skin tights", figuratively "skin suit".

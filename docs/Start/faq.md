@@ -3,7 +3,7 @@ id: introduction-faq
 title: "Kigurumi FAQ: Masks, Hadatai, Buying & Care"
 sidebar_label: "FAQ"
 slug: /reference/faq
-canonical_url: https://kig.wiki/reference/faq
+canonical_url: "https://kig.wiki/reference/faq"
 tags:
   - introduction
 sidebar_position: 9
@@ -72,9 +72,11 @@ answer: "Conventions, public social accounts, and introductions through mutual f
 
 # Kigurumi Mask FAQ
 
+Find answers to common questions about Kigurumi Masks, Hadatai, costs, buying, care, DIY, performance, and joining the hobby. For a complete first-costume path, begin with [Getting Started](./get-started.md).
+
 <FAQStructuredData faqs={faqs} />
 
-### Related guides
+## Related guides
 
 - [Getting Started with Kigurumi](./get-started.md)
 - [How to order a Kigurumi Mask](../Buy/commissioning-guide.md)

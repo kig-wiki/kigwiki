@@ -3,7 +3,7 @@ id: mask-maker-styles
 title: "Kigurumi Mask Makers & Stores (2026)"
 sidebar_label: "Mask Makers List"
 slug: /buy/makers
-canonical_url: https://kig.wiki/buy/makers
+canonical_url: "https://kig.wiki/buy/makers"
 tags:
   - buying
   - makers
@@ -19,6 +19,8 @@ import {makersData} from "@site/src/data/makers-data";
 # Kigurumi Mask Makers & Stores
 
 This curated directory helps you discover Kigurumi Mask makers and compare their recent works. It is not a ranking, endorsement of every mask, or storefront.
+
+**Page reviewed: October 2026.** Directory updates use linked maker websites and social accounts to check identity, recent activity, ordering routes, and available prices. Commission status, final quotes, and shipping terms can change, so confirm them before paying.
 
 Before contacting a maker, read [how to order a Kigurumi Mask](./commissioning-guide.md). If the subject is new to you, begin with [Kigurumi Mask basics](../Start/mask-basics.md). A complete costume commonly also uses a [Hadatai](./hadatai.md).
 

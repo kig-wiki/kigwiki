@@ -3,7 +3,7 @@ id: traveling-with-kig-overview
 title: "Traveling With a Kigurumi Mask: Packing Tips"
 sidebar_label: "Traveling With Kig"
 slug: /traveling-with-kig
-canonical_url: https://kig.wiki/traveling-with-kig
+canonical_url: "https://kig.wiki/traveling-with-kig"
 description: "How to travel with a Kigurumi Mask: protective packing, carry-on versus checked luggage, keeping your mask safe and sound."
 toc_max_heading_level: 2
 ---
