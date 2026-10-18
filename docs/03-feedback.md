@@ -1,6 +1,6 @@
 ---
 sidebar_position: 99
-title: "Submit Feedback or Ask a Question"
+title: "Ask Kigurumi Question or Send Feedback"
 sidebar_label: "Submit Feedback"
 slug: /feedback
 canonical_url: "https://kig.wiki/feedback"

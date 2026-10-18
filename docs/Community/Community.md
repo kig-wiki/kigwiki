@@ -1,6 +1,6 @@
 ---
 id: community-overview
-title: "Kigurumi Community: Etiquette, Consent & Connection"
+title: "Kigurumi Community: Etiquette & Consent Guide"
 sidebar_label: "Community"
 slug: /community/community-overview
 canonical_url: "https://kig.wiki/community/community-overview"
@@ -9,9 +9,9 @@ description: "How to meet other Kigurumi Mask performers, communicate clearly, r
 
 # Kigurumi Community
 
-There is no single “Kigurumi community.” The hobby includes individual performers, friend groups, online spaces, convention meetups, and private photoshoots. People of many genders take part for cosplay, performance, craft, identity, creativity, or other personal reasons.
+Kigurumi performers gather in friend groups, online spaces, conventions, and private photoshoots. There is no single **Kigurumi community**, but many of various sizes, locations and demographics.
 
-Buying a Kigurumi Mask does not guarantee access to a group, but shared interests can create opportunities to meet people. Approach those connections as relationships, not as benefits included with a purchase.
+Buying a Kigurumi Mask does not guarantee access to a group, but shared interests can create opportunities to meet people. Approach those connections as friendships possible to form, not as benefits included with a purchase.
 
 ## Consent and boundaries
 

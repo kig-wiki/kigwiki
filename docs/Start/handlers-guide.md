@@ -12,7 +12,11 @@ description: "What a kigurumi handler does and how to be a good one: first-time 
 
 # Kigurumi Handler Guide
 
-A handler is a trusted person who helps a Kigurumi Mask performer navigate and communicate while in character. A handler is useful in crowds or unfamiliar places, but is not required for every performer or setting. It's akin to how you'd usually see a mascot with someone helping them navigate and communicate while in character.
+A **handler** helps a **Kigurumi Mask** performer move and communicate while the character is on. The term correlates to how a mascot might have a helper or "handler" to help them move and communicate while out and about, similar applies to kigurumi performers.
+
+Vision is narrower inside a mask. Kigs also usually remain quiet while in character, so the mascot illusion holds "it's magic" for the audience. A handler helps in crowds and unfamiliar places. Plenty of outings work without one, they aren't strictly required, but are usually helpful.
+
+Handling is help between friends, not a job.
 
 ## What a handler does
 
@@ -52,6 +56,6 @@ This is more of a rarity than the norm, and is mostly just mentioned as food for
 
 ## Related guides
 
-- [Glossary of Kigurumi Terms](./glossary.md)
+- [Kigurumi Glossary](./glossary.md)
 - [Kigurumi community etiquette](../Community/Community.md)
 - [Traveling with a Kigurumi Mask](../Care/traveling.md)

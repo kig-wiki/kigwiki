@@ -21,6 +21,8 @@ Most new masks these days are custom designed in 3D, based off reference photos,
 
 A mask is one part of the costume. Read [Hadatai basics](./hadatai-basics.md) and [body padding theory](./padding-theory.md) for the other common layers, or [What is Kigurumi?](./what-is-kigurumi.md) for an overview.
 
+Here's how the pieces fit together: where to get a mask, materials, types, features, and DIY.
+
 ## Where to get a Kigurumi Mask
 
 Most masks are commissioned directly from a maker, rather than premade and available from a storefront.  

@@ -1,6 +1,6 @@
 ---
 id: introduction-what-is-kigurumi
-title: "What Is Kigurumi? Kigurumi Masks Explained"
+title: "What Is Kigurumi? Kig masks & Hadatai Explained"
 sidebar_label: "What is Kigurumi?"
 slug: /start/what-is-kigurumi
 canonical_url: "https://kig.wiki/start/what-is-kigurumi"
@@ -13,16 +13,19 @@ toc_max_heading_level: 2
 
 # What is Kigurumi?
 
-Kigurumi is a form of character cosplay centered around the titular Kigurumi Mask, an anime-styled mask.  
-The mask along with a Hadatai, costume, and optional body shaping garments complete the character, bringing a 2D character to life in a mascot-like manner differing from traditional cosplay.
+**Kigurumi** (着ぐるみ) is a mascot-like form of cosplay. It is built around a [**Kigurumi Mask**](./mask-basics.md), a [**Hadatai**](./hadatai-basics.md), and often padding or shapewear to achieve the desired proportions.
+
+The Japanese word for Kigurumi also covers other full-body character costumes, although the mask-based form is the most common when it comes to Kigurumi as a hobby. People in this hobby sometimes shorten it to _kig_ or _kigu_, with the latter being more common in Europe.
+
+An outfit finishes the character. [Padding or shapewear](./padding-theory.md) is optional but very common. It sits under the Hadatai when the proportions need it.
+
+The rest of this page covers the term, the costume pieces, talking and unmasking, and how to interact with a performer.
 
 ## What the term means
 
-The Japanese word _kigurumi_ (着ぐるみ) broadly refers to full-body character costumes, this term technically applies to a number of full-body costumes.
+As mentioned earlier, Kigurumi broadly means a full-body character costume. It can refer to the kigurumi mask itself, or the kigurumi performer wearing it.
 
-_Bishoujo kigurumi_ (美少女着ぐるみ) gets a bit more specific towards kigurumi masks, though not all kigurumi masks depict bishoujo characters. Bishoujo broadly describes a stylized feminine character aesthetic.
-
-These days, most kigurumi performers and mask makers simply refer to both the hobby and someone who wears a kigurumi mask as kigurumi, sometimes abbreviated to kig or kigu.
+_Bishoujo kigurumi_ (美少女着ぐるみ) narrows the word toward Kigurumi Masks, though not all masks depict bishoujo characters. Bishoujo broadly describes a stylized feminine character aesthetic.
 
 ### A quick Kigurumi primer
 

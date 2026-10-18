@@ -1,6 +1,6 @@
 ---
 id: glossary
-title: "Kigurumi Glossary: Kigurumi Mask, Hadatai & More"
+title: "Kigurumi Glossary: Kigurumi, Hadatai, 'Animegao', and more"
 sidebar_label: "Glossary"
 slug: /resource/glossary
 canonical_url: "https://kig.wiki/resource/glossary"
@@ -11,11 +11,11 @@ sidebar_position: 8
 description: "Definitions of Kigurumi Mask terms including kig, Hadatai, Animegao, eyeports, faceplates, handlers, padding, and zentai."
 ---
 
-# Glossary of Kigurumi Terms
+# Kigurumi Glossary
 
-:::tip
-Use your browser's search function (Ctrl+F / Cmd+F) to quickly find specific kigurumi terms.
-:::
+This **Kigurumi glossary** defines the words used across these guides.
+
+Use browser search (Ctrl+F or Cmd+F) to jump to a term. Wording that changes by region is collected at the end. Browse by letter, or search the page.
 
 ## B
 

@@ -15,6 +15,12 @@ import SocialEmbed from "@site/src/components/SocialEmbed";
 
 # Kigurumi Mask Care
 
+**Kigurumi Mask care** protects the paint, hair, shell, and interior between wears.
+
+Begin with the **least aggressive** clean. Follow the maker's care notes when you have them. Always **dry the interior** fully before storage. Moisture left in the padding can smell, and can also lead to mold and mildew growth.
+
+Here's what to know before you clean: the exterior, the interior, padding, storage, small chips, and hair.
+
 ## Cleaning a Kigurumi Mask
 
 #### Clean the exterior

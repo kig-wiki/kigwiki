@@ -1,6 +1,6 @@
 ---
 id: reality-of-diy
-title: "DIY Kigurumi Mask: What to Expect Before You Start"
+title: "DIY Kigurumi Mask: Cost, Skills & What to Expect"
 sidebar_label: "DIY Cautionary Info"
 slug: /diy-mask/reality-of-diy
 canonical_url: "https://kig.wiki/diy-mask/reality-of-diy"
@@ -13,11 +13,13 @@ description: "The realistic cost, skills, tools, safety controls, and iteration 
 
 # Before You Start a DIY Kigurumi Mask
 
-A DIY Kigurumi Mask is an advanced prop project, not usually the simplest or cheapest first route into the hobby. It combines 3d modeling, 3d printing, surface finishing, painting, eye construction, wig making and styling, and more.
+A **DIY Kigurumi Mask** is an advanced prop build. For a first kigurumi, it is rarely the simplest route, and it is rarely the cheapest.
 
-It's worth understanding the full job, practising unfamiliar skills, and budgeting for iteration before committing to actually printing a mask and starting the build.
+The job can include **3D modeling**, printing, surface finishing, painting, eyes, and a wig. Learn the unfamiliar skills first. Budget money and time for several iterations before you print a wearable shell.
 
-Honestly if you haven't seen a kigurumi mask in person before, there probably are a number of small details that you may not have considered regarding vision, facial detail design, and overall proper fit.
+Vision, facial details, and fit are easy to misjudge especially if you've never actually seen a finished kigurumi mask up close before.
+
+Here's what to know before you build: skills, cost and time, printing, fit and hair, safety, and how to choose a route.
 
 ## Skills a build can require
 

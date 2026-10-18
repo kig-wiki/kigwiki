@@ -12,10 +12,14 @@ description: "How body padding creates anime proportions in kigurumi: foam, sili
 
 # Kigurumi Padding Theory
 
-Body padding and shapewear adjust a kig's silhouette towards the 'anime proportions', which are generally more exaggerated than real life, as well as matching the proportions of the mask which is different from one's normal head size.
+**Body padding** and shapewear move a performer's silhouette toward **anime proportions**.
 
-Padding sits under the [Hadatai](./hadatai-basics.md) and are separate from the [interior padding that fits a Kigurumi Mask](../Care/mask-care.md#padding-a-kigurumi-mask).  
+Those proportions are usually more exaggerated than regular human bodies. They also have to match the mask, which is a different scale from an uncovered head.
+
+Padding sits under the [Hadatai](./hadatai-basics.md). Interior mask padding is a separate job, covered in [mask care](../Care/mask-care.md#padding-a-kigurumi-mask).  
 The use of such body contouring garments isn't specific to any one body shape or gender, even women who kig tend to work their proportions some to achieve that anime-style physique.
+
+We'll break down each approach below: foam, silicone, inflatable latex, shapewear, and where proportion hits a limit.
 
 ## Padding Types
 

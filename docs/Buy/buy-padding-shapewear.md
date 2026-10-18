@@ -13,9 +13,11 @@ toc_max_heading_level: 2
 
 # Where to Buy Kigurumi Body Padding and Shapewear
 
-Kigurumi body padding and shapewear usually come from general shapewear, theatrical costume, foam-form, and silicone-form sellers rather than Kigurumi-specific brands.
+Kigurumi body padding and shapewear usually come from general shapewear, theatrical costume, and silicone-form sellers rather than Kigurumi-specific brands.
 
-Read [Kigurumi body padding theory](../Start/padding-theory.md) before choosing a product.
+Read [padding theory](../Start/padding-theory.md) before you choose a product.
+
+Padding sellers are listed first. Shapewear sellers follow.
 
 :::warning
 

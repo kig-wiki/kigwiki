@@ -1,25 +1,24 @@
 ---
 id: introduction-beginner-path
-title: "Getting Started with Kigurumi Masks"
+title: "Kigurumi Mask Beginner's Guide: Cost & Timing"
 sidebar_label: "Getting Started"
 slug: /start/get-started-with-kigurumi
 canonical_url: "https://kig.wiki/start/get-started-with-kigurumi"
 tags:
   - introduction
 sidebar_position: 1
-description: "New to kigurumi? Start here for the basics: what a kig is made of, realistic costs and wait times, and what to know before your first order."
+description: "A new Kigurumi Mask commonly costs several hundred dollars and may take months. A mask, Hadatai, and basic padding often start around $1,000 before the outfit."
 ---
 
-# Getting Started with Kigurumi Masks
+# Kigurumi Mask Beginner's Guide: Cost & Timing
 
-The simplest route into Kigurumi Mask cosplay is:
+A new **Kigurumi Mask** commonly costs several hundred US dollars. It may also take months to arrive.
 
-1. Choose a character and the look you want. Find or commission a good reference imagery.
-2. Set a budget for the complete costume.
-3. Commission or buy a Kigurumi Mask from a reputable maker.
-4. Plan your padding, Hadatai, and outfit, you can do this before the mask arrives.
-5. Fit and practice in the costume at home.
-6. Make your first kigging short, controlled, and easy to leave rather than jumping in head first at a large event.
+A useful lower-end figure for a decent mask, hadatai and some padding can be about $1,000 with shipping and taxes, before any outfits or props.  
+It can get a lot more expensive depending on the maker and the complexity of the character.  
+However, it rarely gets much cheaper than that without starting to compromise on quality, comfort, vision or all of the above.
+
+The route below has six steps. Pick a character. Set the full budget. Order with fewer surprises. Build the remaining pieces in order. Fit and practice at home. Then plan the first event.
 
 Start with a Kigurumi Mask, Hadatai, padding, and an outfit. Props can help immensely if relevant, but can wait until the core costume is fitted.
 
@@ -39,7 +38,7 @@ Read the [reality of DIY](../DIY-mask/reality-of-diy.md) before choosing it for 
 
 ## 2. Set the complete budget
 
-A new Kigurumi Mask commonly costs several hundred US dollars and may take months. A useful lower-end cost figure for a commissioned mask, Hadatai, and basic padding is about **$1,000 before the outfit**. This is an example, not a current quote, some makers can be significantly more expensive, but it's hard to go much cheaper without compromising on quality severely.
+Some makers cost significantly more than that $1,000 example, and it is hard to go much cheaper without compromising on quality.
 
 Budget for:
 

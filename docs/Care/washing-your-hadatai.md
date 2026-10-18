@@ -1,6 +1,6 @@
 ---
 id: cleaning-a-hadatai
-title: "How to Wash and Care for a Hadatai"
+title: "How to Wash a Hadatai: Stains, Drying & Care"
 sidebar_label: "Hadatai Care"
 slug: /care/cleaning-a-hadatai
 canonical_url: "https://kig.wiki/care/cleaning-a-hadatai"
@@ -14,7 +14,11 @@ toc_max_heading_level: 2
 
 # How to Wash a Hadatai
 
-Ideally wash your hadatai after use, the sooner the better. Sweat, skin oils, makeup, and dirt become harder to remove when they remain in the fabric.
+Wash a **Hadatai** soon after you wear it. **Sweat**, skin oil, makeup, and dirt bond to the fabric when they sit.
+
+Use a gentle method. Skip chlorine bleach and fabric softener. Both can damage the suit.
+
+The below checklist is the tldr, short version. The sections after it cover stain types, removers, washing, drying, and stains that remain in more detail.
 
 ## Quick care checklist
 

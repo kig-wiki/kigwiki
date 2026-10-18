@@ -15,7 +15,11 @@ toc_expanded_default: false
 
 # Kigurumi Troubleshooting
 
-These are some common issues that people run into, and how to fix them.
+These notes fix common **Kigurumi Mask** and **Hadatai** problems after the costume is on.
+
+A shell can sit too low, tilt, or fog the eyes. Foam edges can show through the suit. Glasses may crowd the interior. A mask can look small next to the body.
+
+Start with the symptom you can see. Read the matching section below for a practical next step.
 
 ## Kigurumi Mask sits too low, tilts, rotates over time when worn, or has bad vision
 

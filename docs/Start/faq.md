@@ -18,7 +18,7 @@ import FAQStructuredData from "@site/src/theme/MDXComponents/FAQStructuredData";
 export const faqs = [
 {
 question: "How do I get started with Kigurumi?",
-answer: "Learn how the Kigurumi Mask, Hadatai, costume, and optional padding work together before buying. Choose a character and budget, compare several makers, review customer photos, and confirm measurements, price, timing, and seller policies. The Getting Started guide links each step."
+answer: "Learn how the Kigurumi Mask, Hadatai, costume, and optional padding work together before buying. Choose a character and budget, compare several makers, review customer photos, and confirm measurements, price, timing, and seller policies. The [beginner's guide](/start/get-started-with-kigurumi/) links each step."
 },
 {
 question: "What do I need for a Kigurumi costume?",
@@ -26,7 +26,7 @@ answer: "The characteristic pieces are an anime-styled Kigurumi Mask and a Hadat
 },
 {
 question: "How much does Kigurumi cost?",
-answer: "Realistically don't expect to pay less than $1000 for a new kigurumi mask and hadatai. Used kigurumi masks can be found cheaper but entry to the hobby is still rather expensive compared to cosplay."
+answer: "Realistically don't expect to pay less than $1000 for a new kigurumi mask and hadatai. Used kigurumi masks can be found cheaper, but entry to the hobby is still rather expensive compared to cosplay. The [beginner's guide](/start/get-started-with-kigurumi/) explains what that figure includes."
 },
 {
 question: "How long does a Kigurumi Mask take to make?",
@@ -34,11 +34,11 @@ answer: "Many commissions take a few months. Ask separately when work is expecte
 },
 {
 question: "Where can I buy a Kigurumi Mask?",
-answer: "Most quality Kigurumi Masks are commissioned directly from a maker rather than selected from a large stock catalog. We have a list of makers [here](../Buy/makers.md) that you can check out."
+answer: "Most quality Kigurumi Masks are commissioned directly from a maker rather than selected from a large stock catalog. Start with the [Kigurumi Mask maker directory](/buy/makers/)."
 },
 {
 question: "Can I make my own Kigurumi Mask?",
-answer: "Yes, but it is an advanced multidisciplinary prop project. It can require 3D modeling, large-format printing, sanding, painting, eye construction, wig building, fitting, and often multiple iterations on a build. First-time builders should understand those costs and hazards before starting."
+answer: "Yes, but it is an advanced multidisciplinary prop project. It can require 3D modeling, large-format printing, sanding, painting, eye construction, wig building, fitting, and often multiple iterations on a build. Read [what to expect from a DIY Kigurumi Mask](/diy-mask/reality-of-diy/) before starting."
 },
 {
 question: "Can Kigurumi talk?",
@@ -62,7 +62,7 @@ answer: "Kigurumi Mask cosplay is not inherently sexual. Many people participate
 },
 {
 question: "How do I clean and store a Kigurumi Mask?",
-answer: "Use the least aggressive cleaning method and check the maker's instructions, a more detailed guide can be found [in our care guide](../Care/mask-care.md)."
+answer: "Use the least aggressive cleaning method and check the maker's instructions. The [Kigurumi Mask care guide](/care/mask-care/) goes into more detail."
 },
 {
 question: "Where can I meet other Kigurumi performers?",
@@ -72,7 +72,11 @@ answer: "Conventions, public social accounts, and introductions through mutual f
 
 # Kigurumi Mask FAQ
 
-Find answers to common questions about Kigurumi Masks, Hadatai, costs, buying, care, DIY, performance, and joining the hobby. For a complete first-costume path, begin with [Getting Started](./get-started.md).
+The **Kigurumi Mask FAQ** answers questions people ask before they buy or wear a costume.
+
+Topics include **cost**, wait time, where to buy, DIY, talking while masked, cleaning, and meeting other performers. A short answer here can steer you away from a rushed order.
+
+For the full first-costume path, start with [Getting Started](./get-started.md). The answers below are the short version, with links when a topic needs a longer guide.
 
 <FAQStructuredData faqs={faqs} />
 

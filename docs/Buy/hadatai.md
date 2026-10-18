@@ -17,11 +17,11 @@ import {hadataiData} from "@site/src/data/hadatai-data";
 
 # Where to Buy a Hadatai
 
-This page lists Hadatai makers with available pricing and contact details. For materials, openings, zippers, color, and measurement guidance, read [Hadatai basics](../Start/hadatai-basics.md).
+This page lists **Hadatai makers** and stores, with public prices and contact details.
 
-**Page reviewed: October 2026.** Directory updates use linked seller websites and social accounts to check identity, recent activity, ordering routes, and available prices. Product availability, final quotes, and shipping terms can change, so confirm them before paying.
+Most suits use a pinkish **kigurumi flesh tone** that matches most makers' standard kig mask flesh tone. When a listing uses another color name, check that card's standard color note.
 
-Most Hadatai default to the typical "kigurumi pinkish flesh tone". If a listing doesn't, check the "Standard Kig Color Option" section for which color is the "typical" kigurumi flesh tone.
+For fabric, openings, zippers, and measurements, read [Hadatai basics](../Start/hadatai-basics.md). The store list comes first. Ordering tips follow the cards.
 
 Note: Location labels are provided as geographic references to help readers understand potential shipping and customs considerations.
 

@@ -13,10 +13,11 @@ description: "How to commission a Kigurumi Mask: compare makers, prepare referen
 
 # How to Order a Kigurumi Mask
 
-Most Kigurumi Masks are commissioned rather than bought from premade stock.  
-A good order starts with comparing real examples, choosing a maker whose style fits the character, and agreeing on size, features, as well as verifying the price, and timing before paying.
+Ordering a **Kigurumi Mask** generally means commissioning one. Ready-made stock available for immediate purchase is uncommon among most makers, as the masks tend to be made to order.
 
-Use the [Kigurumi Mask maker directory](./makers.md) to find options, then check each maker's current ordering instructions.
+Generally it's a good idea to compare various makers' recent masks, then pick a maker whose style fits the character.
+
+Check out the [maker directory](./makers.md), then follow that maker's current commissioning instructions. The six steps below are the order to follow in more detail when looking to commission a mask.
 
 ## 1. Research the maker
 

@@ -12,13 +12,14 @@ description: "An overview of buying Kigurumi Masks, Hadatai, and supplies from T
 
 # How to Buy Kigurumi Masks and Hadatai on Taobao
 
-Taobao is a Chinese marketplace used by many types of sellers, including some Kigurumi Mask and Hadatai makers, costume sellers, and materials suppliers.  
-International buyers may need a proxy agent that purchases domestically, receives the item at a warehouse, and forwards it overseas.
+**Taobao** is a Chinese marketplace. Some **Kigurumi Mask** makers, Hadatai makers, costume sellers, and materials suppliers sell there.
 
-Some regions are able to register directly in the Taobao app and use Taobao's own shipping and warehouse service for international shipping.  
-Not all storefronts support this, and generally it would not be recommended for more fragile or complex items like a Kigurumi Mask itself. A hadatai however can be a good candidate for this.
+Many buyers outside China use a proxy agent. The agent purchases the item, receives it in China, and ships it onward.
 
-This page is a starting point not currently a complete walkthrough.
+Some regions can check out in the Taobao app and use Taobao's own warehouse, although not every storefront supports this.  
+Hadatai or other outfits are a safe bet for this, more fragile items like Kigurumi masks are probably better off using an actual proxy shipper who can make sure it's well packaged and insured for international shipping.
+
+Agree on the commission with the maker before you pay an agent. These steps explain forwarding. They do not replace that maker's own order instructions. Read on for the step-by-step workflow.
 
 ## How a Taobao agent works
 

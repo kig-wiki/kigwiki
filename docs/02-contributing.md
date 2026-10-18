@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: "How to Contribute to Kig.wiki"
+title: "How to Contribute to the Kigurumi Mask Wiki"
 sidebar_label: "Contributing to Kig.wiki"
 slug: /contributing
 canonical_url: "https://kig.wiki/contributing"
@@ -10,7 +10,11 @@ toc_expanded_default: false
 
 # Contributing to Kig.wiki
 
-tldr: Be nice, be respectful, be helpful. Don't try to upload content you don't have permission to share with us, or content that goes against GitHub's terms of service.
+You can improve **Kig.wiki** by editing a page and sending the change for review.
+
+Be respectful, specific, and helpful. Upload only material you have **permission** to share. Stay inside GitHub's terms of service.
+
+The steps below cover the GitHub website, a local git workflow, document structure, social embeds, and where to ask for help.
 
 ## How to Contribute
 

@@ -12,10 +12,11 @@ description: "What a Hadatai (ハダタイ) is, how it's worn with a Kigurumi Ma
 
 # What Is a Hadatai?
 
-Hadatai (ハダタイ) is a type of bodysuit worn by kigs, layered above any shapewear or padding used but underneath the mask and any clothes.
-The name comes from _hada_ (skin) + _tai_ (abbreviation of _taitsu_, tights). Literally "skin tights", figuratively "skin suit".
+A **Hadatai** (ハダタイ) is the bodysuit worn with a **Kigurumi Mask**.
 
-A hadatai is the other half of the look next to the [kigurumi mask](./mask-basics.md). Padding and shapewear sit underneath, see [Padding Theory](./padding-theory.md).
+The name joins _hada_ (skin) and _tai_, short for taitsu (tights). In practice it means skin suit.
+
+The suit sits over any padding or shapewear. The mask and clothes sit over the suit. It is the other half of the look next to the [mask](./mask-basics.md). The layer underneath is covered in [padding theory](./padding-theory.md).
 
 ## Hadatai vs zentai
 

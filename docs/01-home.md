@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
-title: "Kigurumi Mask Wiki"
+title: "Kigurumi Mask Wiki: Guides, Makers & Care"
 sidebar_label: "Home"
 slug: /
 canonical_url: "https://kig.wiki/"
-description: "Guides to Kigurumi Masks and Hadatai: getting started, finding Kigurumi Mask makers, ordering safely, choosing padding, and caring for your kig setup.."
+description: "Guides to Kigurumi Masks and Hadatai: getting started, finding Kigurumi Mask makers, ordering safely, choosing padding, and caring for your kig setup."
 toc_expanded_default: false
 ---
 
@@ -12,11 +12,13 @@ import HomeAudienceNote from "@site/src/components/HomeAudienceNote";
 
 # Kigurumi Mask Wiki
 
-Welcome to **Kig.wiki**, an open resource for Kigurumi Masks (着ぐるみ), Hadatai, buying, care, and performance.
+**Kig.wiki** is an open guide to **Kigurumi Masks** (着ぐるみ), Hadatai, buying, care, and performance.
 
 <HomeAudienceNote />
 
-If you are new, begin with [Getting Started with Kigurumi](./Start/get-started.md). It covers the essential costume pieces, realistic cost and timing, and the main choices before you order anything.
+New to Kig? We recommend [Getting Started with Kigurumi](./Start/get-started.md). That page covers the costume pieces, realistic cost and timing, and the choices to make before an order.
+
+Later pages cover makers, care, DIY, and community questions. Use the lists below to pick a starting point.
 
 ## Just want maker lists?
 
