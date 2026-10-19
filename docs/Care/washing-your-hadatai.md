@@ -22,24 +22,35 @@ The below checklist is the tldr, short version. The sections after it cover stai
 
 ## Quick care checklist
 
-- Treat stains promptly and follow the stain remover's directions.
+- Wash your hadatai sooner rather than later if possible.
+- Use a good, modern detergent meant for synthetic fabrics, ideally free of optical brighteners.
+  - Tide Free and Gentle (Liquid Form) is probably the best option
+- Deal with stains promptly, before washing pre-soak stained areas with a bit of detergent and let it sit for a bit.
+  - Massaging the stain or using a gentle brush can usually help loosen the stain.
+  - If the stain doesn't come out, consider using a stain remover, letting it sit as per the instructions, and washing it out prior to the main wash.
 - Hand wash, or use a cold gentle machine cycle.
-- If machine washing, place each Hadatai in its own mesh laundry bag.
+  - If machine washing, place each hadatai in its own mesh laundry bag.
 - Wash separately from rough, dark, or heavily soiled garments.
-- Use a small amount of detergent, ideally one that is free of optical brighteners and meant for synthetic fabrics.
-- Never use chlorine bleach or fabric softener.
+- Never use chlorine bleach or fabric softener on a hadatai.
 - Rinse thoroughly.
-- Air dry away from high heat and direct sunlight.
+- Air dry away from strong heat and direct sunlight.
 
-Want suggestions on what to use? Jump to [stain remover guidance](#stain-remover-recommendations) or [detergent guidance](#detergents).
+Want suggestions on what to use? Jump to [detergent guidance](#detergents) or [stain remover guidance](#stain-remover-recommendations).
 
 ## Common Hadatai stains and how to target them
 
-Most modern stain fighters use various enzymes to break down specific types of stains, with most stain products having a mix of various enzymes to target multiple stain types. Knowing what you're trying to target is key to solving the right type of problem.
+Stain removers are helpful, but often a good laundry detergent already has a rather optimized blend of compounds to help break down stains.  
+Before jumping straight into a stain remover, try soaking the stained area with a bit of detergent and let it sit for 30 minutes or so.  
+A bit of gentle agitation with a toothbrush or similar can also help loosen the stain.  
+Aggressive rubbing can roughen the surface, we just want to work it in not scrub the stain out.
 
-For the purposes of most hadatai stains, we generally want a stain remover that contains Protease and Lipase enzymes, with other enzymes being a bonus to help with other types of stains.
+If that didn't work, consider the following:
 
-Apply the product as directed. Gently work it into the fabric with gloved fingers or a soft brush like a dedicated spare toothbrush. Let sit as per instructions, and wash thoroughly. Aggressive rubbing can roughen the surface, we just want to work it in not scrub the stain out.
+Most modern stain fighters use various enzymes and surfactants to break down specific types of stains. Enzymes usually target specific types of stains, so often you find a mix of multiple enzymes in a single product. Knowing what you're trying to target is key to solving the right type of problem.
+
+For the purposes of most hadatai stains, we generally want a stain remover that contains Protease and Lipase enzymes, with other enzymes being a bonus to help with other types of stains. They aren't magic, but they can help with some stains in times of need.
+
+Apply the product as directed. Gently work it into the fabric with gloved fingers or a soft brush like a dedicated spare toothbrush. Let sit as per instructions, rinse out of the fabric, and proceed with the main wash.
 
 ### Sweat, skin oil, and dirt
 
@@ -165,11 +176,13 @@ Most stain removers you can usually google "product + ingredients" to find out w
 
 Hadatai owing to being synthetic blends are not as sensitive to detergents as some fabrics, but that doesn't mean you should throw it in with other clothes. <br />
 
-The ideal detergent is one that works well on synthetics and doesn't contain optical brighteners.
+The ideal detergent is one that works well on synthetics and doesn't contain optical brighteners.  
+Tide Free and Gentle in Liquid Form, also called "Hygienic Clean" in some regions is probably the best option for most people. It's highly available, formulated very well for synthetics, doesn't contain optical brighteners, allegedly hypoallergenic, and isn't overpowering with fragrance.
 
-Some suggestions in no particular order are:
+At risk of sounding like a tide shill, their formulations do tend to lead in comparisons by the likes of The Wirecutter's, Consumer Reports', and Project Farm's among others.
 
-- Tide Free and Gentle in Liquid Form, also called "Hygienic Clean" in some regions
+Some alternative suggestions from other brands in no particular order are:
+
 - ECOS Hypoallergenic Laundry Detergent with Enzymes
 - Puracy Laundry Detergent
 - The Unscented Company Plastic-Free Laundry Detergent Pacs
@@ -180,15 +193,15 @@ Some suggestions in no particular order are:
 - Aldi's Tandil Premium Free & Clear
 - Purex Free & Clear
 
-Woolite is another option albeit with a rather outdated formula lacking enzymes. It's intended for wool fabrics, not designed for synthetics like what Hadatai are made of. <br />
-It wont damage hadatai, it just wont be as effective.
+Woolite is sometimes a popular recommendation in kig circles, but is **not recommended**. As the name suggests, its formulated for wool fabrics, not designed for dealing with synthetic fabrics like what Hadatai are made of.
+Woolite wont damage hadatai, it just wont be nearly as effective at cleaning them. It is free of optical brighteners at the very least.
 
 ### Detergents to Skip
 
 Due to optical brighteners (OBAs), skip:
 
-- All tide powders
-- Gain powder detergents
+- Tide powder versions, owing to the optical brighteners they contain
+- Gain powder detergents, for similar reasons
 - Just about any "whitening" or "brightening" products
 
 ### Hand Washing
@@ -245,8 +258,6 @@ Also worth keeping in mind, if your hadatai does get damaged, having a backup av
 
 If theres stains that just wont come out, all feels hopeless, and you're ready to throw it away theres one last resort that might be worth a try.
 
-An [intensive treatment](https://www.reddit.com/r/laundry/comments/1mqh7zd/a_spa_day_a_trip_to_rehab_getting_your_laundry/) can be done using a combination of Lipase, Oxygen Bleach, Ammonia, and Detergent products over several hours to try to strip all that you can.
+An [intensive treatment](https://www.reddit.com/r/laundry/comments/1mqh7zd/a_spa_day_a_trip_to_rehab_getting_your_laundry/) can be done using a combination of Lipase, Oxygen Bleach, Ammonia, and Detergent products over several hours to try to strip all that you can. This is more of a last resort than a regular cleaning method, but it might be worth a try if you've exhausted all other options.
 
 ## Additional Resources
-
-Notable Reddit /r/Laundry user Kismai has compiled a list of many Lipase containing products and stain removers [here](https://docs.google.com/spreadsheets/u/0/d/1oHWzZ1Sth0Y0J2ynmXFl7M4mGZe-T_MJ_m_Y39pfBug/htmlview#gid=1327334713). Skip anything that has OBA (Optical Brighteners).
