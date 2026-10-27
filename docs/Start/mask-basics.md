@@ -56,7 +56,7 @@ FRP masks are typically based off of a few shared molds a maker has made, then c
 
 Regardless of shell type, the paint and finishes are rather similar.  
 Accidents that would chip the finish on one will still damage the finish on the other.  
-FRP may be slightly more durable in the worst-case freak accident. Printed masks are often more modular, so replacing a faceplate or back shell is usually cheaper than getting an FRP mask refinished.
+FRP may be slightly more durable in the worst-case freak accident. Printed masks however often have more modular design, so replacing a faceplate or back shell is usually significantly cheaper than getting an FRP mask refinished, which often can cost almost as much as a new mask when accounting for shipping costs.
 
 Early printed masks were often PLA on consumer printers, which is where some older kig's "printed masks are weak" sentiments can come from.  
 Tech and materials have moved on to more advanced materials and printers beyond the hobbyist level.
